@@ -184,7 +184,7 @@
     * [Kaseya BMS](documentation/integrations/psa/kaseya-bms/README.md)
       * [Kaseya BMS Integration Setup](documentation/integrations/psa/kaseya-bms/kaseya-bms-integration-setup.md)
       * [Actions & Endpoints](documentation/integrations/psa/kaseya-bms/actions-and-endpoints.md)
-    * [ServiceNow (Coming soon)](documentation/integrations/psa/servicenow-coming-soon/README.md)
+    * [ServiceNow](documentation/integrations/psa/servicenow-coming-soon/README.md)
       * [ServiceNow Integration Setup](documentation/integrations/psa/servicenow-coming-soon/servicenow-integration-setup.md)
       * [Actions & Endpoints](documentation/integrations/psa/servicenow-coming-soon/actions-and-endpoints.md)
   * [RMM](documentation/integrations/rmm/README.md)
