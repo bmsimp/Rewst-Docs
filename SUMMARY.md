@@ -642,6 +642,7 @@
   * [June 7th, 2024](updates/marketplace-updates/june-7th-2024.md)
   * [May 31st 2024](updates/marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
+  * [Nov 8, 2024: Live from ITNation 2024, it's the Open Mic!](updates/roc-open-mics/nov-8-2024-live-from-itnation-2024-its-the-open-mic.md)
   * [Nov 1, 2024: Free Remote Control by Automating RustDesk](updates/roc-open-mics/nov-1-2024-free-remote-control-by-automating-rustdesk.md)
   * [Oct 25, 2024: Oh? See What Just Hatched!](updates/roc-open-mics/oct-25-2024-oh-see-what-just-hatched.md)
   * [Oct 18, 2024: The Teams Bot That Does Literally Everything](updates/roc-open-mics/oct-18-2024-the-teams-bot-that-does-literally-everything.md)

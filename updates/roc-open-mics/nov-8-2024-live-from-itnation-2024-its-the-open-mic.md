@@ -1,12 +1,12 @@
-# ROC Open Mics
+# Nov 8, 2024: Live from ITNation 2024, it's the Open Mic!
 
-### **Join Live!**
+## Join Live!
 
 Join us live every Friday at 3 pm EST!
 
 &#x20;[Download the Calendar Invite here](https://engine.rewst.io/webhooks/custom/trigger/02eb02e2-1177-43d9-9e13-8547414979fc/c47fdd7f-4075-47a8-ba92-94e790e67c06?request\_type=open\_mic\_link&)!
 
-## Latest Open Mic Video Recording
+## Open Mic Video Recording
 
 {% embed url="https://youtu.be/ARppMxitpg4" %}
 
@@ -14,7 +14,7 @@ Join us live every Friday at 3 pm EST!
 
 ### Contents of the Recording:
 
-🎤 Aharon introduces the Open Mic and discusses Qucikbooks Online, Xero, Bamboo HR and ADP.&#x20;
+🎤 Aharon introduces the Open Mic and discusses Quickbooks Online, Xero, Bamboo HR and ADP.&#x20;
 
 🛠️ John demoed an automation for integrating Rewst with ConnectWise Home, providing detailed setup steps.&#x20;
 
