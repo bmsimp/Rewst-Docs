@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Least Privilege Access Guide for Datto's Autotask PSA Integration
 
 ## **Introduction**
@@ -10,7 +14,7 @@ To utilize Rewst with least privilege, you'll need to configure a new user class
 
 1. **Create a New Security Level**: Follow the steps outlined in [Defining an API User](https://ww1.autotask.net/help/DeveloperHelp/Content/APIs/General/Define\_API\_User.htm) to create a new security level with the necessary permissions.
 2. **Assign Security Level**: Apply the new security level to the API user responsible for Rewst integration.
-3. **Webhook Permissions**: If you plan to use webhooks, additional setup is required. Please refer to the [Webhook Configuration](webhook-configuration.md) page for detailed instructions.
+3. **Webhook Permissions**: If you plan to use webhooks, additional setup is required. Please refer to the [Webhook Configuration](broken-reference) page for detailed instructions.
 
 {% hint style="warning" %}
 Each API user has a tracking identifier that must be used when setting up the Autotask PSA integration. Ensure you have this identifier available when configuring Rewst.

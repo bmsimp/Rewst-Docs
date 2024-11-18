@@ -171,7 +171,6 @@
       * [Actions & Endpoints](documentation/integrations/psa/connectwise-manage/actions-and-endpoints.md)
     * [Datto | Autotask PSA](documentation/integrations/psa/autotask-datto-psa/README.md)
       * [Autotask Integration Setup](documentation/integrations/psa/autotask-datto-psa/datto-psa-integration-setup.md)
-      * [Webhook Configuration](documentation/integrations/psa/autotask-datto-psa/webhook-configuration.md)
       * [Least Privilege Access Guide for Datto's Autotask PSA Integration](documentation/integrations/psa/autotask-datto-psa/least-privilege-access-guide-for-dattos-autotask-psa-integration.md)
       * [Actions & Endpoints](documentation/integrations/psa/autotask-datto-psa/actions-and-endpoints.md)
     * [FreshDesk](documentation/integrations/psa/freshdesk/README.md)
