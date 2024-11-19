@@ -24,9 +24,11 @@ You will need an active CW Developer account to access the above URL.
 
 ### Creating a Security Role
 
-1. **Go to** System -> Security Roles -> Click the + in the top Left.
-2. **Name** the Security Role "Rewst API" -> Click the save icon.
-3. **Set** your permission as per [this document](least-privilege-access-requirements-for-connectwise-manage-integration.md).
+1. **Go to** System -> Security Roles.
+2. **Click** the + in the top Left.
+3. **Name** the Security Role "Rewst API." &#x20;
+4. **Click** the save icon.
+5. **Set** your permission as per [this document](least-privilege-access-requirements-for-connectwise-manage-integration.md).
 
 ### API Account
 
