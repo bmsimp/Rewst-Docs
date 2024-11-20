@@ -16,9 +16,9 @@ We offer courses sequentially, but you can use the self-serve resources. Use the
 
 ## Live Training Enrollment
 
-If you're interested in taking the 200 series live, you can sign up and join the legendary Eddie Chow for 6 sessions that will be delivered over 2 weeks.&#x20;
+If you're interested in taking the Clean Automation series live, [you can sign up](https://calendly.com/cluck-u) and join the legendary Eddie Chow for 5 sessions that will be delivered over 2 weeks.&#x20;
 
-To maximize your learning experience, it's recommended to complete the six courses in order. On-demand recordings of the sessions are available for our global audience, or rewatching at your own pace.
+To maximize your learning experience, it's recommended to complete the Five courses in order. On-demand recordings of the sessions are available for our global audience, or rewatching at your own pace.
 
 {% hint style="info" %}
 [Enroll here to get the schedule with all the links you need!](https://calendly.com/cluck-u)
