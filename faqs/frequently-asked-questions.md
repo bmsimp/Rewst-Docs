@@ -49,7 +49,7 @@ With core components like [workflows](../documentation/workflows/ "mention"), [f
 
 <summary>You keep mentioning the "ROC", who or what is that?</summary>
 
-Our Robotic Operations Center, or ROC team, is here to support you in your journey to create, monitor, and manage your workflows. As a member of the Kewp, you'll have access to our dedicated team of specialists through [Discord](https://discord.gg/rewst), our ROC Open Mic Friday calls, as well as our [ROC AMA](https://calendly.com/cluck-u/roc-ama) sessions every Thursday available as you work through our [Cluck U Trainings](https://calendly.com/cluck-u).
+Our Robotic Operations Center, or ROC team, is here to support you in your journey to create, monitor, and manage your workflows. As a member of the Kewp, you'll have access to our dedicated team of specialists through [Discord](https://discord.gg/rewst), [Support Tickets](../support/roc-support/) and our ROC Open Mic Friday calls.
 
 </details>
 
