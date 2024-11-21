@@ -53,7 +53,13 @@ The data alias has the following Jinja:
 
 {% code overflow="wrap" %}
 ```django
-{{ [users for users in TASKS.m365_list_users.result.result.data.value if users.enabled == true] }}
+{{
+  [
+    user
+    for user in TASKS.m365_list_users.result.result.data.value
+    if user.enabled
+  ]
+}}
 ```
 {% endcode %}
 
