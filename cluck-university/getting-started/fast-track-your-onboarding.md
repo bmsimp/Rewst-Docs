@@ -3,6 +3,7 @@ description: >-
   Participate in our Fast Track Onboarding series to accelerate your mastery of
   the Rewst platform. These webinars, redesigned for efficiency, ensure a
   seamless transition for all new customers.
+hidden: true
 ---
 
 # Fast Track Onboarding
