@@ -10,7 +10,7 @@ description: >-
 
 :bulb: Turns out that we can't use good ol' Microsoft Graph to update the membership of all groups...because there are different types of groups, based on the values of certain "group properties." But that's not gonna stop us from achieving automation nirvana.
 
-### Video (2_:45 Minutes)_
+### Video (&#x32;_:45 Minutes)_
 
 {% embed url="https://youtu.be/HgBFM1SYoLo" %}
 

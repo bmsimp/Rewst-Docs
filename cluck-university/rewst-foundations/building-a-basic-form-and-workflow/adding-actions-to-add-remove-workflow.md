@@ -8,7 +8,7 @@ description: Create part of a workflow to test, starting with just a few actions
 
 :bulb: You'll notice that a workflow looks kind of like a flowchart -- that's why you began with a simple sketch. It's time to translate the process from paper to Rewst workflow!
 
-### Video (5_:46 Minutes)_
+### Video (&#x35;_:46 Minutes)_
 
 {% embed url="https://youtu.be/lvGk9KIxWec?si=7ttLX9UqAZ0e5a-E" %}
 

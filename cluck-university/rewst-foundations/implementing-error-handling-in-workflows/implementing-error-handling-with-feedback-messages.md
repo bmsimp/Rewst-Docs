@@ -10,7 +10,7 @@ description: >-
 
 Looking at every possible "ending point", we'll want to communicate to the person that submits the request form what happened. We'll do this via email, but first we need a handy way to get those feedback messages describing what happened.
 
-### Video (5_:18 Minutes)_
+### Video (&#x35;_:18 Minutes)_
 
 {% embed url="https://youtu.be/CaTi4rl-sm8" %}
 

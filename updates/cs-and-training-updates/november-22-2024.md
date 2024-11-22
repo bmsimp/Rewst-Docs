@@ -1,4 +1,4 @@
-# November 8, 2024
+# November 22, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -7,15 +7,15 @@ Explore what new changes the Training team has made in the last week.
 <summary><strong>General News and Reminders</strong></summary>
 
 * **Game Tip of the Week:**
-  * I'm just so pumped about Dragon Quest III HD-2D coming out next thursday! But the real is to go talk to Reed Kimble who can show you how to make games happen in Rewst. What a boss.&#x20;
+  * On December 1st, ModRetro's Chromatic, a modern take on the Gameboy Color, comes out with a slew of Indie games that can be played on the OG Gameboy as well. The lineup looks amazing and the console has been getting stellar reviews, so check it out! I'm starting with Dragonyhm and Chantley!
 * **SHOUT OUTS** **TO:**
-  * Aston, Jonathan, Jimmy, and Jacques for passing the Foundations Certification.
+  * Narvada, Alex, Aaron, Mitchell, Eugene, Andrew, Jonathan, and Colby for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
     * You also get access to a super secret Discord channel.
-  * Andrew, Eaven, Chad, Arbyn, Cody, Robert, and Jimmy for passing the Clean Automation Certification.
+  * Alexander, Aaron, Shannyn, RJ, Brian, and Charles for passing the Clean Automation Certification.
     * Take the new [clean-automation-certification.md](../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam!
 * **Rewst Foundations Bootcamp: Dec 2 - Dec 3:**
-  * Sign up: [https://calendly.com/cluck-u/](https://calendly.com/cluck-u/)
+  * For More Details, Visit:[https://docs.rewst.help/cluck-university/rewst-foundations#live-instructor-led-bootcamp](https://docs.rewst.help/cluck-university/rewst-foundations#live-instructor-led-bootcamp)
     * [https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1](https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1)
       * Lessons 1 - 3
     * [https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2](https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2)
@@ -31,9 +31,7 @@ Explore what new changes the Training team has made in the last week.
 
 **What's New at Cluck University?**
 
-* Courses have been updated on docs.rewst.help! New structure and sets of pages to create a better learning experience.
-  * Check it out at [rewst-foundations](../../cluck-university/rewst-foundations/ "mention")
-  * New naming convention adopted for our courses
+* New section added for Rewst Foundations Bootcamp: [#live-instructor-led-bootcamp](../../cluck-university/rewst-foundations/#live-instructor-led-bootcamp "mention")
 * Check out the Cluck University Landing Page @ [go.rew.st/cluck-university](https://go.rew.st/cluck-university) for all the latest courses self-serve and live.
 
 **The List of Reminders:**
@@ -43,18 +41,9 @@ Explore what new changes the Training team has made in the last week.
 
 **New & Updated Pages:**
 
-* New Doc Pages
-  * [xero](../../documentation/integrations/accounting/xero/ "mention") Integegration Page
-  * [quickbooks-online](../../documentation/integrations/accounting/quickbooks-online/ "mention") Integration Page
-  * [bamboohr](../../documentation/integrations/hris/bamboohr/ "mention") Integration Page
-  * [troubleshooting-halo-integration-setup.md](../../documentation/integrations/psa/halopsa/troubleshooting-halo-integration-setup.md "mention")
-
-<!---->
-
 * Updated Pages
-  * [security-policy.md](../../security/security-policy.md "mention") updated with latest IPs and Domains
-  * Added note to [connectwise-automate-integration-setup.md](../../documentation/integrations/rmm/connectwise-automate/connectwise-automate-integration-setup.md "mention") about customers not populating.
-  * Added note to [datto-psa-integration-setup.md](../../documentation/integrations/psa/autotask-datto-psa/datto-psa-integration-setup.md "mention") about long loading times.
-  * Added note to [least-privilege-access-requirements-for-connectwise-manage-integration.md](../../documentation/integrations/psa/connectwise-manage/least-privilege-access-requirements-for-connectwise-manage-integration.md "mention") about 403 Forbidden error.
+  * Updated and added instructions to [datto-psa-integration-setup.md](../../documentation/integrations/psa/autotask-datto-psa/datto-psa-integration-setup.md "mention")
+  * Reordered steps in [connectwise-integration-setup.md](../../documentation/integrations/psa/connectwise-manage/connectwise-integration-setup.md "mention")
+  * Updated [welcome-and-enrollment.md](../../cluck-university/welcome-and-enrollment.md "mention")
 
 </details>

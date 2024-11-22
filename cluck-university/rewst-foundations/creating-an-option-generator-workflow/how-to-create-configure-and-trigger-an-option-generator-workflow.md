@@ -11,7 +11,7 @@ description: >-
 
 :bulb: Planning a workflow before building speeds up the process by sorting out logistics upfront, so you can focus on execution later. The inputs and outputs are key to this module—without them, the options generator won't work.
 
-### Video (4_:23 Minutes)_
+### Video (&#x34;_:23 Minutes)_
 
 {% embed url="https://youtu.be/cXp2GFEb4iU" %}
 

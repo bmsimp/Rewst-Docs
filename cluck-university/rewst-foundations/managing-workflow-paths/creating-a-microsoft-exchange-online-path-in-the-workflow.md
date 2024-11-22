@@ -11,7 +11,7 @@ description: >-
 
 :bulb: Now that we have logic in the workflow that checks for specific values of the Microsoft "group" object properties, and we've connected to the "Microsoft Graph" path, we need to build a similar path for updating group membership using Microsoft Exchange Online.
 
-### Video (5_:48 Minutes)_
+### Video (&#x35;_:48 Minutes)_
 
 {% embed url="https://youtu.be/A9OgX8v-WZc" %}
 

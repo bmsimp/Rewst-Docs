@@ -15,7 +15,7 @@ description: Recognize where to use Jinja in workflows.
 
 Context variables are created and modified through workflow actions and transitions, making data reusable across the workflow. Let’s break down some key workflows where Jinja plays a role.
 
-### Video (6_:31 Minutes)_
+### Video (&#x36;_:31 Minutes)_
 
 {% embed url="https://youtu.be/UgcaWp9rZi8?si=40ubnOI6blYq8rjO" %}
 

@@ -48,7 +48,7 @@ The ORG Var is only currently required as there is no way to search for a script
 
 ### Current Limitations
 
-<mark style="color:red;">**Required:**</mark>** Preferred DC Organization Variable**
+<mark style="color:red;">**Required:**</mark>**&#x20;Preferred DC Organization Variable**
 
 There is currently no way to identify a Domain Controller via the N-able REST API, which means you must manually set the hostname of the preferred DC.  You can do this using the Organization Variable form that was discussed during your onboarding.  The end result will be an Org Var called <mark style="color:orange;">preferred\_domain\_controller</mark> and a value of the hostname of that client's DC.
 

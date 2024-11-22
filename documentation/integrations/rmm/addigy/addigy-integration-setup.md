@@ -9,11 +9,11 @@ description: >-
 
 ## Addigy Integration Setup
 
-1. **Open** Addigy Integrations**.**&#x20;
+1. **Open** Addigy Integration&#x73;**.**&#x20;
 2. **Navigate** to [https://app.addigy.com/integrations](https://app.addigy.com/integrations).
-3. **Open** v2 API Tokens**.**&#x20;
+3. **Open** v2 API Token&#x73;**.**&#x20;
 4. **Click** on the v2 tab.
-5. **Create** a new token**.**&#x20;
+5. **Create** a new toke&#x6E;**.**&#x20;
 6. **Set** your appropriate name and permissions for your v2 API token.
 7. **Copy** the v2 token value.&#x20;
    * The token value will be displayed in a new dialog box.&#x20;

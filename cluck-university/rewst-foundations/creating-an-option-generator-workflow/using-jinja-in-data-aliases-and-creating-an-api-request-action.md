@@ -10,7 +10,7 @@ description: >-
 
 :bulb: In this Options Generator workflow, you'll use data aliases to manage how individual actions store data from integrations. You'll also implement custom API requests when Rewst doesn't offer a built-in action, leveraging Microsoft Graph API documentation. Two key skills, one workflow—like finding that double-yolk at breakfast!
 
-### Video (12_:52 Minutes)_
+### Video (1&#x32;_:52 Minutes)_
 
 {% embed url="https://youtu.be/8zGCKXkHTAU" %}
 
@@ -29,7 +29,7 @@ Remember, everything we’re doing is to output data to the group field connecte
 4. **Add** List Groups action under the "Add to Group" transition of the add\_or\_remove noop.
 5. **Connect** the transition from Add to Group to the List Groups action
 6. **Search** "graph api" in the search bar.
-7. **Add "**Graph API Request" below "remove from group" transition.
+7. **Add "**&#x47;raph API Request" below "remove from group" transition.
 8. **Rename** "Graph API Request" to "list\_user\_groups"
 
 </details>
@@ -86,9 +86,7 @@ Remember, everything we’re doing is to output data to the group field connecte
 
        ```
 
-<!---->
-
-15. **Click** _Publish_ to save the workflow.
+15) **Click** _Publish_ to save the workflow.
 
 </details>
 

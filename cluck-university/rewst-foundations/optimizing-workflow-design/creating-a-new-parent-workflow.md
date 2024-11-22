@@ -10,7 +10,7 @@ description: >-
 
 With the introduction of Sub Workflows, we now have the ability to have workflows trigger other workflows, unlocking endless possibilities and providing a powerful new tool to enhance the design and flexibility of our future workflows.
 
-### Video (3_:48 Minutes)_
+### Video (&#x33;_:48 Minutes)_
 
 {% embed url="https://youtu.be/a5KAdfur_sY" %}
 
@@ -49,7 +49,7 @@ Log into Rewst and complete the following steps
 1. **Select** the Add Trigger icon
 2. **Name** the trigger "Form Trigger"
 3. **Toggle** Enabled
-4. **Select "**Core - Form Submission" for Trigger Type
+4. **Select "**&#x43;ore - Form Submission" for Trigger Type
 5. **Add** an Integration Overrides
    1. **Select** Microsoft Graph for Integration
 6. **Select** the "Add or Remove user - Multiple Microsoft Group Form" for Form

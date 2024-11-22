@@ -11,7 +11,7 @@ description: >-
 
 :bulb: When automating processes like "Add or Remove User - Microsoft Group," it's crucial to ensure that the options provided are dynamic, not static. If we continue using the same list of groups for every user and action, we waste time and potentially make errors by automating something that doesn’t apply. Here’s how we can fix that using an option generator workflow.
 
-### Video (6_:08 Minutes)_
+### Video (&#x36;_:08 Minutes)_
 
 {% embed url="https://youtu.be/NGImOFnyeo8" %}
 

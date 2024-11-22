@@ -2,13 +2,13 @@
 description: Going from one group to many groups.
 ---
 
-# Updating the Add or Remove User  Form
+# Updating the Add or Remove User Form
 
 ## Module Overview
 
 For automation efficiency, we've decided to add or remove a user to or from multiple groups with every form submission. That means we need to update the form to let us pick more than one group.
 
-### Video (4_:15 Minutes)_
+### Video (&#x34;_:15 Minutes)_
 
 {% embed url="https://youtu.be/TmHTHXuOqP0" %}
 

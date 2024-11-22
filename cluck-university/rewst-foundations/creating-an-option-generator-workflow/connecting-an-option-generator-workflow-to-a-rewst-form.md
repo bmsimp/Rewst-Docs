@@ -11,7 +11,7 @@ description: >-
 
 :bulb: In this last module we'll update the Rewst form to use the Option Generator built in the previous module. If you skipped ahead and don't have that form, or any workflows, don't worry - you can still catch up. So whether you're watching this to continue building what we started earlier in this course, or just to see how Option Generators work, let's jump in to see how it's done!
 
-### Video (5_:55 Minutes)_
+### Video (&#x35;_:55 Minutes)_
 
 {% embed url="https://youtu.be/7TWjgVSnEus" %}
 
@@ -42,7 +42,7 @@ description: >-
 <summary>Step 2: Testing the Option Generator</summary>
 
 1. **Select** the View Usages (_List Icon_)
-2. **Select "**View Direct URLs" -> "Open the URL for your Organization"
+2. **Select "**&#x56;iew Direct URLs" -> "Open the URL for your Organization"
 3. **Select** a User
 4. **Choose** add or remove.
 5. **Click** the Group field dropdown.

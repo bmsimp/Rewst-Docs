@@ -10,7 +10,7 @@ description: >-
 
 We've come a long way together, and we're about to develop another key skill: building error-handling techniques into our workflows.
 
-### Video (6_:55 Minutes)_
+### Video (&#x36;_:55 Minutes)_
 
 {% embed url="https://youtu.be/VPHBRRIQnQI" %}
 

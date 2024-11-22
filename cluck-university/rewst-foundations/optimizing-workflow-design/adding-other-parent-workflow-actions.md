@@ -8,7 +8,7 @@ description: Finishing up our Parent workflow
 
 Before testing our sub-workflow, we'll add the necessary actions to send an email to the user who filled out the form. This ensures they receive confirmation or relevant information about the workflow's execution via the `feedback_message.`
 
-### Video (11_:55 Minutes)_
+### Video (1&#x31;_:55 Minutes)_
 
 {% embed url="https://youtu.be/axNOfoTb7EQ" %}
 

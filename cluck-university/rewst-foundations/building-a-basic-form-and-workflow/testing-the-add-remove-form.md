@@ -8,7 +8,7 @@ description: Test a workflow and view the results.
 
 :bulb: Now that you've built your form and workflow, it's time to test the prototype by submitting the form and checking the workflow execution results. This step ensures that the workflow triggers correctly and performs the intended actions.
 
-### Video (3_:20 Minutes)_
+### Video (&#x33;_:20 Minutes)_
 
 {% embed url="https://youtu.be/elucwgeq7Ww?si=iUjQglqjJCp-b_BY" %}
 

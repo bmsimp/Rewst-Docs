@@ -32,7 +32,7 @@ Consider an internal company portal where employees need to access various depar
    * **URL Settings**
      * **Select a page**: Select an existing page in the app to which the link redirects when clicked.
      * **URL to Redirect on click**: Specify the URL to which the button redirects when clicked.
-     * **Open as new tab**: Toggle to open the page, or URL, in a new tab**.**
+     * **Open as new tab**: Toggle to open the page, or URL, in a new ta&#x62;**.**
    * **Style**
      * **Render as list item**: Toggle to render link in list format. (Useful for when then link is nested in a sidebar component).
    * **Icon**
