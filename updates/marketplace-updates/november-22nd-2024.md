@@ -10,6 +10,8 @@ This can be anything from new crates, enhancements, or bug fixes!
 
 * Rewst: User Onboarding
   * Added contact\_id to workflow input so users using the workflow as a wrapper can specify the field used in initial ticket creation.
+  * Deployed refactored version of Configure Out of Office Mailbox crate.
+  * Deployed refactored version of Amend Mailbox Permissions crate.
 
 </details>
 
@@ -33,10 +35,8 @@ This can be anything from new crates, enhancements, or bug fixes!
 * Top 10 crates - Improving success rates and implementing Rewst Best Practice&#x20;
   * Alert when Mailbox Quota Full
   * Detailed MFA Reporting
-  * Configure Out of Office
   * Refactor of Change a Users Password form. (just needs QA)
   * Refactor of Identify DUO users in Bypass Mode. (just needs QA)
-  * Refactoring \[REWST] EXO: Manage Mailbox Permissions (will most likely be updated/deployed next week)
 
 </details>
 
