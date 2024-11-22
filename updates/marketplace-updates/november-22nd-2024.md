@@ -1,6 +1,6 @@
 # November 22nd, 2024
 
-Alert when Mailbox Quota FullExplore the new changes to the Marketplace in the last week!
+Explore the new changes to the Marketplace in the last week!
 
 This can be anything from new crates, enhancements, or bug fixes!
 
