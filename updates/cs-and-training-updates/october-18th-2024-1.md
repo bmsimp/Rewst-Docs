@@ -1,4 +1,4 @@
-# October 18th, 2024
+# October 18, 2024
 
 Explore what new changes the Training team has made in the last week.
 

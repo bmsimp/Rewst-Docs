@@ -2,6 +2,32 @@
 
 <details>
 
+<summary>⚠️ Pax8 Rate Limit Issue (November 22nd, 2024)</summary>
+
+### Issue Identified
+
+**Date**: Friday, November 22nd, 2024\
+**Time**: 12:00 PM EST
+
+Shortly before 12:00 PM EST today, we became aware of an issue affecting users of the Pax8 integration on the US East instance of Rewst. This issue is resulting in "429 - Too Many Requests" errors being returned from the Pax8 integration. This issue prevents users from making changes to the Pax8 integration and running workflows utilizing the integration.This will affect users running our User Onboarding and User Offboarding crates that utilize the Pax8 Integration.\
+\
+Our team is actively collaborating with Pax8 to resolve the issue as quickly as possible. We are continuously monitoring the affected services to evaluate the extent and progression of the problem. \
+\
+We greatly appreciate your patience and understanding during this time. Updates will be shared as more information becomes available.
+
+### **Updates**&#x20;
+
+For the latest information, please refer to [https://status.rewst.io/](https://status.rewst.io/)
+
+Please contact our support team if you have any questions or need further assistance.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
+
+<details>
+
 <summary>⚠️ Resolved: App Builder Domains Not Provisioned in UK (November 13th, 2024)</summary>
 
 ### Issue Resolved

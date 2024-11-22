@@ -24,7 +24,7 @@ Explore what new changes the Training team has made in the last week.
 
 **What's New at Cluck University?**
 
-* Keep an eye out for the [Clean Automation (200 Series)](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/\~/diff/\~/changes/942/\~/revisions/8PDOguEglvOE7fhJGNYF/cluck-university/clean-automation-200-series)Certification👀​
+* Keep an eye out for the [Clean Automation (200 Series)](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/~/diff/~/changes/942/~/revisions/8PDOguEglvOE7fhJGNYF/cluck-university/clean-automation-200-series)Certification👀​
 * Stay tuned for exciting new self-paced content and special live sessions for beginners coming in September 2024!
 * Check out the Cluck University Landing Page @ [go.rew.st/cluck-university](https://go.rew.st/cluck-university) for all the latest courses self-serve and live.
 
@@ -35,7 +35,7 @@ Explore what new changes the Training team has made in the last week.
 
 **New & Updated Pages:**
 
-* ​[September 20th, 2024](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/\~/diff/\~/changes/942/\~/revisions/8PDOguEglvOE7fhJGNYF/updates/marketplace-updates/september-20th-2024) updated to reflect new crate enhancements and bug fixes
-* Open Mic: [Sept 20, 2024: How to Help The ROC Help You](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/\~/diff/\~/changes/942/\~/revisions/8PDOguEglvOE7fhJGNYF/updates/roc-open-mics/sept-20-2024-how-to-help-the-roc-help-you)
+* ​[September 20th, 2024](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/~/diff/~/changes/942/~/revisions/8PDOguEglvOE7fhJGNYF/updates/marketplace-updates/september-20th-2024) updated to reflect new crate enhancements and bug fixes
+* Open Mic: [Sept 20, 2024: How to Help The ROC Help You](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/~/diff/~/changes/942/~/revisions/8PDOguEglvOE7fhJGNYF/updates/roc-open-mics/sept-20-2024-how-to-help-the-roc-help-you)
 
 </details>
