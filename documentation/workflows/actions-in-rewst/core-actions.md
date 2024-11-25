@@ -89,21 +89,14 @@ _<mark style="color:blue;">**Note**</mark><mark style="color:blue;">:</mark>_ _I
 **Send SMS:** Allows you to send a text message to a specified phone number.
 
 * **Parameters**: This action requires the recipient's phone number (`phone_number`) and the text message (`message`) to be sent.
-* **Output**: The output of this action will depend on the implementation details, usually it might return a confirmation message or an error message.
+* **Output**: The output of this action will depend on the implementation details. Usually, it will return a confirmation message or an error message.
 
 ***
 
 **Confirmation Email:** Sends a confirmation email with reply options to a specified recipient.
 
 * **Parameters:** This action requires the recipient's email address (`to`), the subject of the email (`subject`), the title of the email (`title`), and the message body (`message`). It also offers user interaction buttons (`buttons`) and has the option to render markdown as HTML (`render_markdown`).
-* **Output:** The successful dispatch of the confirmation email signifies the successful execution of this action.
-
-***
-
-**Create Pending Task:** Creates a pending task that awaits user input. It is part of a flow where a user's response is necessary for further steps.
-
-* **Parameters:** This action requires `message` that will be shown to the user, and user interaction `buttons` that provide potential responses to the task.
-* **Output:** The task returns the status `AWAITING_USER_INPUT` upon successful execution, indicating that it is waiting for the user's response to the prompted message.
+* **Output:** If the action is correctly executed, a confirmation email will be sent.
 
 </details>
 
@@ -350,7 +343,7 @@ The result is a list of strings containing all `<a>` tags that meet the newly sp
 ]
 ```
 
-To further understand CSS selectors, you can refer to this [w3schools article](https://www.w3schools.com/cssref/css\_selectors.php).
+To further understand CSS selectors, you can refer to this [w3schools article](https://www.w3schools.com/cssref/css_selectors.php).
 
 _**Tip**: Parse HTML's functionalities include finding elements by tags (`<h1>`), class (`class_="abc"`), text (`string="The content"`), or id (`{"id": "abc"}`). When `string` is the sole argument, only the text is returned, not the whole element, which can help you fine-tune data extraction._
 
@@ -459,7 +452,7 @@ The result includes all `book` tags where the `category` attribute is `children`
 
 The `Parse XML` action provides a powerful way to parse XML data, enabling the extraction of specific data points based on `tags`, `attribute keys`, `text`, or `id`. It provides both simple and advanced operations, catering to various complexity levels of XML parsing requirements.
 
-For additional understanding on XPath expressions, refer to this [w3schools article](https://www.w3schools.com/xml/xpath\_intro.asp).
+For additional understanding on XPath expressions, refer to this [w3schools article](https://www.w3schools.com/xml/xpath_intro.asp).
 
 </details>
 
