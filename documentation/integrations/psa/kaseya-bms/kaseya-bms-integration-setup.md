@@ -20,7 +20,7 @@ Before configuring the Rewst integration, you must create a new user account in 
 Rewst requires an OTP token to access the Kaseya BMS API. You will need to create a regular user account as Kaseya doesn't allow OTP Tokens to be generated on API Users
 {% endhint %}
 
-1. **Go to** _Home_ -> _Employees_ -> _New Employee_
+1. **Go to** _Admin_ -> _HR_ ->_Employees_ -> _New_
 2. **Create** the user, ensuring the _user type_ is _employee_
 3. **Log into** BMS as your newly created user
 4. **Go to** _My Profile_
@@ -37,13 +37,13 @@ Once you have created a user account, you will need to configure the integration
 Follow the below steps to configure a new integration:
 
 1. **Log in** to the [Rewst platform](https://app.rewst.io/).
-2. **Click** on the _"Integrations"_ menu on the left sidebar.
+2. **Click** on the _"Configuration"_ -> _"Integrations"_ menu on the left sidebar.
 3. **Click** on or search for _"Kaseya BMS"_.
-4. **Complete** the form with the details you created:
+4. **Complete** the form with the details of the user you created:
    1. **Tenant**: the name of the company tenant
    2. **Hostname**: Kaseya BMS Server hostname
    3. **Password**: the integrator password
-   4. **TOTP Secret**: base32 string used to generate one-time codes
+   4. **TOTP Secret**: The key you noted in step 7 above when setting up the user's MFA
    5. **Username**: This is the unique dedicated service account used to access BMS
 5. **Save** the configuration once these have been populated. Rewst will do a quick validation of your input.
 
