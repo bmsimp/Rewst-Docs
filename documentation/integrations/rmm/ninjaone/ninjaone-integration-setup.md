@@ -14,6 +14,18 @@ Integrating Rewst with NinjaRMM provides users with a powerful combination of do
 
 ### Complete Setup in Ninja
 
+{% hint style="info" %}
+Your Rewst Base URL will vary depending on which Rewst instance you are on. You must update the $rewst_base_url property in the script below to match your Rewst Instance. You can identify which instance you are on by the URL you use to access Rewst. Please use the following table as a guide to identify your Rewst Base URL
+|Rewst URL|Base URL|
+|---|---|
+|app.rewst.io|engine.rewst.io|
+|app.pdx.rewst.io|engine.pdx.rewst.io|
+|app.eu.rewst.io|engine.eu.rewst.io|
+|app.rewst.eu|engine.rewst.eu|
+|app.rewst.asia|engine.rewst.asia|
+
+{% endhint %}
+
 First, go to Ninja and complete the following:
 
 1. **Go to** Administration -> Library -> Automation.
@@ -32,7 +44,7 @@ Param(
     [string]$results_postdata_path
 )
 
-$rewst_base_url = "https://engine.rewst.io/webhooks/custom/action"
+$rewst_base_url = "https://INSERTBASEURLHERE/webhooks/custom/action"
 $script_content_url = "$rewst_base_url/$script_content_path"
 $post_url = "$rewst_base_url/$results_postdata_path"
 
@@ -58,7 +70,7 @@ To ensure successful workflows, make sure the above is complete. If the above st
 
 Follow the below steps to configure a new integration in Rewst:
 
-1. **Log in** to the [Rewst platform](https://app.rewst.io/).
+1. **Log in** to the Rewst platform.
 2. **Go to** _Configuration_ → _Integrations_ menu on the left sidebar.
 3. **Click** or search for "Ninja".
 4. **Select** your Region.
