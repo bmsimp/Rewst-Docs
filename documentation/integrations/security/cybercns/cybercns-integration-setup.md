@@ -12,6 +12,12 @@ description: >-
 [Check out the instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).
 {% endhint %}
 
+{% hint style="warning" %}
+ConnectSecure integrations (formerly known as CyberCNS) will require attention to continue working in Rewst. Rewst has created a new V4 of our ConnectSecure integration to meet the sunsetting of our old V3 CyberCNS integration, which will expire by the end of 2024.
+
+Rewst can’t automatically migrate V3 users to V4 due to configuration requirements. If you’re a Rewst customer using our ConnectSecure integration, reach out to your ConnectSecure rep or access your ConnectSecure instance to retrieve your new V4 credentials and hostname. All related endpoints in existing generic actions will also need to be manually updated to new URLs to reflect this change. See our full guide for how to complete this update for your integration here in our migration documentation: [connectsecure-integration-migration-v3-to-v4.md](connectsecure-integration-migration-v3-to-v4.md "mention")
+{% endhint %}
+
 ## **Getting Started with ConnectSecure**
 
 * **Tenant Name**: `msp_domain`

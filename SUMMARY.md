@@ -330,6 +330,7 @@
       * [Actions & Endpoints](documentation/integrations/security/crowdstrike/actions-and-endpoints.md)
     * [ConnectSecure (CyberCNS)](documentation/integrations/security/cybercns/README.md)
       * [ConnectSecure Integration Setup](documentation/integrations/security/cybercns/cybercns-integration-setup.md)
+      * [ConnectSecure Integration Migration: V3 to V4](documentation/integrations/security/cybercns/connectsecure-integration-migration-v3-to-v4.md)
     * [Huntress](documentation/integrations/security/huntress/README.md)
       * [Huntress Integration Setup](documentation/integrations/security/huntress/huntress-integration-setup.md)
     * [Liongard](documentation/integrations/security/liongard/README.md)
