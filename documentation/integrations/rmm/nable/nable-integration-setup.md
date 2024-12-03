@@ -44,6 +44,18 @@ In order to run Powershell on devices via the RMM, you must create the Script in
 The ORG Var is only currently required as there is no way to search for a script with the existing API Endpoints
 {% endhint %}
 
+{% hint style="info" %}
+Once imported, you must update your script's $rewst_base_url variable. Your Rewst Base URL will vary depending on which Rewst instance you are on. You must update the $rewst_base_url property in the script below to match your Rewst Instance. You can identify which instance you are on by the URL you use to access Rewst. Please use the following table as a guide to identify your Rewst Base URL
+|Rewst URL|Base URL|
+|---|---|
+|app.rewst.io|engine.rewst.io|
+|app.pdx.rewst.io|engine.pdx.rewst.io|
+|app.eu.rewst.io|engine.eu.rewst.io|
+|app.rewst.eu|engine.rewst.eu|
+|app.rewst.asia|engine.rewst.asia|
+
+{% endhint %}
+
 {% file src="../../../../.gitbook/assets/run-nable-powershell.ps1" %}
 
 ### Current Limitations
