@@ -70,7 +70,7 @@ To ensure successful workflows, make sure the above is complete. If the above st
 
 Follow the below steps to configure a new integration in Rewst:
 
-1. **Log in** to the [Rewst platform](https://app.rewst.io/).
+1. **Log in** to the Rewst platform.
 2. **Go to** _Configuration_ → _Integrations_ menu on the left sidebar.
 3. **Click** or search for "Ninja".
 4. **Select** your Region.
