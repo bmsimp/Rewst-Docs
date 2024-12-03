@@ -16,6 +16,8 @@ Integrating Rewst with NinjaRMM provides users with a powerful combination of do
 
 {% hint style="info" %}
 Your Rewst Base URL will vary depending on which Rewst instance you are on. You must update the $rewst_base_url property in the script below to match your Rewst Instance. You can identify which instance you are on by the URL you use to access Rewst. Please use the following table as a guide to identify your Rewst Base URL
+{% endhint %}
+
 |Rewst URL|Base URL|
 |---|---|
 |app.rewst.io|engine.rewst.io|
@@ -24,7 +26,6 @@ Your Rewst Base URL will vary depending on which Rewst instance you are on. You 
 |app.rewst.eu|engine.rewst.eu|
 |app.rewst.asia|engine.rewst.asia|
 
-{% endhint %}
 
 First, go to Ninja and complete the following:
 
