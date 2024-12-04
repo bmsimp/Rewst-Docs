@@ -645,6 +645,8 @@
   * [June 7th, 2024](updates/marketplace-updates/june-7th-2024.md)
   * [May 31st 2024](updates/marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
+  * [Nov 28, 2024: How Listening to Your Workflows Can Improve Your Automations](updates/roc-open-mics/nov-28-2024-how-listening-to-your-workflows-can-improve-your-automations.md)
+  * [Nov 22, 2024: Efficiency Boosts, Password Insights, and D\&D](updates/roc-open-mics/nov-22-2024-efficiency-boosts-password-insights-and-d-d.md)
   * [Nov 15, 2024: Mark Your Calendars for June 24 - June 26, 2025](updates/roc-open-mics/nov-15-2024-mark-your-calendars-for-june-24-june-26-2025.md)
   * [Nov 8, 2024: Live from ITNation 2024, it's the Open Mic!](updates/roc-open-mics/nov-8-2024-live-from-itnation-2024-its-the-open-mic.md)
   * [Nov 1, 2024: Free Remote Control by Automating RustDesk](updates/roc-open-mics/nov-1-2024-free-remote-control-by-automating-rustdesk.md)

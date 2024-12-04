@@ -1,4 +1,4 @@
-# ROC Open Mics
+# Nov 28, 2024: How Listening to Your Workflows Can Improve Your Automations
 
 ### **Join Live!**
 
