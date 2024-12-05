@@ -772,6 +772,8 @@
   * [May 27th 2022 - Graph API](updates/roc-open-mics/may-27th-2022-graph-api.md)
   * [July 14th: Go Hug Your IT Person](updates/roc-open-mics/july-14th-go-hug-your-it-person.md)
   * [August 18th 2023 - Info Nuggets and Jinja Burgers](updates/roc-open-mics/august-18th-2023-info-nuggets-and-jinja-burgers-1.md)
+* [App Builder AMAs](updates/app-builder-amas/README.md)
+  * [Nov 27, 2024: workflow management in App Builder, plus permissions and role-based access](updates/app-builder-amas/nov-27-2024-workflow-management-in-app-builder-plus-permissions-and-role-based-access.md)
 * [Issue Alerts](updates/issue-alerts.md)
 
 ## ❓ FAQs
