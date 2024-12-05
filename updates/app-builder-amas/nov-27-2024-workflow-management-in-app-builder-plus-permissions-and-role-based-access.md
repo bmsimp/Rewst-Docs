@@ -2,12 +2,12 @@
 
 ### **Join live!**
 
-Join us live biweekly on Fridays at 1:30 pm EST!
+Join us live biweekly on Wednesdays at 1:30 pm EST!
 
 &#x20;[Download the Calendar Invite here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjFjNjgyYzMtOGY0Mi00MmI5LWFjNmEtYzZmYjAyODhlYTI3%40thread.v2/0?context=%7b%22Tid%22%3a%225a9dda56-5beb-4840-83e1-9afc1ada2388%22%2c%22Oid%22%3a%2214c82d0)!\
 
 
-## Latest App Builder AMA video recording
+## App Builder AMA video recording
 
 {% embed url="https://www.youtube.com/watch?index=1&list=PLDWjfoX6CSp8lc42isJ4-QIBdtmYQ04Wo&v=GWcxIPH_SCs" %}
 
