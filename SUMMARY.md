@@ -73,6 +73,7 @@
   * [How to Build Forms](cluck-university/electives/how-to-build-forms.md)
   * [Support and Troubleshooting Dynamic Form Fields](cluck-university/electives/support-and-troubleshooting-dynamic-form-fields.md)
 * [Office Hours](cluck-university/office-hours.md)
+* [Rewst certification how-to and troubleshooting guide](cluck-university/rewst-certification-how-to-and-troubleshooting-guide.md)
 
 ## 📚 Documentation
 
