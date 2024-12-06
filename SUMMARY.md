@@ -619,6 +619,7 @@
   * [November 4th 2022](updates/cs-and-training-updates/november-4th-2022.md)
   * [October 28th 2022](updates/cs-and-training-updates/october-28th-2022-1.md)
 * [Marketplace Updates](updates/marketplace-updates/README.md)
+  * [December 6th, 2024](updates/marketplace-updates/december-6th-2024.md)
   * [November 29th, 2024](updates/marketplace-updates/november-29th-2024.md)
   * [November 22nd, 2024](updates/marketplace-updates/november-22nd-2024.md)
   * [November 15th, 2024](updates/marketplace-updates/november-15th-2024.md)
