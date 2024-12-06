@@ -20,7 +20,7 @@ Join us live every Friday at 3 pm EST!
 
 📚 Brandon gives updates from the Edu Team.&#x20;
 
-🚀 Derek proposed a solution to scan network computers for password files, offering detailed reporting.&#x20;
+🚀 Derrick proposed a solution to scan network computers for password files, offering detailed reporting.&#x20;
 
 💻 Sam showcased how to enhance App Builder with JavaScript, emphasizing coding best practices.&#x20;
 
