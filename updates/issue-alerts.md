@@ -1,4 +1,18 @@
-# Issue Alerts
+# Alerts
+
+<details>
+
+<summary>⚠️ Upgrade to V4 of ConnectSecure needed by December 31st, 2024</summary>
+
+We’re excited to share an important update regarding your ConnectSecure integrations (formerly CyberCNS). To enhance functionality and ensure seamless performance, we’ve developed a new V4 version of the ConnectSecure integration. This update is designed to provide improved capabilities and long-term support as we transition from the V3 integration, which will reach its end-of-life on December 31st, 2024.
+
+While the migration to V4 requires a few configuration steps, we’ve made the process straightforward. Simply reach out to your ConnectSecure representative or log in to your ConnectSecure instance to obtain your V4 credentials and hostname. Please note that related endpoints in your existing generic actions will also need to be updated to the new URLs.
+
+To make the transition as smooth as possible, we’ve created detailed migration documentation, which you can find here: [https://docs.rewst.help/documentation/integrations/security/cybercns/connectsecure-integration-migration-v3-to-v4](https://docs.rewst.help/documentation/integrations/security/cybercns/connectsecure-integration-migration-v3-to-v4).
+
+We’re here to support you every step of the way. If you have any questions or need assistance, don’t hesitate to reach out to our team.Thank you for partnering with Rewst as we continue to enhance your experience with ConnectSecure!
+
+</details>
 
 <details>
 
