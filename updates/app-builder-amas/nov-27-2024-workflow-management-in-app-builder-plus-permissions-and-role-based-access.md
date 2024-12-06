@@ -1,10 +1,12 @@
-# Nov 27, 2024: workflow management in App Builder, plus permissions and role-based access
+# Nov 27, 2024: Workflow management in App Builder, plus permissions and role-based access
 
 ### **Join live!**
 
-Join us live biweekly on Wednesdays at 1:30 pm EST!
+Join us live biweekly on Wednesdays at 1:30 pm EST! Download the calendar invite below.
 
-&#x20;[Download the Calendar Invite here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjFjNjgyYzMtOGY0Mi00MmI5LWFjNmEtYzZmYjAyODhlYTI3%40thread.v2/0?context=%7b%22Tid%22%3a%225a9dda56-5beb-4840-83e1-9afc1ada2388%22%2c%22Oid%22%3a%2214c82d0)!\
+{% file src="../../.gitbook/assets/App Builder AMA (1).ics" %}
+
+\
 
 
 ## App Builder AMA video recording

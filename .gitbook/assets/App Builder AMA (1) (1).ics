@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Danial Gagne:mailto:dgagne@rewst.io
+DESCRIPTION:Agenda\n\n  1.  Welcome and Introductions (5 mins)\n  2.  Inter
+ nal updates (5 minutes)\n  3.  Demos (15 minutes)\n  4.  AMA (30 minutes)\
+ n  5.  Closing remarks (5 minutes)\n\n____________________________________
+ ____________________________________________\nMicrosoft Teams Need help?<h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-CA>\nJoin the meeting now<https://t
+ eams.microsoft.com/l/meetup-join/19%3ameeting_YjFjNjgyYzMtOGY0Mi00MmI5LWFj
+ NmEtYzZmYjAyODhlYTI3%40thread.v2/0?context=%7b%22Tid%22%3a%225a9dda56-5beb
+ -4840-83e1-9afc1ada2388%22%2c%22Oid%22%3a%2214c82d0d-bc30-4da0-b043-68de83
+ 87ebf7%22%7d>\nMeeting ID: 267 701 537 888\nPasscode: wznL9R\n____________
+ ____________________\nDial in by phone\n+1 323-813-7400\,\,261254374#<tel:
+ +13238137400\,\,261254374> United States\, Los Angeles\nFind a local numbe
+ r<https://dialin.teams.microsoft.com/24335939-c135-4754-98a1-cfe4c1333c7b?
+ id=261254374>\nPhone conference ID: 261 254 374#\nFor organizers: Meeting 
+ options<https://teams.microsoft.com/meetingOptions/?organizerId=14c82d0d-b
+ c30-4da0-b043-68de8387ebf7&tenantId=5a9dda56-5beb-4840-83e1-9afc1ada2388&t
+ hreadId=19_meeting_YjFjNjgyYzMtOGY0Mi00MmI5LWFjNmEtYzZmYjAyODhlYTI3@thread
+ .v2&messageId=0&language=en-CA> | Reset dial-in PIN<https://dialin.teams.m
+ icrosoft.com/usp/pstnconferencing>\n______________________________________
+ __________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20250308T060000Z;INTERVAL=2;BYDAY=WE;WKST=SU
+UID:040000008200E00074C5B7101A82E0080000000001DA261AF335DB01000000000000000
+ 010000000A16189C88285DA4B9EB3BF566D5C78D4
+SUMMARY:App Builder AMA
+DTSTART:20241113T183000Z
+DTEND:20241113T193000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20241113T174233Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_YjFjNjgyYzMtOGY0Mi00MmI5LWFjNmEtYzZmYjAyODhlYTI3%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%225a9dda56-5beb-4840-83e1-9afc1ada2388%22%2c%22O
+ id%22%3a%2214c82d0d-bc30-4da0-b043-68de8387ebf7%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_YjFjNjgyYzMtOGY0Mi00MmI
+ 5LWFjNmEtYzZmYjAyODhlYTI3@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
+X-MICROSOFT-ONLINEMEETINGTOLLNUMBER:+1 323-813-7400
+X-MICROSOFT-ONLINEMEETINGCONFERENCEID:261254374
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
