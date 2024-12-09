@@ -1,7 +1,7 @@
 # Rewst certification how-to and troubleshooting guide
 
 {% hint style="warning" %}
-We highly recommend that all Rewst users be certified before attempting to build workflows or customize Crates. Completing proper training sets you up to succeed with Rewst, and helps prevent poorly executed workflow design. As of late 2024, some geographic locations are not yet able to participate in Rewst’s asynchronous certification process. We’re working to fix this as soon as possible. If you finish a course, then attempt certification and are blocked from completing, reach out to your CSM for assistance with manual certification.
+We highly recommend that all Rewst users be certified before attempting to build workflows or customize Crates. Completing proper training sets you up to succeed with Rewst, and helps prevent poorly executed workflow design. As of late 2024, some geographic locations are not yet able to participate in Rewst’s asynchronous certification process. We’re working to fix this as soon as possible.&#x20;
 {% endhint %}
 
 ## Rewst certification overview
