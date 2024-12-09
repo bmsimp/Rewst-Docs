@@ -4,7 +4,7 @@
 
 ## 🏫 Cluck University
 
-* [Welcome And Enrollment](cluck-university/welcome-and-enrollment.md)
+* [Welcome and enrollment](cluck-university/welcome-and-enrollment.md)
 * [Getting Started](cluck-university/getting-started/README.md)
   * [Rewst Platform Overview](cluck-university/getting-started/rewst-platform-overview.md)
   * [Relationships within the Platform](cluck-university/getting-started/relationships-within-the-platform.md)
