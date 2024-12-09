@@ -1,20 +1,22 @@
 # Welcome and enrollment
 
-## Getting Started
+## Getting started
 
 To kick off your automation journey, we have an entire [getting-started](getting-started/ "mention") section dedicated to introducing you to both automation practices as well as the Rewst Platform itself. Dive in and get your talons wet with the basics, including some exercises!
 
-## On-Demand Training
+## On-demand training
 
 We offer sessions sequentially, and you can use the self-serve resources. Use the hyperlinks below to get started, and let us know if you hit a roadblock along the way, or have questions in our [Cluck University Discord Channel](https://discord.gg/WKwsZngc). If you stick to it, you’ll have your [certification](rewst-foundations/foundations-certification.md) in no time!&#x20;
 
-{% hint style="success" %}
+We offer courses sequentially, and you can use the self-serve resources. Use the hyperlinks below to get started with each session, and let us know if you hit a roadblock along the way, or have questions in our [Cluck University Discord Channel](https://discord.gg/WKwsZngc). If you stick to it, you’ll have your [certification](rewst-foundations/foundations-certification.md) in no time!&#x20;
+
+{% hint style="info" %}
 * [rewst-foundations](rewst-foundations/ "mention")
 * [clean-automation](clean-automation/ "mention")
 * [electives](electives/ "mention")
 {% endhint %}
 
-## Live Training Enrollment
+## Live training enrollment
 
 If you're interested in taking the Clean Automation series live, [you can sign up](https://calendly.com/cluck-u) and join the legendary Eddie Chow for 5 sessions that will be delivered over 2 weeks.&#x20;
 
@@ -24,7 +26,7 @@ To maximize your learning experience, it's recommended to complete the sessions 
 [Go here to get the schedule with all the links you need!](https://calendly.com/cluck-u)
 {% endhint %}
 
-## Learning Resources
+## Learning resources
 
 As you get started on your automation journey, don't forget all the incredible resources available to you! If you want to get direct help and inspiration for building automation, don't forget to join the Kewp in Discord!&#x20;
 
