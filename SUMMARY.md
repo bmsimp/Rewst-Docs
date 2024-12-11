@@ -18,7 +18,7 @@
   * [Workflow Building Tips & Tricks](cluck-university/getting-started/workflow-building-tips-and-tricks.md)
 * [Rewst Foundations](cluck-university/rewst-foundations/README.md)
   * [Lesson 1: Laying the Foundations of Automation](cluck-university/rewst-foundations/laying-the-foundations-of-automation/README.md)
-    * [Introduction to Automation and Scoping](cluck-university/rewst-foundations/laying-the-foundations-of-automation/intro-to-automation-and-scoping.md)
+    * [Introduction to automation and scoping](cluck-university/rewst-foundations/laying-the-foundations-of-automation/intro-to-automation-and-scoping.md)
     * [3 Key Principles for Every Automation](cluck-university/rewst-foundations/laying-the-foundations-of-automation/3-key-principles-for-every-automation.md)
     * [Automating a Business Process](cluck-university/rewst-foundations/laying-the-foundations-of-automation/101-laying-the-foundations-of-automations.md)
   * [Lesson 2: Building a Basic Form and Workflow](cluck-university/rewst-foundations/building-a-basic-form-and-workflow/README.md)

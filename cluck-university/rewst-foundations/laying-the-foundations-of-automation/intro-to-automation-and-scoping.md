@@ -2,19 +2,19 @@
 description: Identify a task that is suitable for automation.
 ---
 
-# Introduction to Automation and Scoping
+# Introduction to automation and scoping
 
-## Module Overview
+## Module overview
 
 :bulb: Automation is more than just letting technology solve problems for us. To truly succeed with automation, it's important to start with the right mindset.
 
-### Video (_4:20 Minutes)_
+### Video (_4:20 minutes)_
 
 {% embed url="https://youtu.be/qvAoELrfHGI" %}
 
 <details>
 
-<summary>1. Reflect on Your Automation Options</summary>
+<summary>1. Reflect on your automation options</summary>
 
 Before diving into the “why and what” of automation, take a moment to reflect on the challenges you face in your day-to-day operations. Consider what could benefit from automation and how it might improve your workflow....Did you pause to reflect? Ya sure? Okay, I trust you!&#x20;
 
@@ -24,7 +24,7 @@ Let's dive in and explore what automation can do for you and what needs to be se
 
 <details>
 
-<summary>2. Reasons and Benefits of Automation</summary>
+<summary>2. Reasons and benefits of automation</summary>
 
 With Rewst, automation connects your tools, enabling your team to focus on tasks that benefit from human expertise, rather than simply reducing headcount or cutting tools.
 
@@ -41,19 +41,16 @@ With Rewst, automation connects your tools, enabling your team to focus on tasks
 
 Consider where you are on the automation journey, and what will help you get to the next level. Take it step by step to make your journey smart and sustainable.
 
-0\. **No Automation**: All manual, all the time.
-
-1\. **Basic Task Automation**: Automating simple tasks that are currently handled manually.
-
-2\. **Process Automation**: Expanding automation to cover complex processes involving multiple tools.
-
-3\. **Advanced Automation**: Reaching a point where processes run smoothly in the background, with minimal oversight.
+* **No Automation:** Initial stage with manual processes, requiring human intervention for tasks.
+* **Task Automation:** Automation of repetitive tasks to enhance efficiency and accuracy.
+* **Human-assisted Process Automation:** Integration of human decision-making within automated processes for more complex workflows.
+* **Autonomous Process Automation:** Advanced stage where processes are automated end-to-end with minimal to no human intervention, achieving significant operational efficiency and cost-effectiveness.
 
 </details>
 
 <details>
 
-<summary>4. Scoping Your Automation</summary>
+<summary>4. Scoping your automation</summary>
 
 Once you’ve decided that automation is the way forward, the next step is to scope your automation projects effectively. Automation can generally be divided into **tasks** and **processes**.
 
@@ -71,7 +68,7 @@ Once you’ve decided that automation is the way forward, the next step is to sc
 
 <details>
 
-<summary>5. Getting Started</summary>
+<summary>5. Getting started</summary>
 
 For those new to automation, it’s recommended to start with smaller tasks that are easy to manage and can deliver quick wins. As you gain confidence, you can begin to tackle more complex processes. Here are a few ideas on types of tasks to automate:
 
@@ -82,7 +79,7 @@ For those new to automation, it’s recommended to start with smaller tasks that
 
 </details>
 
-### Action Items
+### Action items
 
 Write down a task that's ripe for automation. Make sure the task or process is possible to automate and get clear on your goal (whether it's to save time, reduce errors, and/or any of the other benefits you just learned about). This will help you apply key concepts from this course to a scenario that's relevant to your MSP!
 
