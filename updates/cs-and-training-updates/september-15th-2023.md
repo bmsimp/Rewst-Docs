@@ -1,4 +1,4 @@
-# September 15th, 2023
+# September 15, 2023
 
 Explore what new changes the Training team has made in the last week.
 
@@ -31,7 +31,7 @@ Explore what new changes the Training team has made in the last week.
 
 **Documentation**
 
-* [Open Mic - September 8th Video and Page Added](../roc-open-mics/september-8-2023-special-guest-automation-from-down-under.md)
+* [Open Mic - September 8th Video and Page Added](../roc-open-mics/2023-roc-open-mics/september-8-2023-special-guest-automation-from-down-under.md)
 * [Added Huntress Integration Setup Page](../../documentation/integrations/security/huntress/huntress-integration-setup.md)
 * [Added an Actions & Endpoints page for IT Glue](../../documentation/integrations/documentation/itglue/action-and-endpoints.md)
 * Added alternative download instructions for [Datto RMM](../../documentation/integrations/rmm/datto-rmm/datto-rmm-integration-setup.md) PowerShell cpt file

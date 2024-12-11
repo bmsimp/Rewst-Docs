@@ -1,4 +1,4 @@
-# October 20th, 2023
+# October 20, 2023
 
 Explore what new changes the Training team has made in the last week.
 
@@ -26,7 +26,7 @@ Explore what new changes the Training team has made in the last week.
 
 **Documentation**
 
-* [october-13th-2023-mail-tracking-error-handling-and-onsite-requests.md](../roc-open-mics/october-13th-2023-mail-tracking-error-handling-and-onsite-requests.md "mention") added
+* [october-13th-2023-mail-tracking-error-handling-and-onsite-requests.md](../roc-open-mics/2023-roc-open-mics/october-13th-2023-mail-tracking-error-handling-and-onsite-requests.md "mention") added
 * [godaddy-integration-setup.md](../../documentation/integrations/dns/godaddy/godaddy-integration-setup.md "mention")and Actions & Endpoints added
 * [synnex-integration-setup.md](../../documentation/integrations/licensing/synnex/synnex-integration-setup.md "mention")and Actions & Endpoints added
 * [crowdstrike-integration-setup.md](../../documentation/integrations/security/crowdstrike/crowdstrike-integration-setup.md "mention")and Actions & Endpoints added

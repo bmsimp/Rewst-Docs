@@ -1,4 +1,4 @@
-# November 17th, 2023
+# November 17, 2023
 
 Explore what new changes the Training team has made in the last week.
 
@@ -39,7 +39,7 @@ Explore what new changes the Training team has made in the last week.
 
 **Documentation**
 
-* [nov-3rd-2023-huge-rewst-announcements-you-cant-miss-out-on.md](../roc-open-mics/nov-3rd-2023-huge-rewst-announcements-you-cant-miss-out-on.md "mention")available
+* [nov-3rd-2023-huge-rewst-announcements-you-cant-miss-out-on.md](../roc-open-mics/2023-roc-open-mics/nov-3rd-2023-huge-rewst-announcements-you-cant-miss-out-on.md "mention")available
 * [from-scales-to-feathers.md](../../community-corner/community-driven-content/from-scales-to-feathers.md "mention")Coming soon page added - Shout-out to Reed Kimble!
 * [collecting-diagnostics-with-browser-developer-tools.md](../../support/roc-support/collecting-diagnostics-with-browser-developer-tools.md "mention") added to the ROC Support section
 * [markdown-examples.md](../../community-corner/how-to-contribute/markdown-examples.md "mention")subpage added to [how-to-contribute](../../community-corner/how-to-contribute/ "mention")

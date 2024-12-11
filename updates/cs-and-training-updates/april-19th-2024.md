@@ -1,4 +1,4 @@
-# April 19th, 2024
+# April 19, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -29,7 +29,7 @@ Explore what new changes the Training team has made in the last week.
 
 **New & Updated Pages:**
 
-* [april-12th-2024-hey-siri-make-a-ticket-alexa-close-my-ticket.md](../roc-open-mics/april-12th-2024-hey-siri-make-a-ticket-alexa-close-my-ticket.md "mention") Open Mic Page Added
+* [april-12th-2024-hey-siri-make-a-ticket-alexa-close-my-ticket.md](../roc-open-mics/2024-roc-open-mics/april-12th-2024-hey-siri-make-a-ticket-alexa-close-my-ticket.md "mention") Open Mic Page Added
 * [okta-integration-setup.md](../../documentation/integrations/iam/okta-integration-setup.md "mention") page added
 * [actions-and-endpoints.md](../../documentation/integrations/iam/actions-and-endpoints.md "mention") for OKTA added
 * [working-with-options-generator-workflows-in-rewst.md](../../cluck-university/electives/working-with-options-generator-workflows-in-rewst.md "mention") Elective page added

@@ -1,4 +1,4 @@
-# September 6th, 2024
+# September 6, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -14,14 +14,10 @@ Explore what new changes the Training team has made in the last week.
   * Forget all these new games coming out, I just started Final Fantasy Tactics on my Vita again and I'm reminded that it's still absolutely amazing! Spoilers for a future Retro Brandon Video...
   * Except Zelda. Don't miss that one!
 
-<!---->
-
-* **SHOUT OUTS** **TO:**
+- **SHOUT OUTS** **TO:**
   * Chris, Cameron, Andres, David, Darlene, Carl, Rudi, and Jose for passing the Certification Exam
     * AND Alexandre, Ben, and Sean for PERFECT SCORES!!!🎊​
-  * Take the [Foundations Certification](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/\~/diff/\~/changes/919/\~/revisions/VsBsFjTNLSmbNaVOq8Uy/cluck-university/rewst-foundations-10x/foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord. As well as access to a super secret Discord channel.
-
-<!---->
+  * Take the [Foundations Certification](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/~/diff/~/changes/919/~/revisions/VsBsFjTNLSmbNaVOq8Uy/cluck-university/rewst-foundations-10x/foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord. As well as access to a super secret Discord channel.
 
 * Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
 * ​[Sign up for the Office Hours](https://calendly.com/cluck-u/office-hours?) and the[ ROC AMA](https://calendly.com/cluck-u/roc-ama) to work through any questions you have during and after training! If there is something you want us to cover, Let us know!
@@ -44,7 +40,7 @@ Explore what new changes the Training team has made in the last week.
 
 **New & Updated Pages:**
 
-* Last week's Open Mic video [august-30-2024-the-automation-rewst-uses-to-introduce-new-employees.md](../roc-open-mics/august-30-2024-the-automation-rewst-uses-to-introduce-new-employees.md "mention")has been added.
+* Last week's Open Mic video [august-30-2024-the-automation-rewst-uses-to-introduce-new-employees.md](../roc-open-mics/2024-roc-open-mics/august-30-2024-the-automation-rewst-uses-to-introduce-new-employees.md "mention")has been added.
 * [least-privilege-access-requirements-for-connectwise-manage-integration.md](../../documentation/integrations/psa/connectwise-manage/least-privilege-access-requirements-for-connectwise-manage-integration.md "mention") has been updated.
 
 </details>

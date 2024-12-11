@@ -1,4 +1,4 @@
-# August 30th, 2024
+# August 30, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -39,7 +39,7 @@ Check them (and our other courses) out on the [Cluck University Landing Page](ht
 
 **New & Updated Pages:**
 
-* Last week's Open Mic video[august-23-2024-build-workflows-with-your-friends-with-this-upcoming-feature.md](../roc-open-mics/august-23-2024-build-workflows-with-your-friends-with-this-upcoming-feature.md "mention") has been added
+* Last week's Open Mic video[august-23-2024-build-workflows-with-your-friends-with-this-upcoming-feature.md](../roc-open-mics/2024-roc-open-mics/august-23-2024-build-workflows-with-your-friends-with-this-upcoming-feature.md "mention") has been added
 
 </details>
 
