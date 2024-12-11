@@ -782,6 +782,7 @@
   * [Oct 30, 2024: App Builder team progress, meet Sarah, and import and export features](updates/app-builder-amas/oct-30-2024-app-builder-team-progress-meet-sarah-and-import-and-export-features.md)
   * [Oct 16, 2024: Client portal use cases](updates/app-builder-amas/oct-16-2024-client-portal-use-cases.md)
   * [Oct 2, 2024: New client onboarding, high ticket listing](updates/app-builder-amas/oct-2-2024-new-client-onboarding-high-ticket-listing.md)
+  * [Sept 18, 2024: Our first App Builder AMA](updates/app-builder-amas/sept-18-2024-our-first-app-builder-ama.md)
 * [Alerts](updates/issue-alerts.md)
 
 ## ❓ FAQs
