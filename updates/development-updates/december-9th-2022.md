@@ -1,4 +1,4 @@
-# December 9th 2022
+# December 9, 2022 - Dev Update
 
 Explore what new changes the Dev team has deployed in the last week!
 
@@ -44,4 +44,4 @@ This can be anything from new features, bug fixes or QoL changes!
 
 </details>
 
-If you'd like to see these in action, review the latest [Open Mic recording here](../roc-open-mics/december-9th-2022-jinja-expansion.-plus-mendy-and-jared.md)
+If you'd like to see these in action, review the latest [Open Mic recording here](../roc-open-mics/2022-roc-open-mics/december-9th-2022-jinja-expansion.-plus-mendy-and-jared.md)

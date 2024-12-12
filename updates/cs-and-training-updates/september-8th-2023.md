@@ -1,4 +1,4 @@
-# September 8th, 2023
+# September 8, 2023
 
 Explore what new changes the Training team has made in the last week.
 
@@ -28,11 +28,11 @@ Explore what new changes the Training team has made in the last week.
 
 **Documentation**
 
-* [Open Mic - September 1st Video and Page Added](../roc-open-mics/september-1-2023-applying-cube-rules-of-food-to-automations.md)
+* [Open Mic - September 1st Video and Page Added](../roc-open-mics/2023-roc-open-mics/september-1-2023-applying-cube-rules-of-food-to-automations.md)
 * Added [Navigating The Microsoft-Led Transition to GDAP](../../documentation/integrations/cloud/microsoft-cloud-integration-bundle/common-issues-with-microsoft-bundle/navigating-the-microsoft-led-transition-to-gdap.md) Page
 * Updates and Fixes
-  * [Added missing July 14th Open Mic Video](../roc-open-mics/july-14th-go-hug-your-it-person.md)
-  * [Added missing August 18th Open Mic Video](../roc-open-mics/august-18th-2023-info-nuggets-and-jinja-burgers.md)
+  * [Added missing July 14th Open Mic Video](../roc-open-mics/2023-roc-open-mics/july-14th-go-hug-your-it-person.md)
+  * [Added missing August 18th Open Mic Video](../roc-open-mics/2023-roc-open-mics/august-18th-2023-info-nuggets-and-jinja-burgers.md)
   * Fixed some Integration Typos
 
 </details>

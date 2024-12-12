@@ -1,4 +1,4 @@
-# September 20th, 2024
+# September 20, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -36,6 +36,6 @@ Explore what new changes the Training team has made in the last week.
 **New & Updated Pages:**
 
 * [issue-alerts.md](../issue-alerts.md "mention")updated regarding lost form access
-* Open Mic: [sept-13-2024-see-how-to-seamless-sync-calendly-events-and-tickets-with-rewst.md](../roc-open-mics/sept-13-2024-see-how-to-seamless-sync-calendly-events-and-tickets-with-rewst.md "mention")
+* Open Mic: [sept-13-2024-see-how-to-seamless-sync-calendly-events-and-tickets-with-rewst.md](../roc-open-mics/2024-roc-open-mics/sept-13-2024-see-how-to-seamless-sync-calendly-events-and-tickets-with-rewst.md "mention")
 
 </details>

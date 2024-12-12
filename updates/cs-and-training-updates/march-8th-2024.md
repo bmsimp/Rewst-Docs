@@ -1,4 +1,4 @@
-# March 8th, 2024
+# March 8, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -26,7 +26,7 @@ Explore what new changes the Training team has made in the last week.
 
 **New & Updated Pages:**
 
-* [march-1-2024-early-bird-specials-for-flow-in-the-kewp.md](../roc-open-mics/march-1-2024-early-bird-specials-for-flow-in-the-kewp.md "mention")page added
+* [march-1-2024-early-bird-specials-for-flow-in-the-kewp.md](../roc-open-mics/2024-roc-open-mics/march-1-2024-early-bird-specials-for-flow-in-the-kewp.md "mention")page added
 * [kaseya-bms-integration-setup.md](../../documentation/integrations/psa/kaseya-bms/kaseya-bms-integration-setup.md "mention")instructions updated
 * [nable](../../documentation/integrations/rmm/nable/ "mention")pages updated
 * [organization-variables.md](../../documentation/user-management/organization-variables.md "mention")page updated

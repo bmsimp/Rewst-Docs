@@ -1,4 +1,4 @@
-# October 6th, 2023
+# October 6, 2023
 
 Explore what new changes the Training team has made in the last week.
 
@@ -26,7 +26,7 @@ Explore what new changes the Training team has made in the last week.
 
 **Documentation**
 
-* [september-29-2023-no-microtransactions-with-these-new-crates.md](../roc-open-mics/september-29-2023-no-microtransactions-with-these-new-crates.md "mention")
+* [september-29-2023-no-microtransactions-with-these-new-crates.md](../roc-open-mics/2023-roc-open-mics/september-29-2023-no-microtransactions-with-these-new-crates.md "mention")
 * [collecting-diagnostics-with-browser-developer-tools.md](../../support/roc-support/collecting-diagnostics-with-browser-developer-tools.md "mention") page added.
 * [jinja-reserved-keywords.md](../../documentation/jinja/use-cases-and-best-practices/jinja-reserved-keywords.md "mention") added to Jinja Use Cases & Best Practices.
 * [data-types.md](../../documentation/jinja/data-types.md "mention") page added to the Jinja section.

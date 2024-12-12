@@ -1,4 +1,4 @@
-# January 27th 2023
+# January 27, 2023 - Dev Update
 
 Explore what new changes the Dev team has deployed in the last week!
 
@@ -46,4 +46,4 @@ This can be anything from new features, bug fixes or QoL changes!
 
 </details>
 
-If you'd like to see these in action, review the latest [Open Mic recording here](../roc-open-mics/january-27th-2023-rewst-user-creation-inception-and-automating-package-deliveries.md)
+If you'd like to see these in action, review the latest [Open Mic recording here](../roc-open-mics/2023-roc-open-mics/january-27th-2023-rewst-user-creation-inception-and-automating-package-deliveries.md)

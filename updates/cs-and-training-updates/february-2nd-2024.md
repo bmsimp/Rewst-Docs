@@ -1,4 +1,4 @@
-# February 2nd, 2024
+# February 2, 2024
 
 Explore what new changes the Training team has made in the last week.
 
@@ -24,7 +24,7 @@ Explore what new changes the Training team has made in the last week.
 **New & Updated Pages:**
 
 * [Broken link](broken-reference "mention")page in the App Platform Section has been updated with the latest
-* [jan-12th-2024-alpha-app-platform-demos.md](../roc-open-mics/jan-12th-2024-alpha-app-platform-demos.md "mention")Added
+* [jan-12th-2024-alpha-app-platform-demos.md](../roc-open-mics/2024-roc-open-mics/jan-12th-2024-alpha-app-platform-demos.md "mention")Added
 * [nerdio-integration-setup.md](../../documentation/integrations/cloud/nerdio/nerdio-integration-setup.md "mention")page added
 * Nerdio[actions-and-endpoints.md](../../documentation/integrations/cloud/nerdio/actions-and-endpoints.md "mention")page added
 * Added combine filter to [list-of-jinja-filters.md](../../documentation/jinja/list-of-jinja-filters.md "mention")page
