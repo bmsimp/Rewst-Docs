@@ -1,4 +1,4 @@
-# ROC Open Mics
+# December 6, 2024: Mastering Patch Management, Budget Alerts, and Ticket Assignments
 
 ### **Join Live!**
 
@@ -9,8 +9,6 @@ Join us live every Friday at 3 pm EST!
 ## Latest Open Mic Video Recording
 
 {% embed url="https://youtu.be/los__naJ3Z0" %}
-
-
 
 ### Contents of the Recording:
 
@@ -54,4 +52,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-
