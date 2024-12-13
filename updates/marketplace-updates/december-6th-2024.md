@@ -38,7 +38,6 @@ This can be anything from new crates, enhancements, or bug fixes!
   * Forms Portal - allows employees and clients to easily access the necessary Rewst forms based on granular permissions.
   * All-In-One Client Portal - The portal transforms service delivery by empowering clients to instantly self-serve common IT requests —not just submit tickets.
 * Top 10 crates - Improving success rates and implementing Rewst Best Practice&#x20;
-  * Alert when Mailbox Quota Full
   * Detailed MFA Reporting
   * Refactor of Change a Users Password form. (just needs QA)
   * Refactor of Identify DUO users in Bypass Mode. (just needs QA)
