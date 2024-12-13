@@ -59,7 +59,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 <summary><strong>Deployed behind feature flags awaiting QA review and feedback</strong></summary>
 
 * Google Enterprise License Manager
-* Pax8 Refactor to OAuth authentication (Releasing December 14th)
+* Pax8 Refactor to OAuth authentication (Releasing December 21st)
 * Github integration (Staff Review)
 * Granular forms permissions (QA review)
 * IT Portal integration (QA review)
