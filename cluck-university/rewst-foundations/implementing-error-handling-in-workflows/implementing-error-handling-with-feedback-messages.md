@@ -79,11 +79,13 @@ Log into Rewst and complete the following steps
 1. **Select** the On Success Transition of add\_group\_member\_ex
 2. **Add** a Data Alias:
    * **Key**: feedback\_message
-   * **Value**: User was successfully added to Exchange Online Group `{{ CTX.group.displayName | d }}`.
+   * **Value**: User was successfully added to Exchange Online Group \
+     `{{ CTX.group.displayName | d }}`.
 3. **Select** the On Failure Transition of add\_group\_member\_ex
 4. **Add** a Data Alias:
    * **Key**: feedback\_message
-   * **Value**: Failed to add User to Graph Group `{{ CTX.group.displayName | d }}`.
+   * **Value**: Failed to remove user from Exchange Online Group \
+     `{{ CTX.group.displayName | d }}`.
 5. **Publish** the Workflow.
 
 </details>
