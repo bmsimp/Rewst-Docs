@@ -76,12 +76,12 @@ Log into Rewst and complete the following steps
 
 <summary>Step 5: Adding Feedback Messages for Exchange Online Remove Actions</summary>
 
-1. **Select** the On Success Transition of add\_group\_member\_ex
+1. **Select** the On Success Transition of remove\_group\_member\_ex
 2. **Add** a Data Alias:
    * **Key**: feedback\_message
-   * **Value**: User was successfully added to Exchange Online Group \
+   * **Value**: User was successfully removed from Exchange Online Group \
      `{{ CTX.group.displayName | d }}`.
-3. **Select** the On Failure Transition of add\_group\_member\_ex
+3. **Select** the On Failure Transition of remove\_group\_member\_ex
 4. **Add** a Data Alias:
    * **Key**: feedback\_message
    * **Value**: Failed to remove user from Exchange Online Group \
