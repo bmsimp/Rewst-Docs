@@ -1,4 +1,4 @@
-# ROC Open Mics
+# December 13, 2024: JIT Crates, Faster Debugging, and API Wins
 
 ### **Join Live!**
 
@@ -9,6 +9,8 @@ Join us live every Friday at 3 pm EST!
 ## Latest Open Mic Video Recording
 
 {% embed url="https://youtu.be/pPhAI9Lhd0M" %}
+
+
 
 ### Contents of the Recording:
 
@@ -29,6 +31,8 @@ Join us live every Friday at 3 pm EST!
 ⚙️ Sam walks through a ScreenConnect REST API workflow to speed up PowerShell commands and automate domain controller detection.&#x20;
 
 📋 Jonathan unveils a recursive GraphQL query workflow to surface and simplify Rewst error logs for faster debugging.
+
+
 
 <details>
 
@@ -56,4 +60,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-
