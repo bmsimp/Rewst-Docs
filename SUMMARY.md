@@ -305,6 +305,7 @@
     * [Ingram Micro](documentation/integrations/licensing/ingram-micro/README.md)
       * [Ingram Micro Integration Setup](documentation/integrations/licensing/ingram-micro/ingram-micro-integration-setup.md)
     * [Pax8](documentation/integrations/licensing/pax8/README.md)
+      * [Pax8 - 2025 OAuth transition planning](documentation/integrations/licensing/pax8/pax8-2025-oauth-transition-planning.md)
       * [Pax8 Integration Setup](documentation/integrations/licensing/pax8/pax8-integration-setup.md)
       * [Least Privilege Access](documentation/integrations/licensing/pax8/least-privilege-access.md)
     * [Sherweb](documentation/integrations/licensing/sherweb/README.md)
