@@ -283,7 +283,7 @@
       * [IT Glue Integration Setup](documentation/integrations/documentation/itglue/it-glue-integration-setup.md)
       * [Action & Endpoints](documentation/integrations/documentation/itglue/action-and-endpoints.md)
       * [Troubleshooting IT Glue Issues](documentation/integrations/documentation/itglue/troubleshooting-itglue-issues.md)
-    * [IT Portal (Coming soon)](documentation/integrations/documentation/it-portal-coming-soon/README.md)
+    * [IT Portal](documentation/integrations/documentation/it-portal-coming-soon/README.md)
       * [IT Portal Integration Setup](documentation/integrations/documentation/it-portal-coming-soon/it-portal-integration-setup.md)
       * [Actions & Endpoints](documentation/integrations/documentation/it-portal-coming-soon/actions-and-endpoints.md)
     * [JumpCloud](documentation/integrations/documentation/jumpcloud/README.md)
