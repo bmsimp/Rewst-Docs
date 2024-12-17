@@ -661,6 +661,7 @@
     * [May 31st 2024 - Marketplace Update](updates/marketplace-updates/2024-marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
   * [2024 ROC Open Mics](updates/roc-open-mics/2024-roc-open-mics/README.md)
+    * [December 13, 2024: JIT Crates, Faster Debugging, and API Wins](updates/roc-open-mics/2024-roc-open-mics/december-13-2024-jit-crates-faster-debugging-and-api-wins.md)
     * [December 6, 2024: Mastering Patch Management, Budget Alerts, and Ticket Assignments](updates/roc-open-mics/2024-roc-open-mics/december-6-2024-mastering-patch-management-budget-alerts-and-ticket-assignments.md)
     * [November 28, 2024 - How Listening to Your Workflows Can Improve Your Automations](updates/roc-open-mics/2024-roc-open-mics/november-28-2024-how-listening-to-your-workflows-can-improve-your-automations.md)
     * [November 22, 2024 - Efficiency Boosts, Password Insights, and D\&D](updates/roc-open-mics/2024-roc-open-mics/november-22-2024-efficiency-boosts-password-insights-and-d-and-d.md)
