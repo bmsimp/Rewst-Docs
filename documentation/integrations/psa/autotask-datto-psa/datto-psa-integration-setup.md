@@ -21,7 +21,7 @@ By default, the Datto Autotask API User (system) security level does not have pe
 5. Select **Copy**.
 6. Scroll down to the **Other** tab and check the checkbox for **Create Company Webhooks**.
 7. Enter a number (each trigger will require at least one webhook).
-8. **Save.** &#x20;
+8. **Save**.  &#x20;
 9. Edit the user you are using to authorize Rewst and set it to this new security level.
 
 {% hint style="success" %}
@@ -36,7 +36,7 @@ Before configuring the Rewst integration you must generate an API user.&#x20;
 2. Open the top left menu.
 3. Open the **Admin** submenu.
 4. Select **Resources** (Users).
-5. Hover over **the + New** down arrow.
+5. Hover over the **+ New** down arrow.
 6. Select **New API User**.
 7. Fill out the form fields, selecting the **Rewst - Automation integration vendor** under **API Tracking Identifier**.
 8. **Save**.
