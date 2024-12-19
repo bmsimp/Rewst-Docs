@@ -3,7 +3,7 @@
 {% hint style="info" %}
 As of January 31, 2025, Pax8 is retiring API Key requests for Rewst and will require Rewst’s customers to move to OAuth 2.0 to authenticate to their APIs. Rewst customers will need to authenticate with OAuth before January 31 to continue to use our Pax 8 integration.
 
-Our team expects the OAuth changes to be released on December 21, 2024. After this release, customers may begin their authentication by following the steps below.
+Our team expects the OAuth changes will be released on December 21, 2024. Follow the steps below to complete your transition. Note that while new Rewst customers won't need to provision the client ID and secret from Pax8, existing customers will still be able to view this information in Rewst for a portion of 2025 as our total OAuth transition concludes.
 {% endhint %}
 
 ### Customer transition instructions
