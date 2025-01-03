@@ -8,8 +8,8 @@ This can be anything from new crates, enhancements, or bug fixes!
 
 <summary><strong>New crates and enhancements</strong></summary>
 
-* Google Workspace User Onboarding
-* Google Workspace User Offboarding
+* [Google Workspace User Onboarding](https://app.rewst.io/marketplace/crates/0193d4e1-2a5c-7b77-b8a4-f636e7b044a3)
+* [Google Workspace User Offboarding](https://app.rewst.io/marketplace/crates/01942d85-e360-796e-ac09-9acfbe0b5bbb)
 * App Builder Apps (available by request to the ROC or your CSM only, not in the Crate Marketplace)
   * Operational Analytics Portal - aggregates data from various tools and outputs actionable insights for MSPs to further streamline operations.
   * Forms Portal - allows employees and clients to easily access the necessary Rewst forms based on granular permissions.
