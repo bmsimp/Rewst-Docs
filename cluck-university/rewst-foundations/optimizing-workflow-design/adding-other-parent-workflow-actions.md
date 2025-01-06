@@ -65,7 +65,7 @@ Log into Rewst and complete the following steps
    3. **Title:** Your request to update Microsoft Groups for the User `{{ CTX.target_user.displayName | d }}`.
    4.  **Message:** Here are the results of your request to update Microsoft Groups for the User `{{ CTX.target_user.displayName | d }}`.
 
-       `{{ CTX.feedback_message_list | join("\n* "}}`
+       `{{ CTX.feedback_message_list | join("\n* ")}}`
 
 </details>
 
