@@ -1,4 +1,4 @@
-# ROC Open Mics
+# December 27, 2024: Aharon Intro Quiz, Workflow Hacks, GraphQL Insights
 
 ### **Join Live!**
 
@@ -23,6 +23,8 @@ Join us live every Friday at 3 pm EST!
 ⚙️ Workflow Refactoring Hack: Alden shares how to convert massive workflows into manageable sub-workflows using the “Clone” feature.&#x20;
 
 📊 GraphQL Reporting: Danial unveils a new GraphQL action to generate advanced reports on workflow performance and success rates.
+
+
 
 <details>
 
@@ -50,4 +52,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-

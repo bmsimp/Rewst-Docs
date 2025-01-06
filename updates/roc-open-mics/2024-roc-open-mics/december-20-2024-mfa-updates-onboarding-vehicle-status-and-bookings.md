@@ -1,4 +1,4 @@
-# ROC Open Mics
+# December 20, 2024: MFA Updates, Onboarding, Vehicle Status & Bookings
 
 ### **Join Live!**
 
@@ -8,21 +8,27 @@ Join us live every Friday at 3 pm EST!
 
 ## Latest Open Mic Video Recording
 
-{% embed url="https://youtu.be/PjkdjIwLfRc" %}
+{% embed url="https://youtu.be/lwizSUDcTzg" %}
 
 ### Contents of the Recording:
 
-🎤 Ash kicks off open mic with a fun pop quiz about Aharon's open mic kickoff catchphrases.&#x20;
+🎤 AI Aharon kicks off the Open Mic.&#x20;
 
-📋 Microsoft Forms Integration: Jared demonstrates connecting Microsoft Forms to Rewst workflows via Power Automate.&#x20;
+🛠️ Pizza delivers updates on integrations, including the IT Portal and region expansions for Datto PSA and Auvik.&#x20;
 
-🚦 Traffic Light Workflow Documentation: Brandon introduces a structured approach to workflow documentation using Hudu.&#x20;
+📋 JP showcases updates to OpenAI ticket workflows and reintroduces the detailed MFA Enforcement Reporting Crate.&#x20;
 
-🔗 Custom DNS Filter Integration: Danial builds a custom DNS Filter integration into ImmyBot using Rewst webhooks.&#x20;
+📊 Dan demonstrates the revamped MFA reporting crate with HTML and CSV export options for better insights.&#x20;
 
-⚙️ Workflow Refactoring Hack: Alden shares how to convert massive workflows into manageable sub-workflows using the “Clone” feature.&#x20;
+💡 Eddie-cation updates highlight new certifications, upcoming Roost Foundation Boot Camps, and office hours for 2024.&#x20;
 
-📊 GraphQL Reporting: Danial unveils a new GraphQL action to generate advanced reports on workflow performance and success rates.
+🚗 CJ and Kyle share their custom vehicle status app, integrating API data with Verizon Connect to streamline service calls.&#x20;
+
+📈 Brandon walks through an innovative new client onboarding workflow, linking ConnectWise, GDAP, and Intune automation.&#x20;
+
+📅 Sam demos a cost-effective Microsoft Bookings workflow to streamline scheduling and reduce reliance on external tools.
+
+
 
 <details>
 
@@ -50,4 +56,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-
