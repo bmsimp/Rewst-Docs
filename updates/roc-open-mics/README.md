@@ -8,27 +8,21 @@ Join us live every Friday at 3 pm EST!
 
 ## Latest Open Mic Video Recording
 
-{% embed url="https://youtu.be/pPhAI9Lhd0M" %}
+{% embed url="https://youtu.be/PjkdjIwLfRc" %}
 
 ### Contents of the Recording:
 
-🎤 AI Aharon kicks off the Open Mic.&#x20;
+🎤 Ash kicks off open mic with a fun pop quiz about Aharon's open mic kickoff catchphrases.&#x20;
 
-🛠️ Daniel shares Dev updates, including BitDefender and Connect Secure V4 integrations, new app builder features, and Pax8 OAuth migration details.&#x20;
+📋 Microsoft Forms Integration: Jared demonstrates connecting Microsoft Forms to Rewst workflows via Power Automate.&#x20;
 
-🔒 Paul demos crate, just-in-time admin access automation for on-prem and M365, showcasing improved security workflows.&#x20;
+🚦 Traffic Light Workflow Documentation: Brandon introduces a structured approach to workflow documentation using Hudu.&#x20;
 
-🎓 Eddie shares certification shoutouts, boot camp reminders, and App Builder AMA calendar.&#x20;
+🔗 Custom DNS Filter Integration: Danial builds a custom DNS Filter integration into ImmyBot using Rewst webhooks.&#x20;
 
-🧩 Charles demonstrates a clever workaround to pull live WatchGuard firewall configurations directly via SSH and custom APIs.&#x20;
+⚙️ Workflow Refactoring Hack: Alden shares how to convert massive workflows into manageable sub-workflows using the “Clone” feature.&#x20;
 
-🗳️ Derek showcases an app platform solution for his company’s annual chili cook-off, solving a 16-year paper ballot problem.&#x20;
-
-🔍 RJ tackles a complex LogicMonitor API integration, overcoming authentication hurdles and simplifying report generation.&#x20;
-
-⚙️ Sam walks through a ScreenConnect REST API workflow to speed up PowerShell commands and automate domain controller detection.&#x20;
-
-📋 Jonathan unveils a recursive GraphQL query workflow to surface and simplify Rewst error logs for faster debugging.
+📊 GraphQL Reporting: Danial unveils a new GraphQL action to generate advanced reports on workflow performance and success rates.
 
 <details>
 
