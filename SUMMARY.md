@@ -392,7 +392,7 @@
     * [Add your first page](documentation/app-builder/getting-started/add-your-first-page.md)
     * [Create a Workflow to utilise in your App](documentation/app-builder/getting-started/create-a-workflow-to-utilise-in-your-app.md)
     * [Use in-built App components](documentation/app-builder/getting-started/use-in-built-app-components.md)
-  * [🗓️ Prebuilt Apps (Coming Soon!)](documentation/app-builder/prebuilt-apps/README.md)
+  * [🗓️ Prebuilt Apps (available by request)](documentation/app-builder/prebuilt-apps/README.md)
     * [Forms Portal](documentation/app-builder/prebuilt-apps/forms-portal.md)
     * [End User Portal](documentation/app-builder/prebuilt-apps/end-user-portal.md)
     * [MSP Reporting Portal](documentation/app-builder/prebuilt-apps/msp-reporting-portal.md)
