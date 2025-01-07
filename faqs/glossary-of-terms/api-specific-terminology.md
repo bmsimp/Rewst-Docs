@@ -3,6 +3,7 @@ description: >-
   Discover the key terms and concepts that empower your automation. Navigate the
   world of APIs with ease and leverage their full potential in your Rewst
   workflows!
+hidden: true
 ---
 
 # API Specific Terminology
@@ -42,5 +43,5 @@ For more detail, or information on more complex authentication methods check out
 * **File Upload:** The process of sending files such as images, documents, or other binary data as part of an HTTP request to an API. Typically used with the content type multipart/form-data when passing files within form submissions.
 
 {% hint style="info" %}
-For more information on sending form data, including file uploads, see [MDN Web Docs - Sending Form Data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending\_and\_retrieving\_form\_data).
+For more information on sending form data, including file uploads, see [MDN Web Docs - Sending Form Data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data).
 {% endhint %}

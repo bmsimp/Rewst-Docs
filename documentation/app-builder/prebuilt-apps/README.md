@@ -1,12 +1,12 @@
-# 🗓️ Prebuilt Apps (Coming Soon!)
+# 🗓️ Prebuilt Apps (available by request)
 
 {% hint style="warning" %}
-_**Prebuilt Apps are an exciting new feature that will be available soon! Read on and see what's on the horizon.**_
+_**Prebuilt Apps is an exciting new feature that will be available soon! Read on and see what's on the horizon.**_
 {% endhint %}
 
 ## Welcome to Prebuilt Apps
 
-The Prebuilt Apps page is your gateway to powerful, ready-made solutions that enhance your workflows and user experience. Each app is designed to help you streamline operations, improve user satisfaction, and unlock valuable insights. Currently, the apps are available **on request**, and in the future, they will be made available for self-installation through the Marketplace. Explore our offerings and how to add custom styles below:
+The Prebuilt Apps page is your gateway to powerful, ready-made solutions that enhance your workflows and user experience. Each app is designed to help you streamline operations, improve user satisfaction, and unlock valuable insights. Currently, the apps are available **by request**. In the future, they will be made available for self-installation through the Marketplace. Explore our offerings and how to add custom styles below:
 
 ***
 

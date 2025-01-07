@@ -2,6 +2,23 @@
 
 <details>
 
+<summary>⚠️ Transition to OAuth 2.0 Authentication for Pax8 APIs (January 7th, 2025)</summary>
+
+As of **January 31st, 2025**, Pax8 will retire API Key requests as a method of authentication. To ensure uninterrupted access to the Pax8 integration, Rewst customers are required to transition to OAuth 2.0 for API authentication.
+
+To continue using the Pax8 integration with Rewst, you will need to transition to OAuth 2.0 authentication before January 31st, 2025. For information on how to update the configuration in Rewst, check this page: [pax8-2025-oauth-transition-planning.md](../documentation/integrations/licensing/pax8/pax8-2025-oauth-transition-planning.md "mention")
+
+This transition to OAuth 2.0 provides enhanced security, streamlined user experience, and improved API access management.&#x20;
+
+If you have any questions or need assistance with the transition, our team is here to help.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
+
+<details>
+
 <summary>⚠️ Upgrade to V4 of ConnectSecure needed by December 31st, 2024</summary>
 
 We’re excited to share an important update regarding your ConnectSecure integrations (formerly CyberCNS). To enhance functionality and ensure seamless performance, we’ve developed a new V4 version of the ConnectSecure integration. This update is designed to provide improved capabilities and long-term support as we transition from the V3 integration, which will reach its end-of-life on December 31st, 2024.
