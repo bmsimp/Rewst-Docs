@@ -1,11 +1,11 @@
 ---
 description: >-
-  Enables automation of Apple device management and monitoring. Utilize the
-  Addigy API within Rewst workflows to create, read, update or delete managed
-  devices and access monitoring functionality.
+  Enables automation of Apple device management and monitoring. Usethe Addigy
+  API within Rewst workflows to create, read, update, or delete managed devices,
+  and access monitoring functionality.
 ---
 
-# Addigy Integration Setup
+# Addigy integration setup
 
 ## Addigy Integration Setup
 

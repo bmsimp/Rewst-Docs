@@ -1,4 +1,4 @@
-# ROC Open Mics
+# January 3, 2025: Pax8 OAuth, Connecting Multiple Products, GitHub Challenges
 
 ### **Join Live!**
 
@@ -9,7 +9,7 @@ Join us live every Friday at 3 pm EST!
 ## Latest Open Mic Video Recording
 
 {% hint style="warning" %}
-App Builder Apps Release is for the US Crate Marketplace only. For those outside the US, Apps Builder Apps can requested through the ROC.
+At the time of this video, App Builder Apps Release is for the US Crate Marketplace only. For those outside the US, Apps Builder Apps can requested through the ROC.
 {% endhint %}
 
 {% embed url="https://youtu.be/MOjyIVX6wDs" %}
@@ -27,6 +27,8 @@ App Builder Apps Release is for the US Crate Marketplace only. For those outside
 🌀 John tackles GitHub workflow challenges: Explores streamlining GitHub actions while addressing jinga parsing conflicts.&#x20;
 
 🔧 Tim demonstrates running PowerShell and sub-workflows: Explains executing PowerShell scripts using RMMs and Rewst workflows for flexibility.
+
+
 
 <details>
 
@@ -54,4 +56,3 @@ App Builder Apps Release is for the US Crate Marketplace only. For those outside
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-
