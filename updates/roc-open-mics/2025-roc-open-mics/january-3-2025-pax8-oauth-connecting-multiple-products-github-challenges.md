@@ -9,7 +9,7 @@ Join us live every Friday at 3 pm EST!
 ## Latest Open Mic Video Recording
 
 {% hint style="warning" %}
-At the time of this video, App Builder Apps Release is for the US Crate Marketplace only. For those outside the US, Apps Builder Apps can requested through the ROC.
+At the time of this video, App Builder Apps Release is for the US Crate Marketplace only. For those outside the US, Apps Builder Apps can be requested through the ROC.
 {% endhint %}
 
 {% embed url="https://youtu.be/MOjyIVX6wDs" %}
