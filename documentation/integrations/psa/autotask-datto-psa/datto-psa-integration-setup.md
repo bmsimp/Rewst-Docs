@@ -2,7 +2,7 @@
 description: This document outlines the requirements and setup for the Datto integration.
 ---
 
-# Autotask Integration Setup
+# Autotask integration setup
 
 {% hint style="success" %}
 **This Integration supports multiple instances**
@@ -45,7 +45,7 @@ Before configuring the Rewst integration you must generate an API user.&#x20;
 For more information, please refer to [Datto's documentation](https://ww1.autotask.net/help/Content/4_Admin/1CompanySettings_Users/ResourcesUsersHR/Resources/API_User_Add_Edit.htm?Highlight=Generating%20API%20Credentials) for generating API credentials for your organization.
 {% endhint %}
 
-### Configuring the Integration
+### Configuring the integration
 
 Once you have created an API account, you'll need to configure the integration within the Rewst platform. Follow the below steps to configure a new integration.
 
@@ -63,14 +63,14 @@ Once you have created an API account, you'll need to configure the integration w
 If you aren't sure what zone is associated with your account, you can compare your URL with [this table](https://www.autotask.net/help/DeveloperHelp/Content/APIs/REST/General_Topics/REST_Swagger_UI.htm).&#x20;
 {% endhint %}
 
-#### Company Filter
+#### Company filter
 
 1. **Filter**: Select what you would like filtered from the dropdown.
 2. **Operation**: Choose which Operation you would like to use.
 3. **Value**: This must be an integer "Example for Company Below".
 
 {% hint style="info" %}
-**Accepted Company Type Values**
+**Accepted company type values**
 
 Ensure you enter the number for the company type you would like to filter on.
 
@@ -79,9 +79,9 @@ Ensure you enter the number for the company type you would like to filter on.
 2 = Lead
 3 = Prospect
 4 = Dead
-5 = Cancelation
-6 = Vendor
-7 = Partner
+6 = Cancelation
+7 = Vendor
+8 = Partner
 ```
 {% endhint %}
 

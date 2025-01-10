@@ -12,7 +12,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Added unsyncing for app clones
 * Updated templates and scripts page table column width
 * Google Enterprise License Manager integration
-* Granular forms permissions
 
 </details>
 
