@@ -401,9 +401,10 @@
 ## 📦 Prebuilt Automations
 
 * [What is a Crate?](prebuilt-automations/crates/README.md)
-  * [Crate State and Maturity](prebuilt-automations/crates/crate-state-and-maturity.md)
-  * [Submit your Crate Idea](prebuilt-automations/crates/submit-your-crate-idea.md)
-  * [Production Crate List](prebuilt-automations/crates/production-crate-list.md)
+  * [Crate state and maturity](prebuilt-automations/crates/crate-state-and-maturity.md)
+  * [Rewst's top 30 Crates](prebuilt-automations/crates/rewsts-top-30-crates.md)
+  * [Submit your Crate idea](prebuilt-automations/crates/submit-your-crate-idea.md)
+  * [Production Crate list](prebuilt-automations/crates/production-crate-list.md)
 * [Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
   * [Add client to Rewst](prebuilt-automations/existing-crate-documentation/add-client-to-rewst-setup.md)
   * [Configure organization variables](prebuilt-automations/existing-crate-documentation/configure-organization-variables.md)
