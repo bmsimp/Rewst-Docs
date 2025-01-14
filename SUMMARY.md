@@ -235,6 +235,8 @@
       * [Discord webhooks & actions](documentation/integrations/chat/discord/webhooks-and-actions.md)
   * [Cloud](documentation/integrations/cloud/README.md)
     * [Google Admin](documentation/integrations/cloud/google-admin/README.md)
+      * [Google Enterprise integration setup](documentation/integrations/cloud/google-admin/google-enterprise-integration-setup.md)
+      * [Google Enterprise actions and endpoints](documentation/integrations/cloud/google-admin/google-enterprise-actions-and-endpoints.md)
       * [Google Workspace Admin SDK integration setup](documentation/integrations/cloud/google-admin/google-workspace-admin-sdk-integration-setup.md)
       * [Google Workspace Admin actions & endpoints](documentation/integrations/cloud/google-admin/actions-and-endpoints.md)
     * [Nerdio](documentation/integrations/cloud/nerdio/README.md)
