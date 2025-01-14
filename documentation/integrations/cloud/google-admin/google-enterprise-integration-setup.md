@@ -8,6 +8,8 @@ This integration allows you to automate the management of Google Workspace licen
 
 Before setting up your Rewst integration, you'll need to set up the Google Workspace Admin SDK API in your Google Cloud Console. Please refer to the [Google Workspace Admin SDK API documentation](https://docs.rewst.help/documentation/integrations/cloud/google-admin/google-workspace-admin-sdk-integration-setup) for detailed instructions on how to set up the API.
 
+Find this integration [here in your Rewst Platform](https://app.rewst.io/organizations/b6e6c7b9-ff6e-4fff-a875-dfcb6ffc2c2d/integrations/google_enterprise_license_manager).
+
 {% hint style="warning" %}
 Note: Rewst supports multiple instances for Google Enterprise License Manager, but one instance of Google Enterprise License Manager is generally not multi-tenant. You may need a 1:1 relationship between an instance of this integration and a subtenant or a Rewst suborganization. Editor or owner permissions are needed to complete these steps in your Google Cloud Console.
 {% endhint %}
