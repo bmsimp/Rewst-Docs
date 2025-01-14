@@ -1,4 +1,4 @@
-# OpenAI Ticket Categorization
+# OpenAI ticket categorization
 
 {% hint style="info" %}
 **Azure OpenAI Instance**
@@ -7,7 +7,7 @@ Note that this crate works for both OpenAI and OpenAI with an Azure instance.\
 In order to use the Azure instance, you will need to follow the [Azure OpenAI Integration Setup](../../documentation/integrations/ai/openai/azure-openai-integration-setup.md) steps and follow the below steps.
 {% endhint %}
 
-### What does this crate do?
+### What does this Crate do?
 
 This crate uses the OpenAI API to categorize tickets, using your built-in types, sub-types etc. as the categories.
 
@@ -19,7 +19,7 @@ This crate was built with various reasons in mind, but most notably to help with
 * **Automation Building** - One of the most common questions we get asked is "What do we automate?" - this crate will help you answer that question. By categorizing your tickets, you can then see which types of tickets are taking up the most time, and which types of tickets are taking up the most time for your techs. This then allows you to make better decisions about what to automate.
 * **General Time Savings** - Whilst triaging tickets is a necessary evil, it's also a time-consuming one when you think about the number of tickets that come in. This crate will help you save time by using your own data to categorize tickets, rather than having to do it manually.
 
-### This sounds great but, I use \[Insert PSA] - can I use this?
+### This sounds great, but I use \[Insert PSA] - can I use this?
 
 Yes! This crate is PSA agnostic, so it will work with any of the PSAs that we support and also have a trigger type that kicks off the automation.
 
@@ -31,7 +31,7 @@ This list is currently:
 
 If you're using a PSA that isn't on this list, please let us know and we'll look at whether it has the ability to trigger an automation based on a ticket being created.
 
-### So what steps does the crate actually take? What is the automation?
+### So what steps does the Crate actually take? What is the automation?
 
 1. We identify the initial description/note on the ticket
 2. We identify the PSA that the ticket came from, and convert the JSON payload we got sent into standard variables (such as ticket title, description, etc.)

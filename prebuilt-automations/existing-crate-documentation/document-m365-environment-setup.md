@@ -1,4 +1,4 @@
-# Document M365 Environment Setup
+# Document M365 environment setup
 
 ## Introduction
 
@@ -8,7 +8,7 @@ The purpose of this crate is to automate the process of the M365 environment, au
 
 Before using this automation, ensure you have an existing Microsoft 365 account and your ITGlue or Hudu integration is set up.
 
-## What Does the Automation Do?
+## What does the automation do?
 
 The automation fetches user details from the Microsoft 365 API and documents this information on your ITGlue or Hudu platform.
 
@@ -24,18 +24,18 @@ This automation is compatible with ITGlue and Hudu at the moment.
 
 If your system or platform is not on this list, please let us know. We'll explore whether it can integrate with our crate.
 
-## Automation Steps
+## Automation steps
 
 1. The automation fetches various details from integrations such as MS Graph.
 2. The information is then updated, or creates a new flexible asset and uses a HTML table to insert the information in a nice-to-look-at way.
 
-## Getting Started
+## Get started
 
 **Step 1:** Ensure that you have the Microsoft Graph, Exchange Online and ITG or Hudu integrations set up and configured, which you can get to via the below links
 
-[Microsoft Graph](https://app.rewst.io/integrations/microsoft\_graph)
+[Microsoft Graph](https://app.rewst.io/integrations/microsoft_graph)
 
-[ITGlue](https://app.rewst.io/integrations/it\_glue)
+[ITGlue](https://app.rewst.io/integrations/it_glue)
 
 [Hudu](https://app.rewst.io/integrations/hudu)
 

@@ -1,4 +1,4 @@
-# Configure Organization Variables
+# Configure organization variables
 
 ### Introduction
 
@@ -22,7 +22,7 @@ You will now have two forms:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 at 2.26.18 PM.png" alt=""><figcaption></figcaption></figure>
 
-### Using the Forms
+### Use the forms
 
 1. **Go to** Automations → Forms → \[ROC] Rewst: Configure Organizational Variables
 2. **Click** the three dots to the right and select Usages → View Direct URLs
@@ -36,7 +36,7 @@ You will now have two forms:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 at 2.28.19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Setting Organization Variables for Sub-Organizations
+### Set organization variables for suborganizations
 
 To customize variables for client organizations:
 
@@ -46,9 +46,9 @@ To customize variables for client organizations:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 at 2.30.14 PM.png" alt=""><figcaption></figcaption></figure>
 
-####
 
-#### PSA Configuration
+
+#### PSA configuration
 
 | Field Label                            | Description                                                                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ To customize variables for client organizations:
 | Default Priority                       | Priority for Rewst created tickets                                                                                                              |
 | Send From Address                      | Define the reply to address when sending emails to ensure replies automatically get created in your PSA. This will likely be your support email |
 
-#### **Identity & Access Management**
+#### **Identity & access management**
 
 | Field Label                  | Description                                                                                                                                                          |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,13 +74,13 @@ To customize variables for client organizations:
 | Preferred ADConnect Server   | The name of the Server running ADConnect                                                                                                                             |
 | On-Prem Exchange Server      | Name of the On-Prem Exchange Server (if you are not running On-Prem Exchange, leave blank)                                                                           |
 
-#### Licensing & Purchases
+#### Licensing & purchases
 
 | Field Label                      | Description                  |
 | -------------------------------- | ---------------------------- |
 | Microsoft Licensing Distributor  | Select your license provider |
 
-#### Password Management
+#### Password management
 
 | Field Label                          | Description                                                                                                                               |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ To customize variables for client organizations:
 | Onboarding - Password Save Location  | Select another location to create the user onboard password. Such as PSA, ItGlue, Hudu                                                    |
 | PWPush URL                           | Add the URL for your PWPush if you have selected that option above                                                                        |
 
-#### User Onboarding & Offboarding Defaults&#x20;
+#### User onboarding & offboarding defaults&#x20;
 
 {% hint style="warning" %}
 #### These settings are specific to the User Onboarding & Offboarding crates

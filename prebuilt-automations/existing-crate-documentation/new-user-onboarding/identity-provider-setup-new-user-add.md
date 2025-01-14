@@ -1,6 +1,6 @@
-# Identity Provider Setup - New User Add
+# Identity provider setup - new user add
 
-### General: Configure Organizational Variables Form
+### General: Configure organizational variables form
 
 When the New User Add automation gets setup during onboarding, you can use the _General: Configure Organizational Variables_ Form to set the following:
 
@@ -10,7 +10,7 @@ When the New User Add automation gets setup during onboarding, you can use the _
 
 The Primary Identity Provider field gives you On-premise AD and Azure Active Directory options. A hybrid approach can also be applied.
 
-### Choosing between On-Prem and Azure Active Directory
+### Choosing between on-prem and Azure Active Directory
 
 Here are the things you'll want to consider when choosing which setting:
 
@@ -22,7 +22,7 @@ Here are the things you'll want to consider when choosing which setting:
 
 <figure><img src="../../../.gitbook/assets/primary-on-prem.gif" alt=""><figcaption><p>Setting the Primary Identity Provider to Azure AD</p></figcaption></figure>
 
-### Hybrid with AD Sync
+### Hybrid with AD sync
 
 If the new employee is going to have both an on-premise and Azure AD presence, setting them to On-Prem and specifying the domain controller that runs the AD Connect service in the Get and Set ORG Variables form will allow the user to first be created in the on-premise environment and then run an AD sync to create the user in Azure AD as well. The required fields are outlined below:
 
@@ -31,7 +31,7 @@ If the new employee is going to have both an on-premise and Azure AD presence, s
 
 <figure><img src="../../../.gitbook/assets/adconnect.gif" alt=""><figcaption><p>Setting the Primary Identity Provider to On-Prem AD</p></figcaption></figure>
 
-### Hybrid with No AD Sync
+### Hybrid with no AD sync
 
 You can still have the new employee add workflow create them in both places in the event tha t the user needs to be created both on-premise and in Azure AD with no ADConnect service running in the environment. You can follow these steps:
 

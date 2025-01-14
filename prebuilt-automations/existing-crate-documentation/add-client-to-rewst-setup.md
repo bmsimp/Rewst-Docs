@@ -1,4 +1,4 @@
-# Add Client to Rewst
+# Add client to Rewst
 
 ### Introduction
 
@@ -20,7 +20,7 @@ The first thing we need to do is unpack the _Add Client to Rewst_ Crate by doing
 
 <figure><img src="../../.gitbook/assets/unpack-client-add-crate.gif" alt=""><figcaption><p>Adding the Crate</p></figcaption></figure>
 
-### How to get to the Form
+### How to get to the form
 
 You can get to the form to add a client with the following:
 
@@ -67,7 +67,7 @@ Setting the following variables will allow a number of Crates (including the New
 * **Do not attempt to create a new o365 mailbox**: used if you do not want a mailbox created for the user
 {% endhint %}
 
-### Finishing Up
+### Finish up
 
 Once your form is complete you can submit your form.
 
