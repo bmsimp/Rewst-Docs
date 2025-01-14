@@ -1,4 +1,4 @@
-# Document M365 Users Setup
+# Document M365 users setup
 
 {% hint style="danger" %}
 Note that this documentation applies to the v2 of this crate.
@@ -16,7 +16,7 @@ The purpose of this crate is to automate the process of user management, auditin
 
 Before using this automation, ensure you have an existing Microsoft 365 account and your ITGlue or Hudu integration is set up.
 
-## What Does the Automation Do?
+## What does the automation do?
 
 The automation fetches user details from the Microsoft 365 API, as well as the Exchange integration, and documents this information on your ITGlue platform. The automation also links the M365 user to the Contact Record in ITG for easier tagging and access.
 
@@ -32,22 +32,22 @@ This automation is compatible with ITGlue at the moment, and we are actively wor
 
 If your system or platform is not on this list, please let us know. We'll explore whether it can integrate with our crate.
 
-## Automation Steps
+## Automation steps
 
 1. The automation fetches user details from various integrations such as MS Graph and Exchange Online.
 2. The information is combined into a single JSON object containing all the information about that user, including group names etc.
 3. The information is then updated, or creates a new flexible asset and uses a HTML table to insert the information in a nice-to-look-at way.
 4. The user is then related to the contact record.
 
-## Getting Started
+## Get started
 
 **Step 1:** Ensure that you have the Microsoft Graph, Exchange Online and ITG integrations set up and configured, which you can get to via the below links
 
-[Microsoft Graph](https://app.rewst.io/integrations/microsoft\_graph)
+[Microsoft Graph](https://app.rewst.io/integrations/microsoft_graph)
 
-[Microsoft Exchange Online](https://app.rewst.io/integrations/microsoft\_exo)
+[Microsoft Exchange Online](https://app.rewst.io/integrations/microsoft_exo)
 
-[ITGlue](https://app.rewst.io/integrations/it\_glue)
+[ITGlue](https://app.rewst.io/integrations/it_glue)
 
 **Step 2:** Unpack the crate in the marketplace. Find the crate titled "Document M365 User Details V2". You can also [find the crate by clicking here](https://app.rewst.io/marketplace/crates/ad23cb3a-d4fb-4066-91d1-719ea95a6355)
 

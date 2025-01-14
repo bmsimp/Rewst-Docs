@@ -4,7 +4,7 @@ description: >-
   required for Rewst to perform it's necessary actions.
 ---
 
-# CSP/CPV Permission Checker
+# CSP/CPV permission checker
 
 <details>
 
@@ -37,28 +37,28 @@ Your Rewst service account that is used to manage your Microsoft tenants require
 
 ## Usage&#x20;
 
-### Installing the Crate
+### Install the Crate
 
 * Refer to the instructions in the [Unpack a Crate](../crates/#unpacking-a-crate) section of the documentation.
 * Before unpacking, make sure to enable the necessary organizations in the trigger configuration section. This can be done by toggling `Activate for all current and future managed organizations` or by selecting from the available organization list.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-### **Execute the Workflow**
+### **Execute the workflow**
 
 * Within the **\[ROC] M365: CSP/CPV Permission Checker** main workflow, click `Test`.
 * From the dropdown menu, select the tenant you want to check permissions for. This list is derived from the organizations enabled in your trigger configuration.
 * Provide any domain associated with the managing organization's tenant to fetch it's ID.
 
-### **Workflow Steps**
+### **Workflow steps**
 
-#### **Gather Tenant Info**
+#### **Gather tenant info**
 
 * The **\[ROC] M365: Get Tenant Info by Domain** sub-workflow uses the collected domain, represented as `{{ CTX.primary_domain }}`.
 * A `GET` request is made to:\
   `https://login.microsoftonline.com/{{ CTX.provided_domain }}/.well-known/openid-configuration`
 
-#### **Determine Tenant ID**
+#### **Determine tenant ID**
 
 A data alias is created for the `msp_tenant_id`, which is extracted from the returned tenant info using the following Jinja statement:
 
@@ -66,7 +66,7 @@ A data alias is created for the `msp_tenant_id`, which is extracted from the ret
 {{ CTX.tenant_info.authorization_endpoint.split('/')[3] }}
 ```
 
-#### **Assess Roles**
+#### **Assess roles**
 
 * The **\[ROC] M365: Get Role Assignments** sub-workflow is initiated.
 * The [Necessary GDAP roles](../../documentation/integrations/cloud/microsoft-cloud-integration-bundle/authorization-best-practices.md#recommended-roles-for-gdap) are confirmed through a `GET` request to the following Graph endpoint:
@@ -74,12 +74,12 @@ A data alias is created for the `msp_tenant_id`, which is extracted from the ret
   * Endpoint: `/roleManagement/directory/roleAssignments?$filter=roleDefinitionId eq '{{ CTX.role_id }}'&$expand=principal`
 * The output differentiates between present and absent roles, with results set for comparison in the subsequent step.
 
-**Compile and Analyze Results**
+**Compile and analyze results**
 
 * A comparison is conducted between the `msp_tenant_id` and the IDs from the returned roles to ensure appropriate permissions.
 * A summary of the roles is generated, and a `missing roles` data alias is defined.
 
-Example Output:
+Example output:
 
 ```json
 "missing_roles": [

@@ -1,4 +1,4 @@
-# CWM: Technician Toolbox Via Pod
+# CWM: technician toolbox via pod
 
 ## Introduction
 
@@ -8,7 +8,7 @@ The Technical Toolbox crate gives your technicians access to Rewst automation wi
 
 Before unpacking this crate, you must configure the pod to work with Rewst. Follow our guide: [Pod Configuration](../../documentation/integrations/psa/connectwise-manage/pod-configuration.md)
 
-## Unpacking the Crate
+## Unpack the Crate
 
 **Log in** to app.rewst.io
 
@@ -22,7 +22,7 @@ Before unpacking this crate, you must configure the pod to work with Rewst. Foll
 the crate will unpack with its triggers enabled. The trigger is set to work on any new tickets automatically. You will need to manually load the toolbox, as shown further in this document
 {% endhint %}
 
-## Using the Tool Box
+## Use the tool box
 
 On tickets with the pod running, you will see Five Main Categories; clicking the categories will open menu options for further tasks, as outlined below.&#x20;
 
@@ -59,7 +59,7 @@ On tickets with the pod running, you will see Five Main Categories; clicking the
 
 <details>
 
-<summary>Customer Portals</summary>
+<summary>Customer portals</summary>
 
 * M365
 * Exchange
@@ -72,7 +72,7 @@ On tickets with the pod running, you will see Five Main Categories; clicking the
 
 <details>
 
-<summary>Rewst Workflows</summary>
+<summary>Rewst workflows</summary>
 
 * Onboarding Form
 * Offboarding Form
@@ -82,7 +82,7 @@ On tickets with the pod running, you will see Five Main Categories; clicking the
 
 </details>
 
-## Re-running a Pod From a Ticket <a href="#re-running-a-pod-from-a-ticket" id="re-running-a-pod-from-a-ticket"></a>
+## Re-run a pod from a ticket <a href="#re-running-a-pod-from-a-ticket" id="re-running-a-pod-from-a-ticket"></a>
 
 Let's imagine you have a ticket that has had its associated pod workflow execution expire (or fail for one reason or another). If you attempt to view the pod in the ticket, you will see something along the lines of:
 

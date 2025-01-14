@@ -2,7 +2,7 @@
 
 Due to the nature of the Crate Marketplace, and the many integrations that we support, we often have various stages of Crate deployment. This helps us make sure that Crates are thoroughly tested both internally and by our willing customers. To make this process as transparent as possible, we've created a state system for Crates.&#x20;
 
-You can determine a Crate's state by looking it up in Crate Marketplace and checking its color coded state label in the bottom right of that Crate tile. Similarly, the Red number count on the bottom left corner of a Crate tile shows you the current count of fellow Rewsters that have unpacked and used the Crate. Click to expand and learn about each of our Crate states below.&#x20;
+You can determine a Crate's state by looking it up in Crate Marketplace and checking its color coded state label in the bottom right of that Crate tile. Similarly, the red number count on the bottom left corner of a Crate tile shows you the current count of fellow Rewsters that have unpacked and used the Crate. Click to expand and learn about each of our Crate states below.&#x20;
 
 {% hint style="info" %}
 Note that each Crate may differ in terms of requirements, setup time, and complexity.&#x20;
@@ -12,7 +12,7 @@ We try to provide an estimate of the setup time for each Crate, whenever possibl
 
 <details>
 
-<summary><strong>Egg: Pre-alpha release</strong></summary>
+<summary>Egg: Pre-alpha release</summary>
 
 This is the initial state of a Crate. It is the equivalent of a pre-alpha release. It is generally not recommended to use these Crates in production.\
 ![ An image of an example Crate in Crate Marketplace, with the Egg state shown in its bottom right corner via grey text](<../../.gitbook/assets/Screenshot 2025-01-13 at 3.46.15 PM.png>)
@@ -23,7 +23,7 @@ We will often create Crates in this state to show what is actively being worked 
 
 <details>
 
-<summary><strong>Hatchling: Alpha release</strong></summary>
+<summary>Hatchling: Alpha release</summary>
 
 This is the first stage of a Crate that is ready for testing, but still considered alpha. It's not recommended to use these Crates in production.
 

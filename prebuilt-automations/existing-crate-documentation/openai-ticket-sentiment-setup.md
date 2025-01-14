@@ -1,29 +1,29 @@
-# OpenAI Ticket Sentiment
+# OpenAI ticket sentiment
 
 {% hint style="info" %}
 **Azure OpenAI Instance**
 
-Note that this crate works for both OpenAI and OpenAI with an Azure instance.\
+Note that this Crate works for both OpenAI and OpenAI with an Azure instance.\
 In order to use the Azure instance, you will need to follow the [Azure OpenAI Integration Setup](../../documentation/integrations/ai/openai/azure-openai-integration-setup.md) steps and follow the below steps.
 {% endhint %}
 
-### What does this crate do?
+### What does this Crate do?
 
-This crate uses the OpenAI API to analyze the sentiment of the customer note on a ticket.
+This Crate uses the OpenAI API to analyze the sentiment of the customer note on a ticket.
 
 We are then able to determine whether the sentiment is positive, negative, or neutral based on your configured threshold and then update the ticket priority, severity, and impact (depending on the PSA) accordingly.
 
 This also means that if a ticket comes in that is considered a negative sentiment, we can then automatically escalate the ticket to the relevant person/team.
 
-This crate was built with various reasons in mind, but most notably to help with the following:
+This Crate was built with various reasons in mind, but most notably to help with the following:
 
 * **Quicker Response Times** - By automatically escalating tickets that are considered negative sentiment, you can ensure that you're responding to your customers quicker and more efficiently. This will help you to improve your customer satisfaction. Our experience shows that the faster you respond to a frustrated client, the more likely they are to be happy with the resolution.
 * **Correct Prioritization** - By automatically updating the priority, severity, and impact of a ticket based on the sentiment, you can ensure that your techs are working on the right tickets at the right time. This will help you to improve your customer satisfaction, as well as identify any repeating issues that may be causing negative sentiment.
-* **Another differentiator** - By using this crate, you can ensure that you're differentiating yourself from your competitors. You can talk about how you're using AI not to respond using that AI, but to ensure that a human looks at the ticket quicker. Having an auto-escalation process in place will help you to stand out from the crowd.
+* **Another differentiator** - By using this Crate, you can ensure that you're differentiating yourself from your competitors. You can talk about how you're using AI not to respond using that AI, but to ensure that a human looks at the ticket quicker. Having an auto-escalation process in place will help you to stand out from the crowd.
 
 ### This sounds great but, I use \[Insert PSA] - can I use this?
 
-Yes! This crate is PSA agnostic, so it will work with any of the PSAs that we support and also have a trigger type that kicks off the automation.
+Yes! This Crate is PSA agnostic, so it will work with any of the PSAs that we support and also have a trigger type that kicks off the automation.
 
 This list is currently:
 
@@ -33,7 +33,7 @@ This list is currently:
 
 If you're using a PSA that isn't on this list, please let us know and we'll look at whether it has the ability to trigger an automation based on a ticket being created.
 
-### So what steps does the crate actually take? What is the automation?
+### So what steps does the Crate actually take? What is the automation?
 
 1. We identify the initial description/note on the ticket
 2. We identify the PSA that the ticket came from, and convert the JSON payload we got sent into standard variables (such as ticket title, description, etc.)
