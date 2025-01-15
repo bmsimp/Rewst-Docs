@@ -404,7 +404,7 @@
 
 * [What is a Crate?](prebuilt-automations/crates/README.md)
   * [Crate state and maturity](prebuilt-automations/crates/crate-state-and-maturity.md)
-  * [Rewst's top 30 Crates](prebuilt-automations/crates/rewsts-top-30-crates.md)
+  * [Stewart's 30 favorite Crates](prebuilt-automations/crates/stewarts-30-favorite-crates.md)
   * [Submit your Crate idea](prebuilt-automations/crates/submit-your-crate-idea.md)
   * [Production Crate list](prebuilt-automations/crates/production-crate-list.md)
 * [Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
