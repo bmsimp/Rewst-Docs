@@ -112,7 +112,6 @@
     * [Favorite actions](documentation/workflows/workflow-building-tips-and-tricks/favorite-actions.md)
 * [Forms](documentation/forms/README.md)
   * [Dynamic options & inputs](documentation/forms/intro-to-forms.md)
-  * [Form permissions](documentation/forms/form-permissions.md)
   * [Embedding a form into an iFrame](documentation/forms/embedding-a-form-into-an-iframe.md)
   * [Restricting form dropdowns](documentation/forms/restricting-form-dropdowns.md)
   * [Cloning an existing form](documentation/forms/cloning-an-existing-form.md)
