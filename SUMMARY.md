@@ -441,6 +441,7 @@
 
 * [Development Updates](updates/development-updates/README.md)
   * [2025 Dev Updates](updates/development-updates/2025-dev-updates/README.md)
+    * [January 17, 2025 - Dev Update](updates/development-updates/2025-dev-updates/january-17th-2025.md)
     * [January 10, 2025 - Dev Update](updates/development-updates/2025-dev-updates/january-10th-2025.md)
   * [2024 Dev Updates](updates/development-updates/2024-dev-updates/README.md)
     * [December 27, 2024 - Dev Update](updates/development-updates/2024-dev-updates/december-27th-2024.md)
