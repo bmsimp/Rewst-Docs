@@ -36,7 +36,7 @@ The **End User Portal** is built around self-service automation, letting you man
 
 ### Custom branding with Rewst's Style Customization Crate
 
-As a bonus, you can customize your End User Portal by unpacking our [Style Customization Crate](https://app.rewst.io/organizations/40f8b55a-e8a9-42fc-8dc1-179616275f10/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b), which lets you update all of your Prebuilt Apps without manual CSS edits for a professional, client-ready appearance.
+As a bonus, you can customize your End User Portal by unpacking our [App Builder - Create Branding Variables](https://app.rewst.io/organizations/40f8b55a-e8a9-42fc-8dc1-179616275f10/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b) Crate, which lets you update all of your Prebuilt Apps without manual CSS edits for a professional, client-ready appearance.
 
 * Apply consistent branding across all apps
 * Input hex codes, upload logos, and select themes to apply at the MSP or client level
