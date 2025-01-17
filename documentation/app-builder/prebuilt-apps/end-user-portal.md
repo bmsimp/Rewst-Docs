@@ -1,37 +1,49 @@
 # End User Portal
 
-## End User Portal
+{% hint style="warning" %}
+End User Portals, like all Prebuilt Apps, are currently available by request only. To request Prebuilt Apps, send us a message in your dedicated Discord support channel.
+{% endhint %}
 
-The **End User Portal** is designed to empower end users by giving them direct access to key automations and self-service tools. With its intuitive and user-friendly design, the portal provides a streamlined, 24/7 solution for users to manage their needs independently, all while keeping the service desk informed and involved. From password resets to new user onboarding, the portal is a one-stop solution for users to take action without needing to pick up the phone or wait for their action to be done manually.
+The **End User Portal** is built around self-service automation, letting you manage tasks independently while still maintaining the ability to log tickets for more complex needs. With 24/7 access to essential automations, this portal reduces reliance on service desk calls and streamlines operations for both you and your end users.
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-### Key Features
+### Features
 
-* **Self-Service Automation**: End users can access and run essential workflows, such as password resets, group changes, onboarding, and offboarding, without having to contact the service desk. This ensures quick resolution of routine tasks, reducing strain on your support team.
-* **Ticket Logging and Workflow Integration**: Users can still log tickets and receive updates directly from the portal. Any automation action taken is seamlessly integrated with your Rewst workflows, meaning your team is always kept in the loop.
-* **Customisable Design**: Just like the Forms Portal, the End User Portal can be fully customised to match your or your clients' branding, including logos, colour schemes, and more.
+* Manage group memberships
+* Onboard employees
+* Offboard employees
+* Reset passwords
+* Reset accounts
+* Log tickets for other requests
+* View tickets that have been submitted, along with their status
+* Export reports
 
-### Customisability with Bulma CSS
+### **Crate prerequisites for End User Portal setup:**
 
-The **End User Portal** leverages the same powerful customisation options as the Forms Portal, using **Bulma for CSS** to ensure that the design aligns perfectly with your brand.
+* [User Onboarding](https://app.rewst.io/marketplace/crates/739fbe90-70da-454e-888e-5fa416665ce1)
+* [User Offboarding](https://app.rewst.io/marketplace/crates/c3f4316f-f599-4943-af50-29cde06dd863)
+* [Reset Locked Accounts](https://app.rewst.io/marketplace/crates/7cd396a6-89e5-4d7a-b57d-70a97c71fa22)
+* [Change A User's Password](https://app.rewst.io/marketplace/crates/2380ea0b-00b6-47d5-8107-77fc55a63938)
+* [Add or Remove Group Membership](https://app.rewst.io/marketplace/crates/022c71ff-985c-4a8a-a0ac-efbdc4705a70)
 
-#### How It Works:
+### **Integration prerequisites for End User Portal setup:**
 
-* **Modular Components**: Like the Forms Portal, the End User Portal is built with modular templates and HTML components. This allows for precise, site-wide customisations or changes to individual elements, making it easy to update specific sections without affecting the entire site.
-* **Easy Theming**: Simply adjust the colours and logos using the pre-built Rewst forms. Just enter your hex codes, enter a link to the logo, and apply the branding site-wide without needing to handle complex CSS.
+* View tickets feature
+  * PSA: Connectwise PSA, Datto Autotask, Halo PSA
+* Create ticket feature
+  * PSA: Connectwise PSA, Datto Autotask, Halo PSA
 
-### Why Choose End User Portal?
+### Custom branding with Rewst's Style Customization Crate
 
-* **24/7 Self-Service**: Users can take control of routine requests, like password resets or group changes, anytime they need. No more waiting on calls or opening service tickets for simple tasks.
-* **Automate Routine Processes**: The portal integrates directly with Rewst workflows, allowing users to trigger automations that keep your team informed while still reducing the need for manual intervention.
-* **Customisable User Experience**: Provide a branded, polished interface that makes your organisation stand out, while also ensuring ease of use for non-technical users.
-* **Comprehensive Automation**: Cover a wide range of user needs—onboarding, offboarding, permissions changes, and more—all managed through one unified platform.
+As a bonus, you can customize your End User Portal by unpacking our [Style Customization Crate](https://app.rewst.io/organizations/40f8b55a-e8a9-42fc-8dc1-179616275f10/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b), which lets you update all of your Prebuilt Apps without manual CSS edits for a professional, client-ready appearance.
 
-### What's Next for End User Portal?
+* Apply consistent branding across all apps
+* Input hex codes, upload logos, and select themes to apply at the MSP or client level
 
-We're continually looking to improve and expand the functionality of the End User Portal, just like we do with our other Marketplace automations. Whether you have feedback, feature requests, or suggestions for new automations, we'd love to hear from you! Share your thoughts on Canny, reach out to your Customer Success Manager, or speak directly with any Rewst team member.
+### Feedback
 
-{% hint style="info" %}
-_The End User Portal is currently available upon request. Please refer to the FAQ for more details on how to get started._
-{% endhint %}
+You tell us what comes next! If you're a current user of our End User Portal, send us your feedback on current features, desired features, and any bugs you encounter in [this feedback collection form](https://forms.office.com/Pages/ResponsePage.aspx?id=VtqdWutbQEiD4Zr8GtojiJFelL-3rz1JvOPdoNrnRFRUNTg4VEdSUEdCS0c2TTU4U0tOVFBXR0ZCOC4u\&origin=Invitation\&channel=0).
+
+
+
