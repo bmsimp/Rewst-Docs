@@ -1,4 +1,4 @@
-# Workflow Generated Options
+# Workflow generated options
 
 ### What are Workflow-Generated Options?
 

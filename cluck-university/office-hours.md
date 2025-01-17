@@ -5,7 +5,7 @@ description: >-
   Join us for our Cluck U Office Hours!
 ---
 
-# Office Hours
+# Office hours
 
 ## Welcome to Cluck University Office Hours!
 

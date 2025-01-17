@@ -1,4 +1,4 @@
-# How to Reference Data with Variables
+# How to reference data with variables
 
 {% embed url="https://youtu.be/NjJOdIoVTL4" %}
 

@@ -2,7 +2,7 @@
 description: Streamlining Data Retrieval with Jinja Filters vs. List Comprehension
 ---
 
-# Efficiently Extracting Nested Data
+# Efficiently extracting nested data
 
 ## Introduction
 

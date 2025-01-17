@@ -4,7 +4,7 @@ description: >-
   clean automation principles and defensive strategies.
 ---
 
-# Advanced Automation Concepts
+# Advanced automation concepts
 
 {% hint style="success" %}
 Sign up for our **LIVE** sessions **Monday's @ 3pm Eastern** on [Calendly](https://calendly.com/cluck-u/rewst-201).

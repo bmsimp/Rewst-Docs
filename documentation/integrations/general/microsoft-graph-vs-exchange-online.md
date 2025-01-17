@@ -1,4 +1,4 @@
-# Managing Groups: Microsoft Graph vs. Exchange Online
+# Managing groups: Microsoft Graph vs. Exchange Online
 
 ## Introduction
 

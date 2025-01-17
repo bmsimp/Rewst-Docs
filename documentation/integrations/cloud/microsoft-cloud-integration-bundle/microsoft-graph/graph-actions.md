@@ -1,4 +1,4 @@
-# Graph Actions
+# Graph actions
 
 ## Overview
 

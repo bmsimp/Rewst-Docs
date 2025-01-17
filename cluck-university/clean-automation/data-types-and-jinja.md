@@ -4,7 +4,7 @@ description: >-
   manipulation and content rendering techniques.
 ---
 
-# Data Types and Jinja
+# Data types and Jinja
 
 {% hint style="info" %}
 Sign up for our **LIVE** sessions **Tuesday's @ 3pm** **Eastern** on [Calendly](https://calendly.com/cluck-u/rewst-202).

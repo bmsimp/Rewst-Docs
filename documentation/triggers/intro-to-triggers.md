@@ -1,4 +1,4 @@
-# Intro to Triggers
+# Intro to triggers
 
 ### Overview
 
@@ -13,11 +13,7 @@ There are two ways to use a trigger currently
 
 Click into a workflow and across the top bar, there is a icon.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/add-trigger.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/add-trigger.png" alt=""><figcaption></figcaption></figure></div>
 
 Pressing this brings up a small form for you to fill in. Note that you can have multiple triggers per workflow, such as a webhook and a trigger that runs when a ticket gets saved in the PSA.
 

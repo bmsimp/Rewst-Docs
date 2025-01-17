@@ -1,4 +1,4 @@
-# Core Triggers to Kick-off Automation
+# Core triggers to kick-off automation
 
 {% embed url="https://youtu.be/pyaKTRP6-BI" %}
 

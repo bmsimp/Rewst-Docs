@@ -1,4 +1,4 @@
-# Working with Jinja Lists
+# Working with Jinja lists
 
 ## Introduction
 

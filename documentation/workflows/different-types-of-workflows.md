@@ -1,4 +1,4 @@
-# Different Types of Workflows
+# Different types of workflows
 
 ### Overview
 

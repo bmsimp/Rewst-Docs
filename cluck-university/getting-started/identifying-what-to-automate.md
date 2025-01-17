@@ -1,4 +1,4 @@
-# Identifying What to Automate
+# Identifying what to automate
 
 {% embed url="https://www.youtube.com/watch?v=xwSUbM6ruGs" %}
 
