@@ -1,5 +1,5 @@
 ---
-icon: circle-2
+icon: lightbulb-on
 ---
 
 # Automation basics
