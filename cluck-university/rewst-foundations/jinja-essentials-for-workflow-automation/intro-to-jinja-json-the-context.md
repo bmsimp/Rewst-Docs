@@ -1,71 +1,127 @@
 ---
-description: >-
-  Recognize JSON formatting in the context of the Jinja live editor + Use the
-  Live Editor to practice Jinja code on data from the context
+description: Understand how APIs make automation possible.
 ---
 
-# Introduction to Jinja, JSON, and The Context
+# APIs
 
-## Module Overview
+## Module overview
 
-:bulb: Let's explore the format of JSON data in the context of the Jinja Live Editor, to visualize and experiment with data as part of Rewst workflows.
+:egg: APIs power every automation in Rewst by acting as translators between systems, making complex tasks happen behind the scenes. In this module, you’ll learn what APIs are, how they work, and why they’re essential for building automations that do the heavy lifting for you.
 
-### Video _(1:10 Minutes)_
+## Video _(4:17 minutes)_
 
-{% embed url="https://youtu.be/FqAISlf40wM?si=Som5P-HrI1KtbPkf" %}
-
-### Video (_3:50 Minutes)_
-
-{% embed url="https://youtu.be/H_lX0k871zU?si=bGNgniYjFsAX1Abt" %}
+{% embed url="https://youtu.be/aq-WrVzkOkc" %}
 
 <details>
 
-<summary>Key Concepts About Jinja and JSON</summary>
+<summary>What is an API?</summary>
 
-* Jinja is the templating language used in Rewst workflows. It allows you to create placeholders in your code that are filled in with real data when the workflow runs.
-* Think of Jinja as your tool for working with dynamic data like user names, group IDs, and actions.
-* Every time a Rewst workflow runs, the data processed is shown in JSON (JavaScript Object Notation) format in the context of the workflow.
-* JSON organizes data into objects (also called context variables in Rewst workflows), with key: value pairs. For example, "action" is a key and "add" could be the value.
+An API (Application Programming Interface) is a contract that lets different software systems talk to each other. It defines what you can ask for, how to ask for it, and what to expect in return. While it sounds technical, it's more familiar than you think—like a menu at a restaurant.
 
 </details>
 
 <details>
 
-<summary>Working with Object Attributes</summary>
+<summary>APIs are like restaurant menus</summary>
 
-In JSON, objects may have additional attributes, organized within more braces. You can access a specific attribute using dot notation.
+Think of an API as a **menu**:
 
-* For example, to get the organization ID, use "CTX.organization.id" in the Jinja Live Editor.
-* If you need the entire object, ask for "CTX.organization" to get all its attributes and values.
-
-</details>
-
-<details>
-
-<summary>Accessing Context Data in Rewst</summary>
-
-To get familiar with your context data, complete these steps in Rewst:
-
-1. Open the "Add or Remove User - Microsoft Group" workflow and go to the "workflow results" by selecting the graph icon.
-2. Open the most recent success and review the Context data. This will show you all the information processed during the workflow execution.
-
-Key objects like "action," "user\_id," and "group\_id" are visible as part of the context data. These were configured in the workflow input and are now accessible for use in Jinja code.
+* The **request** is your order (what you ask for). You can’t ask for anything that’s not on the API’s menu.
+* The **parameters** are your instructions (e.g., “no olives”).
+* The **response** is the meal you receive. You don’t need to know how the kitchen works—you just need to follow the menu’s guidelines to get exactly what you ordered.
 
 </details>
 
 <details>
 
-<summary>Exploring the Jinja Live Editor</summary>
+<summary>Why APIs matter for Rewst</summary>
 
-The Jinja Live Editor is a great place to experiment with Jinja code. You can paste in JSON data and practice writing Jinja statements without affecting any real data.
+Rewst works like a **concierge** using APIs to handle tasks across systems.
+
+For example, planning a **“Night on the Town”** involves multiple requests: booking a restaurant, securing concert tickets, and calling a ride. Instead of managing these tasks individually, Rewst handles them all through APIs, bundling them into a single automated workflow.
 
 </details>
 
-### Action Items
+<details>
 
-* Read the [Jinja Essentials ](https://docs.rewst.help/documentation/jinja/jinja-essentials)documentation for more information on Jinja and JSON, including Rewst examples&#x20;
-* Review the context data from your "Add or Remove User - Microsoft Group" workflow execution (part of the lesson, "Building a Basic Form and Workflow").&#x20;
+<summary>How Rewst uses APIs behind the scenes</summary>
 
-## Navigation
+Every automation in Rewst is powered by API requests and responses. When you set up a workflow—like pulling a user from Microsoft Graph or sending a message in Slack—you’re making API calls without needing to know the details. Rewst simplifies the process for you.
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><p>Go back to the lesson page: </p><p><a data-mention href="./">.</a><br></p></td><td align="center"></td><td></td></tr><tr><td align="center">Go to the next module:</td><td align="center"><a data-mention href="basic-jinja-syntax-and-filters.md">basic-jinja-syntax-and-filters.md</a></td><td></td></tr></tbody></table>
+</details>
+
+<details>
+
+<summary>The big takeaway</summary>
+
+APIs are essential for automation, and Rewst acts as your API concierge, managing complex API conversations on your behalf. By using APIs, Rewst connects with other systems to automate tasks and processes seamlessly—without you having to interact with each system directly.
+
+</details>
+
+## Video _(3:43 minutes)_
+
+{% embed url="https://youtu.be/-WUmpkm1HzA" %}
+
+<details>
+
+<summary>APIs speak in verbs: The four main HTTP methods</summary>
+
+APIs use **HTTP methods**—like action verbs—to specify what kind of task you want to perform:
+
+* **GET**: Retrieve data (like checking the menu).
+* **POST**: Add new data (like placing an order).
+* **PUT**: Update existing data (like changing a reservation).
+* **DELETE**: Remove data (like canceling a reservation).
+
+For example, Rewst might use a GET request to check restaurant availability, a POST to book tickets, and a DELETE to cancel plans—all handled automatically through APIs.
+
+</details>
+
+<details>
+
+<summary>Requests and responses: The API conversation</summary>
+
+Every interaction with an API is a two-way **conversation**:
+
+* You send a **request** (asking for data or performing an action).
+* The system sends a **response** (giving you what you asked for or an error message if something went wrong).
+
+A request includes:
+
+* **The method** (like GET or POST).
+* **The URL** (where the request is sent, like the restaurant's address).
+
+For example:
+
+**Base URL:** `https://restaurantapi.com` (the address).
+
+**Endpoint:** `/reservation/123` (what you're asking for).
+
+</details>
+
+<details>
+
+<summary>Rewst handles the heavy lifting</summary>
+
+With Rewst, you don’t need to manually craft these requests. It automates the conversation by handling all the requests and responses behind the scenes. Whether it's pulling user data from Microsoft or sending a Slack message, Rewst makes sure your workflows communicate with other systems seamlessly.
+
+</details>
+
+<details>
+
+<summary>The big picture: Simplifying complexity</summary>
+
+APIs might seem complex, but it all comes down to understanding the verbs and conversations. Rewst simplifies this process, allowing you to build automations without worrying about the technical details of each request. With this foundation, you're ready to create smarter, more efficient workflows with confidence.
+
+</details>
+
+## Action items
+
+* Think about a workflow you’ve built (or want to build) in Rewst. Break it down into **requests and responses**—what information needs to be pulled (GET), added (POST), updated (PUT), or deleted (DELETE)? Reflect on how Rewst handles these API conversations behind the scenes to make automation seamless.
+* Take the API knowledge check:&#x20;
+
+{% embed url="https://www.surveymonkey.com/r/ZCQ5RKG" %}
+
+## Keep on cluckin'
+
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go back to the lesson page: </td><td><a href="./">.</a></td><td></td></tr><tr><td align="center">Go to the next module:</td><td><a href="basic-jinja-syntax-and-filters.md">basic-jinja-syntax-and-filters.md</a></td><td><a href="basic-jinja-syntax-and-filters.md">basic-jinja-syntax-and-filters.md</a></td></tr></tbody></table>

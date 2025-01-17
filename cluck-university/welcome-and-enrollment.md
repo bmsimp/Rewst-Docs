@@ -6,12 +6,12 @@ To kick off your automation journey, we have an entire [getting-started](getting
 
 ## On-demand training
 
-We offer sessions sequentially, and you can use the self-serve resources. Use the hyperlinks below to get started, and let us know if you hit a roadblock along the way, or have questions in our [Cluck University Discord Channel](https://discord.gg/WKwsZngc). If you stick to it, you’ll have your [certification](rewst-foundations/foundations-certification.md) in no time!&#x20;
+We offer sessions sequentially, and you can use the self-serve resources. Use the hyperlinks below to get started, and let us know if you hit a roadblock along the way, or have questions in our [Cluck University Discord Channel](https://discord.gg/WKwsZngc). If you stick to it, you’ll have your [certification](rewst-foundations-1/foundations-certification.md) in no time!&#x20;
 
-We offer courses sequentially, and you can use the self-serve resources. Use the hyperlinks below to get started with each session, and let us know if you hit a roadblock along the way, or have questions in our [Cluck University Discord Channel](https://discord.gg/WKwsZngc). If you stick to it, you’ll have your [certification](rewst-foundations/foundations-certification.md) in no time!&#x20;
+We offer courses sequentially, and you can use the self-serve resources. Use the hyperlinks below to get started with each session, and let us know if you hit a roadblock along the way, or have questions in our [Cluck University Discord Channel](https://discord.gg/WKwsZngc). If you stick to it, you’ll have your [certification](rewst-foundations-1/foundations-certification.md) in no time!&#x20;
 
 {% hint style="info" %}
-* [rewst-foundations](rewst-foundations/ "mention")
+* [rewst-foundations-1](rewst-foundations-1/ "mention")
 * [clean-automation](clean-automation/ "mention")
 * [electives](electives/ "mention")
 {% endhint %}

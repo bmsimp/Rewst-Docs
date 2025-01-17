@@ -1,4 +1,4 @@
-# Core Triggers to Kick-off Automation
+# Core triggers to kick-off automation
 
 {% embed url="https://youtu.be/pyaKTRP6-BI" %}
 
@@ -51,5 +51,5 @@ To set up a trigger, navigate to the automation platform's workflow canvas:
 Triggers are essential components in automating tasks and processes. By understanding and utilizing different types of triggers, you can significantly enhance the efficiency and reliability of your automated systems.&#x20;
 
 {% hint style="success" %}
-For more on Triggers, check out our [rewst-foundations](../rewst-foundations/ "mention") training where we work through a full automation example.
+For more on Triggers, check out our [rewst-foundations-1](../rewst-foundations-1/ "mention") training where we work through a full automation example.
 {% endhint %}

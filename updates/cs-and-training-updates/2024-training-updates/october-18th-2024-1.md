@@ -11,7 +11,7 @@ Explore what new changes the Training team has made in the last week.
   * Or on the Retro side, I'm about half way through Xenogears and working on playing through Link to the Past again! These are both classics!
 * **SHOUT OUTS** **TO:**
   * Clint, Adam B, Kai, Jonathan, James, Kian, David, Ed, Zolile, Rob,  and Adam K for passing the Foundations Certification
-    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
+    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations-1/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
     * You also get access to a super secret Discord channel.
   * Elliot, David, Derrick, Logan, Andrew, Nick, Dustin, Reinier, Nicholas, Patrick, Austin, Sean, Owen, Philippe, Michael D, Brandon, Devon, Aaron, Jared, Ben, Shmily, Jadan, Emmitt, Jeremy, Chris, Tom, Dominik, Michael G, Joe, Will, Nick, Christian, Albert, John R., Tre, and Timothy for passing the Clean Automation Certification!!! :confetti\_ball:
     * and...Lisa and John E with PERFECT SCORES!!!
@@ -28,7 +28,7 @@ Explore what new changes the Training team has made in the last week.
 **What's New at Cluck University?**
 
 * Courses have been updated on docs.rewst.help! New structure and sets of pages to create a better learning experience.
-  * Check it out at [rewst-foundations](../../../cluck-university/rewst-foundations/ "mention")
+  * Check it out at [rewst-foundations-1](../../../cluck-university/rewst-foundations-1/ "mention")
   * New naming convention adopted for our courses
 * Check out the Cluck University Landing Page @ [go.rew.st/cluck-university](https://go.rew.st/cluck-university) for all the latest courses self-serve and live.
 

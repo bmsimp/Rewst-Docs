@@ -5,7 +5,7 @@ description: >-
   Join us for our Cluck U Office Hours!
 ---
 
-# Office Hours
+# Office hours
 
 ## Welcome to Cluck University Office Hours!
 
@@ -14,7 +14,7 @@ As you dive into the vast world of automation and workflow management with Rewst
 {% hint style="success" %}
 **Office Hours registration can be found on Calendly.** [**Sign up here**](https://calendly.com/cluck-u/office-hours)**!**
 
-To make the most of your time, please ensure you have [enrolled in Cluck University](welcome-and-enrollment.md), and have completed or working through at least one of the lessons in the [rewst-foundations](rewst-foundations/ "mention") course.
+To make the most of your time, please ensure you have [enrolled in Cluck University](welcome-and-enrollment.md), and have completed or working through at least one of the lessons in the [rewst-foundations-1](rewst-foundations-1/ "mention") course.
 {% endhint %}
 
 ## How It Works:

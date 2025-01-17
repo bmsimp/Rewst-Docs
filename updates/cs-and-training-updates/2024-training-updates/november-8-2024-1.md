@@ -10,7 +10,7 @@ Explore what new changes the Training team has made in the last week.
   * I'm just so pumped about Dragon Quest III HD-2D coming out next thursday! But the real is to go talk to Reed Kimble who can show you how to make games happen in Rewst. What a boss.&#x20;
 * **SHOUT OUTS** **TO:**
   * Aston, Jonathan, Jimmy, and Jacques for passing the Foundations Certification.
-    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
+    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations-1/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
     * You also get access to a super secret Discord channel.
   * Andrew, Eaven, Chad, Arbyn, Cody, Robert, and Jimmy for passing the Clean Automation Certification.
     * Take the new [clean-automation-certification.md](../../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam!
@@ -32,7 +32,7 @@ Explore what new changes the Training team has made in the last week.
 **What's New at Cluck University?**
 
 * Courses have been updated on docs.rewst.help! New structure and sets of pages to create a better learning experience.
-  * Check it out at [rewst-foundations](../../../cluck-university/rewst-foundations/ "mention")
+  * Check it out at [rewst-foundations-1](../../../cluck-university/rewst-foundations-1/ "mention")
   * New naming convention adopted for our courses
 * Check out the Cluck University Landing Page @ [go.rew.st/cluck-university](https://go.rew.st/cluck-university) for all the latest courses self-serve and live.
 

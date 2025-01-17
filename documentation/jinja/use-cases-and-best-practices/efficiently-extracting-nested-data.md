@@ -2,7 +2,7 @@
 description: Streamlining Data Retrieval with Jinja Filters vs. List Comprehension
 ---
 
-# Efficiently Extracting Nested Data
+# Efficiently extracting nested data
 
 ## Introduction
 
@@ -107,5 +107,5 @@ Select the method that best suits your task's complexity and your familiarity wi
 ***
 
 {% hint style="info" %}
-**Don't forget to check out** [jinja-essentials-for-workflow-automation](../../../cluck-university/rewst-foundations/jinja-essentials-for-workflow-automation/ "mention")
+**Don't forget to check out** [jinja-essentials-for-workflow-automation](../../../cluck-university/rewst-foundations-1/jinja-essentials-for-workflow-automation/ "mention")
 {% endhint %}

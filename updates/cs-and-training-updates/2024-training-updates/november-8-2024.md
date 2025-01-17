@@ -10,7 +10,7 @@ Explore what new changes the Training team has made in the last week.
   * Dragon Quest III HD-2D Remake is FINALLY HERE! I've got some hands on and I can say it is an INCREDIBLE remake. It's definitely an old-school turn-based RPG at its roots, but if you're looking for a cozy classic to sink some time into, then I'm having a blast!&#x20;
 * **SHOUT OUTS** **TO:**
   * Charles, Kylen, Jonathan, Keenan, Aston, Justin, Colby, Alex, and Stuart for passing the Foundations Certification.
-    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
+    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations-1/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
     * You also get access to a super secret Discord channel.
   * Eli, Arbyn, Gareth, Jaco, Andrew, Sam, Cody, and Garrett for passing the Clean Automation Certification.
     * Take the new [clean-automation-certification.md](../../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam!
@@ -31,7 +31,7 @@ Explore what new changes the Training team has made in the last week.
 
 **What's New at Cluck University?**
 
-* New section added for Rewst Foundations Bootcamp: [#live-instructor-led-bootcamp](../../../cluck-university/rewst-foundations/#live-instructor-led-bootcamp "mention")
+* New section added for Rewst Foundations Bootcamp: [#live-instructor-led-bootcamp](../../../cluck-university/rewst-foundations-1/#live-instructor-led-bootcamp "mention")
 * Check out the Cluck University Landing Page @ [go.rew.st/cluck-university](https://go.rew.st/cluck-university) for all the latest courses self-serve and live.
 
 **The List of Reminders:**
@@ -43,11 +43,11 @@ Explore what new changes the Training team has made in the last week.
 
 * Updated Pages
   * [servicenow-integration-setup.md](../../../documentation/integrations/psa/servicenow-coming-soon/servicenow-integration-setup.md "mention") - Formatting Update
-  * Added Section [#live-instructor-led-bootcamp](../../../cluck-university/rewst-foundations/#live-instructor-led-bootcamp "mention") in Rewst Foundation Lesson
+  * Added Section [#live-instructor-led-bootcamp](../../../cluck-university/rewst-foundations-1/#live-instructor-led-bootcamp "mention") in Rewst Foundation Lesson
   * Added App Builder Alert in [issue-alerts.md](../../issue-alerts.md "mention")
   * Reorganized RMM section under [integrations](../../../documentation/integrations/ "mention")
-  * Updated [creating-an-option-generator-workflow](../../../cluck-university/rewst-foundations/creating-an-option-generator-workflow/ "mention")
-    * Added "Special Instructions" to [#optional-instructions-for-all-managed-organizations](../../../cluck-university/rewst-foundations/creating-an-option-generator-workflow/how-to-create-configure-and-trigger-an-option-generator-workflow.md#optional-instructions-for-all-managed-organizations "mention")
+  * Updated [creating-an-option-generator-workflow](../../../cluck-university/rewst-foundations-1/creating-an-option-generator-workflow/ "mention")
+    * Added "Special Instructions" to [#optional-instructions-for-all-managed-organizations](../../../cluck-university/rewst-foundations-1/creating-an-option-generator-workflow/how-to-create-configure-and-trigger-an-option-generator-workflow.md#optional-instructions-for-all-managed-organizations "mention")
   * Added note in [ninjaone-integration-setup.md](../../../documentation/integrations/rmm/ninjaone/ninjaone-integration-setup.md "mention")
   * Added note in [datto-rmm-integration-setup.md](../../../documentation/integrations/rmm/datto-rmm/datto-rmm-integration-setup.md "mention")
 

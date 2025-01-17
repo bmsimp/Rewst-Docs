@@ -1,4 +1,4 @@
-# Advanced Workflow Operations
+# Advanced workflow operations
 
 ### Introduction
 
@@ -106,5 +106,5 @@ This allows you to adjust the number of seconds to wait for a task to complete. 
 **Want more practice?**
 
 {% hint style="success" %}
-[Check out our Rewst Foundations Courses](../../../cluck-university/rewst-foundations/).
+[Check out our Rewst Foundations Courses](../../../cluck-university/rewst-foundations-1/).
 {% endhint %}

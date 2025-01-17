@@ -1,4 +1,4 @@
-# Working with Jinja Lists
+# Working with Jinja lists
 
 ## Introduction
 
@@ -9,7 +9,7 @@ Any time you see information encapsulated in `[` `]` brackets, you are looking a
 **Want more practice?**
 
 {% hint style="success" %}
-[You can check out our Rewst 103 and 104 Courses](../../../cluck-university/rewst-foundations/).
+[You can check out our Rewst 103 and 104 Courses](../../../cluck-university/rewst-foundations-1/).
 {% endhint %}
 
 ### Standard List
