@@ -1,60 +1,46 @@
-# 🗓️ Prebuilt Apps (available by request)
+# 🗓️ Prebuilt Apps: Available by request
 
 {% hint style="warning" %}
-_**Prebuilt Apps is an exciting new feature that will be available soon! Read on and see what's on the horizon.**_
+Prebuilt Apps is a new feature in Rewst that will be available for all users in the future, to eventually download via our Crate Marketplace. Currently, use of Prebuilt Apps is by request only for customers in the United States, as we finalize features. To request Prebuilt Apps, send us a message in your dedicated Discord support channel.
+{% endhint %}
+
+{% hint style="info" %}
+If you're a current user of Prebuilt Apps, send us your feedback on current features, desired features, and any bugs you encounter in [this feedback collection form](https://forms.office.com/Pages/ResponsePage.aspx?id=VtqdWutbQEiD4Zr8GtojiJFelL-3rz1JvOPdoNrnRFRUNTg4VEdSUEdCS0c2TTU4U0tOVFBXR0ZCOC4u\&origin=Invitation\&channel=0).
 {% endhint %}
 
 ## Welcome to Prebuilt Apps
 
-The Prebuilt Apps page is your gateway to powerful, ready-made solutions that enhance your workflows and user experience. Each app is designed to help you streamline operations, improve user satisfaction, and unlock valuable insights. Currently, the apps are available **by request**. In the future, they will be made available for self-installation through the Marketplace. Explore our offerings and how to add custom styles below:
+Prebuilt Apps are your gateway to powerful, ready-made solutions that enhance your workflows and user experience. Think of them like App Builder's version of regular Rewst Crates: prepackaged applications meant to help you get started with App Builder, without having to build from scratch.\
+Each app is designed to help you streamline operations, improve user satisfaction, and unlock valuable insights.&#x20;
+
+As a bonus, you can customize your Prebuilt Apps by unpacking our [App Builder - Create Branding Variables](https://app.rewst.io/organizations/40f8b55a-e8a9-42fc-8dc1-179616275f10/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b) Crate, which lets you update your apps without manual CSS edits for a professional, client-ready appearance.
+
+* Apply consistent branding across all apps
+* Input hex codes, upload logos, and select themes to apply at the MSP or client level
 
 ***
 
-### Available apps (coming soon)
+## Apps currently available for request
 
-#### 1. Forms Portal
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Forms Portal</td><td></td><td></td><td><a href="forms-portal.md">forms-portal.md</a></td><td><a href="../../../.gitbook/assets/Screenshot 2025-01-15 at 2.51.56 PM.png">Screenshot 2025-01-15 at 2.51.56 PM.png</a></td></tr><tr><td>End User Portal</td><td></td><td></td><td><a href="end-user-portal.md">end-user-portal.md</a></td><td><a href="../../../.gitbook/assets/Screenshot 2025-01-15 at 2.53.14 PM.png">Screenshot 2025-01-15 at 2.53.14 PM.png</a></td></tr><tr><td>Operational Analytics Reporting Portal</td><td></td><td></td><td><a href="msp-reporting-portal.md">msp-reporting-portal.md</a></td><td><a href="../../../.gitbook/assets/Screenshot 2025-01-15 at 2.53.27 PM.png">Screenshot 2025-01-15 at 2.53.27 PM.png</a></td></tr></tbody></table>
 
-The **Forms Portal** provides a streamlined experience for users to access and manage forms they have permission to view. It includes powerful search and filtering options on the table component itself, allowing users to quickly navigate to the forms they need, all in one convenient location.
+For more detailed information about each app and how they can benefit your organization, click on the above feature tiles to visit their individual documentation pages, which include screenshots and additional feature breakdowns.
 
-* **Features**:
-  * View and manage forms in a single portal
-  * Search and filter by name and tags
-  * Easy navigation for enhanced user experience
-  * Navigate directly to the form url with a single click
+### Forms Portal
 
-#### 2. End User Portal
+The **Forms Portal** provides a centralized hub for users to access and manage forms that they have permission to view. It includes powerful search and filtering options on the table component itself, allowing you to quickly navigate to the forms you need, all in one convenient location.
 
-The **End User Portal** is built around self-service automation, empowering end users to manage tasks independently while still maintaining the ability to log tickets. This portal offers 24/7 access to crucial automations like new user setups, offboarding, group changes, password resets, and more—without requiring a service desk call.
+### End User Portal
 
-* **Features**:
-  * Self-service automations for common tasks
-  * Automation of ticket logging and actions
-  * 24/7 support for common user needs (e.g., password resets, user management)
+The **End User Portal** is built around self-service automation, letting you manage tasks independently while still maintaining the ability to log tickets for more complex needs. With 24/7 access to essential automations, this portal reduces reliance on service desk calls and streamlines operations for both you and your end users.
 
-#### 3. Reporting Portal
+### Operational Analytics Reporting Portal
 
-The **Reporting Portal** is designed for the MSP, offering powerful reporting capabilities on devices and service trends. Use this portal to identify out-of-warranty devices, analyse ticket trends, and generate insights using your existing Rewst workflows and integrations.
+The **Operational Analytics** **Reporting Portal** offers powerful reporting capabilities with insights into devices and service trends. Tailored to integrate seamlessly with your Rewst workflows and PSA data, this Portal simplifies operational analytics to keep your business efficient and informed.
 
-* **Features**:
-  * Identify out-of-warranty devices
-  * Ticket reporting and trend analysis
-  * Leverage Rewst workflows for valuable insights
-  * Actionable data directly from the portal
 
-***
 
-### Add custom styles to Prebuilt Apps
 
-Customizability has been a top priority in the development of the Prebuilt Apps. We wanted to make it effortless for users to apply their own branding, including colors and logos, without needing to manually adjust the app itself. To achieve this, we’ve built everything using templates and **HTML Containers**, but we’ve also simplified the process by creating an automation that lets you update these templates using hex codes—no need to learn CSS!
 
-You can use our prebuilt form, which can be installed via a crate located [here](https://app.rewst.io/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b). This form will guide you through updating the branding for any Prebuilt App. Simply select which app you want to update, choose between light or dark mode (yes, we’ve included a theme toggle for all our sites!), and we’ll display the current values set for the site. To update them, just input your desired hex codes, such as `#000000` for black.
 
-The best part? This customization works at both the MSP level and the client level. Depending on who logs into the portal, they’ll experience different branding—your clients can see their own custom look while your techs enjoy your MSP’s branding.  Simply run the form for whomever you want to update, the same way you do for normal client triggers.
 
-***
-
-For more detailed information about each app and how they can benefit your organization, visit their individual pages, which include screenshots and additional feature breakdowns.
-
-{% hint style="info" %}
-_All apps are currently available on request. Please refer to the FAQ for more details._
-{% endhint %}

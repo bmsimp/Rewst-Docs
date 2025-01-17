@@ -1,4 +1,4 @@
-# ROC Open Mics
+# January 10, 2025: Simple Automation Demos, Device Lookups, and Payment Notificaitons
 
 ### **Join Live!**
 
@@ -28,6 +28,8 @@ Join us live every Friday at 3 pm EST!
 
 📤 Jim-Barry demos two workflows: A Teams notification workflow for payment processing emails and a quick, custom workflow for invoicing in QuickBooks.
 
+
+
 <details>
 
 <summary><strong>How to Get Help</strong></summary>
@@ -54,4 +56,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-

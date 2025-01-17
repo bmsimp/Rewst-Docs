@@ -1,41 +1,39 @@
-# MSP Reporting Portal
+# Operational Analytics Reporting Portal
 
-## Reporting Portal
+{% hint style="warning" %}
+MSP Reporting Portals, like all Prebuilt Apps, are currently available by request only. To request Prebuilt Apps, send us a message in your dedicated Discord support channel.
+{% endhint %}
 
-The **Reporting Portal** is designed specifically for MSPs who need powerful reporting tools at their fingertips. Offering a comprehensive view of critical business metrics, this portal allows MSPs to track everything from device health to ticketing trends, all backed by real-time data from Rewst workflows. With a focus on customisability and actionable insights, the Reporting Portal provides the analytics you need to make data-driven decisions.
+The **Operational Analytics** **Reporting Portal** offers powerful reporting capabilities with insights into devices and service trends. Tailored to integrate seamlessly with your Rewst workflows and PSA data, this Portal simplifies operational analytics to keep your business efficient and informed.
 
 <figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-### Key Features
+### Features
 
-* **Device Health and Warranty Tracking**: Stay on top of your client devices, with automatic reporting on warranty status, device health, and replacement cycles. Never miss a critical date for warranty expiration or device end-of-life.
-* **Ticket Reporting and Trends**: Get a clear picture of your support operation's efficiency. Analyse ticket volumes, response times, and resolutions to ensure your team is performing at its best.
+* Report on tickets, by pulling from a customer’s PSA
+* Report on devices, by pulling from a customer's PSA
+  * E.g. ability to track low inventory
+  * E.g. reporting on device end-of-life status
+* Filter tickets by type
+* Export reports
+* _Coming soon:_ Reporting on SaaS licenses
 
-### Customisability with Bulma CSS
+### Integration prerequisites for Operational Analytics Reporting Portal setup
 
-As with the other portals, the **Reporting Portal** is built with **Bulma CSS**, allowing for seamless customisation to match your branding needs. Whether it’s changing the colour scheme or updating logos, you have full control over the look and feel of your portal.
+* For Device EOL: Connectwise Automate, Datto RMM, or NinjaRMM
+* For Get Device Inventory: Connectwise PSA
+* For Ticket Data: Connectwise PSA, Datto Autotask
 
-#### How It Works:
+### Custom branding with Rewst's Style Customization Crate
 
-* **Modular Components**: The Reporting Portal is built on a system of templates and HTML components, allowing you to adjust sections of the portal easily without affecting the entire site.
-* **Easy Theming**: With the pre-built Rewst forms, you can quickly update colours, logos, and other visual elements using simple hex code inputs, making it easy to match your branding without needing any CSS expertise.
+As a bonus, you can customize your End User Portal by unpacking our [App Builder - Create Branding Variables](https://app.rewst.io/organizations/40f8b55a-e8a9-42fc-8dc1-179616275f10/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b) Crate, which lets you update all of your Prebuilt Apps without manual CSS edits for a professional, client-ready appearance.
 
-### Why Choose the Reporting Portal?
+* Apply consistent branding across all apps
+* Input hex codes, upload logos, and select themes to apply at the MSP or client level
 
-* **Actionable Insights**: Gain access to real-time data across all your client environments, giving you the information you need to act quickly on potential issues or to plan for future needs.
-* **Streamlined Reporting**: Automate the gathering of key metrics like device health, ticket trends, and warranty status, freeing your team from manual data collection.
-* **Custom Dashboards**: Tailor your dashboards to focus on the metrics that matter most to your clients and internal teams, ensuring that every report provides value.
-* **Real-Time Data**: The Reporting Portal integrates directly with your existing Rewst workflows, ensuring that the data you see is always up to date and reflective of the current state of your MSP operations.
+### Feedback
 
-### What’s Next for Reporting Portal?
-
-As with all our portals, we are constantly iterating on the **Reporting Portal** to make it even more powerful. If you have feedback or ideas for new reporting features, we’d love to hear them! Reach out via Canny, speak to your Customer Success Manager, or connect with any Rewst team member.
-
-
-
-{% hint style="info" %}
-_The Reporting Portal is currently available upon request. Please refer to the FAQ for more details on how to get started._
-{% endhint %}
+You tell us what comes next! If you're a current user of our MSP Reporting Portal, send us your feedback on current features, desired features, and any bugs you encounter in [this feedback collection form](https://forms.office.com/Pages/ResponsePage.aspx?id=VtqdWutbQEiD4Zr8GtojiJFelL-3rz1JvOPdoNrnRFRUNTg4VEdSUEdCS0c2TTU4U0tOVFBXR0ZCOC4u\&origin=Invitation\&channel=0).
 
 
 

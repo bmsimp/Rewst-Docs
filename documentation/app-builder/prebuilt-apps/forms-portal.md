@@ -1,43 +1,28 @@
 # Forms Portal
 
-## Forms Portal
+{% hint style="warning" %}
+Forms Portals, like all Prebuilt Apps, are currently available by request only. To request Prebuilt Apps, send us a message in your dedicated Discord support channel.
+{% endhint %}
 
-The **Forms Portal** is a powerful and flexible solution that allows users to view, access, and manage the forms they have permissions for, all from one convenient site. With its intuitive design, users can easily filter and search for forms by name or tag, ensuring a seamless experience.
-
-
+The **Forms Portal** provides a centralized hub for users to access and manage forms that they have permission to view. It includes powerful search and filtering options on the table component itself, allowing you to quickly navigate to the forms you need, all in one convenient location.
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-### Key Features
+* **Features**:
+  * View and manage forms in a single portal
+  * Search and filter by name and tags
+  * Navigate directly to the form url with a single click
 
-* **Centralised Form Management**: All forms a user has access to are available in a single location, reducing the time spent searching or navigating to different areas or trying to remember how to get to something specific.
-* **Search and Filtering**: Users can quickly search by form name or filter by tags to find the forms they need, making the process more efficient.
-* **Customisable Design**: The look and feel of the portal can be fully customised to match your brand or your customers' needs including overall styling guide and logo.
+### Custom branding with Rewst's Style Customization Crate
 
-### Customisability with Bulma CSS
+As a bonus, you can customize your Forms Portal by unpacking our [App Builder - Create Branding Variables ](https://app.rewst.io/organizations/40f8b55a-e8a9-42fc-8dc1-179616275f10/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b)Crate, which lets you update all of your Prebuilt Apps without manual CSS edits for a professional, client-ready appearance.
 
-We’ve designed the Forms Portal with **customisability** at the forefront. Leveraging **Bulma for CSS** allows you to easily modify the design across the entire site, ensuring it aligns with your or your client’s branding.
+* Apply consistent branding across all apps
+* Input hex codes, upload logos, and select themes to apply at the MSP or client level
 
-#### How it Works:
+### What's next for Forms Portal?
 
-* **Modular Components**: The portal uses a system of **templates and HTML components** that allow you to modify specific elements or sections as needed, without requiring changes to the entire site. This granular level of control ensures that your customisation efforts are both quick and scalable.
-* **Easy Theming**: You can quickly adjust colours and logos with an already-built Rewst form, allowing you to simply enter the hex codes of the colours you want and updating it without you having to learn CSS!
-
-### Why Choose Forms Portal?
-
-* **Efficiency**: Reduce manual work by providing a single location for form access, improving both user experience and productivity.
-* **Flexibility**: Customise the look and feel of the portal to match any brand’s identity.
-* **Future-Proof**: Easily update your forms and site-wide designs using our modular approach, ensuring that your portal evolves as your business does.
-
-### Wha's next for Forms Portal?
-
-You tell us! We're always looking to iterate on our prebuilt apps in the same way we do with our Crate Marketplate automations that you love.  If you have some feedback, or want to suggest more then let us know in Canny, via your CSM or just ping any Rewst staff member!
+You tell us! If you're a current user of our Forms Portal, send us your feedback on current features, desired features, and any bugs you encounter in [this feedback collection form](https://forms.office.com/Pages/ResponsePage.aspx?id=VtqdWutbQEiD4Zr8GtojiJFelL-3rz1JvOPdoNrnRFRUNTg4VEdSUEdCS0c2TTU4U0tOVFBXR0ZCOC4u\&origin=Invitation\&channel=0).
 
 ***
-
-{% hint style="info" %}
-_Currently, the Forms Portal is available upon request. Refer to the FAQ for more details on how to get started._
-{% endhint %}
-
-
 
