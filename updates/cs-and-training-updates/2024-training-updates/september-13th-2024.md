@@ -11,7 +11,7 @@ Explore what new changes the Training team has made in the last week.
 * **SHOUT OUTS** **TO:**
   * Cyril, Shannyn, Chase, Chris H. , Evan, Anthony, Matthew, Brendan, Leanda, Hugh, David, Michael, Allen, Victoria
     * AND Ray J with a perfect score :confetti\_ball:
-  * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations-1/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord. As well as access to a super secret Discord channel.
+  * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord. As well as access to a super secret Discord channel.
 * Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
 * [Sign up for the Office Hours](https://calendly.com/cluck-u/office-hours?) and the[ ROC AMA](https://calendly.com/cluck-u/roc-ama) to work through any questions you have during and after training! If there is something you want us to cover, Let us know!
 

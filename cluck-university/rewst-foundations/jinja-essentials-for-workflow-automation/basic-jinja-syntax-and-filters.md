@@ -1,62 +1,93 @@
 ---
-description: Understand how JSON organizes data in your workflows.
+description: >-
+  Identify common Jinja syntax and filters + Use the Live Editor to practice
+  Jinja code on data from the context
 ---
 
-# Intro to JSON
+# Basic Jinja Syntax and Filters
 
-## Module overview
+## Module Overview
 
-:egg: JSON is how APIs deliver data in a clear, organized format that both machines and people can understand. In this module, you'll learn how Rewst uses JSON to structure workflow results, making it easy to find and work with the data you need.
+:bulb: It's time to tackle basic Jinja syntax and filters. These building blocks will help you write and practice Jinja code in the Jinja Live Editor, and eventually use it in your Rewst workflows.
 
-## Video _(3:10 minutes)_
+### Video (_5:21 Minutes)_
 
-{% embed url="https://youtu.be/cp7PqZnxW_E" %}
+{% embed url="https://youtu.be/2guz71Ytizo?si=a30A-pkaAT2Qbh5d" %}
 
-## Module summary
+Key Concepts About Jinja Syntax
 
 <details>
 
-<summary>What is JSON?</summary>
+<summary>Output Dynamic Content:</summary>
 
-JSON stands for **JavaScript Object Notation**, and it’s the format most APIs use to send data. Think of JSON like a **well-organized folder system**:
-
-* Each "folder" is labeled with a specific category (like "temperature" or "name").
-* Inside, you'll find the corresponding data (like “72°F” or “John Doe”).
-* Some folders even have **nested folders** for more details (like "Address" containing "Street" and "City").
+* Use two curly braces to output or print data from your workflow.&#x20;
+* Example:`{{ CTX.action }}` outputs the value of the "action" variable, such as "add" or "remove."
 
 </details>
 
 <details>
 
-<summary>How JSON works in Rewst</summary>
+<summary>Jinja Statements:</summary>
 
-When Rewst runs a workflow, it collects data from APIs and organizes it in **JSON format**.
-
-* The **Context** in Rewst acts like a big folder containing all the data gathered during the workflow.
-* You can drill down into this folder to find specific results, like weather details or user profiles, labeled clearly for easy navigation.
+* Use `{% %}` for code blocks that control logic, such as if/else statements or loops.
+* Example:`{% if CTX.action == "add" %} The user was added{% else %} The user was removed{% endif %}`
 
 </details>
 
 <details>
 
-<summary>Why JSON matters for automation</summary>
+<summary>Comments:</summary>
 
-Understanding JSON helps you read the **results** of your workflows in Rewst.
-
-* It makes it easier to find the data you need at each step.
-* Think of JSON as a **map** that guides you through your automation results, so you don’t get lost in random text.
-
-JSON simplifies complex data, making Rewst workflows easier to manage and understand.
+* Use `{# #}` to add comments in your code. Comments are ignored during execution but help others (or yourself) understand the code.
+* Example:`{# This is a comment #}`
 
 </details>
 
-## Action items&#x20;
+<details>
 
-* Open a workflow in Rewst and check the **Context** to see the data collected during a run. Identify a piece of information—like a user's name or a weather update—and note how it’s labeled and structured in JSON. This will help you get comfortable reading and navigating workflow results.
-* Take the JSON knowledge check:&#x20;
+<summary>Removing Extra Spaces:</summary>
 
-{% embed url="https://www.surveymonkey.com/r/BSSLMJW" %}
+* Use a dash inside any of these delimiters to strip extra spaces.
+* Example:`{{- CTX.action -}}`
 
-## Keep on cluckin'
+</details>
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="intro-to-jinja-json-the-context.md">intro-to-jinja-json-the-context.md</a></td><td><a href="intro-to-jinja-json-the-context.md">intro-to-jinja-json-the-context.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="jinja-list-comprehension.md">jinja-list-comprehension.md</a></td><td><a href="jinja-list-comprehension.md">jinja-list-comprehension.md</a></td></tr></tbody></table>
+<details>
+
+<summary>Jinja Filters</summary>
+
+Filters modify data in Jinja without changing the original information. Common filters allow you to format dates, capitalize text, or provide default values.
+
+* Example: Use the `d` filter to avoid errors if a context variable is empty:
+
+`{{ CTX.group.displayName | d }}` outputs an empty string if there is no display name for the group.
+
+</details>
+
+
+
+### Action Items
+
+1. Review Context Data from the "Building a Basic Form and Workflow" Lesson
+
+Open the workflow results from your "Add or Remove User - Microsoft Group" workflow and review the context data. Practice rendering the following Jinja code in the Jinja Live Editor, and notice that the results match the values of the context data for the variables:
+
+
+
+* `{{ CTX.action }}`
+* `{{ CTX.user_id }}`
+* `{{ CTX.group_id }}`
+
+2. Complete the Lunch Menu Exercises:
+
+Navigate to the "Lesson Resources" section to access the "Lunch Menu" sample data set and instructions for using Jinja syntax and filters in the Jinja Live Editor. Focus on:
+
+* Rendering values from the context
+* Applying Jinja filters to format the output
+* Practicing list comprehension (using two different methods -- a Jinja statement, and list comprehension).
+
+By practicing these exercises, you’ll solidify your understanding of Jinja syntax, filters, and data manipulation in Rewst workflows.
+
+## Navigation
+
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td align="center"><a data-mention href="intro-to-jinja-json-the-context.md">intro-to-jinja-json-the-context.md</a></td><td></td></tr><tr><td align="center">Go to the next module:</td><td align="center"><a data-mention href="jinja-list-comprehension.md">jinja-list-comprehension.md</a></td><td></td></tr></tbody></table>

@@ -1,56 +1,48 @@
 ---
-description: Learn how different data types help organize information in your workflows.
+description: >-
+  Practice writing list comprehension, using Jinja, to create a new list from
+  existing list data
 ---
 
-# Intro to data types
+# Jinja List Comprehension
 
-## Module overview
+## Module Overview
 
-:egg: Data isn’t one-size-fits-all. Different types of data—like text, numbers, and lists—help computers know how to store, process, and use information efficiently. In this lesson, you’ll explore the most common data types you’ll see in Rewst workflows, making it easier to build and manage automations.
+:bulb: List comprehension (a special enhancement to "Rewst-flavored Jinja"!) allows you to create a new list from an existing one in a simplified way, without needing to end the code with `{% endfor %}`. It consists of three parts:
 
-## Video _(4:58 minutes)_
+1. Output – What do you want in your new list?
+2. For Loop – How do you loop through data in the original list?
+3. Condition (Optional) – Do you need to filter items to include in your new list?
 
-{% embed url="https://youtu.be/FGb98LiC6oU" %}
+Here's the basic structure:&#x20;
 
-## Module summary
+`{{` \
+`[ output for output`\
+`in CTX.list`\
+`if condition ]}}`
 
-<details>
+### Video (_3:16 Minutes)_
 
-<summary>What are data types?</summary>
-
-Data types are labels that tell computers what kind of information they’re working with. Just like you organize items in your home by category—books, clothes, groceries—computers organize data by type to know how to process it.
-
-</details>
-
-<details>
-
-<summary>Common data types you’ll use in Rewst</summary>
-
-Here are the main data types to know:
-
-* **Strings**: Text, like names, messages, or IDs (e.g., _"Hello, world!"_ or _"12345ABC"_).
-* **Numbers**: Can be whole numbers (**integers**) or decimals (**floats**).
-* **Booleans**: Simple yes/no values (e.g., _true/false_ or _on/off_).
-* **Lists**: Collections of related items (e.g., _\["apples", "oranges", "bananas"]_).
-* **Dictionaries**: Key-value pairs that organize related information (e.g., _"Name": "John Doe"_, _"Age": 30_)
-
-</details>
+{% embed url="https://youtu.be/bvCXCyCl5rE?si=X0djxKF7Jduux1nL" %}
 
 <details>
 
-<summary>Why data types matter in Rewst</summary>
+<summary>Additional Tips</summary>
 
-Understanding data types helps you navigate Rewst workflows more easily. Each step in a workflow may handle different types of data, and knowing what type you’re working with ensures your automations run smoothly and efficiently.
+* Use dot notation in the output to specify parts of each item.
+* The condition (typically, an "if" statement) is optional and filters based on criteria like "if the color is not red."
+* If you want to turn the list into a string, apply the "join" filter. You'll find an example of this in the "Lunch Menu" exercises for this lesson.
+
+For a few examples, refer to the Jinja List Comprehension Examples module.
 
 </details>
 
-## Action items
+### Action Items
 
-* Think about a process you want to automate and list the **types of data** it would involve. For example, would you need text (strings), numbers, or yes/no decisions (Booleans)? Identifying data types early can help you design more efficient workflows in Rewst.
-* Take the data types knowledge check:&#x20;
+Practice the list comprehension exercises included in the "Lunch Menu" data set: [#lesson-resources](./#lesson-resources "mention")
 
-{% embed url="https://www.surveymonkey.com/r/ZR6ZZVS" %}
 
-## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="basic-jinja-syntax-and-filters.md">basic-jinja-syntax-and-filters.md</a></td><td><a href="basic-jinja-syntax-and-filters.md">basic-jinja-syntax-and-filters.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="jinja-list-comprehension-1.md">jinja-list-comprehension-1.md</a></td><td><a href="jinja-list-comprehension-1.md">jinja-list-comprehension-1.md</a></td></tr></tbody></table>
+## Navigation
+
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td align="center"><a data-mention href="basic-jinja-syntax-and-filters.md">basic-jinja-syntax-and-filters.md</a></td><td></td></tr><tr><td align="center">Go to the next module:</td><td align="center"><a data-mention href="jinja-list-comprehension-examples-them-apples.md">jinja-list-comprehension-examples-them-apples.md</a></td><td></td></tr></tbody></table>

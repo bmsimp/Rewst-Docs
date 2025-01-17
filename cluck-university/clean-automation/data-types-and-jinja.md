@@ -12,7 +12,7 @@ Sign up for our **LIVE** sessions **Tuesday's @ 3pm** **Eastern** on [Calendly](
 
 ## **Course Overview**
 
-Data Types and Jinja delves into the complexities of data types and the use of Jinja in Rewst. This course builds upon the foundational knowledge from the [Jinja Essentials for Workflow Automation Lesson](../rewst-foundations-1/jinja-essentials-for-workflow-automation/), focusing on the efficient handling and manipulation of various data forms. It's designed to enhance your skillset in managing and utilizing data within Rewst's automated workflows.
+Data Types and Jinja delves into the complexities of data types and the use of Jinja in Rewst. This course builds upon the foundational knowledge from the [Jinja Essentials for Workflow Automation Lesson](../rewst-foundations/jinja-essentials-for-workflow-automation/), focusing on the efficient handling and manipulation of various data forms. It's designed to enhance your skillset in managing and utilizing data within Rewst's automated workflows.
 
 When you've completed this training, [don't forget to get credit!](https://app.rewst.io/form/0191482f-da4a-7c04-b6e6-699905e4a613)
 

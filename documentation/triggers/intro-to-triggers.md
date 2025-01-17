@@ -34,5 +34,5 @@ The above is a snippet from a form where a dropdown field has been selected and 
 **Want more practice?**
 
 {% hint style="success" %}
-[Check out our Rewst Foundations Courses](../../cluck-university/rewst-foundations-1/).
+[Check out our Rewst Foundations Courses](../../cluck-university/rewst-foundations/).
 {% endhint %}

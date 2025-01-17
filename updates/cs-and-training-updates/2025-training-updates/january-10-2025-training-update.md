@@ -10,7 +10,7 @@ Explore what new changes the Training team has made in the last week.
   * If you haven't bought or seen the ModRetro Chromatic, I would get one while you can! They're at some Gamestops and this is downright the best way to play Gameboy games. And they have games made just for the Chromatic!&#x20;
 * **SHOUT OUTS** **TO:**
   * Omari, Chris, Erkam, Nick, Rohan, Geeshan, and Fabian for passing the Foundations Certification.
-    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations-1/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
+    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
   * Jen, Eugene, Sraga, Richard, Kyrylo, Abraham, and Naveen for passing the Clean Automation Certification.
     * Take the [clean-automation-certification.md](../../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam and get that fancy certificate!
 * The next [**Rewst Foundations Bootcamp**](https://docs.rewst.help/cluck-university/rewst-foundations#live-instructor-led-bootcamp) is coming up **Feb 3 - Feb 4.** Remember to register for **both parts** 1 and 2!

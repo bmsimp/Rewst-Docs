@@ -10,7 +10,7 @@ Explore what new changes the Training team has made in the last week.
   * The Rewst crew played [Code Names online](https://codenames.game/) at the 2024 holiday party! It's browser-based and easy to set up. You can even make your own cards — the Rewst games featured "folders," "negative time savings," and "Jinja" for some work-themed fun.
 * **SHOUT OUTS** **TO:**
   * Timothy, Kenneth, Matt, Shraga, Juliette, and Christopher for passing the Foundations Certification.
-    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations-1/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
+    * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
   * Sarah, Clea, and William (all Rewsters!) for passing the Clean Automation Certification.
     * Take the [clean-automation-certification.md](../../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam and get that fancy certificate!
 * The next [**Rewst Foundations Bootcamp**](https://docs.rewst.help/cluck-university/rewst-foundations#live-instructor-led-bootcamp) is coming up **Jan 6 - Jan 7.** Remember to register for **both parts** 1 and 2!
