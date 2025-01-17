@@ -55,7 +55,7 @@ This combination makes workflows more adaptable, efficient, and capable of handl
 
 </details>
 
-#### Action items
+## Action items
 
 * Think of a process you handle repeatedly, like reviewing support tickets or following up on overdue payments. Write down a condition you would check (e.g., "Is the ticket marked urgent?") and a list you might go through (e.g., "List of open tickets"). This will help you see where **if statements** and **for loops** could simplify your work through automation.
 * Take the basic programming concepts knowledge check:&#x20;

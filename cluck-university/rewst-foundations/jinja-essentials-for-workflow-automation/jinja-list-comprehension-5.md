@@ -52,7 +52,7 @@ Forms kick off workflows with the right data, reducing delays and back-and-forth
 
 </details>
 
-#### Action item
+## Action item
 
 * Think of a process you frequently handle that requires gathering information—like onboarding a new client or requesting approval for a task. Write down the **key details** you’d need to collect and consider which **fields** (text, date, dropdown) would best capture that data. This will help you start thinking about how forms can simplify data collection in your workflows.
 * Take the Forms overview knowledge check:&#x20;

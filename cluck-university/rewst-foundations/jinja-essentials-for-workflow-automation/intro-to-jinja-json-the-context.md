@@ -8,7 +8,7 @@ description: Understand how APIs make automation possible.
 
 :egg: APIs power every automation in Rewst by acting as translators between systems, making complex tasks happen behind the scenes. In this module, you’ll learn what APIs are, how they work, and why they’re essential for building automations that do the heavy lifting for you.
 
-## Video _(4:17 minutes)_
+## API basics (part 1) video _(4:17 minutes)_
 
 {% embed url="https://youtu.be/aq-WrVzkOkc" %}
 
@@ -58,7 +58,7 @@ APIs are essential for automation, and Rewst acts as your API concierge, managin
 
 </details>
 
-## Video _(3:43 minutes)_
+## API basics (part 2) video _(3:43 minutes)_
 
 {% embed url="https://youtu.be/-WUmpkm1HzA" %}
 

@@ -58,7 +58,7 @@ Webhooks deliver data to workflows, and parameters use that data to customize ac
 
 </details>
 
-#### Action items
+## Action items
 
 Take the webhooks and parameters knowledge check:&#x20;
 

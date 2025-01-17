@@ -66,11 +66,19 @@ Understanding how these concepts connect makes Rewst more approachable and helps
 
 </details>
 
+
+
 ## What did you learn?&#x20;
 
 Take a quick quiz and get instant feedback!
 
 {% embed url="https://www.surveymonkey.com/r/ZG3JLYG" %}
+
+## Give feedback&#x20;
+
+Share feedback on the course through a quick survey!
+
+{% embed url="https://www.surveymonkey.com/r/KHDL5RJ" %}
 
 ## Keep on cluckin'
 
