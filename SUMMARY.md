@@ -677,6 +677,7 @@
     * [May 31st 2024 - Marketplace Update](updates/marketplace-updates/2024-marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
   * [2025 ROC Open Mics](updates/roc-open-mics/2025-roc-open-mics.md)
+    * [January 10, 2025: Simple Automation Demos, Device Lookups, and Payment Notificaitons](updates/roc-open-mics/2025-roc-open-mics/january-10-2025-simple-automation-demos-device-lookups-and-payment-notificaitons.md)
     * [January 3, 2025: Pax8 OAuth, Connecting Multiple Products, GitHub Challenges](updates/roc-open-mics/2025-roc-open-mics/january-3-2025-pax8-oauth-connecting-multiple-products-github-challenges.md)
   * [2024 ROC Open Mics](updates/roc-open-mics/2024-roc-open-mics/README.md)
     * [December 27, 2024: Aharon Intro Quiz, Workflow Hacks, GraphQL Insights](updates/roc-open-mics/2024-roc-open-mics/december-27-2024-aharon-intro-quiz-workflow-hacks-graphql-insights.md)
