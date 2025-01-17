@@ -18,14 +18,14 @@ Complete lessons 1 and 2 in "Automation basics"
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up each module, quiz your knowledge of the module’s content, then move to the next module.
 
-1. [APIs](intro-to-jinja-json-the-context.md) _(8 minutes)_&#x20;
-2. [Intro to JSON](basic-jinja-syntax-and-filters.md) _(3 minutes)_&#x20;
-3. [Intro to data types](jinja-list-comprehension.md) _(5 minutes)_&#x20;
-4. [Reading JSON](jinja-list-comprehension-1.md) _(3 minutes)_&#x20;
-5. [Variables and context ](jinja-list-comprehension-2.md)_(5 minutes)_&#x20;
-6. [Basic programming concepts](jinja-list-comprehension-3.md) _(3 minutes)_&#x20;
-7. [Webhooks and parameters](jinja-list-comprehension-4.md) _(4 minutes)_&#x20;
-8. [Forms overview](jinja-list-comprehension-5.md) _(5 minutes)_&#x20;
+1. [APIs](api.md) _(8 minutes)_&#x20;
+2. [Intro to JSON](json-intro.md) _(3 minutes)_&#x20;
+3. [Intro to data types](data-intro.md) _(5 minutes)_&#x20;
+4. [Reading JSON](reading-json.md) _(3 minutes)_&#x20;
+5. [Variables and context ](variables-and-context.md)_(5 minutes)_&#x20;
+6. [Basic programming concepts](programming-concepts.md) _(3 minutes)_&#x20;
+7. [Webhooks and parameters](webhooks-and-parameters.md) _(4 minutes)_&#x20;
+8. [Forms overview](forms-overview.md) _(5 minutes)_&#x20;
 
 ## Keep on cluckin'
 
