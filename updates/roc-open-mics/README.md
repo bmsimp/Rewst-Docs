@@ -24,7 +24,7 @@ Join us live every Friday at 3 pm EST!
 
 🌐 Charles demos Cloudflare workflows: Shows a messy but effective workflow for managing Cloudflare tenants and policies, followed by a ticket ingestion system to automate unblock requests.&#x20;
 
-🔑 Devin demos a compliance workflow: Automates the retrieval of Emy agent deployment keys across clients, saving time on manual API interactions. ⚙️ Tim shares tips for org variable lookups: Demonstrates how to reverse lookup org mappings using organization variables for flexible automation.
+🔑 Devin demos a compliance workflow: Automates the retrieval of Immy agent deployment keys across clients, saving time on manual API interactions. ⚙️ Tim shares tips for org variable lookups: Demonstrates how to reverse lookup org mappings using organization variables for flexible automation.
 
 <details>
 
