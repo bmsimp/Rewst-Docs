@@ -91,6 +91,7 @@
 ## 📚 Documentation
 
 * [Workflows](documentation/workflows/README.md)
+  * [Tags in Rewst](documentation/workflows/tags-in-rewst.md)
   * [Actions in Rewst](documentation/workflows/actions-in-rewst/README.md)
     * [Core Actions](documentation/workflows/actions-in-rewst/core-actions.md)
     * [Rewst Actions](documentation/workflows/actions-in-rewst/rewst-actions/README.md)
