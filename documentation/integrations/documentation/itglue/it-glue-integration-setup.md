@@ -1,4 +1,4 @@
-# IT Glue Integration Setup
+# IT Glue integration setup
 
 {% hint style="success" %}
 **This Integration supports multiple instances**
@@ -26,15 +26,39 @@ Integrating Rewst with IT Glue brings powerful documentation capabilities to you
 
 All API endpoints require authentication using a private API key. You can generate one or more API keys for your account. To generate a new API key:
 
-1. **Navigate** to Account → Settings.
-   * You will need to be a User with an Administrator role.
-2. **Click** on API Keys → Custom API Keys.
-3. **Enter** a name for the key.&#x20;
-4. **Click** Generate API Key.&#x20;
-   * You will not be able to view a key again after it has been generated.
+Generate an API key in IT Glue by referring to their guide [here](https://help.itglue.kaseya.com/help/Content/1-admin/it-glue-api/getting-started-with-the-it-glue-api.html?cshid=1038).
 
-{% hint style="danger" %}
-For security, an optional Password Access setting is provided for each API key. Password values can be accessed from the Passwords API only if this setting is enabled. Note that Rewst will need Password Access to be enabled for full functionality.
-{% endhint %}
+In the IT Glue console:
 
-<figure><img src="../../../../.gitbook/assets/2023-09-13_12-10-34.png" alt=""><figcaption></figcaption></figure>
+1. Navigate to **Admin > Settings**
+2.  Click the **API keys** tab\
+
+
+    <figure><img src="../../../../.gitbook/assets/Screenshot 2025-01-28 at 6.30.03 PM.png" alt=""><figcaption></figcaption></figure>
+3. Scroll to bottom and click the **+** on the right side
+4. Enter a **name** for the API key
+5.  Click **Generate API key**\
+
+
+    <figure><img src="../../../../.gitbook/assets/Screenshot 2025-01-28 at 6.30.43 PM.png" alt=""><figcaption></figcaption></figure>
+6. Check the **Password Access** box
+7. Copy and Save the API key - you will not be able to view the API key again once it has been generated
+
+
+
+## Integration setup in Rewst
+
+1. Log in to the Rewst platform.
+2.  Navigate to **Configuration > Integrations**.\
+
+
+    <figure><img src="../../../../.gitbook/assets/Screenshot 2025-01-28 at 6.26.06 PM.png" alt=""><figcaption></figcaption></figure>
+3. Locate and click on the IT Glue integration.
+4. Complete the configuration:
+   1. Name
+   2. Description (Optional)
+   3. Is Default checked or unchecked
+   4. API Key copied from IT Glue platform
+   5. Base URL for IT Glue environment (Region based from drop down)
+   6. Use Rewst IP Address: Select True or False
+5. **Save** the configuration.
