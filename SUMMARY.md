@@ -91,7 +91,6 @@
 ## 📚 Documentation
 
 * [Workflows](documentation/workflows/README.md)
-  * [Tags in Rewst](documentation/workflows/tags-in-rewst.md)
   * [Actions in Rewst](documentation/workflows/actions-in-rewst/README.md)
     * [Core Actions](documentation/workflows/actions-in-rewst/core-actions.md)
     * [Rewst Actions](documentation/workflows/actions-in-rewst/rewst-actions/README.md)
@@ -118,6 +117,7 @@
   * [Different types of workflows](documentation/workflows/different-types-of-workflows.md)
   * [Workflow generated options](documentation/workflows/workflow-generated-options.md)
   * [Workflow listeners (completion handlers)](documentation/workflows/workflow-listeners.md)
+  * [Tags in Rewst](documentation/workflows/tags-in-rewst.md)
   * [How to see specific workflow results](documentation/workflows/how-to-see-specific-workflow-results.md)
   * [Workflow building tips and tricks](documentation/workflows/workflow-building-tips-and-tricks/README.md)
     * [Workflow notes](documentation/workflows/workflow-building-tips-and-tricks/workflow-notes/README.md)
@@ -299,6 +299,7 @@
       * [IT Glue integration setup](documentation/integrations/documentation/itglue/it-glue-integration-setup.md)
       * [IT Glue action & endpoints](documentation/integrations/documentation/itglue/action-and-endpoints.md)
       * [Troubleshooting IT Glue issues](documentation/integrations/documentation/itglue/troubleshooting-itglue-issues.md)
+      * [Add Rewst flexible assets to sidebar in ITGlue](documentation/integrations/documentation/itglue/add-rewst-flexible-assets-to-sidebar-in-itglue.md)
     * [IT Portal](documentation/integrations/documentation/it-portal-coming-soon/README.md)
       * [IT Portal integration setup](documentation/integrations/documentation/it-portal-coming-soon/it-portal-integration-setup.md)
       * [It Portal actions & endpoints](documentation/integrations/documentation/it-portal-coming-soon/actions-and-endpoints.md)
