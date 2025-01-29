@@ -1,14 +1,14 @@
-# Add Rewst flexible assets to sidebar in ITGlue
+# Add Rewst flexible assets to sidebar in IT Glue
 
 
 
 {% hint style="warning" %}
-These steps can only be performed from an ITGlue admin account.
+These steps can only be performed from an IT Glue admin account.
 {% endhint %}
 
-If you have created flexible assets in Rewst, and want to add them to your sidebar in ITGlue:
+If you have created flexible assets in Rewst, and want to add them to your sidebar in IT Glue:
 
-1. Log in to your ITGlue admin account.
+1. Log in to your IT Glue admin account.
 2. Click the **Admin** tab in the top menu.
 3.  Scroll down and click **Customize Sidebar.**\
     \
