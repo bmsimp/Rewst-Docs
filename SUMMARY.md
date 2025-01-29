@@ -299,7 +299,7 @@
       * [IT Glue integration setup](documentation/integrations/documentation/itglue/it-glue-integration-setup.md)
       * [IT Glue action & endpoints](documentation/integrations/documentation/itglue/action-and-endpoints.md)
       * [Troubleshooting IT Glue issues](documentation/integrations/documentation/itglue/troubleshooting-itglue-issues.md)
-      * [Add Rewst flexible assets to sidebar in ITGlue](documentation/integrations/documentation/itglue/add-rewst-flexible-assets-to-sidebar-in-itglue.md)
+      * [Add Rewst flexible assets to sidebar in IT Glue](documentation/integrations/documentation/itglue/add-rewst-flexible-assets-to-sidebar-in-it-glue.md)
     * [IT Portal](documentation/integrations/documentation/it-portal-coming-soon/README.md)
       * [IT Portal integration setup](documentation/integrations/documentation/it-portal-coming-soon/it-portal-integration-setup.md)
       * [It Portal actions & endpoints](documentation/integrations/documentation/it-portal-coming-soon/actions-and-endpoints.md)
