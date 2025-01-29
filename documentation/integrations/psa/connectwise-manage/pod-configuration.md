@@ -1,4 +1,4 @@
-# Pod Configuration
+# Pod configuration
 
 ConnectWise Pods are a great method of getting information from Rewst into different areas within ConnectWise Manage, such as service desk tickets.
 
@@ -23,10 +23,10 @@ To configure the connection between your pods and Rewst, follow the below steps.
    4. **URL** - [https://app.rewst.io/organizations/\<org\_id>/integrations/embed/ticket/\[cw\_id\]](https://app.rewst.io/organizations/%3Corg_id%3E/integrations/embed/ticket/\[cw_id)
 6. Select **Pod**.
 
-{% hint style="info" %}
-**URL**
+{% hint style="warning" %}
+**Update the URL**
 
-Note that you will need to add your own`org_id`to the URL above. This can be obtained by going to Rewst and looking at the URL. `[cw_id]`should be left as-is.
+You will need to add your own `org_id`to the URL above. This can be obtained by going to Rewst and looking at the URL. `[cw_id]`should be left as-is.
 {% endhint %}
 
 ### Add pods to tickets

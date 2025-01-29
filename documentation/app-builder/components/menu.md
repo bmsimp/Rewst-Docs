@@ -1,29 +1,29 @@
-# Menu
+# Menu component
 
-## Introduction
+{% hint style="info" %}
+As part of the page builder in App Builder, the Menu component enables you to create dynamic navigation menus within your web applications. This component is crucial for structuring the navigation of your site, allowing users to easily access various sections and functionalities offered by your application.
+{% endhint %}
 
-Welcome to the Menu component documentation! As part of the page builder in App Platform, the Menu component enables you to create dynamic navigation menus within your web applications. This component is crucial for structuring the navigation of your site, allowing users to easily access various sections and functionalities offered by your application.
-
-## Why we developed it
+## Why we developed the menu component
 
 The Menu component facilitates organized and intuitive navigation throughout your application. It supports the creation of both horizontal and vertical menus that can be customized to fit the design and user experience needs of any application.&#x20;
 
-## What it could be used for
+## What the menu component could be used for
 
 * Organizing site content into accessible categories and sub-categories.
 * Providing quick access to important information like contact details, support sections, and user account areas.
 * Supporting responsive designs that adapt to different devices, ensuring seamless navigation on desktops, tablets, and smartphones.
 
-## **Example \ Use Case**
+## **Example \ use case for the menu component**
 
 Consider an MSP that manages a complex array of IT services, including cloud storage solutions, network security, and technical support. The Menu component can be used to structure these services into a well-organized menu in the sidebar of the application. For instance, each major service category could be a menu item, with drop-downs for subcategories like FAQs, pricing, setup guides, and case studies. This organization allows clients to quickly navigate through the services, find the information they need without hassle, and understand the full range of what the MSP offers, thereby improving the user experience and engagement with the platform.
 
-## Adding a Menu to your page
+## Add a menu to your page
 
 1. **Access the Canvas**: Open the page you're working on in edit mode, in App Platform.
 2. **Drag-and-Drop**: Locate the 'Menu' component in the component library, then drag and drop it onto the canvas.
 
-## Configuring the Menu component
+## Configure the menu component
 
 1. **Select the component**: Click on the added 'Menu' component to select it.
 2. **Properties Panel**: On the properties panel, you'll find various configurable options:
