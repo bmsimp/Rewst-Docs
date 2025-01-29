@@ -33,7 +33,6 @@ Explore what new changes the Training team has made in the last week.
   * [dec-22nd-2023-simply-having-a-wonderful-rewsty-time.md](../../roc-open-mics/2023-roc-open-mics/dec-22nd-2023-simply-having-a-wonderful-rewsty-time.md "mention")
   * [dec-29th-2023-last-open-mic-of-2023.md](../../roc-open-mics/2023-roc-open-mics/dec-29th-2023-last-open-mic-of-2023.md "mention")
 * Added [Broken link](broken-reference "mention")
-* Added [troubleshooting-itglue-issues.md](../../../documentation/integrations/documentation/itglue/troubleshooting-itglue-issues.md "mention")page
 * Added [app-builder](../../../documentation/app-builder/ "mention")pages
 * Added [nable](../../../documentation/integrations/rmm/nable/ "mention")pages
 * Added [agent-smith](../../../community-corner/agent-smith/ "mention")pages
