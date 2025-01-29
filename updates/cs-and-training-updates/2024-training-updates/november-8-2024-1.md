@@ -47,7 +47,6 @@ Explore what new changes the Training team has made in the last week.
   * [xero](../../../documentation/integrations/accounting/xero/ "mention") Integegration Page
   * [quickbooks-online](../../../documentation/integrations/accounting/quickbooks-online/ "mention") Integration Page
   * [bamboohr](../../../documentation/integrations/hris/bamboohr/ "mention") Integration Page
-  * [troubleshooting-halo-integration-setup.md](../../../documentation/integrations/psa/halopsa/troubleshooting-halo-integration-setup.md "mention")
 
 - Updated Pages
   * [security-policy.md](../../../security/security-policy.md "mention") updated with latest IPs and Domains

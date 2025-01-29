@@ -2,7 +2,7 @@
 description: This document outlines the requirements and setup for the Halo integration.
 ---
 
-# Halo Integration Setup
+# Halo integration setup
 
 {% hint style="success" %}
 **This Integration supports multiple instances**
@@ -10,7 +10,7 @@ description: This document outlines the requirements and setup for the Halo inte
 [Check out the instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).
 {% endhint %}
 
-### Setting up the API account
+### Set up the API account
 
 Before configuring the Rewst integration you must generate an API user. Here is the instruction for the generation of the integration user:
 
@@ -35,7 +35,7 @@ Before configuring the Rewst integration you must generate an API user. Here is 
 When creating the API Agent, ensure that the `Allow use of all Customers` Client Restriction setting is set to `Yes` if you want to allow Rewst to interact with your customer records.
 {% endhint %}
 
-### Configuring the Integration
+### Configure the integration
 
 Once you have created an API account, you will need to configure the integration within the Rewst platform.
 
@@ -58,4 +58,32 @@ Beneath that integration authentication section you will see the following optio
 1. **Suggest Values**: This option will attempt to generate mappings between Rewst organizations and child organizations in this integration.
 2. **Refresh Options**: This will re-read the potential mapping options - both organizations and companies in Halo.
 3. **Save Mappings** This will apply mapping configuration changes.
+
+## Troubleshooting Halo PSA integration setup
+
+### Customers are Not Showing Up When Refreshing Options
+
+If you are running into an issue where customers are not showing when refreshing options, this is due to an issue with permissions. Make sure to check that both the User and API user have the following permissions, at minimum:&#x20;
+
+* View Customers
+* View Support Tickets
+* Add Time Entries
+* Create Support Tickets
+
+{% hint style="danger" %}
+You may need to uninstall and reinstall the halo integration for the new permissions to take place.&#x20;
+{% endhint %}
+
+### Boards and teams are not visible in configure organizational variable form
+
+If you can't see boards or teams in the configure organizational variable form, this is due to incorrect permissions. In order to resolve this issue, you will need to add the API User to the teams that you want to see in the form.&#x20;
+
+### Email, name, department is missing or CAB ID is invalid
+
+If you run into an issue where the Email, Name, Department, or other information is missing or you see that the CAB ID is either invalid or mandatory, this is due to custom fields used in creating tickets. In order to use these custom ticket fields, you have a couple of options:
+
+* The Custom Field IDs need to be added as an organization variable
+* The Custom Field should not be marked as mandatory
+
+
 
