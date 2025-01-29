@@ -1,4 +1,4 @@
-# ROC Open Mics
+# January 24, 2025: Migration & compliance workflows... What's the cluck about powershell?
 
 ### **Join Live!**
 
@@ -28,6 +28,8 @@ Join us live every Friday at 3 pm EST!
 
 🔧 Chris W automates Huntress reboots – Identifies machines needing reboots and schedules them via Ninja.
 
+
+
 <details>
 
 <summary><strong>How to Get Help</strong></summary>
@@ -54,4 +56,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-
