@@ -1,30 +1,30 @@
-# Chart
+# Chart component
 
-## Introduction
+{% hint style="info" %}
+As part of the page builder in App Builder, the Chart component allows you to group and organize various UI elements within a structured and styled section. This component is essential for creating visually coherent and logically organized layouts in your web applications.
+{% endhint %}
 
-Welcome to the Chart component documentation! As part of the page builder in App Platform, the Chart component allows you to group and organize various UI elements within a structured and styled section. This component is essential for creating visually coherent and logically organized layouts in your web applications.
-
-## Why we developed it
+## Why we developed the chart component
 
 The Chart component enables the display of data analytics and trends visually. By transforming raw data into graphical formats, it helps users quickly grasp underlying patterns, correlations, and insights without needing to delve into complex reports or databases. This visual understanding is crucial for making informed decisions and enhancing user engagement with data.
 
-## What it could be used for
+## What the chart component could be used for
 
 * Displaying sales trends and revenue growth over time.
 * Comparing the performance metrics of different products or services.
 * Visualizing demographic data and user engagement statistics.
 * Showcasing real-time data updates such as stock prices or performance metrics.
 
-## **Example \ Use Case**
+## **Example \ use case for the chart component**
 
 An MSP might use the Chart component to visualize client network usage, system performance or support\ticket metrics over time. For instance, line charts could display changes in bandwidth usage or storage capacity across multiple client sites, helping you identify trends, anticipate needs, and allocate resources more effectively. This visualization aids in proactive management and enhances the strategic advising role of the MSP with their clients.
 
-## Adding a Chart to your page
+## Add a chart to your page
 
 1. **Access the Canvas**: Open the page you're working on in edit mode, in App Platform.
 2. **Drag-and-Drop**: Locate the 'Chart' component in the component library, then drag and drop it onto the canvas.
 
-## Configuring the Chart component
+## Configure the chart component
 
 1. **Select the component**: Click on the added 'Chart' component to select it.
 2. **Properties Panel**: On the properties panel, you'll find various configurable options:
