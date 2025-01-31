@@ -278,6 +278,7 @@
         * [Troubleshooting installation issues](documentation/integrations/cloud/microsoft-cloud-integration-bundle/common-issues-with-microsoft-bundle/troubleshooting-installation-issues.md)
         * [Graph error when using Sendmail as impersonated user](documentation/integrations/cloud/microsoft-cloud-integration-bundle/common-issues-with-microsoft-bundle/graph-error-when-using-sendmail-as-impersonated-user.md)
         * [Navigating the Microsoft-led transition to GDAP (2023)](documentation/integrations/cloud/microsoft-cloud-integration-bundle/common-issues-with-microsoft-bundle/navigating-the-microsoft-led-transition-to-gdap.md)
+      * [Send mail as an impersonated user using Microsoft Graph API](documentation/integrations/cloud/microsoft-cloud-integration-bundle/send-mail-as-an-impersonated-user-using-microsoft-graph-api.md)
   * [CRM](documentation/integrations/crm/README.md)
     * [Hubspot](documentation/integrations/crm/hubspot/README.md)
       * [HubSpot integration setup](documentation/integrations/crm/hubspot/hubspot-integration-setup.md)
