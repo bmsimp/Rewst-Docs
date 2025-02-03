@@ -16,6 +16,7 @@ Here are some details of the available core actions:
 
 <summary><strong>No-Operation (Noop)</strong></summary>
 
+* **Action Name:** `noop`
 * **Description:** Does nothing. Often used for logic or as a placeholder in the workflow.
 * **Parameters:** None.
 * **Output:** None
@@ -25,6 +26,8 @@ Here are some details of the available core actions:
 <details>
 
 <summary>Ad-hoc HTTP Requests</summary>
+
+**Action Name:** `HTTP Request`
 
 Performs an HTTP request to a specified URL, supporting a variety of methods, body content types, and configurations. This is useful for interacting with APIs or other web services within a workflow, or for performing any other tasks that involve HTTP requests.
 
@@ -61,14 +64,18 @@ _<mark style="color:blue;">**Note**</mark><mark style="color:blue;">:</mark>_ _I
 
 ***
 
-**Create Webhook:** Allows for the creation of a one-off webhook for which can then be used by the `Await Webhook` action.
+**Action Name:** `Create Webhook`
+
+Allows for the creation of a one-off webhook for which can then be used by the `Await Webhook` action.
 
 * **Parameters**: This action requires the methods allowed to access the webhook, the response status, response headers, response body, and an expiration timeout.
 * **Output**: The output of this action is the webhook ID and the full URL of the webhook.
 
 ***
 
-**Await Webhook:** Waits for a request to a created one-off webhook. Once a request is received, the workflow continues.
+**Action Name:** `Await Webhook Request`
+
+Waits for a request to a created one-off webhook. Once a request is received, the workflow continues.
 
 * **Parameters**: This action only requires the ID of the webhook created from the `Create Webhook` action.
 * **Output**: The output includes the HTTP method, query params, headers, JSON or form/multipart data in the body of the request, and the timestamp when the request was received.
@@ -79,19 +86,28 @@ _<mark style="color:blue;">**Note**</mark><mark style="color:blue;">:</mark>_ _I
 
 <summary>Email, SMS &#x26; Confirmation Actions</summary>
 
-**Send Mail:** Allows for the sending of an email.
+**Action Name:** `sendmail`
 
-* **Parameters:** This action requires a sender prefix (`sender`), with multiple options available, the recipient's email address (`to`), the subject of the email (`subject`), the title of the email (`title`), and the message body (`message`). It also has the option to render markdown as HTML (`render_markdown`).
+Allows for the sending of an email.
+
+* **Parameters:** This action requires a sender prefix (`sender`), with multiple options available, the recipient's email address (`to`), the subject of the email (`subject`), the title of the email (`title`), and the message body (`message`). It also has the option to render markdown as HTML (`render_markdown`). You can also fully control the HTML of the email with `(Custom HTML)`. This can also reference a template using the `{{ template(“guid”) }}` function.&#x20;
+  * Note that if using the `Custom HTML` field, the message and title fields will be ignored
+  * You cannot upload images to Rewst, so any image will need to be externally referenced
+  * Emails will still be sent from the rewst.io domain
 * **Output:** The task doesn't yield an output upon success. It will fail if there are any errors during the process of sending the email.
 
 ***
 
-**Send SMS:** Allows you to send a text message to a specified phone number.
+**Action Name:** `Send SMS`
+
+Allows you to send a text message to a specified phone number.
 
 * **Parameters**: This action requires the recipient's phone number (`phone_number`) and the text message (`message`) to be sent.
 * **Output**: The output of this action will depend on the implementation details. Usually, it will return a confirmation message or an error message.
 
 ***
+
+**Action Name:** `Confirmation Email`
 
 **Confirmation Email:** Sends a confirmation email with reply options to a specified recipient.
 
@@ -104,14 +120,18 @@ _<mark style="color:blue;">**Note**</mark><mark style="color:blue;">:</mark>_ _I
 
 <summary>Delay Workflow Actions</summary>
 
-**Delay Workflow For Period:** Pauses the workflow for a specified duration.
+**Action Name:** `Delay Workflow For Period`
+
+Pauses the workflow for a specified duration.
 
 * **Parameters:** The number of days, hours, minutes or seconds to delay the workflow.
 * **Output:** No specific output, the workflow resumes after the specified delay.
 
 ***
 
-**Delay Workflow Until Date/Time:** Pauses the workflow until a specified date and time.
+**Action Name:** `Delay Workflow Until Date/Time`
+
+Pauses the workflow until a specified date and time.
 
 * **Parameters:** The date and time when the workflow should resume.
 * **Output:** No specific output, the workflow resumes at the specified date and time.
@@ -121,6 +141,8 @@ _<mark style="color:blue;">**Note**</mark><mark style="color:blue;">:</mark>_ _I
 <details>
 
 <summary>Mock Task</summary>
+
+**Action Name:** `mock`
 
 **Overview**
 
@@ -185,6 +207,8 @@ This can be useful for catching issues early in the development phase such as in
 
 <summary>Debugging with Templates</summary>
 
+**Action Name:** `Debug`
+
 **Overview**
 
 The `Debug` action is a utility feature in our workflow system, specifically designed to assist with debugging and logging purposes. This action can help in understanding the flow of data within your workflows, troubleshoot problems, and generally help you understand what's happening at a certain point in the workflow execution. It logs the input parameters it receives and returns the same as its output.
@@ -235,6 +259,8 @@ This tells us that `CTX.name` was set to`Rewsty`, and the text provided with thi
 <details>
 
 <summary>Parse HTML Action</summary>
+
+#### Action Name: `Parse HTML`
 
 #### Overview
 
@@ -353,6 +379,8 @@ _**Tip**: Parse HTML's functionalities include finding elements by tags (`<h1>`)
 
 <summary>Parse XML Action</summary>
 
+#### Action Name: `Parse XML`
+
 #### Overview
 
 The Core Parse XML action in Rewst is designed to locate and extract specific elements or data from XML documents. This powerful tool, backed by an efficient Python library, facilitates precise data extraction from XML files, simplifying the process of parsing complex data structures.
@@ -464,13 +492,17 @@ For additional understanding on XPath expressions, refer to this [w3schools arti
 
 **DNS Query**
 
+**Action Name:** `DNS Query`
+
 * **Description:** Queries a nameserver for DNS records associated with a given URL.
 * **Parameters:** The URL to query the Nameserver for, the field to query from the nameserver, timeout for the DNS Query (optional, default 60), and the nameserver to use for the query (several options available including Google, Cloudflare, OpenDNS).
 * **Output:** The specified DNS records associated with the given URL from the queried nameserver.
 
 ***
 
-**Generate Password V2**
+**Generate Password**
+
+**Action Name:** `Generate Password V2`
 
 * **Description:** An upgrade from the deprecated password generation action. It crafts a cryptographically secure password with user-specified values. (_This is recommended for use over the deprecated Password Action due to its upgraded structure.)_
 * **Parameters:** length, minimum counts of numeric and capital letter characters, and optional punctuation characters.
@@ -479,6 +511,8 @@ For additional understanding on XPath expressions, refer to this [w3schools arti
 ***
 
 **UUID**
+
+**Action Name:** `uuid`
 
 * **Description:** Generates a new UUID (Universally Unique Identifier).
 * **Parameters:** UUID type (options include `uuid1` and `uuid4`, defaults to `uuid4`).
