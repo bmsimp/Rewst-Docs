@@ -16,7 +16,7 @@ Join us live every Friday at 3 pm EST!
 
 🎤 AI Aharon kicks off the Open Mic.&#x20;
 
-🛠️ Daniel shares Dev updates, including BitDefender and Connect Secure V4 integrations, new app builder features, and Pax8 OAuth migration details.&#x20;
+🛠️ Danial shares Dev updates, including BitDefender and Connect Secure V4 integrations, new app builder features, and Pax8 OAuth migration details.&#x20;
 
 🔒 Paul demos crate, just-in-time admin access automation for on-prem and M365, showcasing improved security workflows.&#x20;
 

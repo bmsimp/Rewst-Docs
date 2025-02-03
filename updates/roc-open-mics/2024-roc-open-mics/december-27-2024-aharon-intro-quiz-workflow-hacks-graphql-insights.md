@@ -12,7 +12,7 @@ Join us live every Friday at 3 pm EST!
 
 ### Contents of the Recording:
 
-🎤 Ash kicks off open mic with a fun pop quiz about Aharon's open mic kickoff catchphrases.&#x20;
+🎤 Ashe kicks off open mic with a fun pop quiz about Aharon's open mic kickoff catchphrases.&#x20;
 
 📋 Microsoft Forms Integration: Jared demonstrates connecting Microsoft Forms to Rewst workflows via Power Automate.&#x20;
 
