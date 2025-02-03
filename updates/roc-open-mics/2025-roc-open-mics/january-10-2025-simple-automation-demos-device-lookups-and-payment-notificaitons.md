@@ -12,9 +12,9 @@ Join us live every Friday at 3 pm EST!
 
 ### Contents of the Recording:
 
-🎤 Aaron kicks off the Open Mic.&#x20;
+🎤 Aharon kicks off the Open Mic.&#x20;
 
-🛠️ Daniel shares dev updates: Introduces Google Enterprise License Manager integration, clickable domain links in app pages, syncing improvements, and upcoming granular forms permissions.&#x20;
+🛠️ Danial shares dev updates: Introduces Google Enterprise License Manager integration, clickable domain links in app pages, syncing improvements, and upcoming granular forms permissions.&#x20;
 
 📦 JP discusses marketplace updates: Covers refactored M365 environment crates, bug fixes, and upcoming onboarding and offboarding workflows.&#x20;
 

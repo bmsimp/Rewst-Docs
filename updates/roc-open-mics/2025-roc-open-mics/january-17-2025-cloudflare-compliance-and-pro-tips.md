@@ -12,7 +12,7 @@ Join us live every Friday at 3 pm EST!
 
 ### Contents of the Recording:
 
-🎤 Aaron kicks off the Open Mic.&#x20;
+🎤 Aharon kicks off the Open Mic.&#x20;
 
 🛠️ Pizza shares Dev updates: Highlights new features like N-able N-sight integration, redesigned workflow chips, CSV export updates, and upcoming features like granular form permissions and SQL database refactor.&#x20;
 

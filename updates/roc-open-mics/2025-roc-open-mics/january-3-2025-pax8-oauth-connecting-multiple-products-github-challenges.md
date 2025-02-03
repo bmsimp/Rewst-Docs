@@ -16,9 +16,9 @@ At the time of this video, App Builder Apps Release is for the US Crate Marketpl
 
 ### Contents of the Recording:
 
-🎤 Aaron kicks off the Open Mic.&#x20;
+🎤 Aharon kicks off the Open Mic.&#x20;
 
-🛠️ Daniel shares Development updates: Highlights new Cove integration, Pax8 OAuth migration, template editor improvements, and bug fixes.&#x20;
+🛠️ Danial shares Development updates: Highlights new Cove integration, Pax8 OAuth migration, template editor improvements, and bug fixes.&#x20;
 
 🎓 Clea shares Education updates: Announces certifications, boot camp schedules, and community-driven onboarding course improvements.&#x20;
 
