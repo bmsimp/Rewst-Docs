@@ -32,7 +32,7 @@ JSON stands for **JavaScript Object Notation**, and it’s the format most APIs 
 
 When Rewst runs a workflow, it collects data from APIs and organizes it in **JSON format**.
 
-* The **Context** in Rewst acts like a big folder containing all the data gathered during the workflow.
+* The **context** in Rewst acts like a big folder containing all the data gathered during the workflow.
 * You can drill down into this folder to find specific results, like weather details or user profiles, labeled clearly for easy navigation.
 
 </details>
