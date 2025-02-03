@@ -12,7 +12,7 @@ Join us live every Friday at 3 pm EST!
 
 ### Contents of the Recording:
 
-🎤 Aaron kicks off Open Mic&#x20;
+🎤 Aharon kicks off Open Mic&#x20;
 
 🔄 Danial demos Forms user automation – Auto-creates Rewst form users from tagged ConnectWise contacts, streamlining access.&#x20;
 
