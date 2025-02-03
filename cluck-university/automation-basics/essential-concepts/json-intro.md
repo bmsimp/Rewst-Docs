@@ -52,7 +52,7 @@ JSON simplifies complex data, making Rewst workflows easier to manage and unders
 
 ## Action items&#x20;
 
-* Open a workflow in Rewst and check the **Context** to see the data collected during a run. Identify a piece of information—like a user's name or a weather update—and note how it’s labeled and structured in JSON. This will help you get comfortable reading and navigating workflow results.
+* Open a workflow in Rewst and check the **context** to see the data collected during a run. Identify a piece of information—like a user's name or a weather update—and note how it’s labeled and structured in JSON. This will help you get comfortable reading and navigating workflow results.
 * Take the JSON knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/BSSLMJW" %}
