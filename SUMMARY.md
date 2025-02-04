@@ -413,12 +413,10 @@
 
 ## 📦 Prebuilt Automations
 
-* [What is a Crate?](prebuilt-automations/crates/README.md)
-  * [Crate state and maturity](prebuilt-automations/crates/crate-state-and-maturity.md)
+* [Crates in Rewst](prebuilt-automations/crates/README.md)
   * [Stewart's 30 favorite Crates](prebuilt-automations/crates/stewarts-30-favorite-crates.md)
-  * [Submit your Crate idea](prebuilt-automations/crates/submit-your-crate-idea.md)
   * [Production Crate list](prebuilt-automations/crates/production-crate-list.md)
-* [Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
+* [Individual Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
   * [Add client to Rewst](prebuilt-automations/existing-crate-documentation/add-client-to-rewst-setup.md)
   * [Configure organization variables](prebuilt-automations/existing-crate-documentation/configure-organization-variables.md)
   * [Connectwise PSA agreement mapping](prebuilt-automations/existing-crate-documentation/connectwise-psa-agreement-mapping.md)
