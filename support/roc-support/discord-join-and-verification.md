@@ -44,8 +44,7 @@ You must have an existing Rewst account to use the form
 
 ### If You Are Already in the Community Server but need to access your Support Server
 
-If you're already part of our community server, you can follow the same steps above to start the verification process or use the above instructions to go directly to the form itself:
-
+If you're already part of our community server, you can follow the same steps above to start the verification process.
 ***
 
 By following these steps, you'll be successfully verified and added to the appropriate Discord servers, ensuring you have access to the resources you need.
