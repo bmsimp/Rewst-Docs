@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn all about our prebuilt automations: where to find them, how to set them
-  up, and
+  Learn all about our prebuilt automations: where to find them, and how to set
+  them up
 ---
 
 # Crates in Rewst
