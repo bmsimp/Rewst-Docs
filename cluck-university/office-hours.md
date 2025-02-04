@@ -3,6 +3,7 @@ description: >-
   Working though training on your own and need a little guidance? Or just
   looking to translate some of what you learned into your own project efforts?
   Join us for our Cluck U Office Hours!
+icon: clock
 ---
 
 # Office hours
