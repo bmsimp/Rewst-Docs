@@ -2,6 +2,23 @@
 
 <details>
 
+<summary>⚠️ Routine System Maintenance February 8th and 15th</summary>
+
+We will be performing maintenance on:\
+**Saturday**, February 8th, 2025 from 2:00PM – 4:00PM EST (19:00–21:00 UTC)\
+**Saturday**, February 15th, 2025 from 2:00PM – 4:00PM EST (19:00–21:00 UTC)
+
+Please note: You may experience periodic service interruptions during the maintenance windows for instances hosted in the US region.
+
+If you have any urgent concerns, please contact your support team.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
+
+<details>
+
 <summary>⚠️ Transition to OAuth 2.0 Authentication for Pax8 APIs (January 7th, 2025)</summary>
 
 As of **January 31st, 2025**, Pax8 will retire API Key requests as a method of authentication. To ensure uninterrupted access to the Pax8 integration, Rewst customers are required to transition to OAuth 2.0 for API authentication.
