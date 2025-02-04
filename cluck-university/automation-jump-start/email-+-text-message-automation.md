@@ -58,16 +58,20 @@ It’s simple to set up, using only core tasks in Rewst — no integrations need
 This workflow will send a personalized email and optional text using the form submission as input.
 
 1. Navigate to **Automations** > **Workflows.**
-2. Click **Create** to create a new workflow. \
-   ![](<../../.gitbook/assets/Screenshot 2025-02-04 at 3.44.50 PM.png>)
+2.  Click **Create** to create a new workflow. \
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 3.44.50 PM.png" alt=""><figcaption></figcaption></figure>
 3. Enter `Prospect Pitch Workflow` in the **Name** field.
 4. Add any **Tags** you'd like, to stay organized.&#x20;
 5. Click **Submit**.
 
 ### Add the trigger
 
-1. Click the **Trigger** button, denoted by a blue lightning bolt, in the top menu. Your load time to establish the trigger may take a moment.\
-   ![](<../../.gitbook/assets/Screenshot 2025-02-04 at 3.46.29 PM.png>)
+1.  Click the **Trigger** button, denoted by a blue lightning bolt, in the top menu. Your load time to establish the trigger may take a moment.\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 3.46.29 PM.png" alt=""><figcaption></figcaption></figure>
 2. Enter `Form Trigger`  in the **Name** field.
 3. Toggle **Enabled** to on to activate this trigger.
    1. With the trigger active, every form submission will start our new workflow.
@@ -134,8 +138,10 @@ Check your email to learn more about us.
 
 ### Add input configuration for testing
 
-1. Open **Configure Workflow Settings,** denoted by a pencil icon, in the top menu. \
-   ![](<../../.gitbook/assets/Screenshot 2025-02-04 at 4.00.06 PM.png>)
+1.  Open **Configure Workflow Settings,** denoted by a pencil icon, in the top menu. \
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 4.00.06 PM.png" alt=""><figcaption></figcaption></figure>
 2. Click **Input Configuration +** three times.&#x20;
 3. Enter each of the following names into each input configuration's **name** field:
    1. `prospect_email`

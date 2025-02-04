@@ -184,7 +184,7 @@ The IT Team
 ```
 {% endcode %}
 
-<figure><img src="../../.gitbook/assets/Screenshot%202025-01-23%20at%2010.41.32%E2%80%AFAM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot%202025-01-23%20at%2010.41.32%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
 4. Connect the **On Success** transition of the ConnectWise action to the email action.
 

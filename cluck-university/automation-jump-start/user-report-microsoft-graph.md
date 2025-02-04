@@ -34,8 +34,10 @@ This workflow uses:
 
 ### Add the trigger
 
-1. Click the **Trigger** button, denoted by a blue lightning bolt, in the top menu. Your load time to establish the trigger may take a moment.\
-   ![](<../../.gitbook/assets/Screenshot 2025-02-04 at 3.46.29 PM.png>)
+1.  Click the **Trigger** button, denoted by a blue lightning bolt, in the top menu. Your load time to establish the trigger may take a moment.\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 3.46.29 PM.png" alt=""><figcaption></figcaption></figure>
 2. Enter `User Report Cron Trigger`  in the **Name** field.
 3. Toggle **Enabled** to on to activate this trigger.
    1. With the trigger active, every form submission will start our new workflow.
