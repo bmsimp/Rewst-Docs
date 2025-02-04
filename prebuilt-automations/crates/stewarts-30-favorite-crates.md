@@ -1,9 +1,9 @@
-# Rewst's top 30 Crates
+# Stewart's 30 favorite Crates
 
 {% hint style="info" %}
 Rewst is constantly developing new Crates. This list of our 30 most popular Crates is just a small sample of the Crates you can find in the Crate Marketplace.
 
-For more on the different types of Crates you'll find in Crate Marketplace, see our [guide to Crate States](https://docs.rewst.help/prebuilt-automations/crates/crate-state-and-maturity).
+For more on Crates, including detailed information on what each of our Crate states means, see our [Crates in Rewst page here](./).&#x20;
 {% endhint %}
 
 Click on each of the tiles on the page below to launch that Crate's information page in Rewst, where you'll find more details about related integrations, prerequisites, and setup instructions.

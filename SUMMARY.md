@@ -73,6 +73,10 @@
   * [Modular automation through abstraction](cluck-university/clean-automation/modular-automation-through-abstraction.md)
   * [Avoiding automation anti-patterns](cluck-university/clean-automation/avoiding-automation-anti-patterns.md)
   * [Clean automation certification](cluck-university/clean-automation/clean-automation-certification.md)
+* [Automation Jump Start](cluck-university/automation-jump-start/README.md)
+  * [Email + Text Message Automation](cluck-university/automation-jump-start/email-+-text-message-automation.md)
+  * [User report (Microsoft Graph)](cluck-university/automation-jump-start/user-report-microsoft-graph.md)
+  * [PSA automation](cluck-university/automation-jump-start/psa-automation.md)
 * [Electives](cluck-university/electives/README.md)
   * [Extending the power of Rewst workflows](cluck-university/electives/extending-the-power-of-rewst-workflows/README.md)
     * [Part 1: Introduction to completion handlers](cluck-university/electives/extending-the-power-of-rewst-workflows/part-1-introduction-to-completion-handlers.md)
@@ -413,12 +417,10 @@
 
 ## 📦 Prebuilt Automations
 
-* [What is a Crate?](prebuilt-automations/crates/README.md)
-  * [Crate state and maturity](prebuilt-automations/crates/crate-state-and-maturity.md)
+* [Crates in Rewst](prebuilt-automations/crates/README.md)
   * [Stewart's 30 favorite Crates](prebuilt-automations/crates/stewarts-30-favorite-crates.md)
-  * [Submit your Crate idea](prebuilt-automations/crates/submit-your-crate-idea.md)
   * [Production Crate list](prebuilt-automations/crates/production-crate-list.md)
-* [Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
+* [Individual Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
   * [Add client to Rewst](prebuilt-automations/existing-crate-documentation/add-client-to-rewst-setup.md)
   * [Configure organization variables](prebuilt-automations/existing-crate-documentation/configure-organization-variables.md)
   * [Connectwise PSA agreement mapping](prebuilt-automations/existing-crate-documentation/connectwise-psa-agreement-mapping.md)

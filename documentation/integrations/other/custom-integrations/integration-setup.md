@@ -1,4 +1,4 @@
-# Custom Integrations (v1)
+# Custom integrations (v1)
 
 {% hint style="success" %}
 **This Integration supports multiple instances**
@@ -6,10 +6,8 @@
 [Check out the instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).
 {% endhint %}
 
-{% hint style="danger" %}
-**Experimental Feature**
-
-This is an advanced feature that does not offer the same level of support as Rewst's built-in integrations. While we have made efforts to ensure its stability, we recommend caution in using this feature in production environments until further testing and development have been completed.
+{% hint style="info" %}
+Note that this is V1 of our custom integrations feature. Customers who have installed V2 of custom integrations, or newer customers who only need documentation for our newer V2 of custom integrations, may find that setup documentation [here](https://docs.rewst.help/documentation/integrations/custom-integrations/custom-integrations-v2).&#x20;
 {% endhint %}
 
 This guide provides an overview of how to configure custom integrations within our platform. Custom integrations allow you to connect with a wide range of REST APIs that are not currently supported by our official integration offerings.

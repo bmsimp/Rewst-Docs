@@ -1,39 +1,57 @@
-# Hudu Integration Setup
+# Hudu integration setup
 
 {% hint style="success" %}
 **This Integration supports multiple instances**
 
-[Check out the instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).
+[Check out our instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).
 {% endhint %}
 
-### Overview
+## What does the Hudu integration do?
 
-This document outlines the requirements and setup for the Hudu integration.
+Rewst's Hudu integration enables the automation of documentation management. Use the Hudu API within Rewst workflows to perform actions such as managing and documenting assets, websites, passwords, and procedures.
 
-### Setting up the API account
+## Set up the API account in Hudu
 
-Before configuring the Rewst integration you must generate an API user.
+Before configuring the Rewst integration, you must generate an API user.
 
-1. **Log in** to your Hudu instance.
-2. **Copy** your instance hostname (ex: yourinstance.huducloud.com) and enter it below.
-3. **Click** the Gear icon labeled Admin In the upper-left corner.
-4. **Select** API at the bottom of the page.
-5. **Create** a new key In the left-hand sidebar by entering the following:
-   * Name: Rewst
-   * Allowed IP Addresses: 3.139.170.31
-   * Password Access: Checked
-   * Can Perform Destructive Actions?: Checked
-6. **Click** "Create New Key".
-7. **Log in** to the [Rewst platform](https://app.rewst.io).
-8. **Click** on the _"Integrations"_ menu on the left sidebar.
-9. **Click** **on** or search for _"Hudu Documentation"_.
-10. **Copy** the API Key from the top of the page and enter it below.
-11. **Click** Save.
+1. Log in to your Hudu instance.
+2. Click on the **Admin** tab in the top menu.
+3.  Scroll down and click **API Keys** under the **Account Administration** menu.\
 
-Rewst will perform a quick validation of the information.
 
-Beneath that integration authentication section you will see the following options:
+    <figure><img src="../../../../.gitbook/assets/Screenshot 2025-02-04 at 2.07.19 PM.png" alt=""><figcaption></figcaption></figure>
+4. Click the **+ New API Key** button at the upper right of the page.
+5.  Enter the following:
 
-1. **Suggest Values:** This option will attempt to generate mappings between Rewst organizations and child organization in this integration.
-2. **Refresh Options:** This will re-read the potential mapping options - both organizations and companies in IT Glue.
-3. **Save Mappings:** This will apply mapping configuration changes.
+
+
+    <figure><img src="../../../../.gitbook/assets/Screenshot 2025-02-04 at 2.10.32 PM.png" alt=""><figcaption></figcaption></figure>
+
+    1. **Name:** Rewst
+    2. **Allowed IP Addresses:** 3.139.170.31
+    3. Check off **Can access passwords?**
+    4. Check off **Can perform destructive actions?**
+6. Click **Create New Key**.
+7. Copy and save the API key that is generated and listed at the top of the page under **New API Key**.
+
+## Set up steps in Rewst
+
+1. Navigate to **Configuration > Integrations** in the left side menu of your Rewst platform.
+2. In the Integrations page, search for the Hudu integration.\
+   ![](<../../../../.gitbook/assets/Screenshot 2025-02-04 at 2.15.09 PM.png>)
+3. Click on the integration tile to begin the installation process.
+4. Enter the name of your choice for your integration.
+5. Enter description if desired.
+6. Enter your copied API key from your Hudu Instance.
+7. Add your Hudu Instance hostname  in the **Hudu URL** field: for example,  yourinstance.huducloud.com
+8.  Click **Save Configuration**.\
+
+
+    <figure><img src="../../../../.gitbook/assets/Screenshot 2025-02-04 at 2.19.52 PM.png" alt=""><figcaption></figcaption></figure>
+
+Rewst will perform a quick validation of the information. Beneath that integration authentication section you'll see the following options:
+
+1. **Suggest Values**: This option will attempt to generate mappings between Rewst organizations and child organization in this integration.
+2. **Refresh Options**: This will re-read the potential mapping options - both organizations and companies in IT Glue.
+3. **Save Mappings**: This will apply mapping configuration changes.
+
