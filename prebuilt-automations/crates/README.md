@@ -45,7 +45,7 @@ In the Crate Marketplace screen, you can:
 
 * **Search** for Crates
 * **Filter** Crates by a variety of criteria
-* Sort all Crates by **Alphabetical**, **Date Created**, Maturity, or Popularity order via the **Sort By** drop down menu
+* Sort all Crates by **Alphabetical**, **Date Created**, **Maturity**, or **Popularity** order via the **Sort By** drop down menu
 
 Click on the tile for your desired Crate to open up its **Crate Details** page, which breaks down the purpose, features, and setup requirements of the Crate.
 
@@ -70,7 +70,7 @@ Optionally rename your workflow, trigger and form names, and update your **Time 
 Depending on the size of the Crate, unpacking may take a few minutes. Leave your browser window open without navigating away from your Rewst platform while the process completes.
 
 {% hint style="warning" %}
-After unpackinga Crate, always check its performance to ensure it's functioning as expected. Once done, you can test the Crate by completing a related task and watching for the Crate's success.
+After unpacking a Crate, always check its performance to ensure it's functioning as expected. Once done, you can test the Crate by completing a related task and watching for the Crate's success.
 {% endhint %}
 
 ## Synced versus unsynced Crates
