@@ -73,7 +73,7 @@
   * [Modular automation through abstraction](cluck-university/clean-automation/modular-automation-through-abstraction.md)
   * [Avoiding automation anti-patterns](cluck-university/clean-automation/avoiding-automation-anti-patterns.md)
   * [Clean automation certification](cluck-university/clean-automation/clean-automation-certification.md)
-* [Automation Jump Start](cluck-university/automation-jump-start/README.md)
+* [Automation jump start](cluck-university/automation-jump-start/README.md)
   * [Email + Text Message Automation](cluck-university/automation-jump-start/email-+-text-message-automation.md)
   * [User report (Microsoft Graph)](cluck-university/automation-jump-start/user-report-microsoft-graph.md)
   * [PSA automation](cluck-university/automation-jump-start/psa-automation.md)
@@ -89,7 +89,7 @@
   * [Core triggers to kick-off automation](cluck-university/electives/core-triggers-to-kick-off-automation.md)
   * [How to build forms](cluck-university/electives/how-to-build-forms.md)
   * [Support and troubleshooting dynamic form fields](cluck-university/electives/support-and-troubleshooting-dynamic-form-fields.md)
-* [Office hours](cluck-university/office-hours.md)
+* [Cluck University office hours](cluck-university/office-hours.md)
 * [Rewst certification how-to and troubleshooting guide](cluck-university/rewst-certification-how-to-and-troubleshooting-guide.md)
 
 ## 📚 Documentation
@@ -228,6 +228,8 @@
     * [N-able N-central](documentation/integrations/rmm/nable/README.md)
       * [N-able N-central integration setup](documentation/integrations/rmm/nable/nable-integration-setup.md)
       * [N-able N-central actions & endpoints](documentation/integrations/rmm/nable/actions-and-endpoints.md)
+    * [N-able N-sight](documentation/integrations/rmm/n-able-n-sight/README.md)
+      * [N-able N-sight integration](documentation/integrations/rmm/n-able-n-sight/n-able-n-sight-integration-setup.md)
     * [NinjaOne](documentation/integrations/rmm/ninjaone/README.md)
       * [NinjaOne integration setup](documentation/integrations/rmm/ninjaone/ninjaone-integration-setup.md)
     * [RPort](documentation/integrations/rmm/rport/README.md)
