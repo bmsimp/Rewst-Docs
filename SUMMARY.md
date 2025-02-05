@@ -228,6 +228,8 @@
     * [N-able N-central](documentation/integrations/rmm/nable/README.md)
       * [N-able N-central integration setup](documentation/integrations/rmm/nable/nable-integration-setup.md)
       * [N-able N-central actions & endpoints](documentation/integrations/rmm/nable/actions-and-endpoints.md)
+    * [N-able N-sight](documentation/integrations/rmm/n-able-n-sight/README.md)
+      * [N-able N-sight integration setup](documentation/integrations/rmm/n-able-n-sight/n-able-n-sight-integration-setup.md)
     * [NinjaOne](documentation/integrations/rmm/ninjaone/README.md)
       * [NinjaOne integration setup](documentation/integrations/rmm/ninjaone/ninjaone-integration-setup.md)
     * [RPort](documentation/integrations/rmm/rport/README.md)
