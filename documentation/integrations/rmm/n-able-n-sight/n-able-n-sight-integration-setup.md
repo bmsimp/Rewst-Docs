@@ -16,19 +16,11 @@ layout:
 
 ## Table of contents
 
-[#what-does-the-n-able-n-sight-integration-do](n-able-n-sight-integration.md#what-does-the-n-able-n-sight-integration-do "mention")
+[#what-does-the-n-able-n-sight-integration-do](n-able-n-sight-integration-setup.md#what-does-the-n-able-n-sight-integration-do "mention")
 
-[#integration-prerequisites](n-able-n-sight-integration.md#integration-prerequisites "mention")
+[#set-up-the-n-able-n-sight-integration](n-able-n-sight-integration-setup.md#set-up-the-n-able-n-sight-integration "mention")
 
-[#set-up-the-n-able-n-sight-integration](n-able-n-sight-integration.md#set-up-the-n-able-n-sight-integration "mention")
-
-[#test-the-integration](n-able-n-sight-integration.md#test-the-integration "mention")
-
-[#crates-related-to-the-n-able-n-sight-integration](n-able-n-sight-integration.md#crates-related-to-the-n-able-n-sight-integration "mention")
-
-[#troubleshoot-the-n-able-n-sight-integration](n-able-n-sight-integration.md#troubleshoot-the-n-able-n-sight-integration "mention")
-
-[#n-able-n-sight-actions-and-endpoints](n-able-n-sight-integration.md#n-able-n-sight-actions-and-endpoints "mention")
+[#n-able-n-sight-actions-and-endpoints](n-able-n-sight-integration-setup.md#n-able-n-sight-actions-and-endpoints "mention")
 
 
 
