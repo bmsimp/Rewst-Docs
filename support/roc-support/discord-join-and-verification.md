@@ -19,7 +19,11 @@ You must have an existing Rewst account to use the form
 {% endhint %}
 
 1. **Open the Verification Form**\
-   Click on the following link to open the form: [Verification Form](https://app.rewst.io/form/018f86cc-6a94-7965-b90f-a0daae9178cc).
+   Click on the link below to open the form. Note you must choose the form link for the Rewst instance you log into: 
+   * [Rewst-US (app.rewst.io)](https://app.rewst.io/form/018f86cc-6a94-7965-b90f-a0daae9178cc).
+   * [Rewst-EU (app.rewst.eu)](https://app.rewst.eu/form/0192ff0b-00f3-7c56-b898-50090dfb05b9)
+   * [Rewst-UK (app.eu.rewst.io)](https://app.eu.rewst.io/form/01930353-19a2-7898-8ec3-11ba33dd2b8f)
+   * [Rewst-APAC (app.rewst.asia)](https://app.rewst.asia/form/0193034c-8e43-7dc0-9621-0b6115d57fc5)
 2. **Confirm Your Organization**\
    The form should automatically display your organization's name. If correct, proceed to the next step.
 3. **Select "Me"**\
@@ -40,21 +44,7 @@ You must have an existing Rewst account to use the form
 
 ### If You Are Already in the Community Server but need to access your Support Server
 
-If you're already part of our community server, you can use the `/verify` command within Discord to start the verification process or use the above instructions to go directly to the form itself:
-
-1. **Use the `/verify` Command**\
-   In the Discord server, type `/verify` in any channel.
-2. **Follow the Provided Link**\
-   The bot will respond with a link to the verification form. Click on this link to open the form.
-3. **Confirm Your Organization**\
-   Ensure that the form displays your organization's name correctly.
-4. **Select "Me"**\
-   Choose the "Me" option if you’re verifying yourself.
-5. **Authorise Discord Access**\
-   Click on the link that says "Click here to authorise access to Discord" and follow the prompts to sign in or authorise.
-6. **Verification Complete**\
-   After authorising, you'll be redirected to a confirmation page, and your channel will be created automatically.
-
+If you're already part of our community server, you can follow the same steps above to start the verification process.
 ***
 
 By following these steps, you'll be successfully verified and added to the appropriate Discord servers, ensuring you have access to the resources you need.
