@@ -35,6 +35,6 @@ Explore what new changes the Training team has made in the last week.
 * Added [Broken link](broken-reference "mention")
 * Added [app-builder](../../../documentation/app-builder/ "mention")pages
 * Added [nable](../../../documentation/integrations/rmm/nable/ "mention")pages
-* Added [agent-smith](../../../community-corner/agent-smith/ "mention")pages
+* Added [agent-smith](../../../documentation/agent-smith/ "mention")pages
 
 </details>
