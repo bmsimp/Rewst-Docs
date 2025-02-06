@@ -1,20 +1,18 @@
-# Troubleshoot API Issues from ConnectWise Logs
+# Troubleshoot API issues from ConnectWise logs
 
 ## Overview
 
-This guide outlines the steps for Rewst users to pull API logs from ConnectWise Manage. These logs are crucial for troubleshooting and optimizing the Rewst integration with ConnectWise.
+This guide outlines the steps for Rewst users to pull API logs from ConnectWise PSA. These logs are crucial for troubleshooting and optimizing the Rewst integration with ConnectWise.
 
 ## Prerequisites
 
-* Access to ConnectWise Manage with appropriate permissions.
+* Access to ConnectWise PSA with appropriate permissions.
 * Familiarity with navigating the ConnectWise Manage system.
 * Confirm that your Rewst account is [correctly integrated with ConnectWise](connectwise-integration-setup.md).
 
-***
+## Step by step walkthrough
 
-## Step by Step Walkthrough
-
-### Step 1: Log into ConnectWise Manage & Navigate to System Settings
+### Step 1: Log into ConnectWise PSA and navigate to system settings
 
 * **Login** to ConnectWise
 * **Navigate** to `System` > `Members`
@@ -24,17 +22,13 @@ Here, you'll find settings specific to API interactions and configurations.
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ### Step 2: Select the Rewst user
 
 Under the API Members tab, locate and select the user associated with Rewst's integration.
 
 <figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-***
-
-### **Step 3: Open the API Logs Tab**
+### **Step 3: Open the API logs tab**
 
 After selecting the Rewst user:
 
@@ -45,9 +39,7 @@ After selecting the Rewst user:
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-***
-
-### Step 4: Set Debug Duration
+### Step 4: Set debug duration
 
 In the Debug Mode pop-up:
 
@@ -56,9 +48,7 @@ In the Debug Mode pop-up:
 
 <figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-***
-
-### Step 5: Replicate the Issue & Troubleshoot
+### Step 5: Replicate the issue and troubleshoot
 
 * **Replicate** the issue or process you are troubleshooting
 * **Return** to the API Logs tab.
@@ -66,8 +56,3 @@ In the Debug Mode pop-up:
 
 Once downloaded, you can review these logs, and provide to the ROC for troubleshooting assistance.
 
-***
-
-## Conclusion
-
-By following these steps, Rewst users can efficiently pull API logs from ConnectWise Manage, aiding in effective troubleshooting and optimization of the Rewst-ConnectWise integration.
