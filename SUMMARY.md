@@ -75,6 +75,7 @@
   * [Clean automation certification](cluck-university/clean-automation/clean-automation-certification.md)
 * [Automation jump start](cluck-university/automation-jump-start/README.md)
   * [Email + Text Message Automation](cluck-university/automation-jump-start/email-+-text-message-automation.md)
+  * [Automation feedback request](cluck-university/automation-jump-start/automation-feedback-request.md)
   * [User report (Microsoft Graph)](cluck-university/automation-jump-start/user-report-microsoft-graph.md)
   * [PSA automation](cluck-university/automation-jump-start/psa-automation.md)
 * [Electives](cluck-university/electives/README.md)
