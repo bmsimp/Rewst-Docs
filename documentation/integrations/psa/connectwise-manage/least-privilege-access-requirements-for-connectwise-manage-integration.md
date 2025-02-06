@@ -1,4 +1,4 @@
-# Least Privilege Access Requirements for ConnectWise Manage Integration
+# Least privilege access requirements for ConnectWise PSA integration
 
 ### Introduction
 
@@ -6,7 +6,7 @@ This document provides guidance on the least privileged access required for inte
 
 For more information on how to authenticate your ConnectWise PSA account [check out the Integration Setup page](connectwise-integration-setup.md).
 
-### Authentication Requirements
+### Authentication requirements
 
 To initiate the successful authentication of the ConnectWise PSA integration with Rewst, and pull back the list of companies you want to associate, the following permission scopes are needed:
 
@@ -17,9 +17,9 @@ To initiate the successful authentication of the ConnectWise PSA integration wit
 If you are seeing a 403 Forbidden error when running workflows, this is due to incorrect permissions. Ensure that the above authentication requirements are complete to resolve this error.&#x20;
 {% endhint %}
 
-### Additional Action Requirements
+### Additional action requirements
 
-In addition to the above that’s required for authentication, there are several more actions the ConnectWise integration is capable of taking within Rewst. To use them all, you’ll need the following additional Security Roles configured for this account:
+In addition to the above that’s required for authentication, there are several more actions the ConnectWise integration is capable of taking within Rewst. To use them all, you’ll need the following additional security roles configured for this account:
 
 * Companies → Configurations: Add, Edit, Inquire
 * Companies → Contacts: Add, Edit, Inquire

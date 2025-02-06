@@ -1,10 +1,10 @@
 ---
 description: >-
-  Synchronizes Users into Connectwise Manage Agreement Additions by License,
+  Synchronizes Users into Connectwise PSA Agreement Additions by License,
   Department, or Group membership.
 ---
 
-# Connectwise PSA Agreement Mapping
+# Connectwise PSA agreement mapping
 
 ## Introduction
 
@@ -18,11 +18,11 @@ In addition to populating the Quantity, the sync process can also fill the user 
 
 ## Configuration
 
-After installing the crate, a form named **Map ConnectWise Manage Agreement Additions** will be installed.&#x20;
+After installing the crate, a form named **Map ConnectWise PSA Agreement Additions** will be installed.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-This form is used to maintain "mappings" between the environments and the PSA Agreements. These are stored in Organizational Variables in Rewst based on the form inputs.&#x20;
+This form is used to maintain mappings between the environments and the PSA Agreements. These are stored in Organizational Variables in Rewst based on the form inputs.&#x20;
 
 From the MSP organization, use this form to Add, Modify, or Remove a mapping configuration. When Adding or Modifying a Mapping, you will make the following choices:
 
