@@ -14,21 +14,9 @@ layout:
 
 # N-able N-sight integration
 
-## Table of contents
-
-[#what-does-the-n-able-n-sight-integration-do](n-able-n-sight-integration-setup.md#what-does-the-n-able-n-sight-integration-do "mention")
-
-[#set-up-the-n-able-n-sight-integration](n-able-n-sight-integration-setup.md#set-up-the-n-able-n-sight-integration "mention")
-
-[#n-able-n-sight-actions-and-endpoints](n-able-n-sight-integration-setup.md#n-able-n-sight-actions-and-endpoints "mention")
-
-
-
 ## What does the N-able N-sight integration do?
 
 Our N-able N-sight integration enables automation of device and customer management. Use the new N-able REST API within Rewst workflows to interact with devices and access customer information.
-
-
 
 ## Set up the N-able N-sight integration
 

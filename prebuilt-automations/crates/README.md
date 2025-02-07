@@ -6,22 +6,6 @@ description: >-
 
 # Crates in Rewst
 
-## Table of Contents
-
-[#what-is-a-crate](./#what-is-a-crate "mention")
-
-[#why-use-crates](./#why-use-crates "mention")
-
-[#find-and-use-crates-in-rewsts-crate-marketplace](./#find-and-use-crates-in-rewsts-crate-marketplace "mention")
-
-[#unpack-a-crate](./#unpack-a-crate "mention")
-
-[#synced-versus-unsynced-crates](./#synced-versus-unsynced-crates "mention")
-
-[#crate-state-and-maturity](./#crate-state-and-maturity "mention")
-
-[#request-a-crate-and-vote-for-crate-ideas](./#request-a-crate-and-vote-for-crate-ideas "mention")
-
 
 
 {% embed url="https://youtu.be/KsrC5xjySds" %}
