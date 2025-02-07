@@ -1,4 +1,9 @@
-# Rewst's Technical Documentation Guidelines
+---
+hidden: true
+noIndex: true
+---
+
+# Rewst's technical documentation guidelines
 
 ## Introduction
 

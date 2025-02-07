@@ -1,86 +1,111 @@
 # Agent Smith configuration overview
 
 {% hint style="info" %}
+Agent Smith consists of three main components:
+
+* An Open Source agent written in Python in the [Rewst GitHub](https://github.com/RewstApp/rewst_remote_agent)
+* The Microsoft [Azure IoTHub](https://azure.microsoft.com/en-us/products/iot-hub) service
+* Rewst Crates to configure the IoTHub and interact with agents
+
 Agent Smith operates as an Azure IoT Hub instance, integrated with Rewst workflows for command communication to endpoint agents. The agent software, running as a Windows Service on devices, registers via a webhook trigger in Rewst, creating an IoT Hub entry and receiving configuration data.
 {% endhint %}
 
-## Setup Process
+## Set up Agent Smith
 
-### 1. Microsoft Azure Integration
+1. Install and authorize our Microsoft Cloud Integration Bundle by navigating to **Configuration > Integrations** in the Rewst platform. This bundle contains an integration for Microsoft Azure.&#x20;
+   1. Our setup instructions for the bundle can be found [here](https://docs.rewst.help/documentation/integrations/cloud/microsoft-cloud-integration-bundle).&#x20;
+   2. Setup instructions for just the Azure integration can be found [here](https://docs.rewst.help/documentation/integrations/cloud/microsoft-cloud-integration-bundle/microsoft-azure/microsoft-azure-integration-setup).&#x20;
+2. Navigate to **Crates > Crate Marketplace** in the Rewst platform. \
+   NOTE: You'll need to install the below Crates in order for Agent Smith setup to complete.&#x20;
+   1.  Search for and install the **Agent Smith: Device Provisioning** Crate.\
 
-* Install and Authorize: (If not already set up)
-* Refer to the [Azure Integration Setup Instructions](https://docs.rewst.help/documentation/integrations/cloud/microsoft-cloud-integration-bundle/microsoft-azure/microsoft-azure-integration-setup) to ensure that the integration is fully set up and tested before proceeding.
 
-### 2. Agent Smith Crates Installation
+       <figure><img src="../../.gitbook/assets/Screenshot 2025-02-07 at 1.35.34 PM.png" alt=""><figcaption></figcaption></figure>
+   2.  Search for and install the **Agent Smith: Service Provisioning** Crate. Unpacking this Crate will install a form named **Agent Smith: Service Configuration.**\
 
-* Device Provisioning: Install first.
-* Service Provisioning: Install second.
 
-### 3. IoT Hub Service Provisioning
+       <figure><img src="../../.gitbook/assets/Screenshot 2025-02-07 at 1.36.54 PM.png" alt=""><figcaption></figcaption></figure>
+3. Navigate to the live **Agent Smith: Service Configuration** form and choose **Action: Create IoT Hub Instance** from the **Action** drop down menu.
+4.  Select the proper **Azure Subscription**, **Azure Location**, type in a unique **IoT Hub Name**, and select the desired **IoT Hub Service Tier**.\
 
-* The second crate will install a form named Agent Smith: Service Configuration
-* Navigate to this form and choose Action: Create IoT Hub Instance
-  * Select the proper Azure Subscription, desired location, type in a unique IoT Hub Name, and select the desired Service Tier
-  * Submit the Form and monitor workflow results for Success
 
-### 4. Workaround for Installation Bug
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-07 at 2.43.55 PM.png" alt=""><figcaption></figcaption></figure>
+5. **Submit** the form and monitor workflow results for success.
+
+### 4. Workaround for installation bug
 
 * Agent Registration Workflow: Update the secret key in the trigger configuration.
   * Open Agent Smith: Agent Registration Workflow.
   * Update the Agent Smith Registration Webhook Trigger.
 * In the dropdown selector for Secret Key choose iothub\_registration\_secret
 
-### 5. Provisioning Agents
+## Provision agents
 
-* Return to the same form and choose Display Agent Configuration Instructions
-* Choose an Organization
-* The form will display instructions for using PowerShell to configure the Agent for that organization. It also shows how the ORG ID is filled in, so one could use an existing RMM to deploy the agent using variables.
-* Only Up-to-date versions of PowerShell have been tested to work. Make sure your devices are updated!
-* Provision one or a few agents to test with
+1. Return to the same **Agent Smith: Service Configuration** form and choose **Display Agent Configuration Instructions**.
+2. Choose your **Registration Organization**. The form will display instructions for using PowerShell to configure the Agent for that organization. It also shows how the ORG ID is filled in. If desired, you could use an existing RMM to deploy the agent using variables.\
+   \
+   ![](<../../.gitbook/assets/Screenshot 2025-02-07 at 2.50.37 PM.png>)
 
-### 6. Testing
+{% hint style="warning" %}
+Only Up-to-date versions of PowerShell have been tested to work. Make sure your devices are updated! We suggest you provision one or a few agents to test with before doing mass provisioning.
+{% endhint %}
 
-* Return to the form and choose Run PowerShell Code on Agent
-* Type some PowerShell code or use what's pre-filled.
-* Monitor workflow status to see the agent return data.
 
-### 7. Using with new or existing Workflows
 
-* Agent Smith uses the Microsoft Azure integration, so you will need to add that as an Integration Override to any workflows which will use it.
-* This includes anything that calls the "Run PowerShell" sub-workflows, such as New Employee, etc.
+### Test Agent Smith
 
-### 8. Optional - Agent Smith: Track Agent Inventory In Azure Tables Crate
+1. Return to the form and choose **Run PowerShell Code on Agent**
+2. Type some PowerShell code into the **Type your PowerShell Here** field, or use what's pre-filled.
+3. Monitor the workflow status to see the agent return data.\
+   ![](<../../.gitbook/assets/Screenshot 2025-02-07 at 2.54.04 PM.png>)
 
-* This Marketplace Crate will Add some additional capabilities to your Agent Smith Deployments
-* It uses Azure Tables to store additional information about your agent endpoints.
-* Automatic (via Task Scheduler) Agent Data Collection Check-Ins including Installed Applications and Services
-* Automatic Restart of the agent (via Task Scheduler) if the Service stops
+{% hint style="warning" %}
+* Agent Smith uses the Microsoft Azure integration. You'll need to add that as an integration override to any workflows which will use it.
+* This includes anything that calls the Run PowerShell subworkflows, such as New Employee, etc.
+{% endhint %}
 
-## Uninstalling
 
-#### Windows
 
-The Agent installs itself as a Service. You can use PowerShell or the sc command to modify / remove the service. Application logs and data are installed in C:\ProgramData\RewstRemoteAgent (or whatever root path you've overridden that to in you environment) Application Program files are in %ProgramFiles%\RewstRemoteAgent folders
+### Agent Smith: Track Agent Inventory In Azure Tables Crate
 
-## Troubleshooting
+This Crate will add some additional capabilities to your Agent Smith Deployments. Using it is optional.&#x20;
 
-* Ensure admin-level account setup so the service will install as SYSTEM
-* Verify recent MS PowerShell version on devices.
-* Ensure that no firewalls are not preventing communications with Rewst or your IoT Hub. Check the [Rewst Security Configuration Page](https://docs.rewst.help/security) for details.
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-07 at 2.57.50 PM.png" alt=""><figcaption></figcaption></figure>
+
+Crate features include:
+
+* Using Azure Tables to store additional information about your agent endpoints
+* Automatic agent data collection check-ins including installed applications and service, via Task Scheduler
+* Automatic restart of the agent if the Service stops, via Task Scheduler
+
+## Uninstall Agent Smith
+
+### Windows
+
+Agent Smith installs itself as a service. You can use PowerShell or the SC command to modify or remove the service. Application logs and data are installed in `C:\ProgramData\RewstRemoteAgent` or whatever root path you've overridden that to in you environment. Application Program files are in `%ProgramFiles%\RewstRemoteAgent` folders.
+
+## Troubleshoot Agent Smith
+
+* Ensure admin-level account setup, so the service will install as SYSTEM.
+* Verify the recent MS PowerShell version on your devices.
+* Ensure that no firewalls are preventing communications with Rewst or your IoT Hub. Check our[Rewst Security Configuration Page](https://docs.rewst.help/security) for details.
 * Ensure that endpoint security software is not preventing executions or comms.
 * Check device connectivity to Azure IoT Hub via MQTT: `<your_iothub_name>.azure-devices.net:8883`.
-* Get Packet Captures from the agent while workflows are running. This can help us determine if the Agent is properly communicating with the IoT Hub and/or the Rewst Engine.
+* Get packet captures from the agent while workflows are running. This can help us determine if the agent is properly communicating with the IoT Hub and/or the Rewst engine.
 
-## FAQs and NYAQs (not-yet-asked-questions)
+## Agent Smith Support
 
-* **Can I customize Agent Smith?**
+In your Discord server, the [#agent-smith ](https://discord.com/channels/936789089703845988/1184866106482110608)channel is your first stop for help with setting up and running Agent Smith. Post your questions and share your successes for how you're using Agent Smith to save time.
+
+## Agent Smith FAQs&#x20;
+
+* **Am I allowed to customize Agent Smith?**
   * Yes, you're free to [fork and modify it](https://github.com/RewstApp/rewst_remote_agent).
-* **Will new features be added?**
-  * Focus is on simplicity. Essential features missed initially might be considered.
-* **Can you add Feature X?**
-  * Probably not! Our goal is super simplicity. IF people are asking for something that we really should have thought of from the beginning, we may add it, but...
-  * If you're wanting to add functionality that could be done by writing a PowerShell script and kicking it off with a workflow: Do that.
-* **Support for older operating systems?**
+* **Will new features be added? Can you add Feature X?**
+  * Our focus for Agent Smith is on simplicity. Consider adding additional functionality by writing a PowerShell script and kicking it off with a workflow.
+* **Does Rewst provide Agent Smith support for older operating systems?**
   * No, support for outdated OS is not available.
-* **MacOS and Linux support?**
-  * Planned for the near future.
+* **Will there be MacOS and Linux support?**
+  * Eventually! If you feel strongly about the timeline for this, add it to our Canny feature request form [here](https://rewst.canny.io/agent-smith).

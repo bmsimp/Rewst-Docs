@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Frequently Asked Questions
+# Frequently asked questions
 
 ### General
 
@@ -37,16 +37,6 @@ For more information, check out our [dymistifying-process-automation.md](../cluc
 
 <details>
 
-<summary>What is Rewst?</summary>
-
-
-
-With core components like [workflows](../documentation/workflows/ "mention"), [forms](../documentation/forms/ "mention"), and [triggers](../documentation/triggers/ "mention"), alongside comprehensive [Broken link](broken-reference "mention") courses, [community-driven-content](../community-corner/community-driven-content/ "mention") and [roc-support](../support/roc-support/ "mention"), Rewst's goal is to significantly expedite your automation journey, turning complex tasks into manageable, automated processes.
-
-</details>
-
-<details>
-
 <summary>You keep mentioning the "ROC", who or what is that?</summary>
 
 Our Robotic Operations Center, or ROC team, is here to support you in your journey to create, monitor, and manage your workflows. As a member of the Kewp, you'll have access to our dedicated team of specialists through [Discord](https://discord.gg/rewst), [Support Tickets](../support/roc-support/) and our ROC Open Mic Friday calls.
@@ -57,7 +47,7 @@ Our Robotic Operations Center, or ROC team, is here to support you in your journ
 
 <summary>Am I creating my own workflows / forms etc, or are you?</summary>
 
-Once we have you set up with your first workflow, you can take advantage of our ever-expanding [Crate library to install pre-build workflow bundles](../prebuilt-automations/crates/). You will also be able to take advantage of our [Cluck Univeristy courses](https://github.com/RewstApp/gitbook/blob/main/gitbook/external\_docs/faqs/broken-reference/README.md) in live and self-serve formats to learn about building your own solutions. You can get started here! Don't forget, the ROC team will be here to support you on your automation journey!
+Once we have you set up with your first workflow, you can take advantage of our ever-expanding [Crate library to install pre-build workflow bundles](../prebuilt-automations/crates/). You will also be able to take advantage of our Cluck Univeristy courses in live and self-serve formats to learn about building your own solutions. You can get started here! Don't forget, the ROC team will be here to support you on your automation journey!
 
 </details>
 
@@ -87,8 +77,6 @@ Threatlocker has a built-in application for Rewst IP addresses that can be added
 This process may not be necessary if you have already [whitelisted our outgoing IP addresses](../security/security-policy.md), but it's something to consider if you run into any issues.
 
 </details>
-
-
 
 ### Platform
 

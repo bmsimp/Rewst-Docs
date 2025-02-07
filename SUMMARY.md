@@ -425,6 +425,7 @@
     * [Operational Analytics Reporting Portal](documentation/app-builder/prebuilt-apps/msp-reporting-portal.md)
 * [Agent Smith](documentation/agent-smith/README.md)
   * [Agent Smith configuration overview](documentation/agent-smith/agent-smith-configuration-overview.md)
+  * [Deploying Agent Smith with ImmyBot](documentation/agent-smith/deploying-agent-smith-with-immybot.md)
 
 ## 📦 Prebuilt Automations
 
@@ -454,11 +455,9 @@
 ## Community Corner
 
 * [How to contribute](community-corner/how-to-contribute/README.md)
-  * [Markdown examples](community-corner/how-to-contribute/markdown-examples.md)
   * [Rewst's technical documentation guidelines](community-corner/how-to-contribute/rewsts-technical-documentation-guidelines.md)
 * [Community-driven content](community-corner/community-driven-content/README.md)
   * [From scales to feathers](community-corner/community-driven-content/from-scales-to-feathers.md)
-  * [Deploying Agent Smith with ImmyBot](community-corner/community-driven-content/deploying-agent-smith-with-immybot.md)
 
 ## 📢 Updates
 
@@ -846,8 +845,8 @@
     * [December 9, 2022 - Jinja expansion. Plus, Mendy & Jared!](updates/roc-open-mics/2022-roc-open-mics/december-9th-2022-jinja-expansion.-plus-mendy-and-jared.md)
     * [December 16, 2022 - Tackle tough ticket triage troubles and flatten funkily formatted lists](updates/roc-open-mics/2022-roc-open-mics/december-16th-2022-tackle-tough-ticket-triage-troubles-and-flatten-funkily-formatted-lists.md)
 * [App Builder AMAs](updates/app-builder-amas/README.md)
-  * [Feb 7, 2025: Rewst App Builder updates + live demo of new options filter](<updates/app-builder-amas/jan-8-2025-portals-features-design-updates-and-future-plans (1).md>)
-  * [Jan 8, 2025: Portals, Features, Design Updates, and Future Plans](updates/app-builder-amas/jan-8-2025-portals-features-design-updates-and-future-plans.md)
+  * [Feb 7, 2025: Rewst App Builder updates + live demo of new options filter](updates/app-builder-amas/jan-8-2025-portals-features-design-updates-and-future-plans.md)
+  * [Jan 8, 2025: Portals, Features, Design Updates, and Future Plans](updates/app-builder-amas/jan-8-2025-portals-features-design-updates-and-future-plans-1.md)
   * [Nov 27, 2024: Workflow management in App Builder, plus permissions and role-based access](updates/app-builder-amas/nov-27-2024-workflow-management-in-app-builder-plus-permissions-and-role-based-access.md)
   * [Nov 13, 2024: Cloning, app Crates, syncing custom components, and app list page enhancements](updates/app-builder-amas/nov-13-2024-cloning-app-crates-syncing-custom-components-and-app-list-page-enhancements.md)
   * [Oct 30, 2024: App Builder team progress, meet Sarah, and import and export features](updates/app-builder-amas/oct-30-2024-app-builder-team-progress-meet-sarah-and-import-and-export-features.md)
