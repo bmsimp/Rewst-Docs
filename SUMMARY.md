@@ -457,7 +457,8 @@
 ## 📢 Updates
 
 * [Development updates](updates/development-updates/README.md)
-  * [2025 dev updates](updates/development-updates/2025-dev-updates/README.md)
+  * [2025 Dev updates](updates/development-updates/2025-dev-updates/README.md)
+    * [February 7, 2025 - Dev update](updates/development-updates/2025-dev-updates/february-7th-2025.md)
     * [January 24, 2025 - Dev update](updates/development-updates/2025-dev-updates/january-24th-2025.md)
     * [January 17, 2025 - Dev update](updates/development-updates/2025-dev-updates/january-17th-2025.md)
     * [January 10, 2025 - Dev update](updates/development-updates/2025-dev-updates/january-10th-2025.md)
