@@ -50,13 +50,15 @@ Together, variables, data aliases, and the context make your workflows in Rewst 
 
 </details>
 
-## Action items
+## Practice activities
 
 * Think of a process you often repeat—like sending a customer update or checking a user profile—and list the types of information that might change each time (e.g., name, date, status). Then, identify which of these could be stored as **variables** to make the process faster and more consistent. This will help you start recognizing where variables and data aliases can simplify tasks in Rewst.
 * Take the variables and context knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/ZX98T2N" %}
 
+* Check out our [variable practice activities](variables-activities.md) to solidify your understanding even more!&#x20;
+
 ## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="reading-json.md">reading-json.md</a></td><td><a href="reading-json.md">reading-json.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="programming-concepts.md">programming-concepts.md</a></td><td><a href="programming-concepts.md">programming-concepts.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="../reading-json/">reading-json</a></td><td><a href="../reading-json/">reading-json</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="../programming-concepts/">programming-concepts</a></td><td><a href="../programming-concepts/">programming-concepts</a></td></tr></tbody></table>

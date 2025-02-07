@@ -28,6 +28,20 @@ JSON stands for **JavaScript Object Notation**, and it’s the format most APIs 
 
 <details>
 
+<summary>Example of a JSON folder structure </summary>
+
+Below is an example JSON structure that mirrors this concept:
+
+<img src="../../../.gitbook/assets/Screenshot 2025-02-06 at 8.29.46 AM (1).png" alt="" data-size="original">
+
+* The **"Top Folder"** is "Person Information", storing details about an individual.
+* The **"Name" folder** contains a nested folder  "John Doe", which stores "First" and "Last" names.
+* The **"Address" folder** has its own nested folders for "Street Number" and "Street Name", each containing relevant data.
+
+</details>
+
+<details>
+
 <summary>How JSON works in Rewst</summary>
 
 When Rewst runs a workflow, it collects data from APIs and organizes it in **JSON format**.
@@ -50,13 +64,12 @@ JSON simplifies complex data, making Rewst workflows easier to manage and unders
 
 </details>
 
-## Action items&#x20;
+## Practice activities&#x20;
 
-* Open a workflow in Rewst and check the **context** to see the data collected during a run. Identify a piece of information—like a user's name or a weather update—and note how it’s labeled and structured in JSON. This will help you get comfortable reading and navigating workflow results.
 * Take the JSON knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/BSSLMJW" %}
 
 ## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="api.md">api.md</a></td><td><a href="api.md">api.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="data-intro.md">data-intro.md</a></td><td><a href="data-intro.md">data-intro.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="api/">api</a></td><td><a href="api/">api</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="data-intro/">data-intro</a></td><td><a href="data-intro/">data-intro</a></td></tr></tbody></table>

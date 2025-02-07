@@ -52,7 +52,7 @@ Forms kick off workflows with the right data, reducing delays and back-and-forth
 
 </details>
 
-## Action item
+## Practice activities
 
 * Think of a process you frequently handle that requires gathering information—like onboarding a new client or requesting approval for a task. Write down the **key details** you’d need to collect and consider which **fields** (text, date, dropdown) would best capture that data. This will help you start thinking about how forms can simplify data collection in your workflows.
 * Take the Forms overview knowledge check:&#x20;
@@ -61,4 +61,4 @@ Forms kick off workflows with the right data, reducing delays and back-and-forth
 
 ## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="webhooks-and-parameters.md">webhooks-and-parameters.md</a></td><td><a href="webhooks-and-parameters.md">webhooks-and-parameters.md</a></td></tr><tr><td align="center">Go to the next lesson:</td><td><a href="../back-to-rewst.md">back-to-rewst.md</a></td><td><a href="../back-to-rewst.md">back-to-rewst.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="webhooks-and-parameters/">webhooks-and-parameters</a></td><td><a href="webhooks-and-parameters/">webhooks-and-parameters</a></td></tr><tr><td align="center">Go to the next lesson:</td><td><a href="../back-to-rewst.md">back-to-rewst.md</a></td><td><a href="../back-to-rewst.md">back-to-rewst.md</a></td></tr></tbody></table>

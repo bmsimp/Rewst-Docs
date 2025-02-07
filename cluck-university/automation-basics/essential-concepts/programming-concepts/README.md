@@ -55,13 +55,14 @@ This combination makes workflows more adaptable, efficient, and capable of handl
 
 </details>
 
-## Action items
+## Practice activities
 
-* Think of a process you handle repeatedly, like reviewing support tickets or following up on overdue payments. Write down a condition you would check (e.g., "Is the ticket marked urgent?") and a list you might go through (e.g., "List of open tickets"). This will help you see where **if statements** and **for loops** could simplify your work through automation.
 * Take the basic programming concepts knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/BXNKQRK" %}
 
+* Check out our [programming concepts activities](programming-concept-activities.md) to solidify your understanding even more!&#x20;
+
 ## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="variables-and-context.md">variables-and-context.md</a></td><td><a href="variables-and-context.md">variables-and-context.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="webhooks-and-parameters.md">webhooks-and-parameters.md</a></td><td><a href="webhooks-and-parameters.md">webhooks-and-parameters.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="../variables-and-context/">variables-and-context</a></td><td><a href="../variables-and-context/">variables-and-context</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="../webhooks-and-parameters/">webhooks-and-parameters</a></td><td><a href="../webhooks-and-parameters/">webhooks-and-parameters</a></td></tr></tbody></table>

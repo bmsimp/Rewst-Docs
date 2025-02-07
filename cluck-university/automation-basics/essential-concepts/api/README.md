@@ -115,13 +115,14 @@ APIs might seem complex, but it all comes down to understanding the verbs and co
 
 </details>
 
-## Action items
+## Practice activities
 
-* Think about a workflow you’ve built (or want to build) in Rewst. Break it down into **requests and responses**—what information needs to be pulled (GET), added (POST), updated (PUT), or deleted (DELETE)? Reflect on how Rewst handles these API conversations behind the scenes to make automation seamless.
 * Take the API knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/ZCQ5RKG" %}
 
+* Check out our [API practice activities](api-activities.md) to solidify your understanding even more!&#x20;
+
 ## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go back to the lesson page: </td><td><a href="./">.</a></td><td></td></tr><tr><td align="center">Go to the next module:</td><td><a href="json-intro.md">json-intro.md</a></td><td><a href="json-intro.md">json-intro.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go back to the lesson page: </td><td><a href="../">..</a></td><td></td></tr><tr><td align="center">Go to the next module:</td><td><a href="../json-intro.md">json-intro.md</a></td><td><a href="../json-intro.md">json-intro.md</a></td></tr></tbody></table>
