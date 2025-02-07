@@ -34,7 +34,7 @@ Explore what new changes the Training team has made in the last week.
 * [actions-and-endpoints.md](../../../documentation/integrations/iam/actions-and-endpoints.md "mention") for OKTA added
 * [working-with-options-generator-workflows-in-rewst.md](../../../cluck-university/electives/working-with-options-generator-workflows-in-rewst.md "mention") Elective page added
 * [intro-to-forms.md](../../../documentation/forms/intro-to-forms.md "mention") page updated with a link to the elective
-* [agent-smith-configuration-overview.md](../../../community-corner/agent-smith/agent-smith-configuration-overview.md "mention") page updated
+* [agent-smith-configuration-overview.md](../../../documentation/agent-smith/agent-smith-configuration-overview.md "mention") page updated
 * [list-of-jinja-filters.md](../../../documentation/jinja/list-of-jinja-filters.md "mention") updated for `regex_search` filter
 * [microsoft-cloud-integration-bundle](../../../documentation/integrations/cloud/microsoft-cloud-integration-bundle/ "mention") reorganized and enhanced for clarity&#x20;
 

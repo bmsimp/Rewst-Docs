@@ -417,6 +417,8 @@
     * [Forms Portal](documentation/app-builder/prebuilt-apps/forms-portal.md)
     * [End User Portal](documentation/app-builder/prebuilt-apps/end-user-portal.md)
     * [Operational Analytics Reporting Portal](documentation/app-builder/prebuilt-apps/msp-reporting-portal.md)
+* [Agent Smith](documentation/agent-smith/README.md)
+  * [Agent Smith configuration overview](documentation/agent-smith/agent-smith-configuration-overview.md)
 
 ## 📦 Prebuilt Automations
 
@@ -451,8 +453,6 @@
 * [Community-driven content](community-corner/community-driven-content/README.md)
   * [From scales to feathers](community-corner/community-driven-content/from-scales-to-feathers.md)
   * [Deploying Agent Smith with ImmyBot](community-corner/community-driven-content/deploying-agent-smith-with-immybot.md)
-* [Agent Smith](community-corner/agent-smith/README.md)
-  * [Agent Smith configuration overview](community-corner/agent-smith/agent-smith-configuration-overview.md)
 
 ## 📢 Updates
 
