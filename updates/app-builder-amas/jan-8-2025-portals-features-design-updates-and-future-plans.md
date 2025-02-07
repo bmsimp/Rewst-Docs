@@ -1,4 +1,4 @@
-# Jan 8, 2025: Portals, Features, Design Updates, and Future Plans
+# Feb 7, 2025: Rewst App Builder updates + live demo of new options filter
 
 ### **Join live!**
 
@@ -6,39 +6,21 @@ Join us live biweekly on Wednesdays at 1:30 pm EST! Download the calendar invite
 
 {% file src="../../.gitbook/assets/App Builder AMA (1).ics" %}
 
-{% embed url="https://youtu.be/ft3jTJ_h_RI" %}
-
 ## App Builder AMA video recording
+
+{% embed url="https://youtu.be/3Fb1gznLU20" %}
+
+
 
 ### Contents of the recording:
 
-🕒 Intro and Agenda - Kicking off the session with an overview of the agenda.&#x20;
+🆕 New Features: Pre-built portals, Import/Export, Cloning, and Form Permissions updates&#x20;
 
-📋 Forms Portal - Showcasing a table of accessible forms with search and filter options.&#x20;
+🔮 Coming Soon: App Crates, Custom Component Syncing, and UI/UX improvements&#x20;
 
-🧑‍💻 End User Portal - Highlighting tools for onboarding, ticket management, and more for end users.&#x20;
+🛠 Live Demo: How to use the Options Filter and override options in synchronized forms&#x20;
 
-📊 Operational Analytics Portal - Demonstrating operational insights with ticket and inventory reporting.&#x20;
-
-🚀 Upcoming Features - Introducing imports, exports, cloning, and syncing for improved app building.&#x20;
-
-🎨 UI/UX Updates - Exploring updates to navigation, workflows, and app builder visuals.&#x20;
-
-⚙️ Infrastructure Updates - Enhancements for faster provisioning and greater app stability.&#x20;
-
-🗺️ Roadmap Highlights - Discussing upcoming priorities, like app crates and synced custom components.&#x20;
-
-✍️ Design Demo - A deep dive into proposed UI changes and feature enhancements.&#x20;
-
-❓ Q\&A Session - Addressing questions on workflows, themes, and customizations.&#x20;
-
-🖼️ HTML Container Question - Exploring customizations with HTML containers in the app builder.&#x20;
-
-🔄 Workflow Triggering Question - Solutions for triggering workflows dynamically from grids.&#x20;
-
-🎭 Future Aspirations - Previewing plans for themes and advanced styling options.&#x20;
-
-📬 Wrap-Up - Closing the session with a call for feedback and survey participation.
+💬 Q\&A: UI feedback, cascading dropdowns, page organization, and more!
 
 
 
