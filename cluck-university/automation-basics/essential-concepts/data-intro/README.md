@@ -44,13 +44,14 @@ Understanding data types helps you navigate Rewst workflows more easily. Each st
 
 </details>
 
-## Action items
+## Practice activities
 
-* Think about a process you want to automate and list the **types of data** it would involve. For example, would you need text (strings), numbers, or yes/no decisions (Booleans)? Identifying data types early can help you design more efficient workflows in Rewst.
 * Take the data types knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/ZR6ZZVS" %}
 
+* Check out our [data type activitiy](data-type-brainstorming.md) to solidify your understanding even more!&#x20;
+
 ## Keep on cluckin'
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="json-intro.md">json-intro.md</a></td><td><a href="json-intro.md">json-intro.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="reading-json.md">reading-json.md</a></td><td><a href="reading-json.md">reading-json.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go to the previous module: </td><td><a href="../json-intro.md">json-intro.md</a></td><td><a href="../json-intro.md">json-intro.md</a></td></tr><tr><td align="center">Go to the next module:</td><td><a href="../reading-json/">reading-json</a></td><td><a href="../reading-json/">reading-json</a></td></tr></tbody></table>

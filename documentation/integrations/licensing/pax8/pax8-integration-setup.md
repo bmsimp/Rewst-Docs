@@ -4,18 +4,12 @@ description: >-
   integration.
 ---
 
-# Pax8 Integration Setup
+# Pax8 integration setup
 
 {% hint style="success" %}
 **This Integration supports multiple instances**
 
-[Check out the instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).
-{% endhint %}
-
-{% hint style="warning" %}
-As of January 31, 2025, Pax8 is retiring API Key requests for Rewst and will require Rewst’s customers to move to OAuth 2.0 to authenticate to their APIs. Rewst customers will need to authenticate with OAuth before January 31 to continue to use our Pax 8 integration.
-
-New Rewst customers may follow the steps below. Existing Rewst customers in need of OAuth 2.0 transitioning should follow our separate directions in this help document: [pax8-2025-oauth-transition-planning.md](pax8-2025-oauth-transition-planning.md "mention")
+[Check out the instructions to set up multiple instances here](../../general/multi-instance-integration/multi-instance-integration-setup.md).follow our separate directions in this help document:&#x20;
 {% endhint %}
 
 ## Configuring the Integration in Rewst

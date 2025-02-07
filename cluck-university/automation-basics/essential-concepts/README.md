@@ -18,14 +18,23 @@ Complete lessons 1 and 2 in "Automation basics"
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up each module, quiz your knowledge of the module’s content, then move to the next module.
 
-1. [APIs](api.md) _(8 minutes)_&#x20;
+1. [APIs](api/) _(8 minutes)_&#x20;
 2. [Intro to JSON](json-intro.md) _(3 minutes)_&#x20;
-3. [Intro to data types](data-intro.md) _(5 minutes)_&#x20;
-4. [Reading JSON](reading-json.md) _(3 minutes)_&#x20;
-5. [Variables and context ](variables-and-context.md)_(5 minutes)_&#x20;
-6. [Basic programming concepts](programming-concepts.md) _(3 minutes)_&#x20;
-7. [Webhooks and parameters](webhooks-and-parameters.md) _(4 minutes)_&#x20;
+3. [Intro to data types](data-intro/) _(5 minutes)_&#x20;
+4. [Reading JSON](reading-json/) _(3 minutes)_&#x20;
+5. [Variables and context ](variables-and-context/)_(5 minutes)_&#x20;
+6. [Basic programming concepts](programming-concepts/) _(3 minutes)_&#x20;
+7. [Webhooks and parameters](webhooks-and-parameters/) _(4 minutes)_&#x20;
 8. [Forms overview](forms-overview.md) _(5 minutes)_&#x20;
+
+## Lesson activities&#x20;
+
+1. [API activities](api/api-activities.md)
+2. [Data type brainstorming](data-intro/data-type-brainstorming.md)
+3. [Reading JSON activity](reading-json/reading-json-activity.md)
+4. [Variables activities](variables-and-context/variables-activities.md)
+5. [Programming concept activities](programming-concepts/programming-concept-activities.md)
+6. [Understanding webhooks activity](webhooks-and-parameters/understanding-webhooks-activity.md)
 
 ## Keep on cluckin'
 
