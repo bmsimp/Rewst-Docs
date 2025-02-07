@@ -1,19 +1,15 @@
 # Organization variables
 
-## **Overview**
-
+{% hint style="info" %}
 Organization Variables serve as the foundational elements for setting and managing configurations across different organizational levels within Rewst. They ensure consistency and control within workflows and facilitate efficient management across the organizational hierarchy.
+{% endhint %}
 
-***
-
-## **Inheritance and Overrides**
+## **Inheritance and overrides**
 
 * **Inheritance**: Values set at the parent organization cascade down, providing a default setup for all client organizations.
 * **Overrides**: Sub-organizations can establish their own variables, prioritizing local settings over inherited defaults.
 
-***
-
-## **Usage in Workflows**
+## **Org variable usage in workflows**
 
 Access variables seamlessly in any workflow with the following syntax:
 
@@ -21,9 +17,7 @@ Access variables seamlessly in any workflow with the following syntax:
 {{ ORG.VARIABLES.<variable_name> }}
 ```
 
-***
-
-## **Naming Conventions**
+## **Org variable naming conventions**
 
 * Employ descriptive and straightforward wording using `snake_case` for clarity.
 * Prefix integration-specific variables appropriately, like `psa_` for PSA-related variables.
@@ -32,13 +26,11 @@ Access variables seamlessly in any workflow with the following syntax:
 **Defining Boolean Values:** always use lowercase `true` or `false` to align with Rewst's standardized practices. This uniform approach applies to all future workflow designs. Existing legacy workflows may display variations.
 {% endhint %}
 
-***
-
-## **Use as Default Feature**
+## **Use as default feature**
 
 The "Use as Default" feature allows managing organizations to set a universal default value for an ORG variable. This default is applied to sub-organizations unless they specify their own value.
 
-### **How "Use as Default" Works**
+### **How use as default works**
 
 * **Setting a Default**: When you set a variable as default at the MSP level, it becomes the fallback for sub-organizations without a specified value.
 * **Workflow Execution Context**:
@@ -47,9 +39,41 @@ The "Use as Default" feature allows managing organizations to set a universal de
 * **Triggers and Context**:
   * Implementing triggers in the workflow ensures that the execution context is recognized. This facilitates the use of MSP-level defaults in sub-organization workflows.
 
-***
+## Finding numerical values in org variables
 
-## Onboarding Requirements
+{% hint style="info" %}
+When setting organization variables, you might need to enter in API status IDs in numeric value rather than by their display names. For example, "In Progress" would have the ID of "3" in the API.
+
+An easy way to find these is through the workflow builder, using create ticket actions for each PSA.
+{% endhint %}
+
+### Find IDs for any status
+
+1. Navigate to **Automations > Workflows** in your Rewst platform.
+2. Click the **Create** button to create a new workflow.
+3. Add the following action type, depending on the brand of PSA you use:
+   1. **ConnectWise PSA:** Create Service Ticket
+   2. **Datto PSA:** Create Ticket v2
+   3.  **Halo PSA:** Add or Update Tickets\
+
+
+       <figure><img src="../../.gitbook/assets/Screenshot 2024-12-31 at 1.59.13 pm.png" alt=""><figcaption></figcaption></figure>
+4. Click the ⋮ in your action to open up its settings.
+5. Click in any field with a blue arrow.
+6.  Select the Display name you want the ID for, then click the Jinja editor button to the left to get the ID\
+    \
+    \
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-12-31 at 1.59.27 pm.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-12-31 at 1.59.32 pm.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Note that this method will only work for the three indicated PSA brands: ConnectWise, Datto, and Halo.
+{% endhint %}
+
+## Onboarding requirements
 
 Certain ORG Variables are essential for onboarding processes and are utilized by the Get and Set ORG Variables Workflow to ensure smooth integration and setup for new users or systems.
 
