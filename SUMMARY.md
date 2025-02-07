@@ -456,13 +456,13 @@
 
 ## 📢 Updates
 
-* [Development updates](updates/development-updates/README.md)
-  * [2025 Dev updates](updates/development-updates/2025-dev-updates/README.md)
+* [Development Updates](updates/development-updates/README.md)
+  * [2025 Dev Updates](updates/development-updates/2025-dev-updates/README.md)
     * [February 7, 2025 - Dev update](updates/development-updates/2025-dev-updates/february-7th-2025.md)
     * [January 24, 2025 - Dev update](updates/development-updates/2025-dev-updates/january-24th-2025.md)
     * [January 17, 2025 - Dev update](updates/development-updates/2025-dev-updates/january-17th-2025.md)
     * [January 10, 2025 - Dev update](updates/development-updates/2025-dev-updates/january-10th-2025.md)
-  * [2024 Dev updates](updates/development-updates/2024-dev-updates/README.md)
+  * [2024 Dev Updates](updates/development-updates/2024-dev-updates/README.md)
     * [December 27, 2024 - Dev update](updates/development-updates/2024-dev-updates/december-27th-2024.md)
     * [December 20, 2024 - Dev update](updates/development-updates/2024-dev-updates/december-20th-2024.md)
     * [December 13, 2024 - Dev update](updates/development-updates/2024-dev-updates/december-13th-2024.md)
