@@ -12,6 +12,10 @@ Agent Smith operates as an Azure IoT Hub instance, integrated with Rewst workflo
 
 ## Set up Agent Smith
 
+{% hint style="warning" %}
+For the Azure Integration to work, you’ll need to have an Azure Subscription that includes a Keyvault.
+{% endhint %}
+
 1. Install and authorize our Microsoft Cloud Integration Bundle by navigating to **Configuration > Integrations** in the Rewst platform. This bundle contains an integration for Microsoft Azure.&#x20;
    1. Our setup instructions for the bundle can be found [here](https://docs.rewst.help/documentation/integrations/cloud/microsoft-cloud-integration-bundle).&#x20;
    2. Setup instructions for just the Azure integration can be found [here](https://docs.rewst.help/documentation/integrations/cloud/microsoft-cloud-integration-bundle/microsoft-azure/microsoft-azure-integration-setup).&#x20;
