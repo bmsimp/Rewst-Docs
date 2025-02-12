@@ -57,7 +57,7 @@ By automating account provisioning and de-provisioning, this Crate enhances secu
 
 <figure><img src="../../.gitbook/assets/Just in Time Admin Access.gif" alt=""><figcaption></figcaption></figure>
 
-## **How to get to the form**
+## **Navigate to the Just in Time Admin Access form**
 
 To get to the form to create a Temporary Administrative Account:
 
@@ -109,16 +109,15 @@ When the Just in Time Admin Access Crate completes, your ticket will be updated 
 
 ### For Microsoft 365 Accounts
 
-When the temporary account is enabled with Global Admin rights, the ticket will include:
-
-> The account \[username] is now enabled and has been added to the Global Admin role.
+When the temporary account is enabled with Global Admin rights, the ticket will include:\
+`The account [username] is now enabled and has been added to the Global Admin role.`
 
 To retrieve the username:
 
 * The user principal name (UPN) is typically the email address of the temporary account.
 * The username can be extracted by using the first part of the email address, before the **@**, and the domain, after the **@**. For example: **Username**: `example.user@pedroaviary.com`
 
-### For Active Directory (AD) accounts
+### For Active Directory accounts
 
 When the temporary account is enabled with Domain Admin rights, the ticket will include:
 
