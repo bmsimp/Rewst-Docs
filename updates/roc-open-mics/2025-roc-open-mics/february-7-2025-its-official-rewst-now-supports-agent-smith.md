@@ -1,4 +1,4 @@
-# ROC Open Mics
+# February 7, 2025: It's Official! Rewst Now Supports Agent Smith!
 
 ### **Join Live!**
 
@@ -28,6 +28,8 @@ Join us live every Friday at 3 pm EST!
 
 ⏳ Trey demos automated time entry – Shows how Rewst automates time logging in ConnectWise for better tracking of automation-driven work and business intelligence reporting.
 
+
+
 <details>
 
 <summary><strong>How to Get Help</strong></summary>
@@ -54,4 +56,3 @@ Join us live every Friday at 3 pm EST!
 * 📝 Feature Request + Integration Requests: [https://rewst.canny.io/](https://rewst.canny.io/)
 
 </details>
-

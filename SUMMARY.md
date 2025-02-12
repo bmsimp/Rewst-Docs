@@ -707,6 +707,8 @@
     * [May 31st 2024 - Marketplace Update](updates/marketplace-updates/2024-marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
   * [2025 ROC Open Mics](updates/roc-open-mics/2025-roc-open-mics.md)
+    * [February 7, 2025: It's Official! Rewst Now Supports Agent Smith!](updates/roc-open-mics/2025-roc-open-mics/february-7-2025-its-official-rewst-now-supports-agent-smith.md)
+    * [January 31, 2025: Aharon has some big news about platform improvments](updates/roc-open-mics/2025-roc-open-mics/january-31-2025-aharon-has-some-big-news-about-platform-improvments.md)
     * [January 24, 2025: Migration & compliance workflows... What's the cluck about powershell?](updates/roc-open-mics/2025-roc-open-mics/january-24-2025-migration-and-compliance-workflows...-whats-the-cluck-about-powershell.md)
     * [January 17, 2025: Cloudflare, Compliance, and Pro Tips](updates/roc-open-mics/2025-roc-open-mics/january-17-2025-cloudflare-compliance-and-pro-tips.md)
     * [January 10, 2025: Simple Automation Demos, Device Lookups, and Payment Notificaitons](updates/roc-open-mics/2025-roc-open-mics/january-10-2025-simple-automation-demos-device-lookups-and-payment-notificaitons.md)

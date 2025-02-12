@@ -8,6 +8,6 @@ description: >-
 # Individual Crate documentation
 
 {% hint style="info" %}
-For more on what Crates are and how to use them, see our [Crates in Rewst documentation here](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/s8z0MoTR6SpBJcxlRNNY/).&#x20;
+For more on what Crates are and how to use them, see our [Crates in Rewst documentation here](https://docs.rewst.help/prebuilt-automations/crates).
 {% endhint %}
 
