@@ -8,25 +8,25 @@ Join us live every Friday at 3 pm EST!
 
 ## Latest Open Mic Video Recording
 
-{% embed url="https://youtu.be/1m65EeAPDjE" %}
+{% embed url="https://youtu.be/_D4uca0BuuQ" %}
 
 ### Contents of the Recording:
 
-🎤 Aharon kicks off Open Mic&#x20;
+🎤 Ashe kicks off Open Mic – Highlights the purpose of Open Mic, upcoming leadership-focused calls, and plans for additional regional sessions to accommodate different time zones.
 
-🔄 Danial demos Forms user automation – Auto-creates Rewst form users from tagged ConnectWise contacts, streamlining access.&#x20;
+🛠️ Nick shares development updates – New features & fixes: Custom HTML support in SendMail, time saved metrics in reports, improved workflow shortcut keys, and numerous UI/UX enhancements.
 
-📋 Danial shares ticket automation – Automates ticket categorization, agreement assignments, and SaaS alerts filtering to reduce NOC workload.&#x20;
+📊 Time saved discussion – Community discussion on improving time tracking, different role-based savings, and the need for flexible automation reporting.
 
-🚀 Sam demos Automate-to-Ninja migration – Migrates companies and sites from ConnectWise Automate to Ninja, eliminating manual entry.&#x20;
+📦 JP shares marketplace updates – Enhancements & new features: Agent Smith improvements, Windows 11 compliance checks nearing release, and a focus on simplifying automation builds with new toolkit crates.
 
-📊 Rod shares compliance tracking – Consolidates data from N-central, Halo, ThreatLocker, and AD into Power BI for compliance monitoring.&#x20;
+🎓 Brandon shares education updates – Certifications & training: New Rewst Foundations & Clean Automation certified users, upcoming boot camps, and a newly launched Automation Jumpstart page with quick-start workflows.
 
-📦 Emmitt demos inventory tracking – Automates warehouse inventory checks for field techs, improving asset tracking.&#x20;
+📑 Brian demos Rewst Docs tracking workflow – Shows how to stay up-to-date with Rewst Docs changes using GitHub, webhooks, and automation. Bonus: Live Open Mic Rickroll.
 
-⚙️ PowerShell improvements teased – Aharon hints at upcoming enhancements for PowerShell automation in Rewst.&#x20;
+🤖 Tim shares Agent Smith updates – Lightweight automation agent for on-prem environments: Now officially supported, improved firewall compatibility with WebSockets, and updates to streamline deployment via Azure IoT Hub.
 
-🔧 Chris W automates Huntress reboots – Identifies machines needing reboots and schedules them via Ninja.
+⏳ Trey demos automated time entry – Shows how Rewst automates time logging in ConnectWise for better tracking of automation-driven work and business intelligence reporting.
 
 <details>
 
