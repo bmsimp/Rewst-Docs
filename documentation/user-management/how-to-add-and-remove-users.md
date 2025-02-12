@@ -1,53 +1,63 @@
-# How to Add and Remove Users
+# Add and remove users
 
-### How to Add and Remove Users
+### Add and remove users from Rewst
 
-Adding users into Rewst allows them access to build workflows, view forms, or update configuration items like integrations or organization variables. When adding a user there are 3 different permission options:
+Adding users into Rewst allows them access to build workflows, view forms, or update configuration items, like integrations or organization variables. When adding a user, there are 4 different permission options:
 
 1. [Admins](roles.md#admin)
 2. [Members](roles.md#member)
 3. [Forms](roles.md#forms)
 4. [Read Only](roles.md#read-only)
 
-Adding a user to Rewst won’t send out an invite to the user but acts as “whitelisting” and gives the user a specified level of access. Once added, they can access Rewst via the main link or via form links that you provide, depending on their permissions.
+Adding a user to Rewst won’t send out an invite to the user, but whitelists them and gives a specified level of access. Once added, they can access Rewst via the main link, or via form links that you provide, depending on their permissions.
 
 Currently, each user can only be associated with one Rewst organization. This means that when you’re adding a user to your organization, they will have access to all of your top-level and customer organizations. Adding a customer will only give them access to their company information.
 
-### How to Add a User to a Top-Level Organization
+### Add a user to a parent organization
 
 To give a user at your organization access, first double-check that the selected organization in the org selector is set to your organization.
 
 From there, you can follow these steps:
 
-1. **Navigate** to _Settings → Authorized Users_.
-2. **Click** the + icon to add the user.
-3. **Enter** the email of the user and select their role in the menu.
+1. Navigate to **Settings > Users**.
+2.  Click the **+** icon to add the user.\
+    \
 
-<figure><img src="../../.gitbook/assets/add-authorized-user.gif.gif" alt=""><figcaption></figcaption></figure>
 
-### How to Add a Customer
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-11 at 5.04.07 PM (1).png" alt=""><figcaption><p>The view of the expanded <strong>Users</strong> menu, before clicking <strong>+</strong> to add a new user</p></figcaption></figure>
+3. Enter the **Email** of the user.
+4. Select their role from the list in the **Roles** drop down the menu.
+5. Check the **Send Email** checkbox on or off, to suit your needs.
+6. **Submit**.\
+   \
+   ![](<../../.gitbook/assets/Screenshot 2025-02-11 at 5.14.15 PM.png>)
 
-Make sure you have the correct organization selected for your customer and then follow the same steps as above.
+### Add a customer
 
-You can change the organization by clicking the selector on the top menu. You can type in the search bar to find the specific organization to narrow down your search.
+Make sure you have the correct organization selected for your customer before following the same steps as for adding a user to a parent organization.
 
-<figure><img src="../../.gitbook/assets/org-selector.png" alt=""><figcaption></figcaption></figure>
+Change the organization by clicking the selector arrow in the drop down organization menu at the top left of your screen. Type in the search bar to find the specific organization to narrow down your search.\
+\
+![](<../../.gitbook/assets/Screenshot 2025-02-11 at 5.16.33 PM.png>)
 
-### How to Remove a Customer
+### Remove a customer
 
-If you have admin or member permissions, you can remove a user by navigating to Settings:
+{% hint style="warning" %}
+Admin or member Rewst permissions are required to remove a user. If needed, re-add a removed user by inviting them again. Removing a user won’t remove any workflows they’ve built or delete any activity in the platform, such as results of workflows or edits they made to forms.
+{% endhint %}
 
-From there, you can follow these steps:
+1. Navigate to **Settings > Users**.
+2. Click the **trashcan** to the far right of the user's record to remove the user.
+3.  Confirm that you want to **Delete** in the confirmation dialog that appears.\
+    \
 
-1. **Select** the “Users” section.
-2. **Click** the trash icon to remove the user.
 
-<figure><img src="../../.gitbook/assets/2023-08-09_11-48-43 (1).gif" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-02-11 at 5.21.06 PM.png" alt=""><figcaption></figcaption></figure>
 
-Once completed, the user will be removed from Rewst. If needed, you can always add them back by inviting them again.
+### Add a large batch of users
 
-Removing a user won’t remove any workflows they’ve built or delete any activity in the platform such as results of workflows or edits they made to forms.
+If you have many users to add from your organization or one of your customers, we’ve got a workflow for that. Set up the **Add Users To Rewst Via Group** Crate for your environment. Click through the link below to read more about it in Crate Marketplace.\
 
-### How can I add a large batch of users?
 
-If you have a lot of users to add from your organization or one of your customers, we’ve got a workflow for that. Reach out to the ROC Team via [roc@rewst.io](mailto:roc@rewst.io) and ask them to set up the “Add Users To Rewst Via Group” Crate for your environment.
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Add Users To Rewst Via Group</strong></td><td><a href="../../.gitbook/assets/Screenshot 2025-02-11 at 5.25.07 PM.png">Screenshot 2025-02-11 at 5.25.07 PM.png</a></td><td><a href="https://app.rewst.io/marketplace/crates/97db004d-bfd5-40e7-8460-5440ee5814d6">https://app.rewst.io/marketplace/crates/97db004d-bfd5-40e7-8460-5440ee5814d6</a></td></tr></tbody></table>
+
