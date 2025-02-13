@@ -355,6 +355,7 @@
     * [Acronis](documentation/integrations/security/acronis/README.md)
       * [Acronis integration setup](documentation/integrations/security/acronis/acronis-integration-setup.md)
       * [Get inspired](documentation/integrations/security/acronis/get-inspired.md)
+    * [Cove integration](documentation/integrations/security/cove-integration.md)
     * [CrowdStrike](documentation/integrations/security/crowdstrike/README.md)
       * [CrowdStrike integration setup](documentation/integrations/security/crowdstrike/crowdstrike-integration-setup.md)
       * [CrowdStrike actions & endpoints](documentation/integrations/security/crowdstrike/actions-and-endpoints.md)
