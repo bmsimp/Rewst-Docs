@@ -51,7 +51,7 @@ By automating account provisioning and de-provisioning, this Crate enhances secu
 3. Click on the Crate tile to begin unpacking.
 4. Change the name of the Workflow to suit your needs, if desired.
 5. Leave all the form options as the default.
-6. Click **Unpack**.
+6. Click **Unpack**. The Crate will now unpack the workflow, trigger and form ready to be used.
 
 ### Example: Unpack the Just in Time Admin Access Crate
 
