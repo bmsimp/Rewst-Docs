@@ -442,6 +442,7 @@
   * [Document M365 groups setup](prebuilt-automations/existing-crate-documentation/document-m365-groups-setup.md)
   * [Document M365 shared mailboxes setup](prebuilt-automations/existing-crate-documentation/document-m365-shared-mailboxes-setup.md)
   * [Document M365 users setup](prebuilt-automations/existing-crate-documentation/document-m365-users-setup.md)
+  * [Export Intune Policies and Configurations Crate](prebuilt-automations/existing-crate-documentation/export-intune-policies-and-configurations-crate.md)
   * [Just in Time Admin Access Crate](prebuilt-automations/existing-crate-documentation/just-in-time-admin-access-crate.md)
   * [New user onboarding](prebuilt-automations/existing-crate-documentation/new-user-onboarding/README.md)
     * [Identity provider setup - new user add](prebuilt-automations/existing-crate-documentation/new-user-onboarding/identity-provider-setup-new-user-add.md)
