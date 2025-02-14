@@ -6,9 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * I just finished FFVII Rebirth. First, you should definitely play it. Second, as much as there is a TON of stuff to do in this game, the main storyline is the gold. Skip some of the side stuff and get to the end, it's worth it.
-  * DON'T FORGET ZELDA ECHOES OF WISDOM IS OUT!
 * **SHOUT OUTS** **TO:**
   * R. Paragallo, Tim, Andrew, Robert D., Ryan, Addy, Dominik, JD, Tom, Robert S., Jordan, and Cat
     * AND Kevin with a perfect score :confetti\_ball:

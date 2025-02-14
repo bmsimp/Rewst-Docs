@@ -7,10 +7,10 @@ Explore what new changes the Training team has made in the last week.
 <summary><strong>General News and Reminders</strong></summary>
 
 * **Introducing Clea Mahoney! She's joining our team as a Training and Community Enablement Manager who will help us grow our training program!**
-* **Game Tip for the Week:**  Final Fantasy VII Rebirth is here! A reminder that while you CAN enjoy this game without playing the rest, the best experience comes from playing the original, watching Advent Children the sequel movie, playing Crisis Core, Dirge of Cerberus on the PS2, playing Remake, and THEN playing Rebirth. :)  If anyone didn't get a Midgar Bangle Mk. II preorder item, hit me up in Discord, I have an extra code.&#x20;
-* **SHOUT OUT** to Alex, Owen, Mistie, Ethan, Jaffer, Jowen, Jonathan, and Devon for successfully taking our [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention")Exam, and collecting your prestigious **Certified Rewster** badge in Discord.&#x20;
-* The Legendary Eddie Listen-to-that-soothing-voice Chow will be at Right of Boom next week for the Pre-day! Because of this, our training will be moved to Discord Watch Parties where we can all listen in on the serene teaching of a recorded Eddie Chow
-* Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
+
+- **SHOUT OUT** to Alex, Owen, Mistie, Ethan, Jaffer, Jowen, Jonathan, and Devon for successfully taking our [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention")Exam, and collecting your prestigious **Certified Rewster** badge in Discord.&#x20;
+- The Legendary Eddie Listen-to-that-soothing-voice Chow will be at Right of Boom next week for the Pre-day! Because of this, our training will be moved to Discord Watch Parties where we can all listen in on the serene teaching of a recorded Eddie Chow
+- Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
 
 </details>
 

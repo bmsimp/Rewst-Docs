@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * With the year wrapping up, don't overlook Fantasian Neo Dimension. It's out for all platforms and was made by the creator of Final Fantasy with music from the composer of the older Final Fantasies. It's basically Final Fantasy. So if you like that series, check this one out!&#x20;
 * **SHOUT OUTS** **TO:**
   * Alexander, Kevin, Zia, Stephen, Leia, Rob, Joshua, and Daniel for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

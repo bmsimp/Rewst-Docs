@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Fun Fact for the week: I took my own advice from last week, played Fire Emblem on Nintendo Switch Online, and I'm just as obsessed with it as I was back in 2003. Sorry Baldur's Gate 3...
 * Shout out to all the customers who gave education feedback this week! One highlight is more content on creating tasks using small sub-workflows to speed up automation building. More to come!
 * [We've updated the times on our Rewst 104 \~ 106 training to give a 15-minute break between](https://calendly.com/cluck-u):
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST

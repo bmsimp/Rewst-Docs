@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* Game Tip for the Week: Super Mario Wonder came in at a 93 on Metacritic, followed by Spider-Man 2 hitting a 91 this week! What a time to be a gamer! If you haven't already, you should pick those up and enjoy the heck out of them! After you beat Detective Pikachu 2, of course...&#x20;
 * Join us for our regularly scheduled Training:
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1:15pm EST

@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Game Tip for the Week: Prepare yourself for the onslaught of games coming in October like Spider-Man 2, Super Mario Wonder, Forza, and Assassin's Creed Mirage! Hope you've finished more than 10% of Baldur's Gate and Starfield! poor Adam will catch up one day...
 * Shoutouts to everyone who joined us in training this week! We appreciate your feedback as we continue to build out new training experiences. We'll be at it again next week with the same bat time, and same bat channels:
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1:15pm EST

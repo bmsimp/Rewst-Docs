@@ -6,9 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * On the modern front (unless you count remasters), I'd say don't miss Ys X Nordics, Dragon Quest III HD-2D Remake, and Fantasian coming out next week! Because there just aren't enough great RPGs this year! /s
-  * Or on the Retro side, I'm about half way through Xenogears and working on playing through Link to the Past again! These are both classics!
 * **SHOUT OUTS** **TO:**
   * Clint, Adam B, Kai, Jonathan, James, Kian, David, Ed, Zolile, Rob,  and Adam K for passing the Foundations Certification
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

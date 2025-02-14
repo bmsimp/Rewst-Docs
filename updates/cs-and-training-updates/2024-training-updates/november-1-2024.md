@@ -6,9 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * For those of you who decided to save the $700 by not buying a PS5 Pro, you can spend some of that one the awesome November releases like Dragon Quest III HD-2D Remake, Mario and Luigi: Brothership, Lego Horizon Adventures (on the Switch!), Nine Sols, and others!&#x20;
-  * But real talk, I think Reed will have the real Game tip of this week, so ignore me. &#x20;
 * **SHOUT OUTS** **TO:**
   * Robert, Koen, James, and Daniel for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

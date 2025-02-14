@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  *
 * **SHOUT OUTS** **TO:**
   * Jonathan, Jean, Shane, Darrell, Drew, and Trevor for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

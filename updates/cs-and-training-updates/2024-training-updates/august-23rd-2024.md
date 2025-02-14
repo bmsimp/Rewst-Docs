@@ -12,8 +12,6 @@ Check them (and our other courses) out on the [Cluck University Landing Page](ht
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**&#x20;
-  * **If you have any retro hardware questions, reach out to Charles, or cray.io in Discord. I thought my setup was cool, but this guy put me to shame!**
 * **SHOUT OUTS** **TO:**
   * Jadan, Himani, Scott, Stewart, Stephen, Brennon, Chris, Robert
   * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.  As well as access to a super secret Discord channel.

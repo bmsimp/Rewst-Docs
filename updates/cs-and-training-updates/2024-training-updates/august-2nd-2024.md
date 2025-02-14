@@ -6,9 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week: We have 2 today!**
-  * **Retro:** I just rediscovered an epic PS2 RPG gem called Rogue Galaxy. You can pick it up on the PS5 and it's a good time!
-  * **Modern:** Check out that Vision of Mana demo, out now! It's looking REAL good and I'm looking forward to it!
 * **SHOUT OUTS** **TO:**
   * Alex (With a PERFECT score), Lexi, Mike, and Shane
   * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.  As well as access to a super secret Discord channel.

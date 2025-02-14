@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * On December 1st, ModRetro's Chromatic, a modern take on the Gameboy Color, comes out with a slew of Indie games that can be played on the OG Gameboy as well. The lineup looks amazing and the console has been getting stellar reviews, so check it out! I'm starting with Dragonyhm and Chantley!
 * **SHOUT OUTS** **TO:**
   * Narvada, Alex, Aaron, Mitchell, Eugene, Andrew, Jonathan, and Colby for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * The Nintendo Switch 2 Joycon patents have just been released. Looks like they will also act like a mouse! Are you getting a Switch 2? What games do you think this feature will open the possibility for?&#x20;
 * **SHOUT OUTS** **TO:**
   * Gene, Mart, Allie, Paul, Mark, and Niels for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;

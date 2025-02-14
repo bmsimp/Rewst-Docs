@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Game Tip for the Week: If you played Final Fantasy XVI and you're wondering why it doesn't feel like the old ones you love, check out the Mistwalker RPGs like Blue Dragon and Lost Odyssey, made by the father of Final Fantasy. Especially if you have an Xbox.&#x20;
 * Cluck U will continue its regular schedule next week:
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1:15pm EST

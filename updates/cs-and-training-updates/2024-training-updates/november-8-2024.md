@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * Dragon Quest III HD-2D Remake is FINALLY HERE! I've got some hands on and I can say it is an INCREDIBLE remake. It's definitely an old-school turn-based RPG at its roots, but if you're looking for a cozy classic to sink some time into, then I'm having a blast!&#x20;
 * **SHOUT OUTS** **TO:**
   * Charles, Kylen, Jonathan, Keenan, Aston, Justin, Colby, Alex, and Stuart for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

@@ -12,8 +12,6 @@ Check them (and our other courses) out on the [Cluck University Landing Page](ht
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**&#x20;
-  * The latest Nintendo Direct happened this week and there were some AMAZING remasters, remakes, and ports announced like Suikoden I & II, Legend of Heroes Trials in the Sky, Yakuza Kiwami, the CASTLEVANIA DS GAMES, and Tales of Graces F. I could go on, but what are YOUR favorite announcements?&#x20;
 * **SHOUT OUTS** **TO:**
   * Dominic, Mike, Dave, Lara, Nick, Brad, Jonathan C., Skylar, Chad, Josh, and Jonathan R for passing the Certification Exam
     * AND Patrick and Hamza for PERFECT SCORES!!! :confetti\_ball:
