@@ -127,7 +127,7 @@
   * [Workflow best practices](documentation/workflows/workflow-best-practices.md)
   * [Different types of workflows](documentation/workflows/different-types-of-workflows.md)
   * [Workflow generated options](documentation/workflows/workflow-generated-options.md)
-  * [Completion handlers](documentation/workflows/workflow-listeners.md)
+  * [Completion handlers](documentation/workflows/completion-handlers.md)
   * [Tags in Rewst](documentation/workflows/tags-in-rewst.md)
   * [How to see specific workflow results](documentation/workflows/how-to-see-specific-workflow-results.md)
   * [Workflow building tips and tricks](documentation/workflows/workflow-building-tips-and-tricks/README.md)
