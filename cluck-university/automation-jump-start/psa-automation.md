@@ -13,7 +13,7 @@ This workflow:
 3. Sends an email to the person submitting the form.
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Rewst workflows bridge the gap between tools like ConnectWise and your operational processes. Automating ticket creation ensures every request is logged, tracked, and completed efficiently.
+Rewst workflows bridge the gap between tools like ConnectWise and your operational processes. Automating ticket creation ensures every request is logged, tracked, and completed efficiently.
 {% endhint %}
 
 ***
@@ -69,7 +69,7 @@ This workflow:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 2.34.19 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Form fields become context variables in workflows, allowing you to map data dynamically in actions.
+Form fields become context variables in workflows, allowing you to map data dynamically in actions.
 {% endhint %}
 
 ***
@@ -135,7 +135,7 @@ New User Onboarding: {{ CTX.full_name }}
 ```
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Use Jinja to add dynamic logic to workflows, customizing tickets based on context variables like role or priority.
+Use Jinja to add dynamic logic to workflows, customizing tickets based on context variables like role or priority.
 
 For instance, if a new admin is added, you can make the ticket a higher priority. ConnectWise has 1-3 for ticket priority levels, with 1 being the highest.
 {% endhint %}
@@ -148,7 +148,7 @@ For instance, if a new admin is added, you can make the ticket a higher priority
   * **Item** - items provide context to a ticket by specifying the asset or service affected
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Making this a trigger for automatic onboarding can level this workflow up even more!
+Making this a trigger for automatic onboarding can level this workflow up even more!
 
 * If not triggering an automated onboarding workflow, make sure to put an internal note in, including a link to the onboarding form, for a tech to fill out.
 * Fill public discussion note with submission details to send confirmation email to the primary contact set for the company in ConnectWise PSA if any confirmation workflows exist.
@@ -267,7 +267,7 @@ The Automation System
    7. **V**erify email receipt.
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Testing ensures that the workflow behaves as expected and the integration with ConnectWise is functioning correctly.
+Testing ensures that the workflow behaves as expected and the integration with ConnectWise is functioning correctly.
 {% endhint %}
 
 ***

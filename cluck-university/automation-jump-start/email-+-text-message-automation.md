@@ -42,7 +42,7 @@ It’s simple to set up, using only core tasks in Rewst — no integrations need
 8. Click **Submit**.
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Rewst form field names become context variables in your workflow. Think of them like placeholders for data, making your workflows adaptable.
+Rewst form field names become context variables in your workflow. Think of them like placeholders for data, making your workflows adaptable.
 
 `prospect_email` in form becomes`{{ CTX.prospect_email }}` in workflow.
 {% endhint %}
@@ -167,7 +167,7 @@ Check your email to learn more about us.
 ***
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Clone this workflow and form to build out another email or text use case! How about a **new MSP employee** welcome automation? Simply swap your form field names and context variables to something like `employee_email` in form and`{{ CTX.employee_email }}` in workflow. Remember to rename your field labels and automations (form and workflow titles) accordingly.
+Clone this workflow and form to build out another email or text use case! How about a **new MSP employee** welcome automation? Simply swap your form field names and context variables to something like `employee_email` in form and`{{ CTX.employee_email }}` in workflow. Remember to rename your field labels and automations (form and workflow titles) accordingly.
 {% endhint %}
 
 ***
