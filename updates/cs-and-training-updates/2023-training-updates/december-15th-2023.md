@@ -24,7 +24,7 @@ Explore what new changes the Training team has made in the last week.
 
 **What's New at Cluck University?**
 
-* &#x20;**Added** [support-and-troubleshooting-dynamic-form-fields.md](../../../cluck-university/electives/support-and-troubleshooting-dynamic-form-fields.md "mention") Elective Page
+* &#x20;**Added** [support-and-troubleshooting-dynamic-form-fields.md](../../../cluck-university/micro-courses/support-and-troubleshooting-dynamic-form-fields.md "mention") Elective Page
 * More to come in the New Year!
 
 **New & Updated Pages:**

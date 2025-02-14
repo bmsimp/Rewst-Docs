@@ -26,8 +26,8 @@ Explore what new changes the Training team has made in the last week.
 * We'd love to get your feedback on our Training and Documentation! [Please fill out this form to let us know how we can improve](https://app.sli.do/event/m8C3AjPUnuDgpkVDmPsQL3)!
 * As a reminder, you can make training and documentation requests at [https://rewst.canny.io/](https://rewst.canny.io/)
 * [office-hours.md](../../../cluck-university/office-hours.md "mention") page added with more information about&#x20;
-* New [how-to-build-forms.md](../../../cluck-university/electives/how-to-build-forms.md "mention") elective page live!
-* New [working-with-options-generator-workflows-in-rewst.md](../../../cluck-university/electives/working-with-options-generator-workflows-in-rewst.md "mention") elective page live!
+* New [how-to-build-forms.md](../../../cluck-university/micro-courses/how-to-build-forms.md "mention") elective page live!
+* New [working-with-options-generator-workflows-in-rewst.md](../../../cluck-university/micro-courses/working-with-options-generator-workflows-in-rewst.md "mention") elective page live!
 
 **New & Updated Pages:**
 

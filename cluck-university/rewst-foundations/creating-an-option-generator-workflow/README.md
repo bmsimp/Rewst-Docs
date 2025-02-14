@@ -4,7 +4,7 @@ description: >-
   lesson by creating an Option Generator to power the "Group" field.
 ---
 
-# Lesson 4: Creating an Option Generator Workflow
+# Lesson 4: Creating an option generator workflow
 
 ## **What to Eggs-pect**
 
@@ -38,8 +38,8 @@ Check out these supplementary resources.
 * [jinja-lists.md](../../../documentation/jinja/use-cases-and-best-practices/jinja-lists.md "mention")
 * [diff-lists.md](../../../documentation/workflows/actions-in-rewst/transform-actions/diff-lists.md "mention")
 * [Microsoft Graph REST API v1.0 endpoint reference](https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0)
-* [working-with-options-generator-workflows-in-rewst.md](../../electives/working-with-options-generator-workflows-in-rewst.md "mention")
-* [how-to-reference-data-with-variables.md](../../electives/how-to-reference-data-with-variables.md "mention")
+* [working-with-options-generator-workflows-in-rewst.md](../../micro-courses/working-with-options-generator-workflows-in-rewst.md "mention")
+* [how-to-reference-data-with-variables.md](../../micro-courses/how-to-reference-data-with-variables.md "mention")
 {% endhint %}
 
 ## Next Steps

@@ -4,7 +4,7 @@ description: >-
   those options in workflow output configuration.
 ---
 
-# Using Jinja in Data Aliases and Creating an API Request Action
+# Using Jinja in data aliases and creating an API request action
 
 ## Module Overview
 
@@ -93,7 +93,7 @@ Remember, everything we’re doing is to output data to the group field connecte
 ### Action Item
 
 * Add and configure a new Generic API Action to execute specific functionality based on the API documentation. Ensure the API endpoint, method, headers, and parameters are set according to the documentation for proper integration.
-* Review [how-to-reference-data-with-variables.md](../../electives/how-to-reference-data-with-variables.md "mention") to store objects from the action into Data Aliases.
+* Review [how-to-reference-data-with-variables.md](../../micro-courses/how-to-reference-data-with-variables.md "mention") to store objects from the action into Data Aliases.
 
 ## Navigation
 

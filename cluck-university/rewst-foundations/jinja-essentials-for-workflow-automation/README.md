@@ -1,4 +1,4 @@
-# Lesson 3: Jinja Essentials for Workflow Automation
+# Lesson 3: Jinja essentials for workflow automation
 
 ## **What to Eggs-pect**
 
@@ -39,7 +39,7 @@ Check out these supplementary resources.
 * [Lunch Menu Exercise](https://app.rewst.io/jinja-live-editor?id=4ee84407-d0c1-4a9a-94b3-84c643b8dd3f)
 * [intro-to-templates.md](../../../documentation/templates-messages/intro-to-templates.md "mention")
 * [jinja-lists.md](../../../documentation/jinja/use-cases-and-best-practices/jinja-lists.md "mention")
-* [how-to-reference-data-with-variables.md](../../electives/how-to-reference-data-with-variables.md "mention")
+* [how-to-reference-data-with-variables.md](../../micro-courses/how-to-reference-data-with-variables.md "mention")
 {% endhint %}
 
 ## Next Steps

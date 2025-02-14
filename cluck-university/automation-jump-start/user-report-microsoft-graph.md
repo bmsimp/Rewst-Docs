@@ -76,7 +76,7 @@ This workflow uses:
 10. Add the following to the value: Failed to list all users
 
 {% hint style="success" %}
-🐣 **Stewart Says:** What the heck is \{{ RESULT.result.data.value \}}? [Check out this video to learn more](../electives/how-to-reference-data-with-variables.md).
+🐣 **Stewart Says:** What the heck is \{{ RESULT.result.data.value \}}? [Check out this video to learn more](../micro-courses/how-to-reference-data-with-variables.md).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 1.49.03 PM.png" alt=""><figcaption></figcaption></figure>

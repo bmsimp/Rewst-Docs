@@ -30,9 +30,9 @@ Explore what new changes the Training team has made in the last week.
   * **201 is live!** [You can sign up on Mondays from 3pm \~ 4pm](https://calendly.com/cluck-u/rewst-201-advanced-automation-concepts).
   * 202 is in the works!
 * **Electives**
-  * [extending-the-power-of-rewst-workflows](../../../cluck-university/electives/extending-the-power-of-rewst-workflows/ "mention") top-level page added
-  * [how-to-use-powershell-in-rewst.md](../../../cluck-university/electives/how-to-use-powershell-in-rewst.md "mention") released
-  * [how-to-reference-data-with-variables.md](../../../cluck-university/electives/how-to-reference-data-with-variables.md "mention")released
+  * [extending-the-power-of-rewst-workflows](../../../cluck-university/micro-courses/extending-the-power-of-rewst-workflows/ "mention") top-level page added
+  * [how-to-use-powershell-in-rewst.md](../../../cluck-university/micro-courses/how-to-use-powershell-in-rewst.md "mention") released
+  * [how-to-reference-data-with-variables.md](../../../cluck-university/micro-courses/how-to-reference-data-with-variables.md "mention")released
 * **Updates and Fixes:**
   * [Broken link](broken-reference "mention")page information added
   * [Broken link](broken-reference "mention")page information updated

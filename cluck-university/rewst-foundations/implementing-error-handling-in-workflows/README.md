@@ -5,7 +5,7 @@ description: >-
   early and ensure smoother debugging.
 ---
 
-# Lesson 6: Implementing Error-Handling in Rewst Workflows
+# Lesson 6: Implementing error handling in Rewst workflows
 
 ## Whatt to Eggs-pect
 
@@ -29,10 +29,10 @@ To get started, select the first module. Each module includes a video and writte
 ### Lesson Resources
 
 {% hint style="info" %}
-* [how-to-use-powershell-in-rewst.md](../../electives/how-to-use-powershell-in-rewst.md "mention")
+* [how-to-use-powershell-in-rewst.md](../../micro-courses/how-to-use-powershell-in-rewst.md "mention")
 * [advanced-automation-concepts.md](../../clean-automation/advanced-automation-concepts.md "mention")
 * [navigating-between-tasks-with-transitions.md](../../../documentation/workflows/configuring-your-workflow-tasks/navigating-between-tasks-with-transitions.md "mention")
-* [how-to-reference-data-with-variables.md](../../electives/how-to-reference-data-with-variables.md "mention")
+* [how-to-reference-data-with-variables.md](../../micro-courses/how-to-reference-data-with-variables.md "mention")
 
 You can also find more information in our FAQ page: [#what-does-this-error-mean-unreachablejoinerror-the-join-task-or-route-xxxxxxx-is-partially-satisfied](../../../faqs/frequently-asked-questions.md#what-does-this-error-mean-unreachablejoinerror-the-join-task-or-route-xxxxxxx-is-partially-satisfied "mention")
 {% endhint %}

@@ -2,7 +2,7 @@
 description: What is this quirky cloud conundrum, and what do I do about it?
 ---
 
-# Embracing The Microsoft Minute
+# Embracing the Microsoft Minute
 
 ### Decoding the Microsoft Minute
 
@@ -19,7 +19,7 @@ In the world of IT, the "Microsoft Minute" lightheartedly encapsulates the unpre
 While we may not know the exact science behind the duration of a Microsoft Minute, it’s a part of our MSP life. So, why not make the most of it? Here's a Rewst-inspired list to transform your next Microsoft Minute into a mini-adventure:
 
 1. **Exercise Your Clicking Finger**: A few desk-side stretches or mouse-clicking exercises can keep you agile for the next automation challenge.
-2. **Dive into a Digital Detour**: Take a quick scroll through our [Getting Started](../../../../../cluck-university/getting-started/) resources or a brief dive into our [electives](../../../../../cluck-university/electives/) – who knows what nuggets of wisdom you’ll find?
+2. **Dive into a Digital Detour**: Take a quick scroll through our [Getting Started](../../../../../cluck-university/getting-started/) resources or a brief dive into our [electives](../../../../../cluck-university/micro-courses/) – who knows what nuggets of wisdom you’ll find?
 3. **Revamp Your Digital Persona**: Update your professional profile picture or give your desktop background a fresh look.
 4. **Become a Jinja Ninja**: Check out [Broken link](broken-reference "mention")
 5. **Craft a Code Comment Masterpiece**: Get creative with your workflow notes – maybe give [RoboRewsty ](../../../../workflows/workflow-building-tips-and-tricks/workflow-notes/documenting-with-roborewsty.md)a try?

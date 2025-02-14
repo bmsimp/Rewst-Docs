@@ -1,4 +1,4 @@
-# Rewst Terminology
+# Rewst terminology
 
 ## **Introduction**
 
@@ -92,7 +92,7 @@ For more information, see: [forms](../../documentation/forms/ "mention")
 
 **Scripts** are series of instructions written in a computer language that can be executed to automate tasks. The scripting languages available in Rewst (Powershell, Python, YAML, and Jinja) enable us to write scripts in a straightforward and accessible manner compared to traditional programming languages. Scripting tasks can range from batch processes on a local computer to generating dynamic web pages on a web server. Scripts can be written, edited, and executed more quickly and easily than software programs.
 
-For more information, see: [how-to-use-powershell-in-rewst.md](../electives/how-to-use-powershell-in-rewst.md "mention")
+For more information, see: [how-to-use-powershell-in-rewst.md](../micro-courses/how-to-use-powershell-in-rewst.md "mention")
 
 ***
 
