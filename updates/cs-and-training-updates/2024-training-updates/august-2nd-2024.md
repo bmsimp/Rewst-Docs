@@ -39,7 +39,7 @@ Explore what new changes the Training team has made in the last week.
 * [it-portal-coming-soon](../../../documentation/integrations/documentation/it-portal-coming-soon/ "mention") section added
 * [dns-filter](../../../documentation/integrations/dns/dns-filter/ "mention") page added
 * [servicenow-coming-soon](../../../documentation/integrations/psa/servicenow-coming-soon/ "mention") section added
-* [webroot-coming-soon](../../../documentation/integrations/security/webroot-coming-soon/ "mention") section added
+* [webroot](../../../documentation/integrations/security/webroot/ "mention") section added
 
 </details>
 
