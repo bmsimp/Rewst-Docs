@@ -172,7 +172,7 @@ Clone this workflow and form to build out another email or text use case! How ab
 
 ***
 
-## **Step 4: Future expansion as a completion handler**
+## **Future considerations as a completion handler**
 
 Once you have a new user onboarding Crate set up, this workflow can be configured as a completion handler. Here’s how:
 
@@ -181,6 +181,10 @@ Once you have a new user onboarding Crate set up, this workflow can be configure
    * Use a variable like `{{ onboarding.new_user_email }}` to populate the email field dynamically.
 2. **Update the email template:**
    * Include additional details or resources specific to the onboarding process.
+
+{% hint style="success" %}
+For more information on setting up completion handlers, you can go to [completion-handlers.md](../../documentation/workflows/completion-handlers.md "mention")
+{% endhint %}
 
 ***
 
