@@ -12,7 +12,7 @@ This workflow uses:
 4. Dynamic success and failure email notifications.
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Jinja makes it easy to process and filter data dynamically without needing external scripts. Perfect for lightweight automations like generating reports!
+Jinja makes it easy to process and filter data dynamically without needing external scripts. Perfect for lightweight automations like generating reports!
 {% endhint %}
 
 ***
@@ -49,7 +49,7 @@ This workflow uses:
 <figure><img src="../../.gitbook/assets/Screenshot%202025-01-22%20at%2010.42.28%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-🐣 **Stewart Says:** No need to mess around with cron coding for your testing. Simply hit the **test** button at the top of your workflow to give it a spin!
+No need to mess around with cron coding for your testing. Simply hit the **test** button at the top of your workflow to give it a spin!
 {% endhint %}
 
 ***
@@ -76,7 +76,7 @@ This workflow uses:
 10. Add the following to the value: Failed to list all users
 
 {% hint style="success" %}
-🐣 **Stewart Says:** What the heck is \{{ RESULT.result.data.value \}}? [Check out this video to learn more](../electives/how-to-reference-data-with-variables.md).
+What the heck is \{{ RESULT.result.data.value \}}? [Check out this video to learn more](../micro-courses/how-to-reference-data-with-variables.md).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 1.49.03 PM.png" alt=""><figcaption></figcaption></figure>
@@ -105,7 +105,7 @@ This workflow uses:
 ```
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Filtering the user data dynamically with Jinja ensures that you only process the relevant subset of users. This step prepares the data for the email. For our example, we only want to see users in the Main Office. So we use an “if statement” to only select “Main” Office workers, we'll then extract specific information about those users.
+Filtering the user data dynamically with Jinja ensures that you only process the relevant subset of users. This step prepares the data for the email. For our example, we only want to see users in the Main Office. So we use an “if statement” to only select “Main” Office workers, we'll then extract specific information about those users.
 {% endhint %}
 
 6. Connect the **On Success** transition of the **List Users** action to the **filter\_user\_list** Noop action.
@@ -179,5 +179,5 @@ The Automation Team
 * Click the **Results** icon, denoted by a graph, in the top menu. And, check your email inbox!
 
 {% hint style="success" %}
-🐣 **Stewart Says:** Remember that you can filter for a different condition— like all users with the role Admin— to tailor the user report to your needs. Just update your Jinja code!
+Remember that you can filter for a different condition— like all users with the role Admin— to tailor the user report to your needs. Just update your Jinja code!
 {% endhint %}

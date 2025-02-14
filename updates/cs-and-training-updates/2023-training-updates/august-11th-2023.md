@@ -7,14 +7,14 @@ Explore what new changes the Training team has made in the last week.
 <summary><strong>General News</strong></summary>
 
 * As you all know by now, Eddie Chow is taking over for this update. So first of all, thank you, Eddie, for making this a brandwich deluxe next week.
-* Fun Fact for the Week: Don't skip out on NSO if you have a Switch! With a huge library of Zelda games, and even Fire Emblem, who needs to buy something new, amirite?
-* Huge shout out to all the engagement in the Cluck U Discord channel this week, helping us find bugs and updates on the docs Site!
-* [As a reminder, our new training is as follows](https://calendly.com/cluck-u):
+
+- Huge shout out to all the engagement in the Cluck U Discord channel this week, helping us find bugs and updates on the docs Site!
+- [As a reminder, our new training is as follows](https://calendly.com/cluck-u):
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1pm EST
   * Wednesdays: Rewst 103 @ 12pm EST + Rewst 106 @ 1pm EST
   * Thursdays: ROC AMA @ 12pm EST
-* Join us in our new [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
+- Join us in our new [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
 
 </details>
 

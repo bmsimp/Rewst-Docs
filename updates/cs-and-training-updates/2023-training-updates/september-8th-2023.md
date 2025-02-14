@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Game Tip for the Week: Don't forget to purchase that Pokemon Scarlet and Violet DLC if you aren't playing Starfield, Baldur's Gate 3, or you just really love buggy Pokemon games like me! (Help me).
 * [The AMA has been moved up an hour to accommodate our friends in the UK](https://calendly.com/cluck-u):thumbsup:
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1:15pm EST
@@ -22,8 +21,8 @@ Explore what new changes the Training team has made in the last week.
 
 **Cluck University**
 
-* Added new [Electives](../../../cluck-university/electives/) section under Cluck University - New content to come!
-* Added an [Extending the Power Of Rewst Workflows Page](../../../cluck-university/electives/extending-the-power-of-rewst-workflows/) with content talking about Completion Handlers
+* Added new [Electives](../../../cluck-university/micro-courses/) section under Cluck University - New content to come!
+* Added an [Extending the Power Of Rewst Workflows Page](../../../cluck-university/micro-courses/extending-the-power-of-rewst-workflows/) with content talking about Completion Handlers
 * Chow Time: Added Updated [Rewst 104 video](broken-reference) made by our very own Legend - Eddie Chow
 
 **Documentation**

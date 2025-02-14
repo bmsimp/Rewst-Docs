@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip for the Week:** BRACE YOURSELVES THE GAME SALES ARE COMING! In particular, I want to point out to all my Xbox owners here that Lost Odyssey, one of the most criminally overlooked RPGs of all time, is on sale digitally for $6.24 at the Xbox store. I would always recommend getting the original physical version, but this will be the best $6.24 you've ever spent in your life.&#x20;
 * **SHOUT OUT to all of our Certified Rewsters!** To join our motley crew of eggcellent peeps, you can take the exam here: [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention")
 * **Cluck U Holiday Hours:**
   * **US Thanksgiving**
@@ -30,9 +29,9 @@ Explore what new changes the Training team has made in the last week.
   * **201 is live!** [You can sign up on Mondays from 3pm \~ 4pm](https://calendly.com/cluck-u/rewst-201-advanced-automation-concepts).
   * 202 is in the works!
 * **Electives**
-  * [extending-the-power-of-rewst-workflows](../../../cluck-university/electives/extending-the-power-of-rewst-workflows/ "mention") top-level page added
-  * [how-to-use-powershell-in-rewst.md](../../../cluck-university/electives/how-to-use-powershell-in-rewst.md "mention") released
-  * [how-to-reference-data-with-variables.md](../../../cluck-university/electives/how-to-reference-data-with-variables.md "mention")released
+  * [extending-the-power-of-rewst-workflows](../../../cluck-university/micro-courses/extending-the-power-of-rewst-workflows/ "mention") top-level page added
+  * [how-to-use-powershell-in-rewst.md](../../../cluck-university/micro-courses/how-to-use-powershell-in-rewst.md "mention") released
+  * [how-to-reference-data-with-variables.md](../../../cluck-university/micro-courses/how-to-reference-data-with-variables.md "mention")released
 * **Updates and Fixes:**
   * [Broken link](broken-reference "mention")page information added
   * [Broken link](broken-reference "mention")page information updated

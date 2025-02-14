@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip for the Week:** If you're an RPG fan, do not sleep on Star Ocean The Second Story R. This game is one of the, if not THE, best in the franchise, and this remake sets a new standard for what retro remakes should be!&#x20;
 * **ANNOUNCING:** [Broken link](broken-reference "mention")
   * Join in on this weekly webinar series happening [Mondays](https://calendly.com/cluck-u/fast-track-onboarding-session-1), [Wednesdays](https://calendly.com/cluck-u/fast-track-onboarding-session-2) & [Fridays](https://calendly.com/cluck-u/fast-track-onboarding-session-3) to expedite your Rewst onboarding experience.
 * **Join us for our regularly scheduled Training:**
@@ -24,7 +23,7 @@ Explore what new changes the Training team has made in the last week.
 
 **Cluck University**
 
-* [part-2-how-to-take-action-on-workflow-results.md](../../../cluck-university/electives/extending-the-power-of-rewst-workflows/part-2-how-to-take-action-on-workflow-results.md "mention")The elective is now live! Look forward to many more to come!
+* [part-2-how-to-take-action-on-workflow-results.md](../../../cluck-university/micro-courses/extending-the-power-of-rewst-workflows/part-2-how-to-take-action-on-workflow-results.md "mention")The elective is now live! Look forward to many more to come!
 
 **Documentation**
 

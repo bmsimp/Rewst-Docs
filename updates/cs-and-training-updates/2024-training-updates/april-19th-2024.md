@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip for the Week:** Since Eddie will OBVIOUSLY read this, his tip is that you should play Tears and Breath of the Wild with your kids and beat Dragon Quest VIII sooner than 5 years after telling your friend that you'll beat it. 😉
 * **SHOUT OUT** to Robert, Kaelyn, Jonathon, Jared, Eric, Nick, and Scott for successfully taking our [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collecting your prestigious **Certified Rewster** badge in Discord.&#x20;
 * Clea will be taking some time for the next couple of weeks, leaving Eddie to enter back into the fray for the 100 series
 
@@ -32,7 +31,7 @@ Explore what new changes the Training team has made in the last week.
 * [april-12th-2024-hey-siri-make-a-ticket-alexa-close-my-ticket.md](../../roc-open-mics/2024-roc-open-mics/april-12th-2024-hey-siri-make-a-ticket-alexa-close-my-ticket.md "mention") Open Mic Page Added
 * [okta-integration-setup.md](../../../documentation/integrations/iam/okta-integration-setup.md "mention") page added
 * [actions-and-endpoints.md](../../../documentation/integrations/iam/actions-and-endpoints.md "mention") for OKTA added
-* [working-with-options-generator-workflows-in-rewst.md](../../../cluck-university/electives/working-with-options-generator-workflows-in-rewst.md "mention") Elective page added
+* [working-with-options-generator-workflows-in-rewst.md](../../../cluck-university/micro-courses/working-with-options-generator-workflows-in-rewst.md "mention") Elective page added
 * [intro-to-forms.md](../../../documentation/forms/intro-to-forms.md "mention") page updated with a link to the elective
 * [agent-smith-configuration-overview.md](../../../documentation/agent-smith/agent-smith-configuration-overview.md "mention") page updated
 * [list-of-jinja-filters.md](../../../documentation/jinja/list-of-jinja-filters.md "mention") updated for `regex_search` filter

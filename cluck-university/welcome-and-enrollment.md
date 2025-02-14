@@ -12,7 +12,7 @@ We offer courses sequentially, and you can use the self-serve resources. Use the
 * [automation-basics](automation-basics/ "mention")
 * [rewst-foundations](rewst-foundations/ "mention")
 * [clean-automation](clean-automation/ "mention")
-* [electives](electives/ "mention")
+* [micro-courses](micro-courses/ "mention")
 {% endhint %}
 
 ## Live training enrollment

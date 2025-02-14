@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Game Tip for the Week: Sea of Stars is a no-brainer for fans of retro RPGs. If you have a Switch OLED, even better! If you don't have a Switch? ... You should get one.  🙂
 * [The AMA has been moved up an hour to accommodate our friends in the UK](https://calendly.com/cluck-u):thumbsup:
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1:15pm EST

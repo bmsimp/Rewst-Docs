@@ -15,9 +15,6 @@ Sign up on the [Cluck University Landing Page](https://go.rew.st/cluck-universit
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week: We have 2 today!**
-  * **Retro:** I recently repurchased a SNES and found out there are some simple upscaling cords you can buy in addition to wireless controllers! So if you're a retro nut like me, it's a SWEET set up to consider. You can also do the same for most if not all of the other consoles. Got it set up for the PS2 as well!
-  * **Modern:** DON'T FORGET TO CHECK OUT THE LATEST AND GREATEST GAMING PLATFORM. It's called Rewst, baby. Shout out to Dustin Riley for getting Doom running on Rewst! I expect to see more of this!
 * **SHOUT OUTS** **TO:**
   * Keoni, Sam, Nathan, Randy, Skyler, Adam, Bob, Frank, Jon, Our very own Abhishek, and Charles
   * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.  As well as access to a super secret Discord channel.

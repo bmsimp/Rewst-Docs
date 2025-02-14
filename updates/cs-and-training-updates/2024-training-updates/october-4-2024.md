@@ -6,9 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * Just started Xenogears for the first time! I'm about 6 hours in or so and I'm already blown away! Did anybody else play this? What'd you all think?
-  * Lucas wants everyone to know that Factorio Space Age is coming on the 21st! Should you ignore Zelda and the slew of October RPGs for this? The world may never know...
 * **SHOUT OUTS** **TO:**
   * Cat, Aaron, Joshua, Alexander, Naveen, Andrew, and Owen
   * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord. As well as access to a super secret Discord channel.

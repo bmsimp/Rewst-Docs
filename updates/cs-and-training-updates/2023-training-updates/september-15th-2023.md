@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Game Tip for the Week: If you actually want to play games, don't start a YouTube channel where you talk about playing games.&#x20;
 * The Cluck U team will be meeting next week for more awesome education planning! But don't worry, we have some awesome updates for self-service. Here is the updated live schedule for next week:
   * Monday:
     * [Rewst 101: Laying the Foundations of Automation](https://calendly.com/cluck-u/rewst-101) @ 12 p.m. ET (No change)

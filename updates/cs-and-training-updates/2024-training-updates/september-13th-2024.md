@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * Have you ever heard of the Hyperkin Supaboy? Handheld Super Nintendo Cartridges? Let's goooooo! Is this necessary? Absolutely not. Is this amazing? 100000%
 * **SHOUT OUTS** **TO:**
   * Cyril, Shannyn, Chase, Chris H. , Evan, Anthony, Matthew, Brendan, Leanda, Hugh, David, Michael, Allen, Victoria
     * AND Ray J with a perfect score :confetti\_ball:

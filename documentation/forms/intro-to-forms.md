@@ -2,10 +2,10 @@
 description: Learn how to build and customize your Rewst Forms
 ---
 
-# Dynamic Options & Inputs
+# Dynamic options & inputs
 
 {% hint style="success" %}
-Check out our [elective video on using Options Generators here](../../cluck-university/electives/working-with-options-generator-workflows-in-rewst.md)!
+Check out our [elective video on using Options Generators here](../../cluck-university/micro-courses/working-with-options-generator-workflows-in-rewst.md)!
 {% endhint %}
 
 ## Introduction to the Form Builder
@@ -28,11 +28,7 @@ A reference option is a dynamic field pulled directly from predefined actions. I
 
 Selecting the `Microsoft Graph` integration to list all `Users`.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/reference-options.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/reference-options.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Option Two: Workflow Generated Options
 
@@ -46,11 +42,7 @@ This setup requires the workflow to be an options generator. See the [Workflow G
 
 In this image, we can see that what is shown to the user is what is set as the `label` for the list contents. Ultimately it can be whatever you want it to be, using Jinja to manipulate that output correctly. The `ID` is the value or unique ID of what you're referencing that the workflow is referencing for its future actions.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/workflow-generated (1).png" alt="" width="444"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/workflow-generated (1).png" alt="" width="444"><figcaption></figcaption></figure></div>
 
 #### **Setting Default Options**
 
@@ -89,11 +81,7 @@ If you have a form utilized across multiple clients, each with distinct environm
 
 **Example:** By employing `{{ ORG.VARIABLES.primary_identity_provider }}`, which is set per client as either `on_prem` or `azure_ad`, you can use the same form for both client cases. The form will be pulled from the relevant system.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/dynamic-workflow-inputs.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/dynamic-workflow-inputs.png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Hard-Coding Attributes for Efficiency**
 

@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * If you haven't bought or seen the ModRetro Chromatic, I would get one while you can! They're at some Gamestops and this is downright the best way to play Gameboy games. And they have games made just for the Chromatic!&#x20;
 * **SHOUT OUTS** **TO:**
   * Omari, Chris, Erkam, Nick, Rohan, Geeshan, and Fabian for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;

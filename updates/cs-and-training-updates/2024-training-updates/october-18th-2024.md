@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * Take care of y'all mental, y'all bodies, and y'all chicken..
 * **SHOUT OUTS** **TO:**
   * Hiruni, Adam, Andy, Tim, Mikhael, Nhlanhla, Joven, and James for passing the Foundations Certification
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

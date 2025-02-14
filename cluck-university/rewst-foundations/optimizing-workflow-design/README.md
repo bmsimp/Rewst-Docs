@@ -5,7 +5,7 @@ description: >-
   lesson, we'll introduce some major upgrades.
 ---
 
-# Lesson 7: Optimizing Workflow Design
+# Lesson 7: Optimizing workflow design
 
 ## **What to Eggs-pect**
 
@@ -36,7 +36,7 @@ To get started, select the first module. Each module includes a video and writte
 {% hint style="info" %}
 Check out these supplementary resources.
 
-* [how-to-reference-data-with-variables.md](../../electives/how-to-reference-data-with-variables.md "mention")
+* [how-to-reference-data-with-variables.md](../../micro-courses/how-to-reference-data-with-variables.md "mention")
 * [advanced-workflow-operations.md](../../../documentation/workflows/configuring-your-workflow-tasks/advanced-workflow-operations.md "mention")
 * [data-input-and-output.md](../../../documentation/workflows/data-input-and-output.md "mention")
 * [cloning-an-existing-form.md](../../../documentation/forms/cloning-an-existing-form.md "mention")

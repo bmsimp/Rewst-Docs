@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * I'm just so pumped about Dragon Quest III HD-2D coming out next thursday! But the real is to go talk to Reed Kimble who can show you how to make games happen in Rewst. What a boss.&#x20;
 * **SHOUT OUTS** **TO:**
   * Aston, Jonathan, Jimmy, and Jacques for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;

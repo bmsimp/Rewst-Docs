@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Fun Fact: Final Fantasy VI is still amazing. (Check out that Pixel Remaster!)
 * [As a reminder, our new training is as follows](https://calendly.com/cluck-u):
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1pm EST

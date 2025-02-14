@@ -6,7 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News</strong></summary>
 
-* Fun Fact for the week: We've discovered a new product idea on the AMA this week in addition to the Jinja Burger. Look forward to the Jinjabread House coming to you this December. Also, Pokemon TCG on the Switch Online service is 🤌
 * [We've updated the times on our Rewst 104 \~ 106 training to give a 15-minute break between](https://calendly.com/cluck-u):&#x20;
   * Mondays: Rewst 101 @ 12pm EST + Rewst 104 @ 1:15pm EST
   * Tuesdays: Rewst 102 @ 12pm EST + Rewst 105 @ 1:15pm EST

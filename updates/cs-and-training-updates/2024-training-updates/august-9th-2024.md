@@ -15,9 +15,6 @@ Sign up on the [Cluck University Landing Page](https://go.rew.st/cluck-universit
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week: We have 2 today!**
-  * **Retro:** Always Ask if you're interested in retro games and check in to your local Gamestops. I found Dragon Quest VIII for 3DS in the back and got it for $48 vs. the $100+ price tag from ebay, because I asked if they had any other retro games besides the display.&#x20;
-  * **Modern:** Zelda Echoes of Wisdom is coming. Need I say more?
 * **SHOUT OUTS** **TO:**
   * Jason, Ed, Adam, Anne, and Zachary
   * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.  As well as access to a super secret Discord channel.

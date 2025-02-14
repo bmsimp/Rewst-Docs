@@ -6,8 +6,6 @@ Explore what new changes the Training team has made in the last week.
 
 <summary><strong>General News and Reminders</strong></summary>
 
-* **Game Tip of the Week:**
-  * If you haven't checked out Fantasian yet, and you're into Final Fantasy, it's a must play. Players who quit at Part 2 just need to git gud. Tales of Graces F is also another remaster that's way better than it might seem from the art style!
 * **SHOUT OUTS** **TO:**
   * Jim, Nick, Bart, Will, Kevin, Brandon, Robert, Ariel, Bart, Michael, Rob, Johnny, Chris, Michael, Pepijn, Mark, Stephen for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
