@@ -1,5 +1,4 @@
 ---
-hidden: true
 noIndex: true
 ---
 
@@ -24,11 +23,7 @@ The two levels of access for this feature are:
 
 ## Support access role options
 
-Rewst’s senior and support leadership has an emergency access role called Staff. These few individuals will continue to have write access. If there is a true emergency, they can immediately step in and work to help you solve the issue.
-
-Rewst reserves the right to override access restrictions to ensure that platform stability and performance is maintained at acceptable levels.
-
-All other Rewst support employees are given read-only access to your organizations unless you specifically set access for that organization to **enabled**.
+Rewst support employees are granted read-only access to your organizations unless you specifically set access for that organization to **enabled**. Rewst reserves the right to override access restrictions to ensure that platform stability and performance is maintained at acceptable levels.
 
 {% hint style="warning" %}
 Rewst support staff are not able to request write access in the Rewst platform. Write access can only be granted by the organization. If you’re in need of assistance that will require a Rewst support staff member to have write access, you’ll need to initiate that role change in your side of the Rewst platform.

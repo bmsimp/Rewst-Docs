@@ -1,0 +1,60 @@
+# Bitdefender integration
+
+What does the Bitdefender integration do?
+
+## Bitdefender actions and endpoints
+
+| Category               | Action                                                    | Description                                                                                                                          |
+| ---------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Accounts**           | List Accounts                                             | Display all the user accounts that belong to a company.                                                                              |
+| **Accounts**           | Delete Account                                            | Delete a specific user account.                                                                                                      |
+| **Accounts**           | Create Account                                            | Create a user account and assign it a password.                                                                                      |
+| **Accounts**           | Update Account                                            | Update a user account.                                                                                                               |
+| **Accounts**           | Update Notification Settings                              | Configures the notification settings for a given user account.                                                                       |
+| **Accounts**           | Get Notification Settings                                 | Gets the notifications settings.                                                                                                     |
+| **Companies**          | Update Company Details                                    | Display all the user accounts that belong to a company.                                                                              |
+| **Companies**          | Get Company Details                                       | Gets the details of a company.                                                                                                       |
+| **General**            | Get API Key Details                                       | Retrieves the details of the API key.                                                                                                |
+| **General**            | Generate Email Verification Code                          | Generates a verification code and sends it to the specified email address.                                                           |
+| **Generic Request**    | Bitdefender API Request                                   | Generic action for making authenticated requests against the Bitdefender API                                                         |
+| **Incidents**          | Add to Blocklist                                          | Set up one or more rules that you can use in adding items to blocklists.                                                             |
+| **Incidents**          | List Blocklist Items                                      | Lists all the hashes that are present in a blocklist.                                                                                |
+| **Incidents**          | Remove from Blocklist                                     | Lists all the hashes that are present in a blocklist.                                                                                |
+| **Incidents**          | Create Isolate Endpoint Task                              | Creates a task to isolate the specified endpoint.                                                                                    |
+| **Incidents**          | Create Restore Endpoint From Isolation Task               | Creates a task to restore the specified endpoint from isolation.                                                                     |
+| **Incidents**          | Create Custom Rule                                        | Creates a custom rule.                                                                                                               |
+| **Incidents**          | Get Custom Rules List                                     | Lists all the custom rules that are present in the company.                                                                          |
+| **Incidents**          | Delete Custom Rule                                        | Deletes a custom rule.                                                                                                               |
+| **Incidents**          | Update Incident Note                                      | Updates the note of a specified incident.                                                                                            |
+| **Incidents**          | Change Incident Status                                    | Changes the status of a specified incident.                                                                                          |
+| **Integrations**       | Get Hourly Usage For Amazon EC2 Instances                 | Exposes the hourly usage for each Amazon instance category (micro, medium etc.).                                                     |
+| **Integrations**       | Configure Amazon EC2 Integration Using Cross-Account Role | Configures the Amazon EC2 integration using a cross-account role.                                                                    |
+| **Integrations**       | Generate Amazon EC2 External ID For Cross-Account Role    | Generates the Amazon EC2 external ID for a cross-account role.                                                                       |
+| **Integrations**       | Get Amazon EC2 External ID For Cross-Account Role         | Generates the Amazon EC2 external ID for a cross-account role.                                                                       |
+| **Integrations**       | Disable Amazon EC2 Integration                            | Disables a previously configured Amazon EC2 integration.                                                                             |
+| **Licensing**          | Get License Info                                          | Gets the license information for a company.                                                                                          |
+| **Licensing**          | Add Product Key                                           | Adds a license or addon-key to the existing list of licenses and addon-keys.                                                         |
+| **Licensing**          | Set License Key                                           | Sets a standalone or an add-on license key for a company.                                                                            |
+| **Licensing**          | Remove License Key                                        | Removes a license key from the given company.                                                                                        |
+| **Licensing**          | Get Monthly Usage                                         | Exposes the monthly usage for a company in a target month.                                                                           |
+| **Licensing**          | Get Monthly Usage Per Product Type                        | Exposes the monthly usage of a company in a target month. Returns the usage per product type, for all available product types.       |
+| **Maintenancewindows** | Create Patch Management Maintenance Window                | Creates a Patch Management Maintenance Window.                                                                                       |
+| **Maintenancewindows** | Get Maintenance Window List                               | List available maintenance windows.                                                                                                  |
+| **Maintenancewindows** | Get Maintenance Window Details                            | Get all the information related to a maintenance window.                                                                             |
+| **Maintenancewindows** | Update Patch Management Maintenance Window                | Updates a Patch Management Maintenance Window.                                                                                       |
+| **Maintenancewindows** | Delete Maintenance Window                                 | Deletes a maintenance window.                                                                                                        |
+| **Maintenancewindows** | Assign Maintenance Windows                                | Assigns a set of maintenance windows to a policy.                                                                                    |
+| **Maintenancewindows** | Unassign Maintenance Windows                              | Assigns a set of maintenance windows to a policy.                                                                                    |
+| **Maintenancewindows** | Get Manually Approved Patches                             | Lists manually approved patches from the endpoints of a specific company.                                                            |
+| **Network**            | Assign Policy                                             | Assign a policy to one or more endpoints (including containers). The policy is not assigned to targets that have an enforced policy. |
+| **Network**            | List Network Inventory Items                              | Gets a list of network inventory items.                                                                                              |
+| **Network**            | Create Custom Group                                       | Creates a new custom group of endpoints.                                                                                             |
+| **Network**            | Delete Custom Group                                       | Deletes a custom group.                                                                                                              |
+| **Network**            | Move Custom Group                                         | Move a custom group.                                                                                                                 |
+| **Network**            | List Custom Groups                                        | List of groups under a specified group.                                                                                              |
+| **Network**            | Kill Process                                              | Terminate an active process using its ID/path, the endpoint where it's running, and optionally the incident ID it generated.         |
+| **Network**            | Create Submit To Sandbox Analyzer Task                    | Create a Sandbox Analyzer task and submit up to 5 files for analysis.                                                                |
+| **Network**            | List Endpoints                                            | Returns the list of endpoints.                                                                                                       |
+| **Network**            | Get Managed Endpoints Details                             | Gets the details of the managed endpoints.                                                                                           |
+| **Network**            | Move Endpoints                                            | Moves a list of endpoints to a custom group.                                                                                         |
+| **Network**            | Delete Endpoint ...                                       |                                                                                                                                      |
