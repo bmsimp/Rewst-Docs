@@ -436,6 +436,7 @@
   * [Production Crate list](prebuilt-automations/crates/production-crate-list.md)
 * [Individual Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
   * [Add client to Rewst](prebuilt-automations/existing-crate-documentation/add-client-to-rewst-setup.md)
+  * [Amend mailbox permissions Crate](prebuilt-automations/existing-crate-documentation/amend-mailbox-permissions-crate.md)
   * [Configure organization variables](prebuilt-automations/existing-crate-documentation/configure-organization-variables.md)
   * [Connectwise PSA agreement mapping](prebuilt-automations/existing-crate-documentation/connectwise-psa-agreement-mapping.md)
   * [CSP/CPV permission checker](prebuilt-automations/existing-crate-documentation/csp-cpv-permission-checker.md)
