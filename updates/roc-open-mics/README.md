@@ -8,25 +8,31 @@ Join us live every Friday at 3 pm EST!
 
 ## Latest Open Mic Video Recording
 
-{% embed url="https://youtu.be/_D4uca0BuuQ" %}
+{% embed url="https://youtu.be/jJWMFBD0uug" %}
 
 ### Contents of the Recording:
 
-🎤 Ashe kicks off Open Mic – Highlights the purpose of Open Mic, upcoming leadership-focused calls, and plans for additional regional sessions to accommodate different time zones.
+🎤 Intro & Open Mic Announcements – A new host takes over while Ashley is out, plus what’s on today’s agenda!&#x20;
 
-🛠️ Nick shares development updates – New features & fixes: Custom HTML support in SendMail, time saved metrics in reports, improved workflow shortcut keys, and numerous UI/UX enhancements.
+🛠️ Dev & Product Updates – New features, bug fixes, and scheduled maintenance updates.&#x20;
 
-📊 Time saved discussion – Community discussion on improving time tracking, different role-based savings, and the need for flexible automation reporting.
+🖥️ App Builder AMA – Join the upcoming App Builder session and see it in action!&#x20;
 
-📦 JP shares marketplace updates – Enhancements & new features: Agent Smith improvements, Windows 11 compliance checks nearing release, and a focus on simplifying automation builds with new toolkit crates.
+📦 Crate Marketplace Updates – New crates and improvements to streamline your automations.&#x20;
 
-🎓 Brandon shares education updates – Certifications & training: New Rewst Foundations & Clean Automation certified users, upcoming boot camps, and a newly launched Automation Jumpstart page with quick-start workflows.
+📂 OneDrive Handoff during Offboarding? – Seamlessly transfer OneDrive access when offboarding users.&#x20;
 
-📑 Brian demos Rewst Docs tracking workflow – Shows how to stay up-to-date with Rewst Docs changes using GitHub, webhooks, and automation. Bonus: Live Open Mic Rickroll.
+👥 **MSFT User Onboarding Crate Demo** – A walkthrough of the improved Microsoft user onboarding automation.&#x20;
 
-🤖 Tim shares Agent Smith updates – Lightweight automation agent for on-prem environments: Now officially supported, improved firewall compatibility with WebSockets, and updates to streamline deployment via Azure IoT Hub.
+🎓 EDU Updates – New certifications, micro-courses, and training opportunities to level up your skills.&#x20;
 
-⏳ Trey demos automated time entry – Shows how Rewst automates time logging in ConnectWise for better tracking of automation-driven work and business intelligence reporting.
+✅ **ConnectWise Approval Automation** – Automating approval processes for smoother workflows.&#x20;
+
+📲 **Mobile-Friendly Forms via App Builder** – How to make automation forms user-friendly on mobile devices.&#x20;
+
+📊 **Automating Monthly Device Reports in Halo** – Simplifying report generation and client approvals.&#x20;
+
+📅 Final Announcements – Upcoming events, including Right of Boom & Flow 2025.&#x20;
 
 <details>
 
