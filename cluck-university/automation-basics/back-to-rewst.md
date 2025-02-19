@@ -6,9 +6,9 @@ description: >-
 
 # Lesson 4: Bringing it back to Rewst
 
-## What to eggs-pect
+## What to expect
 
-:egg: In this lesson, you'll explore the key features of Rewst, like the Automations and Crates Tabs, and the Jinja Live Editor. You’ll see how workflows, forms, and subworkflows work together to build powerful automations and how technical concepts like APIs, JSON, and variables come into play within Rewst workflows.
+In this lesson, you'll explore the key features of Rewst, like the Automations and Crates Tabs, and the Jinja Live Editor. You’ll see how workflows, forms, and subworkflows work together to build powerful automations and how technical concepts like APIs, JSON, and variables come into play within Rewst workflows.
 
 ## Prerequisite(s)&#x20;
 
@@ -79,8 +79,6 @@ Take a quick quiz and get instant feedback!
 Share feedback on the course through a quick survey!
 
 {% embed url="https://www.surveymonkey.com/r/KHDL5RJ" %}
-
-## Keep on cluckin'
 
 You’ve completed the Automation Basics course! You’re now ready to dive into the next step: the Rewst Foundations course.&#x20;
 

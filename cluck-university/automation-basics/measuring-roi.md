@@ -6,9 +6,9 @@ description: >-
 
 # Lesson 2: Measuring and maximizing ROI with Rewst
 
-## What to eggs-pect
+## What to expect
 
-:egg: In this lesson, you'll learn how automation can save you time, improve reliability, and free up your focus for more important tasks. You’ll also see how Rewst’s pre-built crates help you achieve faster ROI and how to tap into community resources to keep improving your automation.
+In this lesson, you'll learn how automation can save you time, improve reliability, and free up your focus for more important tasks. You’ll also see how Rewst’s pre-built crates help you achieve faster ROI and how to tap into community resources to keep improving your automation.
 
 ### Prerequisite(s)
 
@@ -64,8 +64,6 @@ Check out these supplementary resources.
 Take a quick quiz and get instant feedback!
 
 {% embed url="https://www.surveymonkey.com/r/BJ5WMH7" %}
-
-## Keep on cluckin'
 
 You’ve learned how to measure and maximize ROI with Rewst by using pre-built crates and tapping into community resources. In upcoming lessons, you’ll discover even more ways to streamline your processes and increase your returns. But first, let’s dive into how workflows think with some essential programming concepts—jump to the next lesson when you’re ready!
 
