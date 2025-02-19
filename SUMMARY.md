@@ -130,6 +130,7 @@
   * [Completion handlers](documentation/workflows/completion-handlers.md)
   * [Tags in Rewst](documentation/workflows/tags-in-rewst.md)
   * [How to see specific workflow results](documentation/workflows/how-to-see-specific-workflow-results.md)
+  * [Display validation errors in a workflow's required fields](documentation/workflows/display-validation-errors-in-a-workflows-required-fields.md)
   * [Workflow building tips and tricks](documentation/workflows/workflow-building-tips-and-tricks/README.md)
     * [Workflow notes](documentation/workflows/workflow-building-tips-and-tricks/workflow-notes/README.md)
       * [Documenting with RoboRewsty](documentation/workflows/workflow-building-tips-and-tricks/workflow-notes/documenting-with-roborewsty.md)
