@@ -1,13 +1,9 @@
----
-noIndex: true
----
-
-# Rewst support: Allow write access
+# Rewst support access: Allow write access
 
 {% hint style="warning" %}
 By default, all organizations are now read-only for Rewst support. If you have organizations that you wish to continually have available for write access to support, you’ll need to follow the steps in this document to manually set write access for each of those organizations. These changes automatically went into effect for all of your child organizations existing prior to February 2025.
 
-NOTE: setting write access for a parent organization will cascade down and set it for all child organizations.
+NOTE: setting write access for a parent organization will cascade down and set this level of support access for all of your child organizations.
 {% endhint %}
 
 ## What is support access?
