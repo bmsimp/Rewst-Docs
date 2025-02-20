@@ -8,3 +8,6 @@ For a full screen view of the crates listed in the iframe below, you can visit t
 
 
 
+
+
+{% @RewstExtWebpageBlock/rewst_page_loader url="https://public-crates.qa.rewst.io/crates.html" fullWidth="true" %}

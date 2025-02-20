@@ -1,8 +1,68 @@
-# Bitdefender integration
+# Bitdefender GravityZone integration
 
-What does the Bitdefender integration do?
+## What does the Bitdefender GravityZone integration do?
+
+The Bitdefender GravityZone integration enables automated interactions with its API within Rewst workflows. Manage and monitor your Bitdefender GravityZone environment, including authentication and session management.
+
+## Integration use cases
+
+* Automation of endpoint security management - deploy, update, and monitor security software across devices
+* Threat detection and response automation - Detect threats and trigger alerts without manual intervention
+* Policy enforcement and compliance monitoring - Automate compliance checks and generate security reports
+
+## Set up the Bitdefender GravityZone integration
+
+### Set up steps in Bitdefender GravityZone
+
+1. Log in to your Bitdefender GravityZone cloud application.
+2. Click on your **user menu** in the top right of your screen, and select **My Account**.\
+   <img src="../../../.gitbook/assets/Screenshot 2025-02-18 at 4.45.35 PM.png" alt="" data-size="original">
+3. Scroll down the page to the **API Keys** section.
+4. Click **+ Add** to add a new API key.\
+   ![](<../../../.gitbook/assets/Screenshot 2025-02-18 at 4.48.14 PM.png>)
+5. Enter the API Key Description and check off your desired Enabled API permissions. When finished, click **Generate**.\
+   ![](<../../../.gitbook/assets/Screenshot 2025-02-18 at 4.49.14 PM.png>)
+6. Copy the API key in the dialog that appears. Note that this key can only be viewed in this dialog, and must be copied before clicking the **X** to close the dialog.\
+   ![](<../../../.gitbook/assets/Screenshot 2025-02-18 at 4.58.52 PM.png>)
+7. Find and copy the **Access URL** under the **Control Center API** sectio&#x6E;**.** You'll need both this and your copied API key for Rewst.
+8. Click **Save** at the bottom of the **API keys** section to authenticate your Bitdefender API Key with Rewst.
+
+### Set up steps in Rewst
+
+1. Navigate to **Configuration > Integrations** in the left side menu of your Rewst platform.
+2. In the Integrations page, search for the **Bitdefender** integration. \
+   \
+   ![](<../../../.gitbook/assets/Screenshot 2025-02-20 at 9.41.26 AM.png>)\
+
+3. Click on the integration tile to launch the **Configuration** setup page.
+4. Under **Configuration**:
+   1. Edit the **Name**
+   2. Add an optional **Description** for your configuration.
+   3. Check off **Is Default**
+   4. Under **Parameters**:
+      1. Paste the API key copied from Bitdefender GravityZone into the **API Key** field in the configuration form
+      2. Paste the **Control Center Access API URL** copied from Bitdefender GravityZone into the relevant field in the configuration form
+   5. Click **Save Configuration.**
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-18 at 4.57.03 PM.png" alt=""><figcaption></figcaption></figure>
+
+## Test the Integration
+
+Saving your configuration during integration setup automatically triggers a test API call to verify that your setup is correct. If something is wrong with your credentials and the integration fails, you'll receive an error message in the Rewst platform.
+
+{% hint style="success" %}
+Got an idea for a new Integration? Rewst is constantly adding new integrations to our integrations page. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/integrations).
+{% endhint %}
+
+
 
 ## Bitdefender actions and endpoints
+
+{% hint style="info" %}
+For more on how actions work in Rewst, check out our [introductory actions documentation here](https://docs.rewst.help/documentation/workflows/actions-in-rewst).
+{% endhint %}
+
+For complete API documentation, see Bitdefenders' own docs [here](https://www.bitdefender.com/business/support/en/77209-125277-public-api.html).
 
 | Category               | Action                                                    | Description                                                                                                                          |
 | ---------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

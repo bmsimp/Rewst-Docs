@@ -16,7 +16,7 @@ description: Collect, customize, and organize data to power your workflows.
 
 <details>
 
-<summary>What are Forms?</summary>
+<summary>What are forms?</summary>
 
 Forms collect the information your workflows need to start. Instead of gathering details manually, forms streamline data collection, like capturing a new employee’s name, department, and start date in one step.
 
@@ -24,7 +24,7 @@ Forms collect the information your workflows need to start. Instead of gathering
 
 <details>
 
-<summary>Key fields in Forms</summary>
+<summary>Key fields in forms</summary>
 
 Forms use different types of **fields** to collect data:
 
@@ -38,7 +38,7 @@ Using the right fields ensures your workflows receive clean, organized data.
 
 <details>
 
-<summary>How Forms and parameters work together</summary>
+<summary>How forms and parameters work together</summary>
 
 Forms collect core information, while parameters customize workflows based on that data. For example, a form might gather a customer’s details, and a parameter like ReminderDate allows you to set a specific follow-up date on the fly.
 
@@ -46,7 +46,7 @@ Forms collect core information, while parameters customize workflows based on th
 
 <details>
 
-<summary>Why Forms matter</summary>
+<summary>Why forms matter</summary>
 
 Forms kick off workflows with the right data, reducing delays and back-and-forth. Paired with parameters, they make workflows adaptable and reusable across different scenarios.
 
@@ -55,7 +55,7 @@ Forms kick off workflows with the right data, reducing delays and back-and-forth
 ## Practice activities
 
 * Think of a process you frequently handle that requires gathering information—like onboarding a new client or requesting approval for a task. Write down the **key details** you’d need to collect and consider which **fields** (text, date, dropdown) would best capture that data. This will help you start thinking about how forms can simplify data collection in your workflows.
-* Take the Forms overview knowledge check:&#x20;
+* Take the forms overview knowledge check:&#x20;
 
 {% embed url="https://www.surveymonkey.com/r/BFZPD9R" %}
 
