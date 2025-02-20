@@ -6,6 +6,7 @@
 
 * [Welcome and enrollment](cluck-university/welcome-and-enrollment.md)
 * [Getting started](cluck-university/getting-started/README.md)
+  * [Page](cluck-university/getting-started/page.md)
   * [Rewst platform overview](cluck-university/getting-started/rewst-platform-overview.md)
   * [Relationships within the platform](cluck-university/getting-started/relationships-within-the-platform.md)
   * [Rewst terminology](cluck-university/getting-started/rewst-terminology.md)
@@ -716,6 +717,7 @@
     * [May 31st 2024 - Marketplace Update](updates/marketplace-updates/2024-marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
   * [2025 ROC Open Mics](updates/roc-open-mics/2025-roc-open-mics.md)
+    * [February 14, 2025: Valentine's Day Edition](updates/roc-open-mics/2025-roc-open-mics/february-14-2025-valentines-day-edition.md)
     * [February 7, 2025: It's Official! Rewst Now Supports Agent Smith!](updates/roc-open-mics/2025-roc-open-mics/february-7-2025-its-official-rewst-now-supports-agent-smith.md)
     * [January 31, 2025: Aharon has some big news about platform improvments](updates/roc-open-mics/2025-roc-open-mics/january-31-2025-aharon-has-some-big-news-about-platform-improvments.md)
     * [January 24, 2025: Migration & compliance workflows... What's the cluck about powershell?](updates/roc-open-mics/2025-roc-open-mics/january-24-2025-migration-and-compliance-workflows...-whats-the-cluck-about-powershell.md)

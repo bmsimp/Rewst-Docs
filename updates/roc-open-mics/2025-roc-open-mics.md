@@ -4,6 +4,8 @@
 
 <summary>February 2025</summary>
 
+[february-14-2025-valentines-day-edition.md](2025-roc-open-mics/february-14-2025-valentines-day-edition.md "mention")
+
 [february-7-2025-its-official-rewst-now-supports-agent-smith.md](2025-roc-open-mics/february-7-2025-its-official-rewst-now-supports-agent-smith.md "mention")
 
 </details>
