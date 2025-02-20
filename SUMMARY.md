@@ -387,6 +387,8 @@
     * [Twilio](documentation/integrations/voip-and-sms/twilio.md)
       * [Twilio integration setup](documentation/integrations/voip-and-sms/twilio/twilio-integration-setup.md)
       * [Twilio actions & endpoints](documentation/integrations/voip-and-sms/twilio/actions-and-endpoints.md)
+  * [Version control](documentation/integrations/version-control/README.md)
+    * [GitHub integration](documentation/integrations/version-control/github-integration.md)
   * [Custom integrations](documentation/integrations/other/custom-integrations/README.md)
     * [Custom integrations (v2)](documentation/integrations/custom-integrations/custom-integrations-v2.md)
     * [Custom integrations (v1)](documentation/integrations/other/custom-integrations/integration-setup.md)
