@@ -188,6 +188,7 @@
       * [Multi-instance integration setup](documentation/integrations/general/multi-instance-integration/multi-instance-integration-setup.md)
       * [Integrating with two CSPs](documentation/integrations/general/multi-instance-integration/integrating-with-two-csps.md)
     * [Managing groups: Microsoft Graph vs. Exchange Online](documentation/integrations/general/microsoft-graph-vs-exchange-online.md)
+    * [Organization mapping](documentation/integrations/general/organization-mapping.md)
   * [PSA integrations](documentation/integrations/psa/README.md)
     * [ConnectWise](documentation/integrations/psa/connectwise-manage/README.md)
       * [ConnectWise integration setup](documentation/integrations/psa/connectwise-manage/connectwise-integration-setup.md)
