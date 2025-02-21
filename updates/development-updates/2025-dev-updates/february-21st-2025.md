@@ -25,7 +25,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * **SynnexAu Integration Update**\
   Repointed the base URL to the updated production endpoint, ensuring more reliable connectivity.
 * **Public Crates API**\
-  Introduced a new Public Crates API and supporting fields to pave the way for publicly shareable crates.
+  Introduced a new Public Crates API and supporting fields to pave the way for improved crate documentation and communication.
 
 </details>
 
