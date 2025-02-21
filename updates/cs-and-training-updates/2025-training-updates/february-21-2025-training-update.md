@@ -37,10 +37,10 @@ _**Monthly Clean Automation Starting March 24:**_
 
 | Day         | Time                | Session                       |
 | ----------- | ------------------- | ----------------------------- |
-| **Monday**  | 9:30–10:30 AM PT    | Clean Automation: Lesson 1    |
-|             | 10:45–11:45 AM PT   | Clean Automation: Lesson 2    |
-|             | 12:00–1:00 PM PT    | Office Hour                   |
-|             | 1:00–2:00 PM PT     | Automation Basics             |
+| **Monday**  | 9:30–10:30 AM PT    | Office Hour                   |
+|             | 10:45–11:45 AM PT   | Automation Basics             |
+|             | 12:00–1:00 PM PT    | Clean Automation: Lesson 1    |
+|             | 1:00–2:00 PM PT     | Clean Automation: Lesson 2    |
 | **Tue–Thu** | 9:30 AM–12:00 PM PT | Foundations                   |
 |             | 1:00–2:00 PM PT     | Clean Automation: Lessons 3–5 |
 
