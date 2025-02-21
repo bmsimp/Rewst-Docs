@@ -112,7 +112,7 @@ Here's a Jinja code snippet for achieving this:
 
 Understanding how to test a form can sometimes be confusing due to its intrinsic link to a workflow. To get the Form URL for testing:
 
-1. Locate the [trigger](../triggers/intro-to-triggers.md) on the workflow.
+1. Locate the [trigger](../intro-to-triggers/) on the workflow.
 2. Click the blue button to view the URLs.
 3. Select the desired organization's form from the list.
 

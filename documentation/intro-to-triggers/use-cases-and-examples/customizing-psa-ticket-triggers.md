@@ -1,4 +1,4 @@
-# Customizing PSA Ticket Triggers
+# Customize PSA ticket triggers
 
 ## Introduction
 
@@ -8,34 +8,30 @@ In Rewst, setting specific trigger criteria for PSA Ticket triggers can be cruci
 
 ## Getting Started with Trigger Setup
 
-### **Navigate to Workflow Creation**
+### Create the workflow
 
-* Go to [Rewst](https://app.rewst.io).
-* Select `Workflows` > `Create`.
-* Enter a workflow name, like `Trigger Criteria Finder`.
-* Click `Submit` to proceed to a blank workflow creation screen.
-* Add a single [no-op](../../workflows/actions-in-rewst/core-actions.md#no-operation-noop) action to the canvas, name it `BEGIN` and then click `Publish` to save your workflow. (No other actions are needed, as we will just be working with triggers.)
+In the Rewst platform:
 
-### **Accessing Trigger Configuration**
-
-Click the lightning bolt icon at the top to `Add Trigger`.
+1. Navigate to **Workflows > Create**.
+2. Enter a workflow name, like `My First Webhook Trigger`.
+3. Click **Submit** to proceed to a blank workflow creation screen.
+4. Add a single [no-op](../../workflows/actions-in-rewst/core-actions.md#no-operation-noop) action to the canvas. Name it `BEGIN`. Click **Publish** to save your workflow. No other actions are needed, as you'll just be working with triggers.
+5. Click **Add Trigger** at the top of your workflow builder.
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-### **Setting up the Trigger**
+### **Create the trigger**
 
-* Name & Enable your trigger.
-* Choose the trigger type relevant to your PSA ticket system:
-  * **ConnectWise PSA:** `Ticket Record Saved`.
-  * **Datto PSA**: `Ticket Webhook` (Ensure webhooks are enabled as per [Rewst Documentation](https://docs.rewst.help/documentation/integrations/psa/autotask-datto-psa/webhook-configuration)).
-  * **Halo PSA:** `New Ticket Record`.
-* Under `Trigger Criteria`, select the graph icon.
+1. Name your trigger.
+2. Toggle **Enable** on.
+3. Choose the trigger type relevant to your particular PSA ticket system:
+   1. ConnectWise PSA: **Ticket Record Saved**.
+   2. Datto PSA: **Ticket Webhook**&#x20;
+      1. Note: Ensure that webhooks are enabled as per [Rewst Documentation](https://docs.rewst.help/documentation/integrations/psa/autotask-datto-psa/webhook-configuration).
+   3. Halo PS&#x41;**:** **New Ticket Record**.
+4. Click on the graph button under the **Trigger Criteria** section.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="404"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="404"><figcaption></figcaption></figure></div>
 
 The trigger is now active and will capture data when a new ticket is submitted. This screen is listening for your ticket records to be saved, and will show you live results as they come in.
 

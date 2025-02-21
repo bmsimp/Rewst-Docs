@@ -50,7 +50,7 @@ For more information, see: [organization-variables.md](../../documentation/user-
 
 **Triggers** are components in Rewst that are used to initiate workflows or perform actions based on specific events or conditions. They can be used to respond to form submissions, webhook events, ticket updates, or other types of triggers. Triggers are configured within workflows and can be customized with various settings, such as integration overrides and trigger types.
 
-For more information, see: [intro-to-triggers.md](../../documentation/triggers/intro-to-triggers.md "mention")
+For more information, see: [intro-to-triggers](../../documentation/intro-to-triggers/ "mention")
 
 ***
 

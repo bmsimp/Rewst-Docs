@@ -24,7 +24,7 @@ Explore what new changes the Training team has made in the last week.
 * We'd love to get your feedback on our Training and Documentation! [Please fill out this form to let us know how we can improve](https://app.sli.do/event/m8C3AjPUnuDgpkVDmPsQL3)!
 * As a reminder, you can make training and documentation requests at [https://rewst.canny.io/](https://rewst.canny.io/)
 * [office-hours.md](../../../cluck-university/office-hours.md "mention") page added with more information about signing up!
-* Shout Out to Brandon Martinez (Giga) for contributing the [using-webhook-triggers.md](../../../documentation/triggers/use-cases-and-examples/using-webhook-triggers.md "mention") page!
+* Shout Out to Brandon Martinez (Giga) for contributing the [using-webhook-triggers.md](../../../documentation/intro-to-triggers/use-cases-and-examples/using-webhook-triggers.md "mention") page!
 
 **New & Updated Pages:**
 

@@ -1,4 +1,4 @@
-# Multi-instance Integration Setup
+# Multi-instance integration setup
 
 Integration multitenancy enables MSPs to specify multiple configurations for integrations, provides a way to designate one as the "default" and expands integration overrides to support the additional configurations. It allows MSPs to add integration overrides as an advanced option at the workflow task level, allowing users to specify a config on a per-task basis.
 
@@ -21,7 +21,7 @@ Organizations that are assigned to another configuration should be blocked from 
 A workflow trigger can be set up to use a secondary integration configuration. Setting up the integration override will cause all actions in the workflow to use the override configuration.
 
 1. **Click** add trigger or click the trigger you have already set up from the workflow editor.
-2. **Fill out** the [trigger](../../../triggers/intro-to-triggers.md) form to create your trigger.
+2. **Fill out** the [trigger](../../../intro-to-triggers/) form to create your trigger.
 3. **Click** the ⊕ to add an override.
 4. **Select** the integration you have set up with multiple configurations that you would like to override.
 5. **Choose** the "Use Select Config" radio button to generate a dropdown with available configurations, "Use Name Search" to type in the name of the configuration to select the new configuration for this action, or "Use Org Mapping" to use the mapping defined on the integration settings page.

@@ -37,7 +37,7 @@ Explore what new changes the Training team has made in the last week.
 * Added a [DattoRMM Bring Your Own Database Page](../../../documentation/integrations/database/byod-for-dattormm.md)
 * Added a [Integrating with Two CSPs Page](../../../documentation/integrations/general/multi-instance-integration/integrating-with-two-csps.md)
 * Updates and Fixes
-  * Updated [Intro to Triggers page](../../../documentation/triggers/intro-to-triggers.md)
+  * Updated [Intro to Triggers page](../../../documentation/intro-to-triggers/)
   * Add instructions for unpacking a Crate on the [What is a Crate page](../../../prebuilt-automations/crates/)
   * Added IT Glue Access Information on the[ IT Glue Integration Setup Page](../../../documentation/integrations/documentation/itglue/it-glue-integration-setup.md)
   * Updated the wording on the [Database Setup Page](../../../documentation/integrations/database/database-integration-setup.md)

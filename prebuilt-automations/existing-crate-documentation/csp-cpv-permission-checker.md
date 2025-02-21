@@ -23,7 +23,7 @@ description: >-
 
 **Trigger:**&#x20;
 
-Uses the `Core- Always` Pass [trigger](../../documentation/triggers/intro-to-triggers.md) with an integration override for Microsoft Graph
+Uses the `Core- Always` Pass [trigger](../../documentation/intro-to-triggers/) with an integration override for Microsoft Graph
 
 </details>
 

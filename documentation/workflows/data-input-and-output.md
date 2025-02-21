@@ -1,4 +1,4 @@
-# Data Input and Output
+# Data input and output
 
 ### Overview
 
@@ -58,11 +58,7 @@ The input variables get their values in a Rewst workflow through the workflows i
 
 An example of an input variable, using static data, can be seen below:
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/input-configuration-example (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/input-configuration-example (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Workflow Action Inputs
 
@@ -118,7 +114,7 @@ This is probably one of the most important sections because the entire point of 
 
 In our example, we will get a list of users where the userPrincipalName matches X, then create a ticket using information from that request.
 
-First, we will take the action of "List Users" from the Graph integration on the left menu. There are no inputs required here, it will list every user on the tenant that it is integrated with / or the [trigger](../triggers/intro-to-triggers.md) is set for.
+First, we will take the action of "List Users" from the Graph integration on the left menu. There are no inputs required here, it will list every user on the tenant that it is integrated with / or the [trigger](../intro-to-triggers/) is set for.
 
 <figure><img src="../../.gitbook/assets/output-configuration-example (1).png" alt=""><figcaption></figcaption></figure>
 
