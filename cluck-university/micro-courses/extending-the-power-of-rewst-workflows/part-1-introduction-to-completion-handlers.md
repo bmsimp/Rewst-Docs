@@ -1,4 +1,4 @@
-# Part 1: Introduction to Completion Handlers
+# Part 1: Introduction to completion handlers
 
 {% embed url="https://youtu.be/F5qS8LWQE6Y" %}
 
@@ -33,7 +33,7 @@ Completion Handlers in Rewst provide a mechanism to extend or modify existing wo
 ## Hands-on: Creating a New Workflow as a Handler
 
 {% hint style="warning" %}
-If you don't have the Hello World workflow made, [you can build it here](../../getting-started/hello-world.md).
+If you don't have the Hello World workflow made, [you can build it here](../../getting-started/rewst-overview/hello-world-workflow.md).
 {% endhint %}
 
 1. Navigate to Automation: Go back to the dashboard and find the 'Workflows' section.

@@ -1,4 +1,4 @@
-# Multi-instance Integration Setup
+# Multi-instance integration setup
 
 Integration multitenancy enables MSPs to specify multiple configurations for integrations, provides a way to designate one as the "default" and expands integration overrides to support the additional configurations. It allows MSPs to add integration overrides as an advanced option at the workflow task level, allowing users to specify a config on a per-task basis.
 

@@ -1,2 +1,2 @@
-# Use Cases & Examples
+# Trigger use cases & examples
 

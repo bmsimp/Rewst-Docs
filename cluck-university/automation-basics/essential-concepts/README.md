@@ -6,9 +6,9 @@ description: >-
 
 # Lesson 3: Essential technical concepts for Rewst
 
-## What to eggs-pect
+## What to expect
 
-:egg: In this lesson, you'll get a solid grasp of key technical concepts like APIs, HTTP calls, and JSON—preparing you to apply them in Rewst. You’ll also learn about basic data types (strings, integers, Booleans), how to use variables, and how JSON and simple programming principles help organize and share data in workflows.
+In this lesson, you'll get a solid grasp of key technical concepts like APIs, HTTP calls, and JSON—preparing you to apply them in Rewst. You’ll also learn about basic data types (strings, integers, Booleans), how to use variables, and how JSON and simple programming principles help organize and share data in workflows.
 
 ### Prerequisite(s)
 

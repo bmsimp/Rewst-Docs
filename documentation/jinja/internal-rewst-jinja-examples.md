@@ -1,4 +1,4 @@
-# Internal Rewst Jinja Examples
+# Internal Rewst Jinja examples
 
 ## Shortcuts & General Help
 

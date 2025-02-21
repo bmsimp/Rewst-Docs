@@ -2,7 +2,7 @@
 description: Get started with your first automation - updating Microsoft Group membership.
 ---
 
-# Lesson 2: Building a Basic Form and Workflow
+# Lesson 2: Building a basic form and workflow
 
 ## **What to Eggs-pect**
 
@@ -36,9 +36,9 @@ To get started, select the first module. Each module includes a video and writte
 {% hint style="info" %}
 Check out these supplementary resources.
 
-* [prebuilt-automation-to-start.md](../../getting-started/prebuilt-automation-to-start.md "mention")
-* [hello-world.md](../../getting-started/hello-world.md "mention")
-* [workflow-building-tips-and-tricks.md](../../getting-started/workflow-building-tips-and-tricks.md "mention")
+* [prebuilt-automation-to-start.md](../../getting-started/rewst-overview/prebuilt-automation-to-start.md "mention")
+* [hello-world-workflow.md](../../getting-started/rewst-overview/hello-world-workflow.md "mention")
+* [workflow-building-tips-and-tricks.md](../../getting-started/rewst-overview/workflow-building-tips-and-tricks.md "mention")
 * [data-input-and-output.md](../../../documentation/workflows/data-input-and-output.md "mention")
 * [navigating-between-tasks-with-transitions.md](../../../documentation/workflows/configuring-your-workflow-tasks/navigating-between-tasks-with-transitions.md "mention")
 * [intro-to-triggers.md](../../../documentation/triggers/intro-to-triggers.md "mention")

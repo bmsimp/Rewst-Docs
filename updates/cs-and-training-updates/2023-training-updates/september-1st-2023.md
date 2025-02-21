@@ -24,8 +24,8 @@ Explore what new changes the Training team has made in the last week.
 * Added a [feedback and credit form](../../../cluck-university/rewst-foundations/) to the Rewst Foundation Pages
 * Added text summaries for all the [Getting Started pages](../../../cluck-university/getting-started/) for our partners who prefer reading over video
 * Chow Time: Added Updated [Rewst 102](broken-reference) and [Rewst 103](broken-reference) videos made by our very own Legend - Eddie Chow
-* Added [How to Scope an Automation](../../../cluck-university/getting-started/how-to-scope-an-automation.md) video in the Getting Started Section
-* Added a Workflow [Tips & Tricks video to Getting Started](../../../cluck-university/getting-started/workflow-building-tips-and-tricks.md), focusing on documenting your workflows, using multi-select, and favoriting actions
+* Added [How to Scope an Automation](../../../cluck-university/getting-started/automation-inspiration/how-to-scope-an-automation.md) video in the Getting Started Section
+* Added a Workflow [Tips & Tricks video to Getting Started](../../../cluck-university/getting-started/rewst-overview/workflow-building-tips-and-tricks.md), focusing on documenting your workflows, using multi-select, and favoriting actions
 * Added [page to highlight Resources](broken-reference) to Getting Started
 * Updates and Fixes
   * Updated wording and formatting on the [Rewst Terminology page](../../../cluck-university/getting-started/rewst-terminology.md) in Getting Started

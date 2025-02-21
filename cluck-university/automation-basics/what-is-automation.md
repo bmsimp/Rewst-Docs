@@ -6,9 +6,9 @@ description: >-
 
 # Lesson 1: What is automation?
 
-## What to eggs-spect
+## What to expect
 
-:egg: In this lesson, you'll see how automation can **simplify repetitive tasks** and improve entire workflows with Rewst’s **process-based approach**. You'll also learn to **spot common challenges**, like inconsistent processes and tasks needing human input, so you can identify which parts of your workflow are ready for automation.
+In this lesson, you'll see how automation can **simplify repetitive tasks** and improve entire workflows with Rewst’s **process-based approach**. You'll also learn to **spot common challenges**, like inconsistent processes and tasks needing human input, so you can identify which parts of your workflow are ready for automation.
 
 ## Video (_3:22 minutes_)
 

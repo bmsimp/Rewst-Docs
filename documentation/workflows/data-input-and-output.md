@@ -1,4 +1,4 @@
-# Data Input and Output
+# Data input and output
 
 ### Overview
 
@@ -58,11 +58,7 @@ The input variables get their values in a Rewst workflow through the workflows i
 
 An example of an input variable, using static data, can be seen below:
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/input-configuration-example (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/input-configuration-example (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Workflow Action Inputs
 

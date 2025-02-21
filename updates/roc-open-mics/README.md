@@ -10,6 +10,8 @@ Join us live every Friday at 3 pm EST!
 
 {% embed url="https://youtu.be/jJWMFBD0uug" %}
 
+
+
 ### Contents of the Recording:
 
 🎤 Intro & Open Mic Announcements – A new host takes over while Ashley is out, plus what’s on today’s agenda!&#x20;
