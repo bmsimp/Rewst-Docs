@@ -84,7 +84,7 @@ This process may not be necessary if you have already [whitelisted our outgoing 
 
 <summary>What are workflows, forms, crates, and templates?</summary>
 
-Have a look at the [terminology page for more information](../cluck-university/getting-started/rewst-overview/rewst-terminology.md).
+Have a look at the [terminology page for more information](../cluck-university/getting-started/rewst-terminology.md).
 
 </details>
 

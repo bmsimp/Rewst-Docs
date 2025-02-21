@@ -41,7 +41,7 @@ Check out these supplementary resources.
 * [workflow-building-tips-and-tricks.md](../../getting-started/rewst-overview/workflow-building-tips-and-tricks.md "mention")
 * [data-input-and-output.md](../../../documentation/workflows/data-input-and-output.md "mention")
 * [navigating-between-tasks-with-transitions.md](../../../documentation/workflows/configuring-your-workflow-tasks/navigating-between-tasks-with-transitions.md "mention")
-* [intro-to-triggers](../../../documentation/intro-to-triggers/ "mention")
+* [intro-to-triggers.md](../../../documentation/triggers/intro-to-triggers.md "mention")
 {% endhint %}
 
 ## Next Steps

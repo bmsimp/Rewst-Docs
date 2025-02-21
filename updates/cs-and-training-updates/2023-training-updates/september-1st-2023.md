@@ -28,7 +28,7 @@ Explore what new changes the Training team has made in the last week.
 * Added a Workflow [Tips & Tricks video to Getting Started](../../../cluck-university/getting-started/rewst-overview/workflow-building-tips-and-tricks.md), focusing on documenting your workflows, using multi-select, and favoriting actions
 * Added [page to highlight Resources](broken-reference) to Getting Started
 * Updates and Fixes
-  * Updated wording and formatting on the [Rewst Terminology page](../../../cluck-university/getting-started/rewst-overview/rewst-terminology.md) in Getting Started
+  * Updated wording and formatting on the [Rewst Terminology page](../../../cluck-university/getting-started/rewst-terminology.md) in Getting Started
 
 **Documentation**
 
@@ -37,7 +37,7 @@ Explore what new changes the Training team has made in the last week.
 * Added a [DattoRMM Bring Your Own Database Page](../../../documentation/integrations/database/byod-for-dattormm.md)
 * Added a [Integrating with Two CSPs Page](../../../documentation/integrations/general/multi-instance-integration/integrating-with-two-csps.md)
 * Updates and Fixes
-  * Updated [Intro to Triggers page](../../../documentation/intro-to-triggers/)
+  * Updated [Intro to Triggers page](../../../documentation/triggers/intro-to-triggers.md)
   * Add instructions for unpacking a Crate on the [What is a Crate page](../../../prebuilt-automations/crates/)
   * Added IT Glue Access Information on the[ IT Glue Integration Setup Page](../../../documentation/integrations/documentation/itglue/it-glue-integration-setup.md)
   * Updated the wording on the [Database Setup Page](../../../documentation/integrations/database/database-integration-setup.md)

@@ -1,4 +1,4 @@
-# Trigger Criteria
+# Trigger criteria
 
 A trigger criteria is a set of conditions that determine whether a workflow should start. A condition can be a simple comparison of two values, a complex set of conditions, or even a Jinja-based query. Trigger criteria can resolve into the following possible statuses:
 
@@ -42,7 +42,7 @@ The following trigger criteria will be valid:
 * The field accessor uses dot notation to access the value in the trigger context
 * If you are making use of the `In` or `Not In` operator, be sure to press the `Enter` key to convert the value into a list
 * As of now, you cannot have identical field accessors in the same trigger criteria (exception in Jinja criteria)
-* Under the hood, we make use of simple Python operators to compare the values of the trigger context and the field value. For more information, please refer to the [Python Operators](https://www.w3schools.com/python/python\_operators.asp)
+* Under the hood, we make use of simple Python operators to compare the values of the trigger context and the field value. For more information, please refer to the [Python Operators](https://www.w3schools.com/python/python_operators.asp)
 * Default conditions are `AND` conditions. If you want to use `OR` conditions, you can use the Jinja criteria. Please see the advanced examples below.
 
 </details>

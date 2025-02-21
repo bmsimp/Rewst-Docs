@@ -1,7 +1,7 @@
 # Additional trigger types
 
 {% hint style="info" %}
-For more on triggers, see our introductory documentation [here](./), with information on our most common core triggers.
+For more on triggers, see our introductory documentation [here](intro-to-triggers.md), with information on our most common core triggers.
 
 This list is a work in progress. Check back for updates in the near future.
 {% endhint %}

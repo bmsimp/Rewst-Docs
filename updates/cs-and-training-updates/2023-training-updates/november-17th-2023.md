@@ -29,7 +29,7 @@ Explore what new changes the Training team has made in the last week.
 * Added a page for the [view-rewst-integration-org-variables.md](../../../prebuilt-automations/existing-crate-documentation/view-rewst-integration-org-variables.md "mention")Crate documentation.
 * Added page about [documenting-with-roborewsty.md](../../../documentation/workflows/workflow-building-tips-and-tricks/workflow-notes/documenting-with-roborewsty.md "mention")
 * Added a use case page about [efficiently-extracting-nested-data.md](../../../documentation/jinja/use-cases-and-best-practices/efficiently-extracting-nested-data.md "mention")
-* Added a use case page about [customizing-psa-ticket-triggers.md](../../../documentation/intro-to-triggers/use-cases-and-examples/customizing-psa-ticket-triggers.md "mention")
+* Added a use case page about [customizing-psa-ticket-triggers.md](../../../documentation/triggers/use-cases-and-examples/customizing-psa-ticket-triggers.md "mention")
 
 **Updated & Enhanced Pages**
 
