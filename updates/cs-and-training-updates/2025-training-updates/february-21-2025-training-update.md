@@ -7,7 +7,7 @@ Explore what new changes the Training team has made in the last week.\\
 <summary><strong>General News and Reminders</strong></summary>
 
 * **SHOUT OUTS** **TO:**
-  * Michael, Denis, Daniel, and Brandon for passing the Foundations Certification.
+  * George, Michael, Denis, Daniel, and Brandon for passing the Foundations Certification.
     * Take the [foundations-certification.md](../../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
   * Robert and Niels for passing the Clean Automation Certification.
     * Take the [clean-automation-certification.md](../../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam and get that fancy certificate!
