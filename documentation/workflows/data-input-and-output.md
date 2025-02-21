@@ -20,7 +20,7 @@ Workflow actions refer to the pre-built interfaces that Rewst has available to i
 2. **Workflow Action Description:** This tells you what workflow action type.
 3. **Task ID:** This is a unique value that you can use when trying to identify issues with workflows.
 4. **Description**: This is a field used for humans to store information regarding extended information of the action's purpose.
-5. **Publish Result As:** This field allows you to set a [context variable](../../cluck-university/getting-started/rewst-terminology.md#context-variables) with the workflow action results as the value.
+5. **Publish Result As:** This field allows you to set a [context variable](../../cluck-university/getting-started/rewst-overview/rewst-terminology.md#context-variables) with the workflow action results as the value.
 6. **Parameters**: These are options that can be passed to the workflow to generate meaningful results. Parameters with a red asterisk are required. You can supply variables as parameters by hitting the green symbol next to the field and entering the replacement using Jinja. For example _"\{{ CTX.ticketnumber \}}"_.
 7. **Advanced**: There are a couple of options here. These are covered in the [Advanced Workflow Operations](configuring-your-workflow-tasks/advanced-workflow-operations.md) section.
 8. **Mocking**: While mocked a task will not run its typical function and will instead return a user-defined result. You can define a JSON result to return instead.
@@ -62,7 +62,7 @@ An example of an input variable, using static data, can be seen below:
 
 ### Workflow Action Inputs
 
-We now have variables created within our workflow, they become [Context Variables](../../cluck-university/getting-started/rewst-terminology.md#context-variables) and can be used directly in action inputs.
+We now have variables created within our workflow, they become [Context Variables](../../cluck-university/getting-started/rewst-overview/rewst-terminology.md#context-variables) and can be used directly in action inputs.
 
 In our example below, we are creating a user in Microsoft 365 using three variables:
 
@@ -120,7 +120,7 @@ First, we will take the action of "List Users" from the Graph integration on the
 
 If you run this now, you'd get the list of users, but you wouldn't be able to use that data anywhere.
 
-This is where [Transitions](../../cluck-university/getting-started/rewst-terminology.md#transitions) come into play.
+This is where [Transitions](../../cluck-university/getting-started/rewst-overview/rewst-terminology.md#transitions) come into play.
 
 If you click the "On Success" transition on the action, you have the option to create a Data Alias.
 

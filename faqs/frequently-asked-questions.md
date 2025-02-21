@@ -31,7 +31,7 @@ The Automation Maturity Model, devised by our beloved Aharon, illustrates four s
 
 This model serves as a roadmap for organizations to assess and elevate their automation capabilities, aligning with the broader operational goals to drive growth and innovation.
 
-For more information, check out our [dymistifying-process-automation.md](../cluck-university/getting-started/dymistifying-process-automation.md "mention") page in the Getting Started section.
+For more information, check out our [dymistifying-process-automation.md](../cluck-university/getting-started/automation-inspiration/dymistifying-process-automation.md "mention") page in the Getting Started section.
 
 </details>
 
@@ -84,7 +84,7 @@ This process may not be necessary if you have already [whitelisted our outgoing 
 
 <summary>What are workflows, forms, crates, and templates?</summary>
 
-Have a look at the [terminology page for more information](../cluck-university/getting-started/rewst-terminology.md).
+Have a look at the [terminology page for more information](../cluck-university/getting-started/rewst-overview/rewst-terminology.md).
 
 </details>
 

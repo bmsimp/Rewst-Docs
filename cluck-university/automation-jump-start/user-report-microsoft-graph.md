@@ -96,10 +96,10 @@ What the heck is \{{ RESULT.result.data.value \}}? [Check out this video to lear
 ```django
 {{
     {
-        "email": user.mail
-        "givenName": user.givenName
-        "displayName": user.displayName
-        "officeLocation": user.officeLocation
+        "email": user.mail,
+        "givenName": user.givenName,
+        "displayName": user.displayName,
+        "officeLocation": user.officeLocation,
     } for user in CTX.all_users if user.officeLocation == "Main"
 }}
 ```
