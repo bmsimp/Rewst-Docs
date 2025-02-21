@@ -6,7 +6,6 @@
 
 * [Welcome and enrollment](cluck-university/welcome-and-enrollment.md)
 * [Getting started](cluck-university/getting-started/README.md)
-  * [Page](cluck-university/getting-started/page.md)
   * [Rewst platform overview](cluck-university/getting-started/rewst-platform-overview.md)
   * [Relationships within the platform](cluck-university/getting-started/relationships-within-the-platform.md)
   * [Rewst terminology](cluck-university/getting-started/rewst-terminology.md)
