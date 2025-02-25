@@ -36,7 +36,7 @@ To get started, select the first module. Each module includes a video and writte
 {% hint style="info" %}
 Check out these supplementary resources.
 
-* [prebuilt-automation-to-start.md](../../getting-started/rewst-overview/prebuilt-automation-to-start.md "mention")
+* [Broken link](broken-reference "mention")
 * [hello-world-workflow.md](../../getting-started/rewst-overview/hello-world-workflow.md "mention")
 * [workflow-building-tips-and-tricks.md](../../getting-started/rewst-overview/workflow-building-tips-and-tricks.md "mention")
 * [data-input-and-output.md](../../../documentation/workflows/data-input-and-output.md "mention")
