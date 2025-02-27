@@ -354,6 +354,7 @@
     * [Jira](documentation/integrations/documentation/jira/README.md)
       * [Jira integration setup](documentation/integrations/documentation/jira/jira-integration-setup.md)
       * [Jira actions & endpoints](documentation/integrations/documentation/jira/actions-and-endpoints.md)
+    * [SyncMonkey integration](documentation/integrations/documentation/syncmonkey-integration.md)
   * [Email security integrations](documentation/integrations/email-security/README.md)
     * [Proofpoint](documentation/integrations/email-security/proofpoint/README.md)
       * [Proofpoint integration setup](documentation/integrations/email-security/proofpoint/proofpoint-integration-setup.md)
