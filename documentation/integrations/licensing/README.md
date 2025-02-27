@@ -1,18 +1,11 @@
 # Licensing integrations
 
-{% hint style="info" %}
+{% hint style="success" %}
 Integrating your licensing tool streamlines your license management.
 
 Rewst is constantly adding new integrations. If Rewst doesn't currently have an integration for your particular licensing tool, you can still build a custom integration, as long as your tool has an API.
-{% endhint %}
 
-{% hint style="warning" %}
-**Remember your prerequisites!**&#x20;
-
-Before you set up this integration, make sure that you:
-
-* Have administrative access to your licensing tool
-* Read through our introduction to [Crates](https://docs.rewst.help/prebuilt-automations/crates) and [integrations](https://docs.rewst.help/documentation/integrations)
+Before attempting to integrate your licensing tool, read through our introduction to [Crates](https://docs.rewst.help/prebuilt-automations/crates) and [integrations](https://docs.rewst.help/documentation/integrations).
 {% endhint %}
 
 ## Crates to optionally unpack after integrating your licensing tool

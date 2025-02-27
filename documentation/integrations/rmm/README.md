@@ -3,18 +3,9 @@
 {% hint style="success" %}
 Integrating your RMM lets you centralize endpoint monitoring, automate patch management, and streamline repetitive admin work.
 
-The videos in this guide focus on Ninja RMM, one of the most common RMMs used by MSPs. The process to integrate other RMMs is outlined in separate documentation guides linked at the bottom of this page.
-
 Rewst is constantly adding new integrations. If Rewst doesn't currently have an integration for your particular RMM, you can still build a custom integration, as long as your RMM has an API.
-{% endhint %}
 
-{% hint style="warning" %}
-**Remember your prerequisites!**&#x20;
-
-Before you set up this integration, make sure that you:
-
-* Have administrative access to your RMM
-* Read through our introduction to [Crates](https://docs.rewst.help/prebuilt-automations/crates) and [integrations](https://docs.rewst.help/documentation/integrations)
+Before you attempt to integrate your RMM, read through our introduction to [Crates](https://docs.rewst.help/prebuilt-automations/crates) and [integrations](https://docs.rewst.help/documentation/integrations).
 {% endhint %}
 
 ## Crates to optionally unpack after integrating your RMM
