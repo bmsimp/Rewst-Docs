@@ -390,6 +390,7 @@
       * [Acronis integration setup](documentation/integrations/security/acronis/acronis-integration-setup.md)
       * [Get inspired](documentation/integrations/security/acronis/get-inspired.md)
     * [Bitdefender GravityZone integration](documentation/integrations/security/bitdefender-gravityzone-integration.md)
+    * [Cisco Meraki integration](documentation/integrations/security/cisco-meraki-integration.md)
     * [Cove integration](documentation/integrations/security/cove-integration.md)
     * [CrowdStrike](documentation/integrations/security/crowdstrike/README.md)
       * [CrowdStrike integration setup](documentation/integrations/security/crowdstrike/crowdstrike-integration-setup.md)
