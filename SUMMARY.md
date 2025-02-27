@@ -245,6 +245,7 @@
     * [ServiceNow](documentation/integrations/psa/servicenow-coming-soon/README.md)
       * [ServiceNow integration setup](documentation/integrations/psa/servicenow-coming-soon/servicenow-integration-setup.md)
       * [ServiceNow actions & endpoints](documentation/integrations/psa/servicenow-coming-soon/actions-and-endpoints.md)
+    * [SuperOps integration](documentation/integrations/psa/superops-integration.md)
   * [RMM integrations](documentation/integrations/rmm/README.md)
     * [Addigy](documentation/integrations/rmm/addigy/README.md)
       * [Addigy integration setup](documentation/integrations/rmm/addigy/addigy-integration-setup.md)
