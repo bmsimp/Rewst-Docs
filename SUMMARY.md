@@ -4,12 +4,11 @@
 
 ## 🏫 Cluck University
 
-* [Welcome and enrollment](cluck-university/welcome-and-enrollment.md)
 * [Getting started](cluck-university/getting-started/README.md)
-  * [Automation Inspiration](cluck-university/getting-started/automation-inspiration/README.md)
-    * [Demystifying process automation](cluck-university/getting-started/automation-inspiration/dymistifying-process-automation.md)
-    * [Identifying what to automate](cluck-university/getting-started/automation-inspiration/identifying-what-to-automate.md)
-    * [How to scope an automation](cluck-university/getting-started/automation-inspiration/how-to-scope-an-automation.md)
+  * [Automation Strategy](cluck-university/getting-started/automation-strategy/README.md)
+    * [Demystifying process automation](cluck-university/getting-started/automation-strategy/dymistifying-process-automation.md)
+    * [Identifying what to automate](cluck-university/getting-started/automation-strategy/identifying-what-to-automate.md)
+    * [How to scope an automation](cluck-university/getting-started/automation-strategy/how-to-scope-an-automation.md)
   * [Rewst Overview](cluck-university/getting-started/rewst-overview/README.md)
     * [Rewst terminology](cluck-university/getting-started/rewst-terminology.md)
     * [Relationships within the platform](cluck-university/getting-started/rewst-overview/relationships-within-the-platform.md)
