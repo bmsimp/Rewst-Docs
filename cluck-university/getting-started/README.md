@@ -12,7 +12,7 @@ description: >-
 
 **Ready to get set up in Rewst?** Complete the onboarding checklist.
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="automation-strategy/"><strong>Automation Strategy</strong></a></td><td>Learn essential concepts around automation.</td></tr><tr><td><a href="rewst-overview/"><strong>Rewst Overview</strong></a></td><td>Learn about the features that power the platform.</td></tr><tr><td><a href="onboarding-checklist/"><strong>Onboarding Checklist</strong></a></td><td>Your step-by-step guide to Rewst. Use this checklist to set up, learn key concepts, and start automating confidently.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="automation-inspiration/"><strong>Automation Strategy</strong></a></td><td>Learn essential concepts around automation.</td></tr><tr><td><a href="rewst-overview/"><strong>Rewst Overview</strong></a></td><td>Learn about the features that power the platform.</td></tr><tr><td><a href="onboarding-checklist/"><strong>Onboarding Checklist</strong></a></td><td>Your step-by-step guide to Rewst. Use this checklist to set up, learn key concepts, and start automating confidently.</td></tr></tbody></table>
 
 ## Essential learning
 
