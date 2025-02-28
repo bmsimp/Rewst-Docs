@@ -1,6 +1,6 @@
 # February 28, 2025 - Training update
 
-Explore what new changes the Training team has made in the last week.\\
+Explore what new changes the Training team has made in the last week.
 
 <details>
 
