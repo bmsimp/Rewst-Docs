@@ -304,7 +304,7 @@
       * [Nerdio integration setup](documentation/integrations/cloud/nerdio/nerdio-integration-setup.md)
       * [Nerdio actions & endpoints](documentation/integrations/cloud/nerdio/actions-and-endpoints.md)
     * [Microsoft Cloud integration bundle](documentation/integrations/cloud/microsoft-cloud-integration-bundle/README.md)
-      * [Best practices for Microsoft integrations](documentation/integrations/cloud/microsoft-cloud-integration-bundle/authorization-best-practices.md)
+      * [Prerequisites and best practices for Microsoft integrations](documentation/integrations/cloud/microsoft-cloud-integration-bundle/authorization-best-practices.md)
       * [Owned app registration](documentation/integrations/cloud/microsoft-cloud-integration-bundle/owned-app-registration.md)
       * [Migrating legacy Microsoft integrations](documentation/integrations/cloud/microsoft-cloud-integration-bundle/migrating-legacy-microsoft-integrations.md)
       * [Microsoft Azure](documentation/integrations/cloud/microsoft-cloud-integration-bundle/microsoft-azure/README.md)
