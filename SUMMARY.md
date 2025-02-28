@@ -177,6 +177,7 @@
   * [Cloning an existing form](documentation/forms/cloning-an-existing-form.md)
   * [Form best practices](documentation/forms/form-best-practices.md)
   * [Form organizational variables](documentation/forms/form-organizational-variables.md)
+  * [Options filter: Filtering in forms](documentation/forms/options-filter-filtering-in-forms.md)
 * [User management](documentation/user-management/README.md)
   * [Add and remove users](documentation/user-management/how-to-add-and-remove-users.md)
   * [Roles & permissions](documentation/user-management/roles.md)
