@@ -1,6 +1,19 @@
 # Alerts
 
+<details>
 
+<summary>⚠️ Routine System Maintenance March 8th</summary>
+
+We will be performing maintenance on: **Saturday**, **March 8th, 2025 from 1000 - 1300 EST (1500 – 1800 UTC).**
+
+You may experience periodic service interruptions during the maintenance window across all regions.
+
+If you have any urgent concerns, please contact your support team.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
 
 <details>
 
