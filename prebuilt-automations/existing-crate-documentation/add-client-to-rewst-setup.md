@@ -7,10 +7,10 @@ If you’re new to Crates, read through our introductory Crate documentation [he
 {% hint style="info" %}
 ### There are two ways to add clients to Rewst:
 
-1. With the _Add Client to Rewst_ Crate.
+1. With the Add Client to Rewst Crate.
 2. Through your CSP integration.
 
-This article will cover how to do this with the _Add Client to Rewst_ Crate. [You can find alternative instructions here](../../documentation/user-management/adding-a-new-client-to-rewst.md).
+This page will cover how to do this with the Add Client to Rewst Crate. [You can find alternative instructions for the second method here](../../documentation/user-management/adding-a-new-client-to-rewst.md).
 {% endhint %}
 
 ## What does the Add Client to Rewst Crate do?
@@ -81,10 +81,14 @@ Setting the following variables will allow a number of Crates (including the New
 
 ### Finish up
 
-Once your form is complete you can submit your form.
+Once your form is complete, you can submit your form.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Make sure you map the CSP tenant for your customer**
 
 You will then want to find the CSP tenant for your new customer and map it to the Rewst organization that you have created. You can do this by navigating to _Configuration_ → _Integrations_ → _Microsoft Cloud_ to find the relevant CSP tenant.
+{% endhint %}
+
+{% hint style="info" %}
+Got an idea for a new Crate? Rewst is constantly adding new Crates to our Crate Marketplace. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/crates).
 {% endhint %}
