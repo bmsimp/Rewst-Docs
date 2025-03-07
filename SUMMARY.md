@@ -627,6 +627,7 @@
     * [October 28, 2022 - Dev Update](updates/development-updates/2022-dev-updates/october-28th-2022.md)
 * [Training updates](updates/cs-and-training-updates/README.md)
   * [2025 Training updates](updates/cs-and-training-updates/2025-training-updates/README.md)
+    * [March 7 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/march-7-2025-training-update.md)
     * [February 28, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/february-28-2025-training-update.md)
     * [February 21, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/february-21-2025-training-update.md)
     * [February 14, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/february-14-2025-training-update.md)
