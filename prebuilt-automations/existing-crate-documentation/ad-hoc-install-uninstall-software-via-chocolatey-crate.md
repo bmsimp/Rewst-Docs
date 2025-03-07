@@ -1,7 +1,7 @@
 # Ad-Hoc Install/Uninstall Software via Chocolatey Crate
 
 {% hint style="info" %}
-If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Just in Time Admin Access Crate in our Crate Marketplace.
+If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Ad-Hoc Install/Uninstall Software via Chocolatey Crate in our Crate Marketplace.
 {% endhint %}
 
 ## What does the Ad-Hoc Install/Uninstall Software via Chocolatey Crate do?
