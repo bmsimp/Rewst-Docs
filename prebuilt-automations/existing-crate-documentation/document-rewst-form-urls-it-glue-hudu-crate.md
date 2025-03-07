@@ -14,7 +14,7 @@ Our Document Rewst Form URLs (IT Glue/Hudu) Crate takes your Rewst form URLs and
 * Makes retrieving forms easier for technicians by keeping them in a central space
 * Allows forms only users to have easy access to forms
 
-## Crate prerequisites
+## Why use the Document Rewst Form URLs (IT Glue/Hudu) Crate?
 
 IT Glue or Hudu must be integrated with Rewst prior to unpacking this Crate.
 

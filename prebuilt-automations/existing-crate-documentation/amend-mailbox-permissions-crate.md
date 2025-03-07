@@ -28,7 +28,7 @@ The Amend Mailbox Permissions Crate automates the following processes.
 * Creates or updates tickets in your PSA
 * Provides a clear audit trail of access modifications
 
-## Crate use cases
+## Why use the Amend Mailbox Permissions Crate?
 
 This Crate is designed to support MSPs and IT teams in efficiently and securely managing email access from the parent organization. By enabling the child organizations in the form trigger, MSPs can seamlessly grant and control access to the form for their customers. Common use cases include:
 

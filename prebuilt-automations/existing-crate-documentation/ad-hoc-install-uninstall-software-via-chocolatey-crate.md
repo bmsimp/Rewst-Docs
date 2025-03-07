@@ -10,7 +10,7 @@ Our Ad-Hoc Install/Uninstall Software via Chocolatey Crate enables technicians t
 
 This Crate focuses on simplifying common software management tasks, but doesn't handle complex configuration management or application settings. You can extend its functionality by connecting it to other automation workflows in Rewst.
 
-## Crate use case
+## Why use the Ad-Hoc Install/Uninstall Software via Chocolatey Crate?
 
 * Quickly respond to software installation requests from clients
 * Remove unauthorized or problematic software from client devices
