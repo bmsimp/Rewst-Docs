@@ -176,6 +176,7 @@
   * [Clone an existing form](documentation/forms/cloning-an-existing-form.md)
   * [Conditional fields](documentation/forms/form-best-practices.md)
   * [Form organizational variables](documentation/forms/form-organizational-variables.md)
+  * [Troubleshoot unpacked Crate forms](documentation/forms/troubleshoot-unpacked-crate-forms.md)
   * [Options filter: Filtering in forms](documentation/forms/options-filter-filtering-in-forms.md)
 * [User management](documentation/user-management/README.md)
   * [Add and remove users](documentation/user-management/how-to-add-and-remove-users.md)
