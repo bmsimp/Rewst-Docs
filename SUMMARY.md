@@ -950,5 +950,6 @@
   * [Create a ticket via Discord](support/roc-support/create-a-ticket-via-discord.md)
   * [Collecting diagnostics with browser developer tools](support/roc-support/collecting-diagnostics-with-browser-developer-tools.md)
   * [Discord join & verification](support/roc-support/discord-join-and-verification.md)
+  * [Find your Rewst instance region](support/roc-support/find-your-rewst-instance-region.md)
 * [Rewst support: Allow write access](support/rewst-support-allow-write-access.md)
 * [Contact resources](support/contact-resources.md)
