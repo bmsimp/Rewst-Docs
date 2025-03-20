@@ -1,4 +1,4 @@
-# Deploying Agent Smith with ImmyBot
+# Deploy Agent Smith with ImmyBot
 
 {% hint style="info" %}
 This was shared during a recent open mic: [Feb 2nd, 2024 - Inside the Eye of the Brainstrom](https://docs.rewst.help/updates/roc-open-mics/feb-2nd-2024-inside-the-eye-of-the-brainstrom).
@@ -51,7 +51,7 @@ One important thing to know if you've never used Immy, is that `Invoke-ImmyComma
 
     <div align="left"><figure><img src="https://github.com/BezaluLLC/Project-Foghorn-agent/assets/2997336/fb95e366-9315-4d20-8dbc-37e641aa58ab" alt=""><figcaption></figcaption></figure></div>
 
-### Configuration Task
+### Configuration task
 
 You will also need to set up a `Configuration Task` in order to pass parameters into the script.\
 The way Immy handles this is by loading said parameters into a `Configuration Task`, then filling in your parameters:

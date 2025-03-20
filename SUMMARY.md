@@ -463,7 +463,7 @@
   * [Get started with App Builder](documentation/app-builder/getting-started.md)
 * [Agent Smith](documentation/agent-smith/README.md)
   * [Agent Smith configuration overview](documentation/agent-smith/agent-smith-configuration-overview.md)
-  * [Deploying Agent Smith with ImmyBot](documentation/agent-smith/deploying-agent-smith-with-immybot.md)
+  * [Deploy Agent Smith with ImmyBot](documentation/agent-smith/deploying-agent-smith-with-immybot.md)
 
 ## 📦 Prebuilt Automations
 
