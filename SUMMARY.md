@@ -506,13 +506,6 @@
   * [User Offboarding V2 Crate](prebuilt-automations/existing-crate-documentation/user-offboarding-v2.md)
   * [View Rewst integration Org Variables](prebuilt-automations/existing-crate-documentation/view-rewst-integration-org-variables.md)
 
-## Community Corner
-
-* [How to contribute](community-corner/how-to-contribute/README.md)
-  * [Rewst's technical documentation guidelines](community-corner/how-to-contribute/rewsts-technical-documentation-guidelines.md)
-* [Community-driven content](community-corner/community-driven-content/README.md)
-  * [From scales to feathers](community-corner/community-driven-content/from-scales-to-feathers.md)
-
 ## 📢 Updates
 
 * [Development updates](updates/development-updates/README.md)
