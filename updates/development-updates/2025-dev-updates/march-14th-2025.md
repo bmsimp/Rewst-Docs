@@ -8,7 +8,8 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>New features and items</strong></summary>
 
-* Optimized crate unpacking leading to lower unpack times
+* Improved error messaging of Jinja trigger criteria
+* Added persistent sorting of App Builder data tables
 
 </details>
 
@@ -16,22 +17,11 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>Bug fixes and chores</strong></summary>
 
-* Fixed workflow canvas action panel resizing error
-* Updated Slack integration OAuth callback to fix error on authorization
-* Fixed form error on field name edit
-* Fixed multiple jinjaRenders causing page lag on crate triggers with overrides
-* Fixed not authorized error due to permissions on new rewst user creation
-* Fixed custom domain error message showing before any domain is entered
-* Updated Duo - Un-assign Phone from User action to use DELETE method
-* Migrated App Builder components to use new component versions table for easier migrations on future updates
-* Removed colon after context in workflow results
-* Allowed user impersonation for Datto PSA Create Ticket v2 action
-* Fixed failing Open AI Create Image action
-* Fixed custom integration sytax error causing broken action
-* Added error handling for Google Workspace Admin "No access token found in the response." error
-* Implemented cross-region SSO authentication for LMS
-* Fixed error where page workflows with Jinja output were triggering twice in certain circumstances
-* Removed App Builder feature flag
+* Created table and relations prerequisite work for syncing custom App Builder components
+* Moved crate publishing processing from agents that affect workflow processing
+* Fixed configurations in error tracking tool for improved bug triaging and diagnosis
+* Added check for E\_OK status in SonicWall NSM generic action to prevent false positive failures
+* Fixed broken SuperOps action options
 
 </details>
 
@@ -40,7 +30,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 <summary><strong>Coming Soon</strong></summary>
 
 * Generic GraphQL Request Action to the Rewst Integration
-* Support Access logs
+* Improved workflow page and workflow results page search and filter
 * Workflow executions dashboard widget
 
 </details>
