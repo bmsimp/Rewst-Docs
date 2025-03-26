@@ -469,6 +469,7 @@
   * [Stewart's 30 favorite Crates](prebuilt-automations/crates/stewarts-30-favorite-crates.md)
   * [Production Crate list](prebuilt-automations/crates/production-crate-list.md)
   * [Migrating between Crate versions](prebuilt-automations/crates/migrating-between-crate-versions.md)
+  * [Crate Deprecation FAQ](prebuilt-automations/crates/crate-deprecation-faq.md)
 * [Individual Crate documentation](prebuilt-automations/existing-crate-documentation/README.md)
   * [Ad-Hoc Install/Uninstall Software via Chocolatey Crate](prebuilt-automations/existing-crate-documentation/ad-hoc-install-uninstall-software-via-chocolatey-crate.md)
   * [Add Client to Rewst Crate](prebuilt-automations/existing-crate-documentation/add-client-to-rewst-setup.md)
