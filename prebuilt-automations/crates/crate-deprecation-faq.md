@@ -12,7 +12,7 @@ The ROC will continue to provide best effort support to help resolve issues with
 
 <summary>Will my deprecated Crates stop working after their deprecation date?</summary>
 
-No, your existing workflows using deprecated Crates will continue functioning normally. Deprecation means these Crates won't receive future updates or enhancements.
+Your existing workflows using deprecated Crates will continue functioning normally. Deprecation means these Crates won't receive future updates or enhancements.
 
 </details>
 
