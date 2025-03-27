@@ -482,7 +482,7 @@
   * [Bulk Create Client from PSA Crate](prebuilt-automations/existing-crate-documentation/bulk-create-client-from-psa-crate.md)
   * [Change a User’s Password Crate](prebuilt-automations/existing-crate-documentation/change-a-users-password-crate.md)
   * [Configure organization variables](prebuilt-automations/existing-crate-documentation/configure-organization-variables.md)
-  * [Connectwise PSA agreement mapping](prebuilt-automations/existing-crate-documentation/connectwise-psa-agreement-mapping.md)
+  * [ConnectWise PSA Agreement Mapping Crate](prebuilt-automations/existing-crate-documentation/connectwise-psa-agreement-mapping.md)
   * [CSP/CPV permission checker](prebuilt-automations/existing-crate-documentation/csp-cpv-permission-checker.md)
   * [CWM: Technician toolbox via pod](prebuilt-automations/existing-crate-documentation/cwm-technician-toolbox-via-pod.md)
   * [Document M365 environment setup](prebuilt-automations/existing-crate-documentation/document-m365-environment-setup.md)
