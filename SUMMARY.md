@@ -418,6 +418,7 @@
         * [Get inspired](documentation/integrations/individual-integration-documentation/security/sophos/get-inspired.md)
       * [SonicWall NSM](documentation/integrations/individual-integration-documentation/security/sonicwall-nsm/README.md)
         * [SonicWall integration setup](documentation/integrations/individual-integration-documentation/security/sonicwall-nsm/sonicwall-integration-setup.md)
+      * [Traceless integration](documentation/integrations/individual-integration-documentation/security/cisco-meraki-integration-1.md)
       * [Webroot](documentation/integrations/individual-integration-documentation/security/webroot/README.md)
         * [Webroot integration](documentation/integrations/individual-integration-documentation/security/webroot/webroot-integration-setup.md)
     * [Version control integrations](documentation/integrations/individual-integration-documentation/version-control/README.md)
