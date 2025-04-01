@@ -227,7 +227,7 @@
       * [Discord](documentation/integrations/individual-integration-documentation/chat/discord/README.md)
         * [Discord integration setup](documentation/integrations/individual-integration-documentation/chat/discord/discord-integration-setup.md)
         * [Discord webhooks & actions](documentation/integrations/individual-integration-documentation/chat/discord/webhooks-and-actions.md)
-    * [Cloud integrations](documentation/integrations/individual-integration-documentation/cloud/README.md)
+    * [Cloud integrations](documentation/integrations/cloud/README.md)
       * [Google Admin](documentation/integrations/individual-integration-documentation/cloud/google-admin/README.md)
         * [Google Enterprise integration setup](documentation/integrations/individual-integration-documentation/cloud/google-admin/google-enterprise-integration-setup.md)
         * [Google Enterprise actions and endpoints](documentation/integrations/individual-integration-documentation/cloud/google-admin/google-enterprise-actions-and-endpoints.md)
