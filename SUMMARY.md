@@ -498,6 +498,7 @@
     * [Step 3: New user onboarding form minimalistic](prebuilt-automations/existing-crate-documentation/new-user-onboarding/step-3-new-user-onboarding-form-minimalistic.md)
   * [OpenAI ticket categorization](prebuilt-automations/existing-crate-documentation/openai-ticket-categorisation-setup.md)
   * [OpenAI ticket sentiment](prebuilt-automations/existing-crate-documentation/openai-ticket-sentiment-setup.md)
+  * [Remove Malicious Email and Block Sender Crate](prebuilt-automations/existing-crate-documentation/remove-malicious-email-and-block-sender-crate.md)
   * [Triage SentinelOne Threat Alerts Crate](prebuilt-automations/existing-crate-documentation/triage-sentinelone-threat-alerts-crate.md)
   * [User Offboarding V2 Crate](prebuilt-automations/existing-crate-documentation/user-offboarding-v2.md)
   * [View Rewst integration Org Variables](prebuilt-automations/existing-crate-documentation/view-rewst-integration-org-variables.md)
