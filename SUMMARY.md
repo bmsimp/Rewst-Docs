@@ -366,7 +366,6 @@
         * [Kaseya VSA X actions & endpoints](documentation/integrations/individual-integration-documentation/rmm/kaseya-vsa-x/actions-and-endpoints.md)
       * [N-able N-central](documentation/integrations/individual-integration-documentation/rmm/nable/README.md)
         * [N-able N-central integration setup](documentation/integrations/individual-integration-documentation/rmm/nable/nable-integration-setup.md)
-        * [N-able N-central actions & endpoints](documentation/integrations/individual-integration-documentation/rmm/nable/actions-and-endpoints.md)
       * [N-able N-sight](documentation/integrations/individual-integration-documentation/rmm/n-able-n-sight/README.md)
         * [N-able N-sight integration](documentation/integrations/individual-integration-documentation/rmm/n-able-n-sight/n-able-n-sight-integration.md)
       * [NinjaOne](documentation/integrations/individual-integration-documentation/rmm/ninjaone/README.md)
