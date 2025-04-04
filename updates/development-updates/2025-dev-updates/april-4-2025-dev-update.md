@@ -10,7 +10,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 * **App Builder**
   * **Data Table Hidden Columns**\
-    Added an option to hide columns in data tables, providing greater control over which columns are visible.
+    Added an option to pass data from hiden columns in data tables, providing greater control over which columns are visible.
   * **Element Name Settings**\
     You can now assign a node ID to element names, making it easier to track and manage page components in the builder.
 * **Engine**
