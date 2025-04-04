@@ -483,6 +483,7 @@
   * [Identify Users in Bypass Mode Crate](prebuilt-automations/existing-crate-documentation/identify-users-in-bypass-mode-crate.md)
   * [Just in Time Admin Access Crate](prebuilt-automations/existing-crate-documentation/just-in-time-admin-access-crate.md)
   * [Manage Duo Phones Crate](prebuilt-automations/existing-crate-documentation/manage-duo-phones-crate.md)
+  * [Microsoft 365 Quarantine Email Release Crate](prebuilt-automations/existing-crate-documentation/microsoft-365-quarantine-email-release-crate.md)
   * [Microsoft: User Onboarding Crate](prebuilt-automations/existing-crate-documentation/microsoft-user-onboarding-crate-v2/README.md)
     * [Onboarding Crate process overview](prebuilt-automations/existing-crate-documentation/microsoft-user-onboarding-crate-v2/onboarding-crate-process-overview.md)
     * [Onboarding Identity provider configuration and setup](prebuilt-automations/existing-crate-documentation/microsoft-user-onboarding-crate-v2/onboarding-identity-provider-configuration-and-setup.md)
