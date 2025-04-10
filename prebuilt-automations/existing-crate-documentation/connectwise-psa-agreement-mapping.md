@@ -1,7 +1,7 @@
 # ConnectWise PSA Agreement Mapping Crate
 
 {% hint style="info" %}
-If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Bulk Create Client from PSA Crate in our Crate Marketplace.
+If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Crate in our Crate Marketplace.
 {% endhint %}
 
 ## What does the ConnectWise PSA Agreement Mapping Crate do?

@@ -15,8 +15,8 @@ Our Change a User’s Password Crate uses a form-driven submission to change a u
 
 ## Crate prerequisites
 
-* PSA integration must be set up
-* RMM integration must be set up
+* [PSA integration](../../documentation/integrations/individual-integration-documentation/psa/) must be set up
+* [RMM integration](../../documentation/integrations/individual-integration-documentation/rmm/) must be set up
 * default\_psa org variable set
 * default\_rmm org variable set
 

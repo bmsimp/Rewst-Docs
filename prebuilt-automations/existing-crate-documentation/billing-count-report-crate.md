@@ -10,7 +10,7 @@ Streamline and aggregate billing data from multiple integrations and ensure cons
 
 ## Crate prerequisites
 
-Your RMM integration with Rewst must be set up before unpacking this Crate.
+Your [RMM integration](../../documentation/integrations/individual-integration-documentation/rmm/) with Rewst must be set up before unpacking this Crate.
 
 ## Unpack the Billing Count Report Crate
 
