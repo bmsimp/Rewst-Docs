@@ -25,7 +25,7 @@ Prior to unpacking and running this Crate, you should have one of the following 
 
 ## Unpack the **Bulk Create Client from PSA** Crate
 
-1. Navigate to **Crates > Crate Marketplace** in the Rewst platform.
+1. Navigate to **Crates > Crate Marketplace** in the left side menu of the Rewst platform.
 2. Search for **Bulk Create Client from PSA**.\
    \
    ![](<../../.gitbook/assets/Screenshot 2025-03-17 at 1.14.34 PM.png>)

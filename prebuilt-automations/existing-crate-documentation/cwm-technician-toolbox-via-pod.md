@@ -12,7 +12,7 @@ Before unpacking this crate, you must configure the pod to work with Rewst. Foll
 
 **Log in** to app.rewst.io
 
-**Navigate** to _Crates_ -> _Crate Marketplace_
+**Navigate** to _Crates_ -> _Crate Marketplace_ in the left side menu of the Rewst platform
 
 **Search** for "_CWM: Technician Toolbox Via Pod"_
 

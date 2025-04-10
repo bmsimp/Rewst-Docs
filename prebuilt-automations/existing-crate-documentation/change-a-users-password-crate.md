@@ -22,7 +22,7 @@ Our Change a User’s Password Crate uses a form-driven submission to change a u
 
 ## Unpack the Change a User’s Password Crate
 
-1. Navigate to **Crates > Crate Marketplace** in the Rewst platform.
+1. Navigate to **Crates > Crate Marketplace** in the left side menu of the Rewst platform.
 2. Search for Change a User’s Password.
 3. Click on the Crate tile to begin unpacking.\
    \

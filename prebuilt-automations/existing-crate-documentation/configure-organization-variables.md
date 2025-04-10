@@ -10,7 +10,7 @@ The Configure Organizational Variables crate is used to help you set the essenti
 
 ### Installation
 
-1. **Go to** _Crates_ → _Crate Marketplace._
+1. **Go to** _Crates_ → _Crate Marketplace_ in the left side menu of the Rewst platform.
 2. **Select** _Configure Organizational Variables_ and follow the unpacking steps.
 
 {% hint style="success" %}

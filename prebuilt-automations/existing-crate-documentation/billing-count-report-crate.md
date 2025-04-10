@@ -14,7 +14,7 @@ Your RMM integration with Rewst must be set up before unpacking this Crate.
 
 ## Unpack the Billing Count Report Crate
 
-1. Navigate to **Crates > Crate Marketplace** in the Rewst platform.
+1. Navigate to **Crates > Crate Marketplace** in the left side menu of the Rewst platform.
 2. Search for the `Billing Count Report Crate`.
 3. Click on the Crate tile to begin unpacking.
 4.  Click **Unpack Crate**.\
