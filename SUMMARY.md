@@ -252,6 +252,7 @@
         * [Acronis integration](documentation/integrations/individual-integration-documentation/security/acronis/acronis-integration.md)
       * [Bitdefender GravityZone integration](documentation/integrations/individual-integration-documentation/security/bitdefender-gravityzone-integration.md)
       * [Cisco Meraki integration](documentation/integrations/individual-integration-documentation/security/cisco-meraki-integration.md)
+      * [Cork integration](documentation/integrations/individual-integration-documentation/security/cork-integration.md)
       * [Cove integration](documentation/integrations/individual-integration-documentation/security/cove-integration.md)
       * [CrowdStrike](documentation/integrations/individual-integration-documentation/security/crowdstrike/README.md)
         * [CrowdStrike integration setup](documentation/integrations/individual-integration-documentation/security/crowdstrike/crowdstrike-integration-setup.md)
