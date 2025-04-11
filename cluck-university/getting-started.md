@@ -17,7 +17,7 @@ We leveled up Cluck University, making learning in Rewst smarter, and more flexi
 
 Now, you can register for courses, track your progress, and explore educational content — all from inside the Rewst app.
 
-What’s new in CluckU:
+What’s new in Cluck U:
 
 * Learn your way – Dive into self-paced courses or join live events on core topics.
 * Fresh content – Courses have been revamped based on your feedback.
