@@ -196,7 +196,7 @@
       * [Duo Security](documentation/integrations/individual-integration-documentation/mfa/duo-security/README.md)
         * [Duo integration setup](documentation/integrations/individual-integration-documentation/mfa/duo-security/duo-integration-setup.md)
     * [Project management integrations](documentation/integrations/individual-integration-documentation/project-management-integrations/README.md)
-      * [Asana integration](documentation/integrations/individual-integration-documentation/project-management-integrations/syncmonkey-integration.md)
+      * [Asana integration](documentation/integrations/individual-integration-documentation/project-management-integrations/asana-integration.md)
       * [Shortcut integration](documentation/integrations/individual-integration-documentation/project-management-integrations/shortcut-integration.md)
     * [PSA integrations](documentation/integrations/individual-integration-documentation/psa/README.md)
       * [ConnectWise](documentation/integrations/individual-integration-documentation/psa/connectwise-manage/README.md)
