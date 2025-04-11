@@ -213,7 +213,7 @@
         * [Freshdesk integration setup](documentation/integrations/individual-integration-documentation/psa/freshdesk/freshdesk-integration-setup.md)
         * [Freshdesk actions & endpoints](documentation/integrations/individual-integration-documentation/psa/freshdesk/actions-and-endpoints.md)
       * [HaloPSA](documentation/integrations/individual-integration-documentation/psa/halopsa/README.md)
-        * [Halo PSA integration setup](documentation/integrations/psa/halopsa/halo-integration-setup.md)
+        * [HaloPSA integration setup](documentation/integrations/psa/halopsa/halo-integration-setup.md)
       * [Kaseya BMS](documentation/integrations/individual-integration-documentation/psa/kaseya-bms/README.md)
         * [Kaseya BMS integration setup](documentation/integrations/individual-integration-documentation/psa/kaseya-bms/kaseya-bms-integration-setup.md)
       * [ServiceNow](documentation/integrations/individual-integration-documentation/psa/servicenow-coming-soon/README.md)
