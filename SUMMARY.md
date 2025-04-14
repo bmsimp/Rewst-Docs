@@ -27,6 +27,8 @@
       * [Is JSON transform action](documentation/workflows/actions-in-rewst/transform-actions/is-json-transform-action.md)
       * [Compare dates transform action](documentation/workflows/actions-in-rewst/transform-actions/compare-dates-transform-action.md)
       * [Remove duplicates from list transform action](documentation/workflows/actions-in-rewst/transform-actions/remove-duplicates-from-list-transform-action.md)
+      * [Defang transform action](documentation/workflows/actions-in-rewst/transform-actions/defang-transform-action.md)
+      * [Refang transform action](documentation/workflows/actions-in-rewst/transform-actions/refang-transform-action.md)
     * [Workflows actions](documentation/workflows/actions-in-rewst/workflows-actions.md)
   * [Task transitions](documentation/workflows/task-transitions.md)
   * [Data aliases](documentation/workflows/data-aliases.md)
