@@ -26,7 +26,11 @@ Given a URL, this action will 'defang' the url by adding characters to prevent i
 
 Inputs:
 
-**URL** https://rewst.io/aprilfools/surprise.html**Colon** True**Dots** True
+Colon: True
+
+Dots: True
+
+URL: https://rewst.io/aprilfools/surprise.html
 
 </details>
 

@@ -26,7 +26,11 @@ Given a defanged URL, this action will refang the url by removing the added char
 
 Inputs:
 
-**URL** hXXps\[:]//rewst\[.]io/aprilfools/surprise.html
+Colon: True
+
+Dots: True
+
+URL: [**https://rewst.io/aprilfools/surprise.html**](https://rewst.io/aprilfools/surprise.html)
 
 </details>
 
