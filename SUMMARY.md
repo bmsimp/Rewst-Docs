@@ -674,6 +674,7 @@
 * [ROC Open Mic](updates/roc-open-mics/README.md)
   * [ROC Open Mics: North America](updates/roc-open-mics/roc-open-mics-north-america/README.md)
     * [2025 ROC Open Mics: North America](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/README.md)
+      * [April 11, 2025:](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/april-11-2025.md)
       * [April 4, 2025: Powershell in Rewst Preview](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/april-4-2025-powershell-in-rewst-preview.md)
       * [March 28, 2025: How Little Changes and Small Updates Bring BIG Value](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/march-28-2025-how-little-changes-and-small-updates-bring-big-value.md)
       * [March 21, 2025: Showing the First Workflow We Ever Made](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/march-21-2025-showing-the-first-workflow-we-ever-made.md)
