@@ -293,6 +293,7 @@
         * [SaaS Alerts actions & endpoints](documentation/integrations/individual-integration-documentation/security/saas-alerts/actions-and-endpoints.md)
       * [SentinelOne](documentation/integrations/individual-integration-documentation/security/sentinelone/README.md)
         * [SentinelOne integration setup](documentation/integrations/individual-integration-documentation/security/sentinelone/sentinelone-integration-setup.md)
+      * [Slide integration](documentation/integrations/individual-integration-documentation/security/slide-integration.md)
       * [Sophos](documentation/integrations/individual-integration-documentation/security/sophos/README.md)
         * [Sophos integration setup](documentation/integrations/individual-integration-documentation/security/sophos/sophos-integration-setup.md)
         * [Get inspired](documentation/integrations/individual-integration-documentation/security/sophos/get-inspired.md)
