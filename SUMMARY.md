@@ -183,6 +183,7 @@
       * [Jira](documentation/integrations/individual-integration-documentation/documentation/jira/README.md)
         * [Jira integration setup](documentation/integrations/individual-integration-documentation/documentation/jira/jira-integration-setup.md)
         * [Jira actions & endpoints](documentation/integrations/individual-integration-documentation/documentation/jira/actions-and-endpoints.md)
+      * [Notion integration](documentation/integrations/individual-integration-documentation/documentation/notion-integration.md)
       * [SyncMonkey integration](documentation/integrations/individual-integration-documentation/documentation/syncmonkey-integration.md)
     * [Email security integrations](documentation/integrations/individual-integration-documentation/email-security/README.md)
       * [Proofpoint](documentation/integrations/individual-integration-documentation/email-security/proofpoint/README.md)
