@@ -308,7 +308,7 @@
         * [Twilio actions & endpoints](documentation/integrations/individual-integration-documentation/voip-and-sms/twilio/actions-and-endpoints.md)
   * [Multi-instance integration](documentation/integrations/multi-instance-integration/README.md)
     * [Multi-instance integration setup](documentation/integrations/multi-instance-integration/multi-instance-integration-setup.md)
-    * [Integrate multiple instances of the same integration](documentation/integrations/multi-instance-integration/integrating-with-two-csps.md)
+    * [Integrate multiple instances of the same integration](documentation/integrations/multi-instance-integration/integrate-multiple-instances-of-the-same-integration.md)
   * [Custom integrations](documentation/integrations/other/custom-integrations/README.md)
     * [Custom integrations (v2)](documentation/integrations/custom-integrations/custom-integrations-v2.md)
     * [Custom integrations (v1)](documentation/integrations/other/custom-integrations/integration-setup.md)
