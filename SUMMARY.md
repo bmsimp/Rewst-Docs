@@ -267,8 +267,6 @@
         * [N-able N-sight integration](documentation/integrations/individual-integration-documentation/rmm/n-able-n-sight/n-able-n-sight-integration.md)
       * [NinjaOne](documentation/integrations/individual-integration-documentation/rmm/ninjaone/README.md)
         * [NinjaOne integration setup](documentation/integrations/individual-integration-documentation/rmm/ninjaone/ninjaone-integration-setup.md)
-      * [RPort](documentation/integrations/individual-integration-documentation/rmm/rport/README.md)
-        * [RPort integration setup](documentation/integrations/individual-integration-documentation/rmm/rport/rport-integration-setup.md)
     * [Security integrations](documentation/integrations/individual-integration-documentation/security/README.md)
       * [Acronis](documentation/integrations/individual-integration-documentation/security/acronis/README.md)
         * [Acronis integration](documentation/integrations/individual-integration-documentation/security/acronis/acronis-integration.md)
