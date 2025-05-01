@@ -856,7 +856,7 @@
 
 ## 🔐 Security
 
-* [Incoming & outgoing domains and IPs](security/security-policy.md)
+* [Incoming and outgoing domains and IP addresses](security/security-policy.md)
 
 ## 🆘 Support
 
