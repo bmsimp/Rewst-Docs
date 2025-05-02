@@ -407,8 +407,8 @@
 
 * [Development updates](updates/development-updates/README.md)
   * [2025 Dev updates](updates/development-updates/2025-dev-updates/README.md)
-    * [May 2 2025 - Dev update](updates/development-updates/2025-dev-updates/may-2-2025-dev-update.md)
-    * [April 25, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-25-2025-dev-update.md)
+    * [May 2 2025 - Dev update](updates/development-updates/2025-dev-updates/april-25-2025-dev-update.md)
+    * [April 25, 2025 - Dev update](<updates/development-updates/2025-dev-updates/april-25-2025-dev-update (1).md>)
     * [April 18, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-18-2025-dev-update.md)
     * [April 11, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-11-2025-dev-update.md)
     * [April 4, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-4-2025-dev-update.md)
@@ -636,6 +636,7 @@
     * [October 28, 2022 - Training Update](updates/cs-and-training-updates/2022-training-updates/october-28th-2022-1.md)
 * [Crate Marketplace updates](updates/marketplace-updates/README.md)
   * [2025 Crate Marketplace updates](updates/marketplace-updates/2025-marketplace-updates/README.md)
+    * [May 2nd, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/may-2nd-2025.md)
     * [April 25th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/april-25th-2025.md)
     * [April 11th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/april-11th-2025.md)
     * [April 4th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/april-4th-2025.md)
