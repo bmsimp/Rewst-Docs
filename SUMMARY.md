@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Welcome to Rewst Documentation](welcome-to-rewst-documentation.md)
 
 ## 🏫 Cluck University
 
