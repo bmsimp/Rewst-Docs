@@ -27,5 +27,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Generic GraphQL Request Action to the Rewst Integration
 * Improved workflow page and workflow results page search and filter
 * Workflow executions dashboard widget
+* TD Synnex StreamOne Ion
+* Hubspot Integration improvements
 
 </details>
