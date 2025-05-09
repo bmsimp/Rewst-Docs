@@ -381,6 +381,7 @@
   * [Identify Users in Bypass Mode Crate](prebuilt-automations/existing-crate-documentation/identify-users-in-bypass-mode-crate.md)
   * [Just in Time Admin Access Crate](prebuilt-automations/existing-crate-documentation/just-in-time-admin-access-crate.md)
   * [M365 CSP/GDAP Permission Checker Crate](prebuilt-automations/existing-crate-documentation/m365-csp-gdap-permission-checker-crate.md)
+  * [M365: Generate Org Chart Crate](prebuilt-automations/existing-crate-documentation/m365-generate-org-chart-crate.md)
   * [Manage Duo Phones Crate](prebuilt-automations/existing-crate-documentation/manage-duo-phones-crate.md)
   * [Mass Update Org Variables via CSV Crate](prebuilt-automations/existing-crate-documentation/mass-update-org-variables-via-csv-crate.md)
   * [Microsoft 365 Quarantine Email Release Crate](prebuilt-automations/existing-crate-documentation/microsoft-365-quarantine-email-release-crate.md)
