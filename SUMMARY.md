@@ -409,7 +409,8 @@
 
 * [Development updates](updates/development-updates/README.md)
   * [2025 Dev updates](updates/development-updates/2025-dev-updates/README.md)
-    * [May 2 2025 - Dev update](updates/development-updates/2025-dev-updates/april-25-2025-dev-update.md)
+    * [May 9, 2025 - Dev update](updates/development-updates/2025-dev-updates/may-9-2025-dev-update.md)
+    * [May 2, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-25-2025-dev-update.md)
     * [April 25, 2025 - Dev update](<updates/development-updates/2025-dev-updates/april-25-2025-dev-update (1).md>)
     * [April 18, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-18-2025-dev-update.md)
     * [April 11, 2025 - Dev update](updates/development-updates/2025-dev-updates/april-11-2025-dev-update.md)
