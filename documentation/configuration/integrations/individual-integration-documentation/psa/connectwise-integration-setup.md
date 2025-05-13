@@ -801,3 +801,7 @@ Different conditions serve different purposes. Mastering these conditions enable
 7. Replicate the issue or process you are troubleshooting
 8. Return to the **API Logs** tab.
 9. Click **Download Logs**. Once downloaded, you can review these logs, and provide to the ROC for troubleshooting assistance.
+
+{% hint style="success" %}
+Got an idea for a new Integration? Rewst is constantly adding new integrations to our integrations page. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/integrations).
+{% endhint %}

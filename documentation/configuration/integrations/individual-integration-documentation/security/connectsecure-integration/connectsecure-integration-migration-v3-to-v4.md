@@ -5,7 +5,7 @@ ConnectSecure integrations (formerly known as CyberCNS) will require attention t
 
 Rewst can’t automatically migrate V3 users to V4 due to ConnectSecure’s configuration requirements. If you’re a Rewst customer using our ConnectSecure integration, reach out to your ConnectSecure rep or access your ConnectSecure instance to retrieve your new V4 credentials and hostname. This document walks you through how to retrieve credentials on your own.
 
-All related V3 endpoints in existing generic Rewst actions will also need to be manually updated to new URLs to reflect this change. See our existing guide for how to set up your integration for the first time here in this document: [cybercns-integration-setup.md](cybercns-integration-setup.md "mention")
+All related V3 endpoints in existing generic Rewst actions will also need to be manually updated to new URLs to reflect this change. See our existing guide for how to set up your integration for the first time here in this document: [.](./ "mention")
 {% endhint %}
 
 {% hint style="info" %}
