@@ -1,4 +1,4 @@
-# OpenAI ticket categorization
+# OpenAI Ticket Categorization Crate
 
 {% hint style="info" %}
 **Azure OpenAI Instance**
@@ -36,7 +36,7 @@ This Crate uses the OpenAI API to categorize tickets, using your built-in types,
 
     If you're using a PSA that isn't on this list, please let us know. Our support team will look at whether it has the ability to trigger an automation based on a ticket being created.
 * You'll also need to have the OpenAI integration set up in Rewst.
-* Remember, you can also set up an Azure instance of OpenAI, and use that with this crate. If you want to use an Azure instance of OpenAi with this Crate, you'll need to follow the Azure OpenAI Integration Setup steps to have this completed before unpacking.
+* Remember, you can also set up an Azure instance of OpenAI, and use that with this crate. If you want to use an Azure instance of OpenAI with this Crate, you'll need to follow the Azure OpenAI Integration Setup steps to have this completed before unpacking.
 
 ### Unpack the OpenAI Ticket Categorization Crate
 

@@ -1,4 +1,4 @@
-# OpenAI ticket sentiment
+# OpenAI Ticket Sentiment Analysis Crate
 
 {% hint style="info" %}
 **Azure OpenAI instance**
@@ -19,73 +19,47 @@ The OpenAI Ticket Sentiment Analysis Crate streamlines support operations by usi
   * HaloPSA
   * Kaseya BMS
 
-If you're using a PSA that isn't on this list, please let us know and we'll look at whether it has the ability to trigger an automation based on a ticket being created.
+&#x20;      If you're using a PSA that isn't on this list, please let us know and we'll look at whether it has the    ability to trigger an automation based on a ticket being created.
 
-### So what steps does the Crate actually take? What is the automation?
+* You'll also need to have the OpenAI integration set up in Rewst.
 
-1. We identify the initial description/note on the ticket
-2. We identify the PSA that the ticket came from, and convert the JSON payload we got sent into standard variables (such as ticket title, description, etc.)
-3. We send this data to OpenAI with a prompt that we've configured. Note that this prompt is templatized, so you are able to configure/tweak it to your liking. This prompt takes the note and asks OpenAI to analyze the sentiment of the note, the urgency of the ticket, and the impact of the ticket - on a ranking of 1-5.
-4. OpenAI then returns the sentiment, urgency, and impact of the ticket in a JSON object as well as the reason that it has determined this.
-5. We then identify whether any of the variables are above the threshold configured by you. If they are, we then update the ticket priority, severity, and impact (depending on the PSA) accordingly. We also added a note to the ticket to say that the ticket has been updated based on the sentiment analysis.
-6. If the sentiment threshold has also been met, we then escalate the ticket to the relevant person/team by amending the owner, team, or status of the ticket (depending on the PSA).
-7. We ensure that for each action taken during the automation, we add a note to the ticket to say what has happened and why it has happened.
+### Set up the OpenAI Ticket Sentiment Crate
 
-### What do I need to get started?
+1. Navigate to **Crates** > **Crate Marketplace** in the left side menu of the Rewst platform.
+2. Search for `OpenAI Ticket Sentiment`.\
+   \
+   ![](<../../../.gitbook/assets/Screenshot 2025-05-19 at 4.33.23 PM.png>)
+3. Click on the Crate tile to begin unpacking.
+4. Click **Unpack Crate.**
 
-We have tried to make this as user-friendly and straightforward as possible to get started, so this crate is installable from the [Crate Marketplace](https://app.rewst.io/marketplace/crates/202aa56b-c1ff-46c7-8a34-bf1b4e49ecc4).
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-05-19 at 4.34.19 PM.png" alt=""><figcaption></figcaption></figure>
 
-There are three steps to getting this crate up and running:
+5. Choose your desired PSA from the drop-down selector. This is especially important for customers using multiple PSAs.&#x20;
+6. Choose your detection category from the drop-down selector.
+7. Choose the AI model that you wish to use from the drop-down selector. OpenAI returns all of the data in a JSON object, including an integer for Sentiment, Urgency, and Impact. We then use the options you specify below to determine whether the ticket should be updated or not.
+   1.  **Impact Threshold:**
 
-1. Set up the integration with OpenAI in your Rewst account.
-2. Unpack the crate in the marketplace, answering the questions as you go,
-3. Enjoy! [and tell us how awesome it is!](openai-ticket-sentiment-setup.md#feedback)
+       This is the threshold that you want to set for the impact of the ticket. If the impact is below this threshold, the ticket will be considered low impact. If the impact is above this threshold, the ticket will be considered high impact, and update the ticket accordingly.
+   2.  **Urgency Threshold:**
 
-#### Step 1 - Set up the integration with OpenAI in your Rewst account
+       This is the threshold that you want to set for the urgency of the ticket. If the urgency is below this threshold, the ticket will be considered low urgency. If the urgency is above this threshold, the ticket will be considered high urgency, and update the ticket accordingly.
+   3.  **Sentiment Threshold:**
 
-In order to use this crate, you'll need to have an OpenAI account.
+       This is the threshold that you want to set for the sentiment of the ticket. If the sentiment is below this threshold, the ticket will be considered a positive sentiment. If the sentiment is above this threshold, the ticket will be considered negative sentiment, and update the ticket accordingly.
+8. Choose if you would like to **Report errors in ticket when unable to utilize AI**.
+9. Click **Continue**.
+10. Triggers for all possible PSAs are included in this Crate. By default, they're disabled, and only the PSA indicated by your choice in the drop-down selector used in the previous step will be enabled. The trigger that will kick off the automation when a ticket is created is the one left enabled.&#x20;
+11. Click **Unpack**.
 
-Follow the instructions on the [OpenAI Integration Setup](../../configuration/integrations/integration-guides/ai/openai/openai-integration-setup.md) page to get this set up and then come back here!
 
-Remember, you can also set up an Azure instance of OpenAI, and use that with this crate. If you want to do that, you'll need to follow the Azure OpenAI Integration Setup steps.
 
-#### Step 2 - Unpack the crate in the marketplace
+## Use the OpenAI Ticket Sentiment Crate
 
-Find the crate in the marketplace, called "Open AI Ticket Sentiment Analysis". Alternatively, [click here](https://app.rewst.io/marketplace/crates/202aa56b-c1ff-46c7-8a34-bf1b4e49ecc4) to go straight to the crate.
-
-and once you're in the crate, select your PSA from the dropdown and some other options around when you want the automation to run.
-
-The OpenAI returns all of the data in a JSON object, including an integer for Sentiment, Urgency, and Impact. We then use the options you specify below to determine whether the ticket should be updated or not.
-
-**Sentiment Threshold:**
-
-This is the threshold that you want to set for the sentiment of the ticket. If the sentiment is below this threshold, the ticket will be considered a positive sentiment. If the sentiment is above this threshold, the ticket will be considered negative sentiment, and update the ticket accordingly.
-
-**Urgency Threshold:**
-
-This is the threshold that you want to set for the urgency of the ticket. If the urgency is below this threshold, the ticket will be considered low urgency. If the urgency is above this threshold, the ticket will be considered high urgency, and update the ticket accordingly.
-
-**Impact Threshold:**
-
-This is the threshold that you want to set for the impact of the ticket. If the impact is below this threshold, the ticket will be considered low impact. If the impact is above this threshold, the ticket will be considered high impact, and update the ticket accordingly.
-
-**Error Reporting**
-
-Set `Report errors in ticket when unable to utilise AI` to true if you want any workflow errors reported in the ticket.
-
-On the following screen, you'll be asked to **disable the triggers that you don't need** for the PSAs that are not required (we'll make this easier soon!).
-
-<figure><img src="../../../.gitbook/assets/DisabledTriggers (1).png" alt=""><figcaption><p>Disabling Unused Triggers</p></figcaption></figure>
-
-The trigger that will kick off the automation when a ticket is created, is the one left enabled. In our example, Halo PSA.
-
-<figure><img src="../../../.gitbook/assets/EnabledTrigger.png" alt=""><figcaption><p>Enabled Trigger</p></figcaption></figure>
-
-That's it, hit "Unpack" and you're good to go! Go create a ticket in your PSA with a _somewhat frustrated_ description, and then watch the magic happen!
+Create a ticket in your PSA with a typical description and summary.
 
 <figure><img src="../../../.gitbook/assets/HaloPSANote (1).png" alt=""><figcaption></figcaption></figure>
 
-### Useful Organization Variables (Optional)
+### Useful organization variables: Optional
 
 These Organization Variables give you more control over the functionality of this workflow.
 
@@ -94,6 +68,6 @@ These Organization Variables give you more control over the functionality of thi
 * ORG.VARIABLES.ai\_model\_ticket\_sent
   * Allows you to manually set the model
 
-### Feedback
-
-Genuinely, if you like this crate and have followed these instructions to get it up and running, we'd love to hear from you! We're always looking for feedback on how we can improve our crates, so please [click me](mailto:roc@rewst.io) and let us know what you think! If you'd like to only say thanks, that's cool too! You can [click me instead](https://engine.rewst.io/webhooks/custom/trigger/db81c9a8-13f7-458a-9306-287054605844/c47fdd7f-4075-47a8-ba92-94e790e67c06?crate=OpenAISentimentAnalysis) and we'll send an awesome gif to our internal Slack channel! 😁
+{% hint style="info" %}
+Got an idea for a new Crate? Rewst is constantly adding new Crates to our Crate Marketplace. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/crates).
+{% endhint %}
