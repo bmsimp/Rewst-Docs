@@ -119,7 +119,7 @@
   * [Production Crate list](documentation/crates/production-crate-list.md)
   * [Migrating between Crate versions](documentation/crates/migrating-between-crate-versions.md)
   * [Crate deprecation FAQ](documentation/crates/crate-deprecation-faq.md)
-  * [Individual Crate documentation](documentation/crates/existing-crate-documentation/README.md)
+  * [Crate guides](documentation/crates/existing-crate-documentation/README.md)
     * [Ad-Hoc Install/Uninstall Software via Chocolatey Crate](documentation/crates/existing-crate-documentation/ad-hoc-install-uninstall-software-via-chocolatey-crate.md)
     * [Add Client to Rewst Crate](documentation/crates/existing-crate-documentation/add-client-to-rewst-setup.md)
     * [Alert on Expiring App Reg Certificates Crate](documentation/crates/existing-crate-documentation/alert-on-expiring-app-reg-certificates-crate.md)
