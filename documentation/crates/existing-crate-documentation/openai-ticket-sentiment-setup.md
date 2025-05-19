@@ -1,36 +1,23 @@
 # OpenAI ticket sentiment
 
 {% hint style="info" %}
-**Azure OpenAI Instance**
+**Azure OpenAI instance**
 
 Note that this Crate works for both OpenAI and OpenAI with an Azure instance.\
 In order to use the Azure instance, you will need to follow the [Azure OpenAI Integration Setup](../../configuration/integrations/integration-guides/ai/openai/azure-openai-integration-setup.md) steps and follow the below steps.
 {% endhint %}
 
-### What does this Crate do?
+### What does the OpenAI Ticket Sentiment Analysis Crate do?
 
-This Crate uses the OpenAI API to analyze the sentiment of the customer note on a ticket.
+The OpenAI Ticket Sentiment Analysis Crate streamlines support operations by using AI to assess and act on ticket sentiment, impact, urgency, and priority. As new tickets are created, it retrieves ticket details, analyzes severity, and updates relevant PSA fields automatically. High-sentiment tickets are escalated and assigned to designated team members, while a detailed internal note logs the results. Fully integrated with your PSA, this Crate ensures faster, smarter ticket handling.
 
-We are then able to determine whether the sentiment is positive, negative, or neutral based on your configured threshold and then update the ticket priority, severity, and impact (depending on the PSA) accordingly.
+### Crate prerequisites
 
-This also means that if a ticket comes in that is considered a negative sentiment, we can then automatically escalate the ticket to the relevant person/team.
-
-This Crate was built with various reasons in mind, but most notably to help with the following:
-
-* **Quicker Response Times** - By automatically escalating tickets that are considered negative sentiment, you can ensure that you're responding to your customers quicker and more efficiently. This will help you to improve your customer satisfaction. Our experience shows that the faster you respond to a frustrated client, the more likely they are to be happy with the resolution.
-* **Correct Prioritization** - By automatically updating the priority, severity, and impact of a ticket based on the sentiment, you can ensure that your techs are working on the right tickets at the right time. This will help you to improve your customer satisfaction, as well as identify any repeating issues that may be causing negative sentiment.
-* **Another differentiator** - By using this Crate, you can ensure that you're differentiating yourself from your competitors. You can talk about how you're using AI not to respond using that AI, but to ensure that a human looks at the ticket quicker. Having an auto-escalation process in place will help you to stand out from the crowd.
-
-### This sounds great but, I use \[Insert PSA] - can I use this?
-
-Yes! This Crate is PSA agnostic, so it will work with any of the PSAs that we support and also have a trigger type that kicks off the automation.
-
-This list is currently:
-
-* ConnectWise Manage
-* Datto PSA
-* HaloPSA
-* Kaseya BMS
+* Before unpacking the Crate, you'll need to have the integration for one of the following PSAs set up:
+  * ConnectWise Manage
+  * Datto PSA
+  * HaloPSA
+  * Kaseya BMS
 
 If you're using a PSA that isn't on this list, please let us know and we'll look at whether it has the ability to trigger an automation based on a ticket being created.
 
