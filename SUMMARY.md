@@ -287,6 +287,7 @@
         * [SonicWall NSM integration](documentation/configuration/integrations/integration-guides/security/sonicwall-integration-setup.md)
         * [Traceless integration](documentation/configuration/integrations/integration-guides/security/traceless-integration.md)
         * [Webroot integration](documentation/configuration/integrations/integration-guides/security/webroot-integration-setup.md)
+        * [TD Synnex StreamOne Ion integration](documentation/configuration/integrations/integration-guides/security/td-synnex-streamone-ion-integration.md)
       * [Version control integrations](documentation/configuration/integrations/integration-guides/version-control/README.md)
         * [GitHub integration](documentation/configuration/integrations/integration-guides/version-control/github-integration.md)
       * [VoIP and SMS integrations](documentation/configuration/integrations/integration-guides/voip-and-sms/README.md)
