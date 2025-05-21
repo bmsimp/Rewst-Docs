@@ -145,6 +145,7 @@
     * [Manage Duo Phones Crate](documentation/crates/existing-crate-documentation/manage-duo-phones-crate.md)
     * [Mass Update Org Variables via CSV Crate](documentation/crates/existing-crate-documentation/mass-update-org-variables-via-csv-crate.md)
     * [Microsoft 365 Quarantine Email Release Crate](documentation/crates/existing-crate-documentation/microsoft-365-quarantine-email-release-crate.md)
+    * [Microsoft: User Offboarding Crate](documentation/crates/existing-crate-documentation/microsoft-user-offboarding-crate.md)
     * [Microsoft: User Onboarding Crate](documentation/crates/existing-crate-documentation/microsoft-user-onboarding-crate-v2/README.md)
       * [Onboarding Crate process overview](documentation/crates/existing-crate-documentation/microsoft-user-onboarding-crate-v2/onboarding-crate-process-overview.md)
       * [Onboarding Identity provider configuration and setup](documentation/crates/existing-crate-documentation/microsoft-user-onboarding-crate-v2/onboarding-identity-provider-configuration-and-setup.md)
