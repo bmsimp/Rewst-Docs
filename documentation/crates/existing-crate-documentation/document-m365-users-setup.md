@@ -1,11 +1,9 @@
-# Document M365 users setup
+# Document M365 users setup\*\*\*\*
 
-{% hint style="danger" %}
-Note that this documentation applies to the v2 of this crate.
+{% hint style="info" %}
+Note that this documentation applies to the v2 of this Crate. Rewst customers who had prior versions of the Crate are recommended to disable the old version and unpack this Crate instead for optimal performance and functionality.&#x20;
 
-The original crate documented against an asset called "M365 Users (auto)", the new version uses "MS365 Users (auto)" instead.
-
-It is recommended that you disable the trigger on the old automations and delete the flexible asset types to avoid confusion.
+If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates).
 {% endhint %}
 
 ## Introduction
