@@ -7,7 +7,7 @@ Explore what new changes the Training team has made in the last week.
 <summary><strong>General News and Reminders</strong></summary>
 
 * **SHOUT OUTS** **TO:**
-  * Sam, Amy, Pablo, Kyle, Bruce, Caitlin, Cameron, Emils, Jared, William, Greg, Nathaniel, Stephen, Yoel, Kevin, Brent, Jack, Tomfor passing the Foundations Certification.
+  * Sam, Amy, Pablo, Kyle, Bruce, Caitlin, Cameron, Emils, Jared, William, Greg, Nathaniel, Stephen, Yoel, Kevin, Brent, Jack, Tom for passing the Foundations Certification.
     * Take the [Rewst Foundations](https://learn.rewst.io/rewst-foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
   * Cormac, Dylan, Jen, Kevin, Aaron, Tim, Rian, Donovan, Kyle, Cameron, Jeff for passing the Clean Automation Certification.
     * Take the [Clean Automation](https://learn.rewst.io/clean-automation-certification) exam and get that fancy certificate!
