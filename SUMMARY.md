@@ -144,6 +144,7 @@
     * [Notify on Conditional Access Policy Changes Crate](documentation/crates/existing-crate-documentation/notify-on-conditional-access-policy-changes-crate.md)
     * [OpenAI Ticket Categorization Crate](documentation/crates/existing-crate-documentation/openai-ticket-categorisation-setup.md)
     * [OpenAI Ticket Sentiment Analysis Crate](documentation/crates/existing-crate-documentation/openai-ticket-sentiment-setup.md)
+    * [Organizational Setup Report Crate](documentation/crates/existing-crate-documentation/organizational-setup-report-crate.md)
     * [Remove Malicious Email and Block Sender Crate](documentation/crates/existing-crate-documentation/remove-malicious-email-and-block-sender-crate.md)
     * [Time Savings Report Crate](documentation/crates/existing-crate-documentation/time-savings-report-crate.md)
     * [Triage SentinelOne Threat Alerts Crate](documentation/crates/existing-crate-documentation/triage-sentinelone-threat-alerts-crate.md)
