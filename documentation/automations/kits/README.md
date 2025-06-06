@@ -7,5 +7,23 @@ description: >-
 
 # Kits
 
+{% hint style="info" %}
+Kits are a newer Rewst feature, and still in Beta. Check back as we expand our kits and add to this collection.&#x20;
+{% endhint %}
 
+{% content-ref url="billing-count-kit.md" %}
+[billing-count-kit.md](billing-count-kit.md)
+{% endcontent-ref %}
+
+{% content-ref url="connectwise-psa-integration-kit.md" %}
+[connectwise-psa-integration-kit.md](connectwise-psa-integration-kit.md)
+{% endcontent-ref %}
+
+{% content-ref url="microsoft-offboarding-solution-kit.md" %}
+[microsoft-offboarding-solution-kit.md](microsoft-offboarding-solution-kit.md)
+{% endcontent-ref %}
+
+{% content-ref url="microsoft-onboarding-solution-kit.md" %}
+[microsoft-onboarding-solution-kit.md](microsoft-onboarding-solution-kit.md)
+{% endcontent-ref %}
 

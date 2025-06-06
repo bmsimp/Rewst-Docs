@@ -121,7 +121,7 @@
     * [Billing Count kit](documentation/automations/kits/billing-count-kit.md)
     * [ConnectWise PSA integration kit](documentation/automations/kits/connectwise-psa-integration-kit.md)
     * [Microsoft Offboarding solution kit](documentation/automations/kits/microsoft-offboarding-solution-kit.md)
-    * [Microsoft Onboarding solution Kit](documentation/automations/kits/microsoft-onboarding-solution-kit.md)
+    * [Microsoft Onboarding solution kit](documentation/automations/kits/microsoft-onboarding-solution-kit.md)
 * [App Builder](documentation/app-builder/README.md)
   * [Get started with App Builder](documentation/app-builder/getting-started.md)
   * [Components](documentation/app-builder/components/README.md)
