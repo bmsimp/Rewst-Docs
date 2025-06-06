@@ -32,6 +32,8 @@
       * [Add or subtract from DateTime transform action](documentation/automations/actions-in-rewst/transform-actions/add-or-subtract-from-datetime-transform-action.md)
       * [All transform action](documentation/automations/actions-in-rewst/transform-actions/all-transform-action.md)
       * [Any transform action](documentation/automations/actions-in-rewst/transform-actions/any-transform-action.md)
+      * [Base64 Encode transform action](documentation/automations/actions-in-rewst/transform-actions/base64-encode-transform-action.md)
+      * [Base64 Decode transform action](documentation/automations/actions-in-rewst/transform-actions/base64-decode-transform-action.md)
       * [Append with items results transform action](documentation/automations/actions-in-rewst/transform-actions/process-with-items-results.md)
       * [Compare dates transform action](documentation/automations/actions-in-rewst/transform-actions/compare-dates-transform-action.md)
       * [Convert list to object transform action](documentation/automations/actions-in-rewst/transform-actions/convert-to-object.md)
