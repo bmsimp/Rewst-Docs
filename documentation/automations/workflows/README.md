@@ -12,13 +12,19 @@ We recommend you only edit the pre-built workflows that come in Crates after tak
 Before building any workflow, remember to sketch out what you'd like the workflow to look like, and identify the trigger that will kick it off.
 {% endhint %}
 
+{% hint style="info" %}
+As of mid 2025, Rewst also offers _kits._ A kit is a collection of pre-built, pre-defined tasks that provide a quick start to setting up solutions to specific business needs, or to demonstrate all available actions within a given integration. For example, if you have a Halo PSA kit, there will be an actios or automations Rewst has identified that are smaller use cases compared to our larger Crates.
+
+Kits are a newer feature of our Crate Marketplace. Check back as the collection grows. See our up-to-date list of available kits [here](../kits/).&#x20;
+{% endhint %}
+
 ## Why build workflows?
 
 While the pre-built workflows in Crates are the quickest way to get started, a workflow built custom to your situation can offer powerful, personalized efficiency measures that fit your particular MSP and customer needs.
 
 ## Subworkflows
 
-A _subworkflow_ is a workflow that is also a part of another workflow. In Rewst, every automation can function as either a larger executing workflow or a smaller subworkflow.&#x20;
+A _subworkflow_ is a workflow that is also a part of another workflow. In Rewst, every automation can function as either a larger executing workflow or a smaller subworkflow. You can create your own subworkflows, or use one of our pre-built subworkflows, cataloged in [this section of our documentation site](../subworkflows/).&#x20;
 
 In the example below, you have a main workflow called **Create Ticket**. In it, you choose which PSA the organization has. Once that has been decided, you then go to a subworkflow, which encompasses the actual creation of the ticket. Note the pink border and icon on the action, denoting that it is a subworkflow.
 
@@ -126,3 +132,10 @@ From the workflows page, you can view triggers associated with each workflow, wi
 [document-with-roborewsty.md](document-with-roborewsty.md)
 {% endcontent-ref %}
 
+{% content-ref url="../kits/" %}
+[kits](../kits/)
+{% endcontent-ref %}
+
+{% content-ref url="../subworkflows/" %}
+[subworkflows](../subworkflows/)
+{% endcontent-ref %}
