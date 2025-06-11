@@ -180,6 +180,7 @@
     * [Document User Details V2 Crate](documentation/crates/existing-crate-documentation/document-user-details-v2-crate.md)
     * [Export Intune Policies and Configurations Crate](documentation/crates/existing-crate-documentation/export-intune-policies-and-configurations-crate.md)
     * [Identify Users in Bypass Mode Crate](documentation/crates/existing-crate-documentation/identify-users-in-bypass-mode-crate.md)
+    * [Install Acronis Backup Agent on Devices Crate](documentation/crates/existing-crate-documentation/install-acronis-backup-agent-on-devices-crate.md)
     * [Just in Time Admin Access Crate](documentation/crates/existing-crate-documentation/just-in-time-admin-access-crate.md)
     * [M365 CSP/GDAP Permission Checker Crate](documentation/crates/existing-crate-documentation/m365-csp-gdap-permission-checker-crate.md)
     * [M365: Generate Org Chart Crate](documentation/crates/existing-crate-documentation/m365-generate-org-chart-crate.md)
