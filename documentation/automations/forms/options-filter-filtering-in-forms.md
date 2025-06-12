@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Options filter: Filtering in forms
 
 {% hint style="info" %}
