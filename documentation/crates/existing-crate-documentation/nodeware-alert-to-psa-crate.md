@@ -36,7 +36,9 @@ Contents of the ticket include:
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2025-06-13 at 1.41.20 PM.png" alt=""><figcaption></figcaption></figure>
 10. Click **⋮> Usages > View Direct URLs.**&#x20;
-11. Copy the URL and open it in a new browser window or tab.
+11. Copy the URL and open it in a new browser window or tab.\
+    \
+    ![](<../../../.gitbook/assets/Screenshot 2025-06-13 at 1.47.43 PM.png>)
 12. Choose a **Board ID** from the drop-down selector.
 13. Set relevant status choices in the **Ticket Creation Status** and **Ticket Close Status** selector&#x73;**.**
 14. Optionally, set a **Ticket Type** if required.&#x20;
