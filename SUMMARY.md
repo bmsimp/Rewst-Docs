@@ -201,6 +201,7 @@
       * [Step 1: Setting up organization variables](documentation/crates/existing-crate-documentation/new-user-onboarding/step-1-setting-up-organization-variables.md)
       * [Step 2: New user onboarding form](documentation/crates/existing-crate-documentation/new-user-onboarding/step-2-new-user-onboarding-form.md)
       * [Step 3: New user onboarding form minimalistic](documentation/crates/existing-crate-documentation/new-user-onboarding/step-3-new-user-onboarding-form-minimalistic.md)
+    * [Nodeware: Alert To PSA Crate](documentation/crates/existing-crate-documentation/nodeware-alert-to-psa-crate.md)
     * [Notify on Conditional Access Policy Changes Crate](documentation/crates/existing-crate-documentation/notify-on-conditional-access-policy-changes-crate.md)
     * [OpenAI Ticket Categorization Crate](documentation/crates/existing-crate-documentation/openai-ticket-categorisation-setup.md)
     * [OpenAI Ticket Sentiment Analysis Crate](documentation/crates/existing-crate-documentation/openai-ticket-sentiment-setup.md)
