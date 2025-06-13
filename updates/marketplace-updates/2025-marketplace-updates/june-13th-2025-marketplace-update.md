@@ -5,6 +5,7 @@
 <summary><strong>New Crates and enhancements</strong></summary>
 
 * OpenText Core Endpoint Protection: Create Ticket from File Detection Crate
+* Nodeware: Alert To PSA Crate
 
 </details>
 
