@@ -166,12 +166,12 @@
   * [Authentication](documentation/app-builder/authentication.md)
   * [Themes](documentation/app-builder/themes.md)
   * [Page builder](documentation/app-builder/page-builder.md)
-* [Crates](documentation/crates/README.md)
-  * [Stewart's 30 favorite Crates](documentation/crates/stewarts-30-favorite-crates.md)
+* [Crates](prebuilt-automations/crates/README.md)
+  * [Stewart's 30 favorite Crates](prebuilt-automations/crates/stewarts-30-favorite-crates.md)
   * [Production Crate list](documentation/crates/production-crate-list.md)
   * [Migrate between Crate versions](documentation/crates/migrating-between-crate-versions.md)
-  * [Crate deprecation FAQ](documentation/crates/crate-deprecation-faq.md)
-  * [Crate guides](documentation/crates/existing-crate-documentation/README.md)
+  * [Crate deprecation FAQ](prebuilt-automations/crates/crate-deprecation-faq.md)
+  * [Crate guides](prebuilt-automations/existing-crate-documentation/README.md)
     * [Ad-Hoc Install/Uninstall Software via Chocolatey Crate](documentation/crates/existing-crate-documentation/ad-hoc-install-uninstall-software-via-chocolatey-crate.md)
     * [Add Client to Rewst Crate](documentation/crates/existing-crate-documentation/add-client-to-rewst-setup.md)
     * [Alert on Expiring App Reg Certificates Crate](documentation/crates/existing-crate-documentation/alert-on-expiring-app-reg-certificates-crate.md)
@@ -878,3 +878,5 @@
 ***
 
 * [Contact resources](contact-resources.md)
+
+## 📦 Prebuilt Automations
