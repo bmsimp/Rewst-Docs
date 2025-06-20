@@ -14,7 +14,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Crate Marketplace
   * Improved the search and filtering in the Crate Marketplace &#x20;
 * Dashboard
-  * Introduced the workflow executions table
+  * Introduced the workflow executions dashboard widget
 * Forms
   * Added more custom operators to options filters, enabling advanced filtering
 * Workflows
@@ -51,6 +51,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>Coming Soon</strong></summary>
 
-* Workflow executions dashboard widget
+* Check back next week!
 
 </details>
