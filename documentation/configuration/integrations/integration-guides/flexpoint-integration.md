@@ -11,7 +11,16 @@ Our FlexPoint integration enables automation of payments and billing. Utilize th
 ## Set up the FlexPoint integration
 
 {% hint style="info" %}
-Before beginning setup for this integration, you'll need to download a security certificate from Rewst via [this link](https://engine.qa.rewst.io/configuration/flexpoint/get_certificate).  The link is also available in the Rewst platform, on the setup page for this integration.
+Before beginning setup for this integration, you'll need to download a security certificate from Rewst. Click on the relevant link for your geographic region in the list below. The link is also available in the Rewst platform, on the setup page for this integration, and will be the correct version for your region.\
+
+
+[US](https://engine.rewst.io/configuration/flexpoint/get_certificate)
+
+[APAC](https://engine.rewst.asia/configuration/flexpoint/get_certificate)
+
+[UK](https://engine.eu.rewst.io/configuration/flexpoint/get_certificate)
+
+[EU](https://engine.rewst.eu/configuration/flexpoint/get_certificate)
 {% endhint %}
 
 ### Set up steps in FlexPoint
