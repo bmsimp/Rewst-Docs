@@ -4,6 +4,7 @@
 
 ## Documentation
 
+* [Rewst Dashboard](documentation/rewst-dashboard.md)
 * [Automations](documentation/automations/README.md)
   * [Workflows](documentation/automations/workflows/README.md)
     * [Workflow builder: How to set up a workflow](documentation/automations/workflows/workflow-builder-how-to-set-up-a-workflow.md)
@@ -282,6 +283,7 @@
       * [Discord integration](documentation/configuration/integrations/integration-guides/discord-integration-setup.md)
       * [DNSFilter integration](documentation/configuration/integrations/integration-guides/dns-filter-integration-setup.md)
       * [Duo integration setup](documentation/configuration/integrations/integration-guides/duo-integration-setup.md)
+      * [FlexPoint integration](documentation/configuration/integrations/integration-guides/flexpoint-integration.md)
       * [Freshdesk integration](documentation/configuration/integrations/integration-guides/freshdesk-integration-setup.md)
       * [GitHub integration](documentation/configuration/integrations/integration-guides/github-integration.md)
       * [GoDaddy integration](documentation/configuration/integrations/integration-guides/godaddy-integration-setup.md)
