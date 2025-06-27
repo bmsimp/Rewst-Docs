@@ -202,6 +202,7 @@
     * [Add or Remove Group Membership Crate](documentation/crates/existing-crate-documentation/add-or-remove-group-membership-crate.md)
     * [Alert on Expiring App Reg Certificates Crate](documentation/crates/existing-crate-documentation/alert-on-expiring-app-reg-certificates-crate.md)
     * [Alert on Expiring App Reg Secrets Crate](documentation/crates/existing-crate-documentation/alert-on-expiring-app-reg-secrets-crate.md)
+    * [Alert on Unused M365 Licenses Crate](documentation/crates/existing-crate-documentation/alert-on-unused-m365-licenses-crate.md)
     * [Alert when Users' Mailboxes are Reaching Quota Crate](documentation/crates/existing-crate-documentation/alert-when-users-mailboxes-are-reaching-quota-crate.md)
     * [Amend Mailbox Permissions Crate](documentation/crates/existing-crate-documentation/amend-mailbox-permissions-crate.md)
     * [Billing Count Report Crate](documentation/crates/existing-crate-documentation/billing-count-report-crate.md)
