@@ -9,7 +9,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 <summary><strong>New features and items</strong></summary>
 
 * **Engine**
-  * Workflows will now automatically restart delayed executions, enhancing reliability and reducing manual intervention.
+  * Improved workflow nudging functionality to automatically restart delayed executions, enhancing reliability and reducing manual intervention.
 
 </details>
 
