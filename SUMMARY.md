@@ -844,6 +844,7 @@
 * [Crate Marketplace updates](updates/marketplace-updates/README.md)
   * [2025 Crate Marketplace updates](updates/marketplace-updates/2025-marketplace-updates/README.md)
     * [July 11th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/july-11th-2025-marketplace-update.md)
+    * [July 4th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/july-4th-2025-marketplace-update.md)
     * [June 27th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/june-27th-2025-marketplace-update.md)
     * [June 20th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/june-20th-2025-marketplace-update.md)
     * [June 13th, 2025 - Marketplace Update](updates/marketplace-updates/2025-marketplace-updates/june-13th-2025-marketplace-update.md)
