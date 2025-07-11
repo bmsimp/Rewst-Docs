@@ -1,4 +1,4 @@
-# July 11, 2025 - Training update
+# June 27, 2025 - Training update
 
 Explore what new changes the Cluck University team made in the last week.
 
@@ -7,9 +7,10 @@ Explore what new changes the Cluck University team made in the last week.
 <summary><strong>General News and Reminders</strong></summary>
 
 * **SHOUT OUTS** **TO:**
-  * Angela, Justin, Mayur, John, Andrew, Nicole, Jack, Sven, Kole, Alden, Jesse, Aleksejs, Carlos, Reuben, Chris, Daniel, Carlos, Michael, Matthew, Phillip, Febb, Jackson, Xavier, Jesse, Josh, Ivan, Russell, Cameron, Michael, Justin, Peter, Ethan, and Mark for passing the Foundations Certification.
+  * Martyn, Daniel, Andrew, Du, Josh, Micah, Titus, Robert, Tim, Paul, Josiah for passing the Foundations Certification.
+    * And our very own Craig
     * Take the [Rewst Foundations](https://learn.rewst.io/rewst-foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
-  * Angela, Aleksejs, Matt, Steven, Carlos, London, Carlos, Daniel, Febb, Ojus, Jesse, Paul, Jackson, Ivan, Neal, Geoff, Doaa, Charlie, and Shraga for passing the Clean Automation Certification.
+  * Dave, Jonathan, Aston, and Tim for passing the Clean Automation Certification.
     * Take the [Clean Automation](https://learn.rewst.io/clean-automation-certification) exam and get that fancy certificate!
 
 - Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
@@ -23,20 +24,31 @@ Explore what new changes the Cluck University team made in the last week.
 
 **What's New at Cluck University?**
 
-* We've updated our [live training offerings](https://learn.rewst.io/page/live-training)!
-  * [Automation Basics ](https://learn.rewst.io/path/automation-basics)is on-demand only. For live support, sign up for [Office Hours](https://learn.rewst.io/cluck-university-office-hours) -- now available every Friday morning. We can help with Automation Basics and any other Cluck University content!
-  * [Rewst Foundations](https://learn.rewst.io/live-training-rewst-foundations) consists of three (3) hour-long sessions. To make the most of these shorter, fast-paced sessions, we strongly recommend completing the [Process engineering](https://learn.rewst.io/process-engineering-designed-for-automation) and [Automation Basics ](https://learn.rewst.io/path/automation-basics)courses in advance.
-  * [Clean Automation](https://learn.rewst.io/live-training-clean-automation) takes place monthly in three (3) hour-long sessions. We've cut 2 sessions, and recommend taking [Jinja in action](https://learn.rewst.io/jinja-in-action) in advance to fill in the gaps.
-  * We launched a new course: [Rewst technical pre-assessment](https://learn.rewst.io/rewst-technical-pre-assessment). Find out whether you should start with Automation Basics or skip ahead to Rewst Foundations with a quiz that checks your baseline knowledge. You'll receive an email with personalized learning recommendations after you submit the quiz.
+* **FINAL REMINDER**: Submit a simple workflow (or more!) by **MONDAY** June 30th for a chance to **WIN A PRIZE**:&#x20;
+  * [https://www.surveymonkey.com/r/automation101](https://www.surveymonkey.com/r/automation101). Your examples will help us build future training content!
+
+- The [Get Certified](https://learn.rewst.io/page/certificates) page has been revamped for easier navigation. Follow our recommended path: complete each training series, then take the corresponding exam.
+- We're updating our Micro Courses:
+
+| **Deprecated Micro Course**                                                                                                   | **New and improved courses/resources**                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Demystifying process automation](https://learn.rewst.io/demystifying-process-automation)                                     | [Process engineering](https://learn.rewst.io/process-engineering-designed-for-automation)                                                                                                                                                                         |
+| [How to scope an automation](https://learn.rewst.io/how-to-scope-an-automation)                                               | [Process engineering](https://learn.rewst.io/process-engineering-designed-for-automation)                                                                                                                                                                         |
+| [Identifying what to automate](https://learn.rewst.io/identifying-what-to-automate)                                           | [Process engineering](https://learn.rewst.io/process-engineering-designed-for-automation)                                                                                                                                                                         |
+| [The Crate marketplace](https://learn.rewst.io/the-crate-marketplace)                                                         | [Crate documentation](https://docs.rewst.help/documentation/crates)                                                                                                                                                                                               |
+| [Completion handlers](https://learn.rewst.io/completion-handlers)                                                             | [Getting started with completion handlers](https://learn.rewst.io/getting-started-with-completion-handlers)                                                                                                                                                       |
+| [Core triggers to kick off automations](https://learn.rewst.io/core-triggers-to-kick-off-automation)                          | [Updated documentation](https://docs.rewst.help/documentation/automations/intro-to-triggers#core-triggers)                                                                                                                                                        |
+| [Working with options generator workflows in Rewst](https://learn.rewst.io/working-with-options-generator-workflows-in-rewst) | <p><a href="https://learn.rewst.io/path/rewst-foundations/creating-an-option-generator">Option generators</a> from Rewst Foundations<br><br><a href="https://docs.rewst.help/documentation/automations/workflows/option-generator-workflows">Improved doc</a></p> |
+|                                                                                                                               |                                                                                                                                                                                                                                                                   |
 
 **New & Updated Documentation Pages:**
 
-* [Alert on Unused M365 Licenses Crate](../../../documentation/crates/existing-crate-documentation/alert-on-unused-m365-licenses-crate.md)
-* [CrushBank integration](../../../documentation/configuration/integrations/integration-guides/crushbank-integration.md)
-* [Slide integration ](../../../documentation/configuration/integrations/integration-guides/slide-integration.md)
-* [YAML parse transform action ](../../../documentation/automations/actions-in-rewst/transform-actions/add-or-subtract-from-datetime-transform-action.md)
-* [Organization variables](../../../documentation/configuration/organization-variables.md)
-* [Actions in Rewst](../../../documentation/automations/actions-in-rewst/transform-actions/any-transform-action.md)
+* [Thread Automations Crate](https://docs.rewst.help/documentation/crates/existing-crate-documentation/thread-automations-crate)
+* [Dashboard intro page](https://docs.rewst.help/documentation/rewst-dashboard)
+* [Datto PSA Kit documentation and its associated subworkflows](http://docs.rewst.help/documentation/automations/kits/datto-psa-integration-kit)
+* [FlexPoint integration](http://docs.rewst.help/documentation/configuration/integrations/integration-guides/flexpoint-integration)
+* [Comprehensive Rewst Forms List Crate](https://docs.rewst.help/documentation/crates/existing-crate-documentation/comprehensive-rewst-forms-list-crate)
+* [Clean up Global Address List from Disabled Users Crate](../../../documentation/crates/existing-crate-documentation/clean-up-global-address-list-from-disabled-users-crate.md)
 
 </details>
 
