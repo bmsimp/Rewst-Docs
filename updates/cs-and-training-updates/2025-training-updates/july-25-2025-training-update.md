@@ -10,7 +10,7 @@ Explore what new changes the Cluck University team made in the last week.
   * Will, Leo, Nodar, Scott, Tim, Steven, Rajeev, Joel, Filip, Sumit, Jason,  and Jim for passing the Foundations Certification.
     * Take the [Rewst Foundations](https://learn.rewst.io/rewst-foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
   * Bobby, Samuel, Steven, Lorenzo, Kole, Eric, and Jim for passing the Clean Automation Certification.
-    * And our very own, Tanner!
+    * And our very own Tanner!
       * Take the [Clean Automation](https://learn.rewst.io/clean-automation-certification) exam and get that fancy certificate!
 
 - Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
