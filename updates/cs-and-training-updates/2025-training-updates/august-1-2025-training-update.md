@@ -30,7 +30,7 @@ Explore what new changes the Cluck University team made in the last week.
 
 **New & Updated Documentation Pages:**
 
-* Docs will be back next week!&#x20;
+* Docs will be back from vacation next week!&#x20;
 
 </details>
 
