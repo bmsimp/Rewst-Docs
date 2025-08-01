@@ -8,8 +8,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>New features and items</strong></summary>
 
-* **Dashboard**
-  * Check back next week!
+* Check back next week!
 
 </details>
 
