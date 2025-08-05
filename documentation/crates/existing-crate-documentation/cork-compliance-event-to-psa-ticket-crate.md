@@ -38,10 +38,10 @@ Before unpacking this Crate, you must first:
 14. Select a **Board ID** from the drop-down selector.
 15. Select a **Ticket Creation Status**.
 16. Check the **(Optional) Ticket Type** box, if desired, and choose the type from the **Ticket Type** drop-down selector.
-17. Select a **Ticekt Closure Status**.
+17. Select a **Ticket Closure Status**.
 18. Click **Submit**.
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt="Screenshot of the REWST Cork Compliance Setup Form interface, displaying dropdown configuration fields including reporting type (set to “One Ticket With All Combined Events/Assets”), board ID (set to “IT:Level I”), ticket creation status (set to “New”), ticket closure status (set to “Complete”), and an optional ticket type section enabled with the ticket type set to “IT:Hardware.” Each field includes a refresh icon for dynamic updates, and required fields are marked with red asterisks."><figcaption></figcaption></figure>
 
 ## Use the Cork Compliance Event to PSA Ticket Crate
 
