@@ -17,17 +17,17 @@
   * Updated default\_psa var picker&#x20;
   * Fixed issue with Halo PSA&#x20;
   * Updated condition within org var configuration form&#x20;
-  * GWS: Onboard/Offboard
-    * Updated options gens associated with forms&#x20;
-  * Configure Organizational Variables
-    * Added new field to form for user to set `nable_rewst_powershell_script_id` var&#x20;
-  * Sync AzureAD Account Information with ConnectWise PSA Contacts (v3)
-    * Added new data alias `ignored_users` on starting noop&#x20;
-  * Microsoft: User Offboarding
-    * Updates the matching contact, instead of creating a new one&#x20;
-  * Document Group Details V2
-    * Raised default group member retrieval limit from 100 to 999&#x20;
-    * Added pagination logic to support retrieving more than 999 members&#x20;
+  * Updated options gens associated with forms&#x20;
+
+- Configure Organizational Variables
+  * Added new field to form for user to set `nable_rewst_powershell_script_id` var&#x20;
+- Sync AzureAD Account Information with ConnectWise PSA Contacts (v3)
+  * Added new data alias `ignored_users` on starting noop&#x20;
+- Microsoft: User Offboarding
+  * Updates the matching contact, instead of creating a new one&#x20;
+- Document Group Details V2
+  * Raised default group member retrieval limit from 100 to 999&#x20;
+  * Added pagination logic to support retrieving more than 999 members&#x20;
 
 </details>
 
