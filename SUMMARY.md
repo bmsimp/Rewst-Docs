@@ -253,6 +253,7 @@
     * [Organizational Setup Report Crate](documentation/crates/existing-crate-documentation/organizational-setup-report-crate.md)
     * [Prompt to Combine Similar Tickets Crate](documentation/crates/existing-crate-documentation/prompt-to-combine-similar-tickets-crate.md)
     * [Remove Malicious Email and Block Sender Crate](documentation/crates/existing-crate-documentation/remove-malicious-email-and-block-sender-crate.md)
+    * [Rewst Examples: Jinja Comprehension Crate](documentation/crates/existing-crate-documentation/rewst-examples-jinja-comprehension-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
     * [Time Savings Report Crate](documentation/crates/existing-crate-documentation/time-savings-report-crate.md)
     * [Triage SentinelOne Threat Alerts Crate](documentation/crates/existing-crate-documentation/triage-sentinelone-threat-alerts-crate.md)
