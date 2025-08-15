@@ -253,6 +253,7 @@
     * [OpenText Core Endpoint Protection: Create Ticket from File Detection Crate](documentation/crates/existing-crate-documentation/opentext-core-endpoint-protection-create-ticket-from-file-detection-crate.md)
     * [Organizational Setup Report Crate](documentation/crates/existing-crate-documentation/organizational-setup-report-crate.md)
     * [Prompt to Combine Similar Tickets Crate](documentation/crates/existing-crate-documentation/prompt-to-combine-similar-tickets-crate.md)
+    * [PSA: Update Ticket With User Offboard Links Crate](documentation/crates/existing-crate-documentation/psa-update-ticket-with-user-offboard-links-crate.md)
     * [Remove Malicious Email and Block Sender Crate](documentation/crates/existing-crate-documentation/remove-malicious-email-and-block-sender-crate.md)
     * [Rewst Examples: Jinja Comprehension Crate](documentation/crates/existing-crate-documentation/rewst-examples-jinja-comprehension-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
