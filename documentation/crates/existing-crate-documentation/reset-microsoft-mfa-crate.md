@@ -49,7 +49,7 @@ This Crate simplifies the process of authentication by allowing you to reset the
 1. Navigate to **Automations > Forms** in the left side menu of your Rewst platform.
 2. Search for `M365: Reset MS MFA`.
 3. Click **⋮ > Usages > View Direct URLs**.
-4. Click on the link to launch the form in a new tab.
+4. Click on the link for the organization which contains the user you wish to manage. This will launch the form in a new tab.
 5. Select the user you want to reset authentication for via the **User** drop-down selector.
 6. Choose your **Authentication Type** from the list in the drop-down selector:
    1. **App**
