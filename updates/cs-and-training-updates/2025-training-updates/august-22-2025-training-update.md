@@ -49,5 +49,6 @@ Explore what new changes the Cluck University team made in the last week.
   * [Average](../../../documentation/automations/actions-in-rewst/transform-actions/add-or-subtract-from-datetime-transform-action.md)
   * [Range](../../../documentation/automations/actions-in-rewst/transform-actions/add-or-subtract-from-datetime-transform-action.md)
   * [Convert from epoch](../../../documentation/automations/actions-in-rewst/transform-actions/add-or-subtract-from-datetime-transform-action.md)
+* A large clean up of our [App Builder documentation](https://docs.rewst.help/documentation/app-builder)
 
 </details>
