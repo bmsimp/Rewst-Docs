@@ -14,11 +14,11 @@ This can be anything from new features, bug fixes, or QoL changes!
 - Integrations
   * Added new transforms:
     * Extract part of a date
-      * Range transform
-      * Average transform
-      * Convert from Epoch
-      * URL Encode / Decode
-    * Freshdesk: Updated references from domain to subdomain for consistency
+    * Range transform
+    * Average transform
+    * Convert from Epoch
+    * URL Encode / Decode
+  * Freshdesk: Updated references from domain to subdomain for consistency
 
 </details>
 
