@@ -11,6 +11,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * **Integrations**
   * Added GPT-5 models to chat completions configuration
   * Updated Hudu integration icon&#x20;
+* Updated Sign in with Entra ID to Sign in with Microsoft on the login page
 
 </details>
 
@@ -41,7 +42,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>Coming Soon</strong></summary>
 
-* To make sign-in clearer for users, we will be updating the Microsoft login button from **Sign in with Entra ID** to **Sign in with Microsoft**. There's no change in functionality, and your login process for Microsoft stays the same.
 * DropSuite integration
 * BVoIP integration
 * Leader Integration
