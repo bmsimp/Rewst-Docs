@@ -193,6 +193,7 @@
     * [Alert when Users' Mailboxes are Reaching Quota Crate](documentation/crates/existing-crate-documentation/alert-when-users-mailboxes-are-reaching-quota-crate.md)
     * [Amend Calendar Permission on User Crate](documentation/crates/existing-crate-documentation/amend-calendar-permission-on-user-crate.md)
     * [Amend Mailbox Permissions Crate](documentation/crates/existing-crate-documentation/amend-mailbox-permissions-crate.md)
+    * [Assign Autotask Configuration Contact Based on Last Logged In User Crate](documentation/crates/existing-crate-documentation/assign-autotask-configuration-contact-based-on-last-logged-in-user-crate.md)
     * [Billing Count Report Crate](documentation/crates/existing-crate-documentation/billing-count-report-crate.md)
     * [Bulk Create Client from PSA Crate](documentation/crates/existing-crate-documentation/bulk-create-client-from-psa-crate.md)
     * [Change a User’s Password Crate](documentation/crates/existing-crate-documentation/change-a-users-password-crate.md)
