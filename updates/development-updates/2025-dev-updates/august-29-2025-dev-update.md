@@ -10,7 +10,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 * **Integrations**
   * Added GPT-5 models to chat completions configuration
-  * Updated Hudu integration icon with high-resolution SVG
+  * Updated Hudu integration icon&#x20;
 
 </details>
 
@@ -30,7 +30,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 - **Org Variables**
   * Enforced required organization variable fields to prevent error on save
-- App Builder
+- **App Builder**
   * Fixed an issue where creating new page-level permissions didn’t also grant the related app-level access, causing inconsistent behavior between page and app permissions.
 - **DevOps**
   * Improved cherry-pick handling for patch-release workflow
