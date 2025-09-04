@@ -108,7 +108,7 @@ $postData = $PS_Results | ConvertTo-Json Invoke-RestMethod -Method 'Post' -Uri $
 
 Contact the [Rewst Support Team](https://docs.rewst.help/support-and-community/roc-support) if you need help at any time!
 
-In your Discord server, the [#agent-smith ](https://discord.com/channels/936789089703845988/1184866106482110608)channel is a great place for community help with setting up and running Agent Smith. Post your questions and share your successes for how you're using Agent Smith to save time.
+In our Discord server, the [#agent-smith ](https://discord.com/channels/936789089703845988/1184866106482110608)channel is a great place for community help with setting up and running Agent Smith. Post your questions and share your successes for how you're using Agent Smith to save time.
 
 ## Agent Smith FAQs
 
