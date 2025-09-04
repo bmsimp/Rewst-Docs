@@ -23,6 +23,7 @@ Share feedback, and help us buff out any rough edges by [joining the early birds
 * **Easy Setup:** Simple device and service provisioning via Rewst Crates, suitable for domain controllers and endpoints.
 * **Secure CI/CD:** Ensures security and validity with automated builds, cryptographic signing, and SHA256 hashing.
 * **Seamless Integration:** Agents wait for Rewst messages, fitting effortlessly into existing automations.
+* **Rewst Supported:** Ask our [support team](https://docs.rewst.help/support-and-community/roc-support) will help you get up and going!
 
 ### Architecture
 
@@ -44,10 +45,10 @@ Share feedback, and help us buff out any rough edges by [joining the early birds
 * Follow the setup instructions [here](https://docs.rewst.help/community-corner/agent-smith/agent-smith-configuration-overview)
 
 {% hint style="info" %}
-**Zero Cost, Zero Guarantees.** While we're confident Agent Smith won't cause any tech havoc, please ensure you'll be able to test in a lab environment first.
+While we're confident Agent Smith won't cause any tech havoc, it's always a good idea to test in a lab environment first.
 {% endhint %}
 
-Remember, this is _your_ agent. Modify it, tweak it, make it yours. And if you're up for sharing, we'd love to include your expertise [in the repository](https://github.com/RewstApp/agent-smith-go)! Join the ⁠[#agent-smith](https://discord.com/channels/936789089703845988/1182467018084073524) channel on our Discord for more details and updates.
+Join the ⁠[#agent-smith](https://discord.com/channels/936789089703845988/1182467018084073524) channel on our Discord for more details and updates.
 
 {% hint style="success" %}
 Check out the [agent-smith-configuration-overview.md](agent-smith-configuration-overview.md "mention") page to set up and configure!
