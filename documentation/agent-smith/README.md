@@ -23,7 +23,7 @@ Share feedback, and help us buff out any rough edges by [joining the early birds
 * **Easy Setup:** Simple device and service provisioning via Rewst Crates, suitable for domain controllers and endpoints.
 * **Secure CI/CD:** Ensures security and validity with automated builds, cryptographic signing, and SHA256 hashing.
 * **Seamless Integration:** Agents wait for Rewst messages, fitting effortlessly into existing automations.
-* **Rewst Supported:** Ask our [support team](https://docs.rewst.help/support-and-community/roc-support) will help you get up and going!
+* **Rewst Supported:** Our [support team](https://docs.rewst.help/support-and-community/roc-support) will help you get up and going!
 
 ### Architecture
 
