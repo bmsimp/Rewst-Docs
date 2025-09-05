@@ -4,7 +4,7 @@ Explore what new changes the Cluck University team made in the last week.
 
 <details>
 
-<summary><strong>General News and Reminders</strong></summary>
+<summary><strong>General news and reminders</strong></summary>
 
 * **SHOUT OUTS** **TO:**
   * Karl, Logan, Cibrian, Sarthak, Niels, Sven, Salvatore, Dawson, Nhan, Monte, Ronald, and Lery for passing the Foundations Certification.
@@ -20,18 +20,19 @@ Explore what new changes the Cluck University team made in the last week.
 
 <details>
 
-<summary><strong>Cluck U and Documentation Updates</strong></summary>
+<summary><strong>Cluck U and documentation updates</strong></summary>
 
-**What's New at Cluck University?**
+**What's new at Cluck University?**
 
 * Deprecated outdated quick starts - new and improved ones coming soon!&#x20;
 * We've added question-level feedback to the [Jinja in action](https://learn.rewst.io/jinja-in-action) knowledge check.&#x20;
 * We’re talking with customers about education and would love your input — reach out in Discord or email clucku@rewst.io
 
-**New and Updated Documentation Pages:**
+**New and updated documentation pages:**
 
 * Expanded guidance for App Builder components, including custom components: [App Builder: Components](../../../documentation/app-builder/components.md)
 * Updated setup guidance for our Pax8 integration: [Pax8 integration](../../../documentation/configuration/integrations/integration-guides/pax8-integration-setup.md)
 * [Assign Autotask Configuration Contact Based on Last Logged In User Crate](../../../documentation/crates/existing-crate-documentation/assign-autotask-configuration-contact-based-on-last-logged-in-user-crate.md)
+* Documentation on our [Generic GraphQL request action](../../../documentation/automations/actions-in-rewst/generic-graphql-request-action.md)
 
 </details>
