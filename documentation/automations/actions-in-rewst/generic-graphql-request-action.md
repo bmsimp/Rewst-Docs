@@ -83,7 +83,7 @@ variable_values:
   workflowId: "{{ CTX.workflow_id }}"
 ```
 
-## Generic GraphQL request action: Allowed operations for non-staff organizations
+## Generic GraphQL request action: Allowed operations&#x20;
 
 ### Queries
 
@@ -700,7 +700,7 @@ evaluatedForm(
 
 </details>
 
-**Microsoft CSP Queries**
+#### **Microsoft CSP Queries**
 
 <details>
 
@@ -744,7 +744,7 @@ microsoftCSPCustomers(
 
 </details>
 
-**Trigger instance queries**
+#### **Trigger instance queries**
 
 <details>
 
@@ -792,7 +792,7 @@ orgTriggerInstances(
 
 </details>
 
-**Organization variable queries**
+#### **Organization variable queries**
 
 <details>
 
@@ -868,7 +868,7 @@ visibleOrgVariables(
 
 </details>
 
-**Organization management queries**
+#### **Organization management queries**
 
 <details>
 
@@ -982,7 +982,7 @@ softDeletedOrgs(managingOrgId: ID!): [Organization!]!
 
 </details>
 
-**Pack action option queries**
+#### **Pack action option queries**
 
 <details>
 
@@ -1035,7 +1035,7 @@ packActionOptions(
 
 </details>
 
-**Pack bundle queries**
+#### **Pack bundle queries**
 
 <details>
 
@@ -1076,7 +1076,7 @@ packBundles(
 
 </details>
 
-**Pack configuration queries**
+#### **Pack configuration queries**
 
 <details>
 
@@ -1148,7 +1148,7 @@ packConfigsForOrg(
 
 </details>
 
-**Pack management queries**
+#### **Pack management queries**
 
 <details>
 
@@ -1213,7 +1213,7 @@ type PacksAndBundlesByInstalledState {
 
 </details>
 
-**Page management queries**
+#### **Page management queries**
 
 <details>
 
@@ -3175,7 +3175,9 @@ updatePageNodeByCraftId(
 
 **Site mutations**
 
-**`createSite`**-Creates a new site/app.
+<details>
+
+<summary><strong><code>createSite</code></strong>-Creates a new site/app.</summary>
 
 **GraphQL schema:**
 
@@ -3195,7 +3197,11 @@ input SiteCreateInput {
 }
 ```
 
-**`updateSite`**-Updates an existing site/app.
+</details>
+
+<details>
+
+<summary><strong><code>updateSite</code></strong>-Updates an existing site/app.</summary>
 
 **GraphQL schema:**
 
@@ -3203,7 +3209,11 @@ input SiteCreateInput {
 updateSite(site: SiteUpdateInput!): Site
 ```
 
-**`updateSites`**-Updates multiple sites.
+</details>
+
+<details>
+
+<summary><strong><code>updateSites</code></strong>-Updates multiple sites.</summary>
 
 **GraphQL schema:**
 
@@ -3211,7 +3221,11 @@ updateSite(site: SiteUpdateInput!): Site
 updateSites(sites: [SiteUpdateInput!]!): [Site!]!
 ```
 
-**`deleteSite`**-Deletes a site/app.
+</details>
+
+<details>
+
+<summary><strong><code>deleteSite</code></strong>-Deletes a site/app.</summary>
 
 **GraphQL schema:**
 
@@ -3219,7 +3233,11 @@ updateSites(sites: [SiteUpdateInput!]!): [Site!]!
 deleteSite(id: ID!): Void
 ```
 
-**`validateSiteCustomDomainDNS`**-Validates custom domain DNS settings.
+</details>
+
+<details>
+
+<summary><strong><code>validateSiteCustomDomainDNS</code></strong>-Validates custom domain DNS settings.</summary>
 
 **GraphQL schema:**
 
@@ -3232,9 +3250,13 @@ type DNSValidationResponse {
 }
 ```
 
-#### **Tag mutations**
+</details>
 
-**`createTag`**-Creates a new tag.
+**Tag mutations**
+
+<details>
+
+<summary><strong><code>createTag</code></strong>-Creates a new tag.</summary>
 
 **GraphQL schema:**
 
@@ -3250,7 +3272,11 @@ input TagCreateInput {
 }
 ```
 
-**`deleteTag`**-Deletes a tag.
+</details>
+
+<details>
+
+<summary><strong><code>deleteTag</code></strong>-Deletes a tag.</summary>
 
 **GraphQL schema:**
 
@@ -3258,7 +3284,11 @@ input TagCreateInput {
 deleteTag(id: ID!): ID
 ```
 
-**`updateTag`**-Updates a tag.
+</details>
+
+<details>
+
+<summary><strong><code>updateTag</code></strong>-Updates a tag.</summary>
 
 **GraphQL schema:**
 
@@ -3266,7 +3296,11 @@ deleteTag(id: ID!): ID
 updateTag(tag: TagUpdateInput!): Tag
 ```
 
-**`updateTags`**-Updates multiple tags.
+</details>
+
+<details>
+
+<summary><strong><code>updateTags</code></strong>-Updates multiple tags.</summary>
 
 **GraphQL schema:**
 
@@ -3274,7 +3308,11 @@ updateTag(tag: TagUpdateInput!): Tag
 updateTags(tags: [TagUpdateInput!]!): [Tag!]!
 ```
 
-**`setOrganizationTags`**-Sets tags for an organization.
+</details>
+
+<details>
+
+<summary><strong><code>setOrganizationTags</code></strong>-Sets tags for an organization.</summary>
 
 **GraphQL schema:**
 
@@ -3282,9 +3320,13 @@ updateTags(tags: [TagUpdateInput!]!): [Tag!]!
 setOrganizationTags(tagIds: [ID!]!, orgId: ID!): Organization
 ```
 
-#### **Template mutations**
+</details>
 
-**`createTemplate`**-Creates a new template.
+**Template mutations**
+
+<details>
+
+<summary><strong><code>createTemplate</code></strong>-Creates a new template.</summary>
 
 **GraphQL schema:**
 
@@ -3333,6 +3375,8 @@ input TemplateCreateInput {
     - log_error:
         message: "GraphQL query failed: {{ RESULT.error }}"
 ````
+
+</details>
 
 ## Security considerations
 
