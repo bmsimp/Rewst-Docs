@@ -29,6 +29,7 @@
   * [Actions](documentation/automations/actions-in-rewst/README.md)
     * [Core actions](documentation/automations/actions-in-rewst/core-actions.md)
     * [Rewst actions](documentation/automations/actions-in-rewst/rewst-actions.md)
+    * [Generic GraphQL request action](documentation/automations/actions-in-rewst/generic-graphql-request-action.md)
     * [Transform actions](documentation/automations/actions-in-rewst/transform-actions/README.md)
       * [Add or subtract from DateTime transform action](documentation/automations/actions-in-rewst/transform-actions/add-or-subtract-from-datetime-transform-action.md)
       * [All transform action](documentation/automations/actions-in-rewst/transform-actions/all-transform-action.md)
