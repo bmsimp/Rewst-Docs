@@ -1,4 +1,4 @@
-# August 29, 2025 - Training update
+# September 5, 2025 - Training update
 
 Explore what new changes the Cluck University team made in the last week.
 
@@ -7,9 +7,10 @@ Explore what new changes the Cluck University team made in the last week.
 <summary><strong>General News and Reminders</strong></summary>
 
 * **SHOUT OUTS** **TO:**
-  * Lucas, Noah, James, Alex, Daniel, Craig, Revashlyn, Ceasar, Ardell, Bryan, Josh, and Spencer for passing the Foundations Certification.
+  * Karl, Logan, Cibrian, Sarthak, Niels, Sven, Salvatore, Dawson, Nhan, Monte, Ronald, and Lery for passing the Foundations Certification.
     * Take the [Rewst Foundations](https://learn.rewst.io/rewst-foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
-  * James, Noah, Orion, Anthony, Spencer, Davis, Ardell, Ceasar, and Lucas for passing the Clean Automation Certification.
+  * Sarthak, Karl, Sven, Monte, and Abraham for passing the Clean Automation Certification.
+    * And our very own Michael and JD from Rewst
   * Take the [Clean Automation](https://learn.rewst.io/clean-automation-certification) exam and get that fancy certificate!
 
 - Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
@@ -23,15 +24,14 @@ Explore what new changes the Cluck University team made in the last week.
 
 **What's New at Cluck University?**
 
-* Updated [Modifying Crates](https://learn.rewst.io/path/onboarding-learning-path/introduction-to-crates/323093) lesson
-* Lots of internal work!&#x20;
+* Deprecated outdated quick starts - new and improved ones coming soon!&#x20;
+* We've added question-level feedback to the [Jinja in action](https://learn.rewst.io/jinja-in-action) knowledge check.&#x20;
+* We’re talking with customers about education and would love your input — reach out in Discord or email clucku@rewst.io
 
 **New and Updated Documentation Pages:**
 
-* **Updated guidance for our Alert on Unused M365 License Crate:**\
-  [Alert on Unused M365 Licenses Crate](https://docs.rewst.help/documentation/crates/existing-crate-documentation/alert-on-unused-m365-licenses-crate)
-
-- **Updated guidance for how to whitelist domains in ThreatLocker to allow Rewst:**\
-  [ThreatLocker Whitelisting Guidance](http://docs.rewst.help/security/security-policy)
+* Expanded guidance for App Builder components, including custom components: [App Builder: Components](../../../documentation/app-builder/components.md)
+* Updated setup guidance for our Pax8 integration: [Pax8 integration](../../../documentation/configuration/integrations/integration-guides/pax8-integration-setup.md)
+* [Assign Autotask Configuration Contact Based on Last Logged In User Crate](../../../documentation/crates/existing-crate-documentation/assign-autotask-configuration-contact-based-on-last-logged-in-user-crate.md)
 
 </details>
