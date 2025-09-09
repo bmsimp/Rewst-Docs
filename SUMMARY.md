@@ -44,6 +44,7 @@
       * [Convert DateTime to timezone transform action](documentation/automations/actions-in-rewst/transform-actions/convert-datetime-to-timezone-transform-action.md)
       * [Defang transform action](documentation/automations/actions-in-rewst/transform-actions/defang-transform-action.md)
       * [Diff lists transform action](documentation/automations/actions-in-rewst/transform-actions/diff-lists.md)
+      * [Extract part of a date transform action](documentation/automations/actions-in-rewst/transform-actions/extract-part-of-a-date-transform-action.md)
       * [Flatten list transform action](documentation/automations/actions-in-rewst/transform-actions/flatten-list-transform-action.md)
       * [Format date time transform action](documentation/automations/actions-in-rewst/transform-actions/format-date-time-transform-action.md)
       * [Generate friendly password transform action](documentation/automations/actions-in-rewst/transform-actions/generate-friendly-password-transform-action.md)
