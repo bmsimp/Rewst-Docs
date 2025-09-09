@@ -13,6 +13,7 @@
     * [Best practices for designing workflows](documentation/automations/workflows/best-practices-for-designing-workflows.md)
     * [Advanced workflow operations menu](documentation/automations/workflows/advanced-workflow-operations-menu.md)
     * [Data input and output: Input variables and context variables](documentation/automations/workflows/data-input-and-output-input-variables-and-context-variables.md)
+    * [Troubleshoot workflow executions and task results](documentation/automations/workflows/troubleshoot-workflow-executions-and-task-results.md)
     * [Option generator workflows](documentation/automations/workflows/option-generator-workflows.md)
     * [Completion handlers and workflow wrappers](documentation/automations/workflows/completion-handlers-and-workflow-wrappers.md)
     * [Boolean logic in Rewst workflows](documentation/automations/workflows/boolean-logic-in-rewst-workflows.md)
