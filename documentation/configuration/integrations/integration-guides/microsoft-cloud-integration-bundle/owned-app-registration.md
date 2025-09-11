@@ -31,7 +31,7 @@ Below is a high-level walkthrough of what you need to configure your owned app i
 
 ## **Minimum permissions needed**
 
-### Owned app registration: Azure integration
+### Owned app registration: Microsoft Azure integration
 
 In order to use the Azure Integration, you will need the following at minimum:&#x20;
 
@@ -53,14 +53,14 @@ In order to use the Microsoft Graph Subscription Triggers, the following permiss
 
 <figure><img src="../../../../../.gitbook/assets/MS_Graph_Triggers_permissions_needed.png" alt=""><figcaption></figcaption></figure>
 
-### Owned app registration: CSP integration
+### Owned app registration: Microsoft CSP integration
 
-These are the permissions required to use the CSP integration:
+These are the permissions required to use the Microsoft CSP integration:
 
 <figure><img src="../../../../../.gitbook/assets/csp_permissions_needed.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Make sure to choose the _Microsoft Partner Center_ API highlighted below as the duplicates will cause issues with your integration.
+Make sure to choose the **Microsoft Partner Center** API highlighted below as the duplicates will cause issues with your integration.
 {% endhint %}
 
 <figure><img src="../../../../../.gitbook/assets/msft-app-ids (1).png" alt=""><figcaption></figcaption></figure>
@@ -76,7 +76,7 @@ When choosing the Auth Subject:
 
 <figure><img src="../../../../../.gitbook/assets/single-tenant-multi-tenant-owned-app.png" alt=""><figcaption></figcaption></figure>
 
-### Owned app registration: EXO integration
+### Owned app registration: Microsoft EXO integration
 
 In order to use the EXO Integration, the highlighted permissions are required:
 

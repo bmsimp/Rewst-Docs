@@ -21,17 +21,29 @@ The Users trigger is a webhook trigger that receives webhooks whenever a change 
 * **Type**: Webhook trigger
 * **Webhook URL template**: `/webhooks/microsoft_graph/{trigger_id}/{org_id}`
 
-#### User Trigger Parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#user-trigger-parameters) <a href="#user-trigger-parameters" id="user-trigger-parameters"></a>
+<details>
+
+<summary>User trigger parameters​</summary>
 
 The following are the parameters that can be passed to the Users trigger:
 
 <table><thead><tr><th width="174">Name</th><th width="118">Data Type</th><th width="204">Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>chats/getAllMessages</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>60</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>created,updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr></tbody></table>
 
-#### User output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#user-output) <a href="#user-output" id="user-output"></a>
+
+
+</details>
+
+<details>
+
+<summary>User output​</summary>
 
 The Users trigger has a default output schema that includes the following fields:
 
 <table><thead><tr><th width="222.33333333333331">Parameter</th><th width="178">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
+
+
+
+</details>
 
 ### Group changes
 
@@ -44,101 +56,183 @@ The Users trigger has a default output schema that includes the following fields
 * **Type**: Webhook
 * **Webhook URL Template**: `/webhooks/microsoft_graph/{trigger_id}/{org_id}`
 
-#### Group trigger parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#group-trigger-parameters) <a href="#group-trigger-parameters" id="group-trigger-parameters"></a>
+<details>
+
+<summary>Group trigger parameters​</summary>
 
 The following parameters are available for the Groups trigger:
 
 <table><thead><tr><th width="163">Name</th><th width="131">Data Type</th><th width="202">Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>chats/getAllMessages</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>60</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>created,updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr></tbody></table>
 
-#### Group output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#group-output) <a href="#group-output" id="group-output"></a>
+</details>
+
+<details>
+
+<summary>Group output​</summary>
 
 The output schema for the Groups trigger is an object with the following properties:
 
 <table><thead><tr><th width="294">Parameter</th><th width="125">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
 
+</details>
+
 ### New chat message
 
 **Purpose**: To receive notifications for changes in chat messages across all chats.
 
-#### Chat message parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#chat-message-parameters) <a href="#chat-message-parameters" id="chat-message-parameters"></a>
+<details>
+
+<summary>Chat message parameters​</summary>
 
 <table><thead><tr><th>Name</th><th width="132">Data Type</th><th width="204">Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>chats/getAllMessages</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>60</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>created,updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr><tr><td>decrypt_messages</td><td><code>bool</code></td><td><code>true</code></td><td>Whether or not to decrypt the message payloads in incoming webhooks from this subscription.</td></tr></tbody></table>
 
-#### Chat message output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#chat-message-output) <a href="#chat-message-output" id="chat-message-output"></a>
+
+
+</details>
+
+<details>
+
+<summary>Chat message output​</summary>
 
 The output schema for the Chat trigger is an object with the following properties:
 
 <table><thead><tr><th width="229">Parameter</th><th width="133">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>decryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>encryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
 
+</details>
+
+<details>
+
+<summary>Output schema</summary>
+
 The output schema for the Chat trigger `decryptedContent` property is object with the following properties:
 
 <table><thead><tr><th width="233">Field</th><th width="141">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the chat message.</td></tr><tr><td>replyToId</td><td>string</td><td>The ID of the message that this message is a reply to.</td></tr><tr><td>from</td><td>object</td><td>The sender of the chat message.</td></tr><tr><td>etag</td><td>string</td><td>An opaque string value that changes whenever the message is changed or deleted.</td></tr><tr><td>messageType</td><td>string</td><td>The type of the chat message.</td></tr><tr><td>createdDateTime</td><td>datetime</td><td>The timestamp of when the chat message was created.</td></tr><tr><td>lastModifiedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last modified.</td></tr><tr><td>lastEditedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last edited.</td></tr><tr><td>deletedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was deleted.</td></tr><tr><td>subject</td><td>string</td><td>The subject of the chat message.</td></tr><tr><td>body</td><td>object</td><td>The content of the chat message.</td></tr><tr><td>summary</td><td>string</td><td>A short summary of the chat message.</td></tr><tr><td>attachments</td><td>array</td><td>The attachments (if any) associated with the chat message.</td></tr><tr><td>mentions</td><td>array</td><td>The mentions (if any) in the chat message.</td></tr><tr><td>importance</td><td>string</td><td>The importance of the chat message.</td></tr><tr><td>reactions</td><td>array</td><td>The reactions (if any) to the chat message.</td></tr><tr><td>locale</td><td>string</td><td>The locale of the chat message.</td></tr><tr><td>policyViolation</td><td>object</td><td>If the chat message violates a policy, this property provides details.</td></tr><tr><td>chatId</td><td>string</td><td>The ID of the chat thread.</td></tr><tr><td>channelIdentity</td><td>object</td><td>The identity of the channel where the chat message was posted.</td></tr><tr><td>webUrl</td><td>string</td><td>The URL of the chat message in the Teams UI.</td></tr><tr><td>eventDetail</td><td>object</td><td>Additional details about the chat message event.</td></tr></tbody></table>
 
+
+
+</details>
+
 ### New chat message subscription by chat ID
 
-This trigger receives webhook notifications from Microsoft Graph for changes to chat messages in a specific chat. See [these instructions](https://www.c-sharpcorner.com/blogs/how-to-fetch-the-teams-id-and-channel-id-for-microsoft-teams) to get the chat ID from Microsoft Teams.
+**Purpose:** This trigger receives webhook notifications from Microsoft Graph for changes to chat messages in a specific chat. See [these instructions](https://www.c-sharpcorner.com/blogs/how-to-fetch-the-teams-id-and-channel-id-for-microsoft-teams) to get the chat ID from Microsoft Teams.
 
-#### Chat message by chat ID parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#chat-message-by-chat-id-parameters) <a href="#chat-message-by-chat-id-parameters" id="chat-message-by-chat-id-parameters"></a>
+<details>
+
+<summary>Chat message by chat ID parameters​</summary>
 
 <table><thead><tr><th width="165">Name</th><th width="131">Data Type</th><th width="205">Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>chats/getAllMessages</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>60</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>created,updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr><tr><td>decrypt_messages</td><td><code>bool</code></td><td><code>true</code></td><td>Whether or not to decrypt the message payloads in incoming webhooks from this subscription.</td></tr><tr><td>chat_id</td><td>string</td><td><code>undefined</code></td><td>The chat ID to subscribe to</td></tr></tbody></table>
 
-#### Chat message by chat ID output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#chat-message-by-chat-id-output) <a href="#chat-message-by-chat-id-output" id="chat-message-by-chat-id-output"></a>
+</details>
+
+<details>
+
+<summary>Chat message by chat ID output​</summary>
 
 The output schema for the Chat trigger is an object with the following properties:
 
 <table><thead><tr><th width="252">Parameter</th><th width="147">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>decryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>encryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
 
+
+
+</details>
+
+<details>
+
+<summary>Output schema</summary>
+
 The output schema for the Chat trigger `decryptedContent` property is object with the following properties:
 
 <table><thead><tr><th width="256">Field</th><th width="146">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the chat message.</td></tr><tr><td>replyToId</td><td>string</td><td>The ID of the message that this message is a reply to.</td></tr><tr><td>from</td><td>object</td><td>The sender of the chat message.</td></tr><tr><td>etag</td><td>string</td><td>An opaque string value that changes whenever the message is changed or deleted.</td></tr><tr><td>messageType</td><td>string</td><td>The type of the chat message.</td></tr><tr><td>createdDateTime</td><td>datetime</td><td>The timestamp of when the chat message was created.</td></tr><tr><td>lastModifiedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last modified.</td></tr><tr><td>lastEditedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last edited.</td></tr><tr><td>deletedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was deleted.</td></tr><tr><td>subject</td><td>string</td><td>The subject of the chat message.</td></tr><tr><td>body</td><td>object</td><td>The content of the chat message.</td></tr><tr><td>summary</td><td>string</td><td>A short summary of the chat message.</td></tr><tr><td>attachments</td><td>array</td><td>The attachments (if any) associated with the chat message.</td></tr><tr><td>mentions</td><td>array</td><td>The mentions (if any) in the chat message.</td></tr><tr><td>importance</td><td>string</td><td>The importance of the chat message.</td></tr><tr><td>reactions</td><td>array</td><td>The reactions (if any) to the chat message.</td></tr><tr><td>locale</td><td>string</td><td>The locale of the chat message.</td></tr><tr><td>policyViolation</td><td>object</td><td>If the chat message violates a policy, this property provides details.</td></tr><tr><td>chatId</td><td>string</td><td>The ID of the chat thread.</td></tr><tr><td>channelIdentity</td><td>object</td><td>The identity of the channel where the chat message was posted.</td></tr><tr><td>webUrl</td><td>string</td><td>The URL of the chat message in the Teams UI.</td></tr><tr><td>eventDetail</td><td>object</td><td>Additional details about the chat message event.</td></tr></tbody></table>
 
+</details>
+
 ### New teams message
 
-Changes to chat messages in all channels in all teams.
+**Purpose**: Changes to chat messages in all channels in all teams.
 
-#### All channels chat messages parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#all-channels-chat-messages-parameters) <a href="#all-channels-chat-messages-parameters" id="all-channels-chat-messages-parameters"></a>
+<details>
+
+<summary>All channels chat messages parameters​</summary>
 
 <table><thead><tr><th>Name</th><th width="139">Data Type</th><th width="215">Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>teams/getAllMessages</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>60</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>created,updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr><tr><td>decrypt_messages</td><td><code>bool</code></td><td><code>true</code></td><td>Whether or not to decrypt the message payloads in incoming webhooks from this subscription.</td></tr></tbody></table>
 
-#### All channels chat messages output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#all-channels-chat-messages-output) <a href="#all-channels-chat-messages-output" id="all-channels-chat-messages-output"></a>
+</details>
+
+<details>
+
+<summary>All channels chat messages output​</summary>
 
 The output schema for the Teams trigger is an object with the following properties:
 
 <table><thead><tr><th width="290">Parameter</th><th width="137">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>decryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>encryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
 
+</details>
+
+<details>
+
+<summary>Output schema</summary>
+
 The output schema for the Chat trigger `decryptedContent` property is object with the following properties:
 
 <table><thead><tr><th width="270">Field</th><th width="131">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the chat message.</td></tr><tr><td>replyToId</td><td>string</td><td>The ID of the message that this message is a reply to.</td></tr><tr><td>from</td><td>object</td><td>The sender of the chat message.</td></tr><tr><td>etag</td><td>string</td><td>An opaque string value that changes whenever the message is changed or deleted.</td></tr><tr><td>messageType</td><td>string</td><td>The type of the chat message.</td></tr><tr><td>createdDateTime</td><td>datetime</td><td>The timestamp of when the chat message was created.</td></tr><tr><td>lastModifiedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last modified.</td></tr><tr><td>lastEditedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last edited.</td></tr><tr><td>deletedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was deleted.</td></tr><tr><td>subject</td><td>string</td><td>The subject of the chat message.</td></tr><tr><td>body</td><td>object</td><td>The content of the chat message.</td></tr><tr><td>summary</td><td>string</td><td>A short summary of the chat message.</td></tr><tr><td>attachments</td><td>array</td><td>The attachments (if any) associated with the chat message.</td></tr><tr><td>mentions</td><td>array</td><td>The mentions (if any) in the chat message.</td></tr><tr><td>importance</td><td>string</td><td>The importance of the chat message.</td></tr><tr><td>reactions</td><td>array</td><td>The reactions (if any) to the chat message.</td></tr><tr><td>locale</td><td>string</td><td>The locale of the chat message.</td></tr><tr><td>policyViolation</td><td>object</td><td>If the chat message violates a policy, this property provides details.</td></tr><tr><td>chatId</td><td>string</td><td>The ID of the chat thread.</td></tr><tr><td>channelIdentity</td><td>object</td><td>The identity of the channel where the chat message was posted.</td></tr><tr><td>webUrl</td><td>string</td><td>The URL of the chat message in the Teams UI.</td></tr><tr><td>eventDetail</td><td>object</td><td>Additional details about the chat message event.</td></tr></tbody></table>
 
+
+
+</details>
+
 ### New teams message subscription by team and channel ID
 
-Changes to chat messages in a specific channel. See [these instructions](https://www.c-sharpcorner.com/blogs/how-to-fetch-the-teams-id-and-channel-id-for-microsoft-teams) to get the team ID and channel ID from Microsoft Teams.
+**Purpose:** Changes to chat messages in a specific channel. See [these instructions](https://www.c-sharpcorner.com/blogs/how-to-fetch-the-teams-id-and-channel-id-for-microsoft-teams) to get the team ID and channel ID from Microsoft Teams.
 
-#### Teams message parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#teams-message-parameters) <a href="#teams-message-parameters" id="teams-message-parameters"></a>
+<details>
+
+<summary>Teams message parameters​</summary>
 
 <table><thead><tr><th width="163">Name</th><th width="128">Data Type</th><th width="206">Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>teams/getAllMessages</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>60</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>created,updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr><tr><td>decrypt_messages</td><td><code>bool</code></td><td><code>true</code></td><td>Whether or not to decrypt the message payloads in incoming webhooks from this subscription.</td></tr><tr><td>team_id</td><td>string</td><td><code>undefined</code></td><td>The channel ID to subscribe to</td></tr><tr><td>channel_id</td><td>string</td><td><code>undefined</code></td><td>The team ID of the channel to subscribe to</td></tr></tbody></table>
 
-#### Teams message output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#teams-message-output) <a href="#teams-message-output" id="teams-message-output"></a>
+</details>
+
+<details>
+
+<summary>Teams message output​</summary>
 
 The output schema for the Teams trigger is an object with the following properties:
 
 <table><thead><tr><th width="298">Parameter</th><th width="135">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>decryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>encryptedContent</td><td>object</td><td>The resource data object describing the change notification.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
 
+</details>
+
+<details>
+
+<summary>Output schema</summary>
+
 The output schema for the Chat trigger `decryptedContent` property is object with the following properties:
 
 <table><thead><tr><th width="295">Field</th><th width="133">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the chat message.</td></tr><tr><td>replyToId</td><td>string</td><td>The ID of the message that this message is a reply to.</td></tr><tr><td>from</td><td>object</td><td>The sender of the chat message.</td></tr><tr><td>etag</td><td>string</td><td>An opaque string value that changes whenever the message is changed or deleted.</td></tr><tr><td>messageType</td><td>string</td><td>The type of the chat message.</td></tr><tr><td>createdDateTime</td><td>datetime</td><td>The timestamp of when the chat message was created.</td></tr><tr><td>lastModifiedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last modified.</td></tr><tr><td>lastEditedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was last edited.</td></tr><tr><td>deletedDateTime</td><td>datetime</td><td>The timestamp of when the chat message was deleted.</td></tr><tr><td>subject</td><td>string</td><td>The subject of the chat message.</td></tr><tr><td>body</td><td>object</td><td>The content of the chat message.</td></tr><tr><td>summary</td><td>string</td><td>A short summary of the chat message.</td></tr><tr><td>attachments</td><td>array</td><td>The attachments (if any) associated with the chat message.</td></tr><tr><td>mentions</td><td>array</td><td>The mentions (if any) in the chat message.</td></tr><tr><td>importance</td><td>string</td><td>The importance of the chat message.</td></tr><tr><td>reactions</td><td>array</td><td>The reactions (if any) to the chat message.</td></tr><tr><td>locale</td><td>string</td><td>The locale of the chat message.</td></tr><tr><td>policyViolation</td><td>object</td><td>If the chat message violates a policy, this property provides details.</td></tr><tr><td>chatId</td><td>string</td><td>The ID of the chat thread.</td></tr><tr><td>channelIdentity</td><td>object</td><td>The identity of the channel where the chat message was posted.</td></tr><tr><td>webUrl</td><td>string</td><td>The URL of the chat message in the Teams UI.</td></tr><tr><td>eventDetail</td><td>object</td><td>Additional details about the chat message event.</td></tr></tbody></table>
 
+</details>
+
 ### New security alert
 
-This trigger receives webhook notifications from Microsoft Graph for new Security Alerts.
+**Purpose:** This trigger receives webhook notifications from Microsoft Graph for new Security Alerts.
 
-### Security alert parameters[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#security-alert-parameters) <a href="#security-alert-parameters" id="security-alert-parameters"></a>
+<details>
+
+<summary>Security alert parameters</summary>
 
 <table><thead><tr><th>Name</th><th width="166">Data Type</th><th>Default Value</th><th>Description</th></tr></thead><tbody><tr><td>resource</td><td>immutable <code>str</code></td><td>security/alerts?$filter=Status eq 'NewAlert'</td><td>The resource to subscribe to.</td></tr><tr><td>max_expiration_time_minutes</td><td>immutable <code>int</code></td><td>43100</td><td>The maximum amount of time (in minutes) before the subscription expires.</td></tr><tr><td>change_type</td><td>immutable <code>str</code></td><td>updated</td><td>The type of change to listen for. Possible values are "created", "updated", "deleted", and "deleted,updated".</td></tr></tbody></table>
 
-### Security alert output[​](http://localhost:3000/docs/integrations/Cloud/Microsoft-Graph/ms-graph-subscriptions#security-alert-output) <a href="#security-alert-output" id="security-alert-output"></a>
+</details>
+
+<details>
+
+<summary>Security alert output​</summary>
 
 The output schema for the Security Alerts trigger is an object with the following properties:
 
 <table><thead><tr><th width="298">Parameter</th><th width="136">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>The ID of the change notification.</td></tr><tr><td>subscriptionId</td><td>string</td><td>The ID of the subscription.</td></tr><tr><td>subscriptionExpirationDateTime</td><td>datetime</td><td>The expiration datetime for this subscription.</td></tr><tr><td>changeType</td><td>string</td><td>The type of changes being subscribed to.</td></tr><tr><td>clientState</td><td>string</td><td>An ID used internally to validate the subscription payloads.</td></tr><tr><td>tenantId</td><td>string</td><td>The Microsoft tenant ID tied to this subscription.</td></tr><tr><td>resourceData</td><td>object</td><td>The resource data object describing the change notification.</td></tr></tbody></table>
+
+
+
+</details>
 
