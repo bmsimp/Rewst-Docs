@@ -119,9 +119,18 @@ We've broken down instructions into four larger steps, each with its own section
 Only Microsoft authentication is permissible. Providers like Duo are incompatible. For more information, see Microsoft's page on [Supported MFA options](https://learn.microsoft.com/en-us/partner-center/partner-security-requirements-mandating-mfa#supported-mfa-options).
 {% endhint %}
 
-#### Modify conditional access policy in Microsoft Azure
+#### Modify conditional access policy in Microsoft Azure: Set up your MSP's policies
 
-Granular access is influenced by your clients' conditional access policies. To ensure seamless access to your clients using your Rewst integration user, follow these steps
+1. Navigate to the [Conditional Access Policies](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies) blade in Azure.
+2. Remove the Rewst service account from any existing policies which may have been inherited at the time of its creation. If there are no existing policies, move on to the next step.
+3. Create a New Policy.
+   * **Include Rewst User**: Add the Rewst user to the policy
+   * **Enforce MFA**: Mandate Azure Multi-factor Authentication for each login and application if you have not done so already
+   * **Policy Name**: Save this policy under the name `Rewst Conditional Access Policy`
+
+#### Modify conditional access policy in Microsoft Azure: Set up your Client's policies
+
+Granular access is influenced by your clients' [conditional access policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview). To ensure seamless access to your clients using your Rewst integration user, follow these steps
 
 1. Navigate to your client's [Conditional Access Policies](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies) blade in Azure.
 2. &#x20;For each policy listed, add an exclusion to **Users and Groups** with these settings:
@@ -131,12 +140,14 @@ Granular access is influenced by your clients' conditional access policies. To e
 
 {% hint style="info" %}
 **Note**: Excluding the MSP from the Conditional Access Policy is recommended as per [Microsoft's GDAP Documentation](https://learn.microsoft.com/en-us/partner-center/gdap-faq#what-is-the-recommended-next-step-if-the-conditional-access-policy-set-by-the-customer-blocks-all-external-access-including-csps-access-aobo-to-the-customers-tenant).
+
+**Post-modification behavior**
+
+* **Propagation time**: Changes may take up to an hour to become active in the Rewst environment.
+* **Quick refresh**: Click the blue shield icon next to the client's name on the Microsoft Cloud Integration Bundle page in Rewst to expedite propagation.
 {% endhint %}
 
-3\. Post-Modification Behavior
 
-* **Propagation Time**: Changes may take up to an hour to become active in the Rewst environment.
-* **Quick Refresh**: Click the blue shield icon next to the client's name on the Microsoft Cloud Integration Bundle page in Rewst to expedite propagation.
 
 ### Step 2: Register the enterprise app and authorize the Rewst integration
 
