@@ -1,7 +1,7 @@
 # Microsoft Cloud Integration Bundle
 
 {% hint style="warning" %}
-Rewst's previous setup for Microsoft was separate integrations for each Microsoft app. If you are an older Rewst customer and have not yet migrated from our individual integration to bundle configuration, please see the below section for how to Migrate to the [Microsoft Cloud Integration Bundle](https://app.gitbook.com/u/kmMNMlugUvf2cfCtyBQgNnIYH1H2).&#x20;
+Rewst's previous setup for Microsoft was separate integrations for each Microsoft app. If you are an older Rewst customer and have not yet migrated from our individual integration to bundle configuration, please see the below section for how to [Migrate to the Microsoft Cloud Integration Bundle.](./#migrate-legacy-microsoft-integrations-to-the-new-microsoft-cloud-integration-bundle)&#x20;
 {% endhint %}
 
 ## What is the Microsoft Cloud Integration Bundle?
@@ -32,7 +32,7 @@ You'll be prompted to check off any or all of the following integrations to be i
 2. **Microsoft Exchange Online:** The cloud-hosted version of the traditional Microsoft Exchange Server, offering similar functionalities but without the need for on-premises server infrastructure.\
    :point\_right: You should check this box to install the integration to allow you to send Exchange Online PowerShell commands.
 3. **Microsoft Cloud Solution Provider (CSP)**: This allows for the resale of Microsoft cloud services like Azure, Microsoft 365, and Dynamics 365 to businesses, often with added value services. It's a subscription-based model where MSPs can bill customers.\
-   :point\_right: You should check this box to install the integration to allow you to send Exchange Online PowerShell commands.
+   :point\_right: You should check this box if you use the Microsoft Partner Center and want to run Rewst actions against your customer tenants.
 4. **Microsoft Azure**: A cloud computing platform, Azure offers a range of cloud infrastructure services, including computing, analytics, storage, networking, and AI. Note that Microsoft formerly called a different tool Azure, and renamed that tool Microsoft Entra.\
    :point\_right: You should check this box to install the integration if you are already an Azure user and have an existing [Azure key vault ](https://learn.microsoft.com/en-us/azure/key-vault/general/basic-concepts)set up with Microsoft.&#x20;
 
