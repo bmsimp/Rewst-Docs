@@ -217,6 +217,8 @@
     * [Document User Details V2 Crate](documentation/crates/existing-crate-documentation/document-user-details-v2-crate.md)
     * [Export Intune Policies and Configurations Crate](documentation/crates/existing-crate-documentation/export-intune-policies-and-configurations-crate.md)
     * [Huntress EDR: AD Account Lockdown Crate](documentation/crates/existing-crate-documentation/huntress-edr-ad-account-lockdown-crate.md)
+    * [Google: User Offboarding Crate](documentation/crates/existing-crate-documentation/google-user-offboarding-crate.md)
+    * [Google: User Onboarding Crate](documentation/crates/existing-crate-documentation/google-user-onboarding-crate.md)
     * [Identify Users in Bypass Mode Crate](documentation/crates/existing-crate-documentation/identify-users-in-bypass-mode-crate.md)
     * [Install Acronis Backup Agent on Devices Crate](documentation/crates/existing-crate-documentation/install-acronis-backup-agent-on-devices-crate.md)
     * [Install Ad-Hoc Software Crate](documentation/crates/existing-crate-documentation/install-ad-hoc-software-crate.md)
