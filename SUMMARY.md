@@ -308,6 +308,7 @@
       * [Kaseya BMS integration](documentation/configuration/integrations/integration-guides/kaseya-bms-integration-setup.md)
       * [Kaseya VSA integration](documentation/configuration/integrations/integration-guides/kaseya-vsa-integration-setup.md)
       * [Kaseya VSA X integration](documentation/configuration/integrations/integration-guides/kaseya-vsa-x-integration-setup.md)
+      * [Leader Cloud integration](documentation/configuration/integrations/integration-guides/leader-cloud-integration.md)
       * [Liongard integration](documentation/configuration/integrations/integration-guides/liongard-integration-setup.md)
       * [Mailgun integration](documentation/configuration/integrations/integration-guides/mailgun-integration-setup.md)
       * [Microsoft Cloud Integration Bundle](documentation/configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/README.md)
