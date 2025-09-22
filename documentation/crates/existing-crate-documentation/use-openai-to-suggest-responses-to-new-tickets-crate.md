@@ -15,7 +15,7 @@ The workflow only acts on tickets with a single note to avoid interfering with t
 1. The workflow starts and identifies which PSA system sent the trigger by checking the organization's default PSA setting.
 2. **It waits** briefly to see if other automations will handle the ticket first, avoiding duplicate responses.
 3. Based on the PSA type, it fetches ticket notes:
-   * **ConnectWise Manage**: Lists service ticket notes
+   * **ConnectWise PSA**: Lists service ticket notes
    * **Datto PSA**: Lists notes on ticket&#x20;
    * **Halo PSA**: Lists ticket actions and notes
    * **Kaseya BMS**: Uses ticket details directly
