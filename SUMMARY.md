@@ -248,6 +248,7 @@
     * [Reset Microsoft MFA Crate](documentation/crates/existing-crate-documentation/reset-microsoft-mfa-crate.md)
     * [Rewst Examples: Jinja Comprehension Crate](documentation/crates/existing-crate-documentation/rewst-examples-jinja-comprehension-crate.md)
     * [Rotate Account Passwords Crate](documentation/crates/existing-crate-documentation/rotate-account-passwords-crate.md)
+    * [Run PowerShell Script on Selected Devices Crate](documentation/crates/existing-crate-documentation/run-powershell-script-on-selected-devices-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
     * [Time Savings Report Crate](documentation/crates/existing-crate-documentation/time-savings-report-crate.md)
     * [Triage SentinelOne Threat Alerts Crate](documentation/crates/existing-crate-documentation/triage-sentinelone-threat-alerts-crate.md)
