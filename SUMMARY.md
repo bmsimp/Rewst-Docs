@@ -207,6 +207,7 @@
     * [Configure Organizational Variables Crate](documentation/crates/existing-crate-documentation/configure-organization-variables.md)
     * [Configure Out of Office on Mailbox Crate](documentation/crates/existing-crate-documentation/configure-out-of-office-on-mailbox-crate.md)
     * [ConnectWise PSA Agreement Mapping Crate](documentation/crates/existing-crate-documentation/connectwise-psa-agreement-mapping.md)
+    * [Consolidate and Manage Duplicate Configurations Crate](documentation/crates/existing-crate-documentation/consolidate-and-manage-duplicate-configurations-crate.md)
     * [Cork Compliance Event to PSA Ticket Crate](documentation/crates/existing-crate-documentation/cork-compliance-event-to-psa-ticket-crate.md)
     * [CWM: Technician Toolbox via Pod Crate](documentation/crates/existing-crate-documentation/cwm-technician-toolbox-via-pod.md)
     * [CW PSA: Pod Technician Toolbox Crate V2](documentation/crates/existing-crate-documentation/cwm-technician-toolbox-via-pod-1.md)
