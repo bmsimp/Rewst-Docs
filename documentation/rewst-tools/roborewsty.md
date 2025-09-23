@@ -51,9 +51,14 @@ In future releases of this Rewst feature, RoboRewsty will expand to be able to h
 
 ## How RoboRewsty works
 
-RoboRewsty is built right into Rewst and powered by Anthropic’s Claude, hosted via AWS Bedrock. It doesn’t have free access to your data. Instead, it works through Rewst’s existing permissions to give you the same scoped, secure access you already have in the platform.
+RoboRewsty is built right into Rewst and powered by Anthropic’s Claude. If Claude isn't available, we automatically switch over to use Azure's OpenAI. This is what allows RoboRewsty to understand what you’re asking, identify the context it needs to help, and generate a plain-language response.&#x20;
 
-To let RoboRewsty answer questions about your environment, like why a workflow failed, we use the [_Model Context Protocol_ _(MCP)_](https://www.anthropic.com/news/model-context-protocol). MCP is a framework by Anthropic that gives Rewst a way to provide authenticated and controlled methods for Claude to request information from Rewst’s backend via our GraphQL API, if it needs environment context to answer a question, like “Why did this workflow fail?”
+RoboRewsty can offer tailored support and guidance by pulling from two types of context:&#x20;
+
+* Rewst documentation including Rewst Docs and Jinja2 references
+* Users' environment context&#x20;
+
+RoboRewsty can recognize where you are in the platform and use the details it needs from your environment to give you tailored support. RoboRewsty's ability to retrieve this environment context is powered by our implementation of the [_Model Context Protocol_ _(MCP)_](https://www.anthropic.com/news/model-context-protocol). MCP is a framework by Anthropic that gives Rewst a way to provide authenticated and controlled methods for Claude to request information from Rewst’s backend via our GraphQL API, if it needs environment context to answer a question, like “Why did this workflow fail?”
 
 Claude can only choose to request from a strict menu of pre-approved queries that Rewst has written and locked down, like `get workflow run details` or `list org variables`. Rewst executes that query through our GraphQL API, and sends minimum context needed to Claude to create RoboRewsty’s response.
 
