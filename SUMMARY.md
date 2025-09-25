@@ -223,6 +223,7 @@
     * [Document Rewst Org Variables Crate](documentation/crates/existing-crate-documentation/document-rewst-org-variables-crate.md)
     * [Document User Details V2 Crate](documentation/crates/existing-crate-documentation/document-user-details-v2-crate.md)
     * [Enable / Disable Mailbox Forwarding Crate](documentation/crates/existing-crate-documentation/enable-disable-mailbox-forwarding-crate.md)
+    * [Exchange CIS Audit Crate](documentation/crates/existing-crate-documentation/exchange-cis-audit-crate.md)
     * [Export Intune Policies and Configurations Crate](documentation/crates/existing-crate-documentation/export-intune-policies-and-configurations-crate.md)
     * [Export MS365 Licenses to CSV Crate](documentation/crates/existing-crate-documentation/export-ms365-licenses-to-csv-crate.md)
     * [Huntress EDR: AD Account Lockdown Crate](documentation/crates/existing-crate-documentation/huntress-edr-ad-account-lockdown-crate.md)
