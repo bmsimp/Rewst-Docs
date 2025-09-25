@@ -214,6 +214,7 @@
     * [Cork Compliance Event to PSA Ticket Crate](documentation/crates/existing-crate-documentation/cork-compliance-event-to-psa-ticket-crate.md)
     * [CWM: Technician Toolbox via Pod Crate](documentation/crates/existing-crate-documentation/cwm-technician-toolbox-via-pod.md)
     * [CW PSA: Pod Technician Toolbox Crate V2](documentation/crates/existing-crate-documentation/cwm-technician-toolbox-via-pod-1.md)
+    * [Detailed MFA Enforcement Reporting Crate](documentation/crates/existing-crate-documentation/detailed-mfa-enforcement-reporting-crate.md)
     * [Document BitLocker Information Crate](documentation/crates/existing-crate-documentation/document-bitlocker-information-crate.md)
     * [Document M365 Environment Crate](documentation/crates/existing-crate-documentation/document-m365-environment-setup.md)
     * [Document Group Details V2 Crate](documentation/crates/existing-crate-documentation/document-m365-groups-setup.md)
