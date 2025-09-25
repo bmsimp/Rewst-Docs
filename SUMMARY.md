@@ -420,7 +420,7 @@
   * [Sign up to present at any Open Mic](updates/roc-open-mics/sign-up-to-present-at-any-open-mic.md)
   * [Rewst Open Mics: North America](updates/roc-open-mics/roc-open-mics-north-america/README.md)
     * [2025 Rewst Open Mics: North America](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/README.md)
-      * [September 19, 2025:](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/august-22-2025-self-serve-portals-that-turn-staff-ideas-into-automations.md)
+      * [September 19, 2025: Using Rewst to triage and dispatch tickets](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/august-22-2025-self-serve-portals-that-turn-staff-ideas-into-automations.md)
       * [September 12, 2025: Detecting ConnectWise calendar sync bugs + Supabase Caching Demo](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/august-22-2025-self-serve-portals-that-turn-staff-ideas-into-automations-1.md)
       * [September 5, 2025: Automated ticket auditing](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/august-22-2025-self-serve-portals-that-turn-staff-ideas-into-automations-2.md)
       * [August 29, 2025: Using webhooks to automate escalation](updates/roc-open-mics/roc-open-mics-north-america/2025-roc-open-mics/august-22-2025-self-serve-portals-that-turn-staff-ideas-into-automations-3.md)
