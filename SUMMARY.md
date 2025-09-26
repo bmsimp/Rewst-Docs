@@ -262,7 +262,7 @@
     * [Run PowerShell Script on Selected Devices Crate](documentation/crates/existing-crate-documentation/run-powershell-script-on-selected-devices-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
     * [Time Savings Report Crate](documentation/crates/existing-crate-documentation/time-savings-report-crate.md)
-    * [Triage SentinelOne Threat Alerts Crate](documentation/crates/existing-crate-documentation/triage-sentinelone-threat-alerts-crate.md)
+    * [Triage SentinelOne Tickets Crate](documentation/crates/existing-crate-documentation/triage-sentinelone-tickets-crate.md)
     * [Uninstall Ad-Hoc Software Crate](documentation/crates/existing-crate-documentation/uninstall-ad-hoc-software-crate.md)
     * [Use OpenAI to Suggest Responses to New Tickets Crate](documentation/crates/existing-crate-documentation/use-openai-to-suggest-responses-to-new-tickets-crate.md)
     * [User Offboarding V2 Crate](documentation/crates/existing-crate-documentation/user-offboarding-v2.md)
