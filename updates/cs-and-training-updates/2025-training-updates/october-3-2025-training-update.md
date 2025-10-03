@@ -8,7 +8,7 @@ Explore what new changes the Cluck University team made in the last week.
 
 * **SHOUT OUTS** **TO:**
   * Simon, William, Kashaun, Randie, Wayne, and Evan for passing the Foundations Certification.
-  * Take the [Rewst Foundations](https://learn.rewst.io/rewst-foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
+    * Take the [Rewst Foundations](https://learn.rewst.io/rewst-foundations-certification) Exam, and collect your prestigious **Certified Rewster** badge in Discord along with access to the super-secret Discord channel.&#x20;
   * Hunter, Luuk, William, Kashaun, and Richard for passing the Clean Automation Certification.
   * And Rewst's very own Dawood!
     * Take the [Clean Automation](https://learn.rewst.io/clean-automation-certification) exam and get that fancy certificate!
