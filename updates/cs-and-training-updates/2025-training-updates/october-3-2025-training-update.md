@@ -24,7 +24,7 @@ Explore what new changes the Cluck University team made in the last week.
 
 **What's new at Cluck University?**
 
-* We have a new course! Check it out here: [Building self-serve automation requests](https://learn.rewst.io/building-self-serve-automation-requests)
+* We have a new course (including videos)! Check it out here: [Building self-serve automation requests](https://learn.rewst.io/building-self-serve-automation-requests)
 * We added session recordings to [Live Training — Rewst Foundations](https://learn.rewst.io/live-training-rewst-foundations)
 * Added an [About Cluck U page](https://learn.rewst.io/page/how-to-use-cluck-u) for tips and common questions
 
