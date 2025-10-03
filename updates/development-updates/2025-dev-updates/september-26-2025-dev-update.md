@@ -8,8 +8,9 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>New features and items</strong></summary>
 
-* **Integrations**
-  * Added a "Select" parameter to N-able N-central List Computers action
+* **RoboRewsty**
+  * Tailored guidance, troubleshoot errors, and document workflows.
+  * More features coming in Q4
 
 </details>
 
@@ -17,13 +18,26 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>Bug fixes and chores</strong></summary>
 
-* **Workflows**
-  * Improved error messages on subworkflow failure
-  * Handled error when exporting workflow bundle and an asset doesn't exist
+* **App Builder**
+  * Fixed issue where page workflows were not performing proper auth checks
+  * Resolved overly restrictive domain validation
+* **Crates**
+  * Fixed issue where default integration overrides from crate triggers were failing to clone when crates are replicated between environments
+* **Forms**
+  * Fixed dynamic urls for deleted orgs
 * **Integrations**
-  * Fixed Huntress - Get Billing Report action
-  * Improved error messages for SuperOps actions
-  * Removed empty action from Core integration
+  * Updated missing parameters for Duo - Create Bypass Code action
+  * Fixed filtering on Huntress - List Agents action
+  * Fixed connection failures to MySQL server
+  * Fixed JSON handling in Microsoft Graph "send inquiry" action
+  * Updated Datto integration to use the correct username field
+* **Workflows**
+  * Fixed an issue where, in Array/List inputs with child objects, clicking any Remove button always deleted the final item instead of the intended one
+  * Allow for 0 time saved entry when editing workflow attributes on workflow list page
+  * Fixed missing `trigger_type` in webhook contexts to ensure workflows receive complete trigger metadata
+  * Fixed foreign key constraint error when updating workflows with orphaned form triggers
+* **Engine**
+  * Improved handling of certain cron job failures to ensure the engine-cron leader pod remains stable
 
 </details>
 
@@ -31,9 +45,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <summary><strong>Coming Soon</strong></summary>
 
-* RoboRewsty AI in Rewst
-
-- BVoIP integration
-- Hourly dashboard updates
+* BVoIP integration
+* Hourly dashboard updates
 
 </details>
