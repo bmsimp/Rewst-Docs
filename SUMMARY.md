@@ -268,6 +268,7 @@
     * [Use OpenAI to Suggest Responses to New Tickets Crate](documentation/crates/existing-crate-documentation/use-openai-to-suggest-responses-to-new-tickets-crate.md)
     * [User Offboarding V2 Crate](documentation/crates/existing-crate-documentation/user-offboarding-v2.md)
     * [View Rewst integration Org Variables](documentation/crates/existing-crate-documentation/view-rewst-integration-org-variables.md)
+    * [Browse Rewst Form Triggers within a Form and Attach to a Ticket Crate](documentation/crates/existing-crate-documentation/browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate.md)
 * [Configuration](documentation/configuration/README.md)
   * [Integrations](documentation/configuration/integrations/README.md)
     * [Top 5 integration types : Get started with integrations in Rewst](documentation/configuration/integrations/top-5-integration-types-get-started-with-integrations-in-rewst.md)
