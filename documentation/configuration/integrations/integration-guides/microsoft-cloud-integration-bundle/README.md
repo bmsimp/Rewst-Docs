@@ -204,9 +204,11 @@ For this step, you have two options:
 We strongly recommend that you use the Crate to complete this step.
 {% endhint %}
 
+### Set up GDAP relationships without the Configure New GDAP Relationship Crate
+
 <details>
 
-<summary>Set up GDAP relationships without the Configure New GDAP Relationship Crate</summary>
+<summary>Click to read more</summary>
 
 #### Assign the security group to the service account user you created previously&#x20;
 
