@@ -8,9 +8,9 @@ If you’re new to Crates, read through our introductory Crate documentation [he
 
 Our Add Devices to Autopilot via Form Crate simplifies the process of adding devices to Autopilot with an easy-to-use form. The Crate enables you to perform the following:
 
-* Manually enter the details of devices to be added to Autopilot.
-* Use the downloadable CSV template to easily import multiple devices.
-* Intuitive design ensures easy navigation and data entry.
+* Manually enter the details of devices to be added to Autopilot
+* Use the downloadable CSV template to easily import multiple devices
+* Intuitive design ensures easy navigation and data entry
 
 ### How the Crate works
 
