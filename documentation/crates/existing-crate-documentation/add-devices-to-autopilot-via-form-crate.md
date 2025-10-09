@@ -25,7 +25,7 @@ The [Microsoft Cloud Integration Bundle](../../configuration/integrations/integr
 ## Unpack the Add Devices to Autopilot via Form Crate
 
 1. Navigate to **Crates** > **Crate Marketplace** in the left side menu Rewst platform.
-2.  Search for `Browse Rewst Form Triggers within a Form and Attach to a Ticket`.
+2.  Search for `Add Devices to Autopilot via Form`.
 
     \
     ![](../../../.gitbook/assets/image.png)
