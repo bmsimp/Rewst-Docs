@@ -50,7 +50,7 @@ We want to make sure your presentation is safe and respectful of others. So, ple
 * Sharing sensitive info - e.g., organization names, API keys, private dashboards
 * Going way off-topic - keep the focus on what brings value to our Rewst community
 
-### **A Note on privacy and responsibility**
+### **A note on privacy and responsibility**
 
 We trust our presenters to use discretion and only share what’s appropriate for public calls. Rewst does not assume responsibility for any sensitive or proprietary information shared during Open Mic sessions.
 
