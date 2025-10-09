@@ -6,7 +6,7 @@ If you’re new to Crates, read through our introductory Crate documentation [he
 
 ## What does the Add Devices to Autopilot via Form Crate do?
 
-Our Add Devices to Autopilot via Form Crate simplifies the process of adding devices to Autopilot with an easy-to-use form. The Crate enable you to perform the following:
+Our Add Devices to Autopilot via Form Crate simplifies the process of adding devices to Autopilot with an easy-to-use form. The Crate enables you to perform the following:
 
 * Manually enter the details of devices to be added to Autopilot.
 * Use the downloadable CSV template to easily import multiple devices.
@@ -14,7 +14,7 @@ Our Add Devices to Autopilot via Form Crate simplifies the process of adding dev
 
 ### How the Crate works
 
-* The user has the option to either manually enter device details or to upload a CSV file.
+* The user has the option to either manually enter device details or upload a CSV file.
 * A downloadable CSV template is available within the form for easy bulk entry.
 * Once the form is submitted, the devices are automatically added to Autopilot.
 
@@ -42,7 +42,7 @@ The [Microsoft Cloud Integration Bundle](../../configuration/integrations/integr
 1. Navigate to **Automations > Forms** in the left side menu of your Rewst platform.
 2. Search for `[ROC] Endpoint: Add Devices to Autopilot`.
 3. Click **⋮ > Usages > View Direct URLs.**
-4. Click on the link for the organization which contains the user you wish to manage. This will launch the form in a new tab.
+4. Click on the link for the organization, which contains the user you wish to manage. This will launch the form in a new tab.
 5.  Select the preferred option between **Import via CSV** and **Manual Entry**.\
 
 
