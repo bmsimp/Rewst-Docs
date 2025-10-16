@@ -274,6 +274,7 @@
     * [Use OpenAI to Suggest Responses to New Tickets Crate](documentation/crates/existing-crate-documentation/use-openai-to-suggest-responses-to-new-tickets-crate.md)
     * [User Offboarding V2 Crate](documentation/crates/existing-crate-documentation/user-offboarding-v2.md)
     * [View Rewst integration Org Variables](documentation/crates/existing-crate-documentation/view-rewst-integration-org-variables.md)
+    * [Workstation Offboarding Crate](documentation/crates/existing-crate-documentation/workstation-offboarding-crate.md)
 * [Configuration](documentation/configuration/README.md)
   * [Integrations](documentation/configuration/integrations/README.md)
     * [Top 5 integration types : Get started with integrations in Rewst](documentation/configuration/integrations/top-5-integration-types-get-started-with-integrations-in-rewst.md)
