@@ -1,4 +1,4 @@
-# Copy of October 10, 2025 - Dev update
+# October 17, 2025 - Dev update
 
 Explore what new changes the Dev team has deployed in the last week!
 
