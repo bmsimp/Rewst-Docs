@@ -34,5 +34,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 <summary><strong>Coming Soon</strong></summary>
 
 * Custom OAuth app configuration for HubSpot integration
+* Cloudmore integration
 
 </details>
