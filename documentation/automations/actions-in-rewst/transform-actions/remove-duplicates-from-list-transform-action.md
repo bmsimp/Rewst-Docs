@@ -24,7 +24,12 @@ For nested field names, separate them by dots (e.g., `details.age`).
 
 <summary>Example 1: Filter List For Unique Objects Based On Username</summary>
 
-Inputs:**Attribute:** username**Case Sensitive:** False**List:**
+### Inputs
+
+\
+**Attribute:** username\
+**Case Sensitive:** False\
+**List:**
 
 ```json
 [
@@ -58,12 +63,15 @@ Inputs:**Attribute:** username**Case Sensitive:** False**List:**
 
 <summary>Example 2: Filter List of Integers For Unique Integers</summary>
 
-<pre><code><strong>Inputs:
-</strong>
-**Attribute:** None
-**Case Sensitive:** False
-**List:** 
-```json
+### Inputs
+
+\
+**Attribute:** username\
+**Case Sensitive:** False\
+**List:**
+
+<pre><code><strong>
+</strong>```json
 [ 1, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5 ]```
 </code></pre>
 
