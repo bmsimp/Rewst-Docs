@@ -215,6 +215,7 @@
     * [ConnectWise PSA Agreement Mapping Crate](documentation/crates/existing-crate-documentation/connectwise-psa-agreement-mapping.md)
     * [Consolidate and Manage Duplicate Configurations Crate](documentation/crates/existing-crate-documentation/consolidate-and-manage-duplicate-configurations-crate.md)
     * [Cork Compliance Event to PSA Ticket Crate](documentation/crates/existing-crate-documentation/cork-compliance-event-to-psa-ticket-crate.md)
+    * [Create Autotask PSA Contracts Crate](documentation/crates/existing-crate-documentation/create-autotask-psa-contracts-crate.md)
     * [CWM: Technician Toolbox via Pod Crate](documentation/crates/existing-crate-documentation/cwm-technician-toolbox-via-pod.md)
     * [CW PSA: Pod Technician Toolbox Crate V2](documentation/crates/existing-crate-documentation/cwm-technician-toolbox-via-pod-1.md)
     * [Deactivate ConnectWise PSA Contacts when their Company is Deactivated Crate](documentation/crates/existing-crate-documentation/deactivate-connectwise-psa-contacts-when-their-company-is-deactivated-crate.md)
