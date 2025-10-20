@@ -26,7 +26,7 @@ For nested field names, separate them by dots (e.g., `details.age`).
 
 Inputs:**Attribute:** username**Case Sensitive:** False**List:**
 
-````json
+```json
 [
   {
     "member": true,
@@ -50,6 +50,7 @@ Inputs:**Attribute:** username**Case Sensitive:** False**List:**
   }
 ]
 
+```
 
 </details>
 
@@ -57,14 +58,14 @@ Inputs:**Attribute:** username**Case Sensitive:** False**List:**
 
 <summary>Example 2: Filter List of Integers For Unique Integers</summary>
 
-Inputs:
-
+<pre><code><strong>Inputs:
+</strong>
 **Attribute:** None
 **Case Sensitive:** False
 **List:** 
 ```json
-[ 1, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5 ]
-````
+[ 1, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5 ]```
+</code></pre>
 
 </details>
 
