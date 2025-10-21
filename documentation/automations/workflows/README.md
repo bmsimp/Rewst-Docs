@@ -62,7 +62,7 @@ From the workflows page, you can view triggers associated with each workflow, wi
 
 <figure><img src="../../../.gitbook/assets/trigger hover gif.gif" alt=""><figcaption><p>The dialog that appears when hovering over trigger counts</p></figcaption></figure>
 
-### Import and export workflows
+### Export and import workflows
 
 You can export a workflow to share with other Rewst customers, or create your own hard copies of workflow backups. To export a workflow as a JSON bundle, navigate to the [Workflow Builder Canvas](workflow-builder-how-to-set-up-a-workflow.md#workflow-builder) and find the export option under the **Workflow Options** menu.
 
