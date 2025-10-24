@@ -18,8 +18,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 <summary><strong>Bug fixes and chores</strong></summary>
 
 * **Integrations**
-  * Fixed incorrect variables in Cloudmore integration
-  * Added proper error handling for Cloudmore integration
   * Standardized Dropsuite return value formatting of objects
 * Workflows
   * Fixed UI of tags on trigger menu

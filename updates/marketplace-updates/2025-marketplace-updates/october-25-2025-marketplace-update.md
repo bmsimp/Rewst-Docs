@@ -18,6 +18,7 @@ There are no new Crates this week.
   * Updated crate name and description from old name of "Browse Rewst Form Triggers within a Form and Attach to a Ticket"
 * [Workstation Offboarding](../../../documentation/crates/existing-crate-documentation/workstation-offboarding-crate.md)
   * Fixed form typo; added truthy validation for selected devices
+  * Fixed an issue in the form where devices were not properly filtered by organization
 * [Organizational Setup Report](../../../documentation/crates/existing-crate-documentation/organizational-setup-report-crate.md)
   * Updated delay to use an org variable
 * [Billing Count Report](../../../documentation/crates/existing-crate-documentation/billing-count-report-crate.md)
