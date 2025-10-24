@@ -758,6 +758,22 @@ If this doesn't fix your issue, manually delete the enterprise application, then
 
 <summary>Issue: Invalid Tokens - Invalid_grant - The provided grant has expired</summary>
 
+The first step in troubleshooting is to attempt reauthentication.&#x20;
+
+1. Navigate to the Microsoft Cloud Integration Bundle settings in Rewst.
+2. Click **Reauthenticate** and follow the prompts to complete the process.
+3. If authentication is successful, your integration should resume normal operation.
+
+If reauthentication fails, proceed to the next step. Tthe issue may be related to the service account credentials.
+
+1. Reset the service account password in Microsoft.
+2. Update the credentials in Rewst.
+3. Update the credentials in Rewst.
+4. Attempt to reauthenticate again.
+5. If this works ensure you click the re-concent button.
+
+If the issue persists, completely uninstall and reinstall the Microsoft Cloud Bundle Integration.
+
 
 
 </details>
