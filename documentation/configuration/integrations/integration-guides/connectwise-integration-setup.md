@@ -642,7 +642,7 @@ During pod configuration, you'll need to update your Rewst base URL to match you
 1. Login to ConnectWise PSA as a user that has access to the setup tables. This is likely an admin account.
 2. Click the **System** icon on the bottom left of the ConnectWise PSA UI.
 3. Click on the **Setup Tables** menu that appears.
-4. Enter `\*api\` in the table filter. Your returned result should be **Manage Hosted API**.
+4. Enter `*api` in the table filter. Your returned result should be **Manage Hosted API**.
 5. Click **Add** and use the below settings:
    1. **Description** - Enter **Rewst**
    2. **Screen** - For our example, we use **Service Tickets**
