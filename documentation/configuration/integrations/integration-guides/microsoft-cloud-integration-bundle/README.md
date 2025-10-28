@@ -755,7 +755,7 @@ If you keep getting errors during reinstallation, remove the Rewst MS Cloud Conn
 During the process, you may see the below error. You should be fine to proceed despite the error message. \
 
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
