@@ -239,6 +239,7 @@
     * [Install Acronis Backup Agent on Devices Crate](documentation/crates/existing-crate-documentation/install-acronis-backup-agent-on-devices-crate.md)
     * [Install Ad-Hoc Software Crate](documentation/crates/existing-crate-documentation/install-ad-hoc-software-crate.md)
     * [Just in Time Admin Access Crate](documentation/crates/existing-crate-documentation/just-in-time-admin-access-crate.md)
+    * [Liongard MFA Remediation Crate](documentation/crates/existing-crate-documentation/liongard-mfa-remediation-crate.md)
     * [M365 CSP/GDAP Permission Checker Crate](documentation/crates/existing-crate-documentation/m365-csp-gdap-permission-checker-crate.md)
     * [M365: Generate Org Chart Crate](documentation/crates/existing-crate-documentation/m365-generate-org-chart-crate.md)
     * [Manage Duo Phones Crate](documentation/crates/existing-crate-documentation/manage-duo-phones-crate.md)
