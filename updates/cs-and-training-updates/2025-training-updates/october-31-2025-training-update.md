@@ -7,7 +7,7 @@ Explore what new changes the Cluck University team made in the last week.
 <summary><strong>Cluck University updates and shoutouts</strong> </summary>
 
 * We added session recordings to the [Live Training - Clean Automation](https://learn.rewst.io/live-training-clean-automation) course!
-* Check out a great resource: [Getting strategic with webhook triggers](https://learn.rewst.io/getting-strategic-with-webhook-triggers)
+* Check out a great resource [Getting strategic with webhook triggers](https://learn.rewst.io/getting-strategic-with-webhook-triggers)
 * Get certified! Visit the [Rewst Certifications page](https://learn.rewst.io/page/certificates) to explore trainings (self-paced and live), take the certification exams, and earn prestigious badges.
   * **Rewst Foundations shoutouts**: A big shoutout to Marianne, Shivang, Ashan, Yordi, Mark, Evan, and Kishan for passing the Foundations Certification!
   * **Clean Automation shoutouts**: Congrats to Gary, Justin, and James for passing the Clean Automation Certification!
