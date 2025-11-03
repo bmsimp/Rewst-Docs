@@ -191,6 +191,7 @@
     * [Ad-Hoc Install/Uninstall Software via Chocolatey Crate](documentation/crates/existing-crate-documentation/ad-hoc-install-uninstall-software-via-chocolatey-crate.md)
     * [Add Client to Rewst Crate](documentation/crates/existing-crate-documentation/add-client-to-rewst-setup.md)
     * [Add Devices to Autopilot via Form Crate](documentation/crates/existing-crate-documentation/add-devices-to-autopilot-via-form-crate.md)
+    * [1Stream Technician Toolbox Crate](documentation/crates/existing-crate-documentation/1stream-technician-toolbox-crate.md)
     * [Add or Remove Group Membership Crate](documentation/crates/existing-crate-documentation/add-or-remove-group-membership-crate.md)
     * [Agent Smith: Track Agent Inventory in Azure Tables Crate](documentation/crates/existing-crate-documentation/agent-smith-track-agent-inventory-in-azure-tables-crate.md)
     * [Alert on Expiring App Reg Certificates Crate](documentation/crates/existing-crate-documentation/alert-on-expiring-app-reg-certificates-crate.md)
