@@ -4,12 +4,6 @@
 If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Crate in our Crate Marketplace.
 {% endhint %}
 
-## **1Stream Technician Toolbox Crate**
-
-If you’re new to Crates, read through our [Introductory Crate documentation](https://www.notion.so/1Stream-Technician-Toolbox-Crate-Documentation-29db56f99071809db682d9c314115954?pvs=21) first. You can find this Crate in the Crate Marketplace.
-
-***
-
 ### **What does the 1Stream Technician Toolbox Crate do?**
 
 The **1Stream Technician Toolbox Crate** allows mutual customers of **Rewst** and **1Stream** to launch Rewst forms directly from within the 1Stream interface.
