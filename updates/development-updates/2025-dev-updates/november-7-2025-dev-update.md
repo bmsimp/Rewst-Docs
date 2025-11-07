@@ -1,4 +1,4 @@
-# November 7, 2025 - Dev update
+# November 7, 2025- Dev update
 
 Explore what new changes the Dev team has deployed in the last week.
 
@@ -23,7 +23,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 <details>
 
-<summary><strong>Coming Soon</strong></summary>
+<summary><strong>Coming soon</strong></summary>
 
 * ArrowSphere integration
 * Workflow builder performance improvements
