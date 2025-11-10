@@ -1,7 +1,7 @@
 ---
 description: >-
   Explore our guides and recordings to start automating in Rewst today. Click
-  through our recommended shortcuts below, or use the left side nested menu,
+  through our recommended shortcuts below, or use the nav menu to the left,
   organized to match the left side menu in Rewst.
 icon: hand-wave
 ---
