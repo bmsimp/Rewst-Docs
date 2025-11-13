@@ -28,7 +28,8 @@ Our NinjaOne integration provides users with a powerful combination of documenta
    5. Paste the code below into the script box
 
 {% hint style="info" %}
-Your Rewst Base URL will vary depending on which Rewst instance you are on. You must update the $rewst\_base\_url property in the script below to match your Rewst Instance. You can identify which instance you are on by the URL you use to access Rewst. Please use the following table as a guide to identify your Rewst Base URL
+Your Rewst Base URL will vary depending on which Rewst instance you are on. You must update the $rewst\_base\_url property in the script below to match your Rewst Instance. You can identify which instance you are on by the URL you use to access Rewst. Please use the following table as a guide to identify your Rewst Base URL.\
+Example of correct base URL: `https://engine.rewst.io/webhooks/custom/action`
 {% endhint %}
 
 | Rewst URL       | Base URL           |

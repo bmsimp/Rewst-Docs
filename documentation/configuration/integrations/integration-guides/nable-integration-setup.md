@@ -81,7 +81,8 @@ To complete all the needed script setup steps in N-able N-central, you'll need t
    ![](<../../../../.gitbook/assets/Screenshot 2025-07-24 at 12.07.14 PM.png>)
 3. Name the script `Rewst (Powershell)`.
 4. Enter `Executes Powershell sent via API from Rewst` into the **Description** field.
-5. Download the provided PS1 file from the bottom of this instruction section. Update your Powershell script's `$rewst_base_url` variable to match your Rewst Instance URL, using the table provided at the bottom of this section. You can identify which instance you are on by referencing the URL you use to access Rewst. The content of the **Command Line Parameters** field will automatically populate when you upload the file.
+5. Download the provided PS1 file from the bottom of this instruction section. Update your Powershell script's `$rewst_base_url` variable to match your Rewst Instance URL, using the table provided at the bottom of this section. You can identify which instance you are on by referencing the URL you use to access Rewst. The content of the **Command Line Parameters** field will automatically populate when you upload the file.\
+   Example of correct base URL: `https://engine.rewst.io/webhooks/custom/action`
 6. Click **Browse** to upload the edited file into N-able N-central.
 7. Click **Ok**.
 8.  Navigate to **Configuration > Scheduled Tasks > Script/Software Repository.**\
