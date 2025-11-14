@@ -4,7 +4,7 @@
 If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Crate in our Crate Marketplace.
 {% endhint %}
 
-### What does the Update User Attributes (On-Prem/Azure) V2 Crate do? <a href="#what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do" id="what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do"></a>
+## What does the Update User Attributes (On-Prem/Azure) V2 Crate do? <a href="#what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do" id="what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do"></a>
 
 Our Update User Attributes (On-Prem/Azure) V2 Crate is used to update the users' attributes in Microsoft Entra, formerly known as Microsoft Azure, or on-premises. The Crate will automatically determines where to pull and update information from based on the configured primary identity provider. Currently, this Crate supports the following identify provider configurations:
 
@@ -19,13 +19,13 @@ The supported identity providers are as follows:
 
 Hybrid environments without syncing are not supported at this time.
 
-#### How the Crate works <a href="#how-the-crate-works" id="how-the-crate-works"></a>
+### How the Crate works <a href="#how-the-crate-works" id="how-the-crate-works"></a>
 
 * The main point of execution for this crate is through a form, which is called \[REWST - CRATE] M365/On-Prem: Update On-Prem or Azure Attributes
 * In the form, the submitter will select a user to update and the current values for the attributes will be displayed in the form.
 * The submitter will submit the form and the workflow will attempt to update the values.
 
-#### Workflow breakdown
+### Workflow breakdown
 
 1\. The workflow begins execution with the START task, which initiates the process flow.
 
@@ -45,7 +45,7 @@ Hybrid environments without syncing are not supported at this time.
 
 The [Microsoft Cloud Integration Bundle](../../configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/) must be set up before unpacking this Crate.
 
-### Unpack the Update User Attributes (On-Prem/Azure) V2 Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
+## Unpack the Update User Attributes (On-Prem/Azure) V2 Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
 
 1. Navigate to **Crates** > **Crate Marketplace** in the left side menu Rewst platform.
 2. Search for `Update User Attributes (On-Prem/Azure) V2`.​\
@@ -57,7 +57,7 @@ The [Microsoft Cloud Integration Bundle](../../configuration/integrations/integr
 6. Ensure that **Enabled** is toggled on under **Configure Triggers**. Note that you have the option under the **Form Submission** accordion menu to activate the Crate for all future organizations in addition to the current one. You may also set activation to set [trigger criteria](../../automations/intro-to-triggers/trigger-criteria.md) or [integration overrides](../../automations/intro-to-triggers/).
 7. Click **Unpack**.
 
-#### Use the Crate <a href="#use-the-crate" id="use-the-crate"></a>
+### Use the Crate <a href="#use-the-crate" id="use-the-crate"></a>
 
 1. Navigate to **Automations > Forms** in the left side menu of your Rewst platform.
 2. Search for `[REWST - CRATE] M365/On-Prem: Update On-Prem or Azure Attributes`.
@@ -82,7 +82,7 @@ The [Microsoft Cloud Integration Bundle](../../configuration/integrations/integr
     Take note that the fields default to `[Do Not Change],` and the current values for the attributes are  displayed and kept as-is. If `[Clear Value]` is selected, the value will be cleared.
 7. Click **Submit** to run the workflow.&#x20;
 
-#### Test the Crate <a href="#test-the-crate" id="test-the-crate"></a>
+### Test the Crate <a href="#test-the-crate" id="test-the-crate"></a>
 
 1. Navigate to **Automations > Workflows** in the left side menu of your Rewst platform.
 2.  Search for `[REWST - PROC] Update User Attributes in IDP`.\
