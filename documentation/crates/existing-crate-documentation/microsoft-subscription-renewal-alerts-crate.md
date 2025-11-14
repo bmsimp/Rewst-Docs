@@ -4,11 +4,11 @@
 If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Crate in our Crate Marketplace.
 {% endhint %}
 
-### What does the Microsoft Subscription Renewal Alerts Crate do? <a href="#what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do" id="what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do"></a>
+## What does the Microsoft Subscription Renewal Alerts Crate do? <a href="#what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do" id="what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do"></a>
 
 Our Microsoft Subscription Renewal Alerts Crate monitors Microsoft 365 subscriptions and generates alerts when subscriptions approach expiration.&#x20;
 
-#### How the Crate works <a href="#how-the-crate-works" id="how-the-crate-works"></a>
+### How the Crate works <a href="#how-the-crate-works" id="how-the-crate-works"></a>
 
 * If the organization variable `default_psa` is set to mail-only, the system will send email notifications to the address specified in the `no_psa_mail_address` variable.
 * If a PSA is configured, the workflow creates a ticket only when no matching ticket exists, based on these criteria:
@@ -16,7 +16,7 @@ Our Microsoft Subscription Renewal Alerts Crate monitors Microsoft 365 subscript
   * Summary matches the current alert
 * If no PSA is integrated, the workflow sends email notifications for each expiring license.
 
-#### Workflow breakdown
+### Workflow breakdown
 
 1. The workflow begins with the **BEGIN** task which serves as the entry point and immediately transitions to retrieve configuration settings.
 2. The **get\_ignored\_skus** task attempts to retrieve an organization variable called renewal\_alerts\_ignored\_skus that contains a list of SKU IDs to exclude from renewal alerts. If the variable is successfully retrieved, it stores the list for later filtering. If the variable retrieval fails or the variable doesn't exist, the workflow continues with an empty list as the default, ensuring the process doesn't halt due to missing configuration.
@@ -41,7 +41,7 @@ To use ticket creation when no matching ticket is found in the workflow's result
 * [SuperOps](../../configuration/integrations/integration-guides/superops-integration.md)
 * [Freshdesk](../../configuration/integrations/integration-guides/freshdesk-integration-setup.md)
 
-### Unpack the Microsoft Subscription Renewal Alerts Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
+## Unpack the Microsoft Subscription Renewal Alerts Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
 
 1. Navigate to **Crates** > **Crate Marketplace** in the left side menu Rewst platform.
 2. Search for `Microsoft Subscription Renewal Alerts`.​\
@@ -71,7 +71,7 @@ To test this Crate, you'll need to adjust the cron trigger's schedule to a few m
 4. Adjust the cron trigger's schedule to five minutes from your current time. The workflow will run on its own. Check in your PSA's portal to ensure that the workflow is able to move new devices to their correct location as expected.
 5. If using ticket creation for your PSA with this workflow, check in your PSA to confirm that tickets are being created when conditions are met.&#x20;
 
-#### Update the cron trigger schedule
+### Update the cron trigger schedule
 
 The Crate runs on a cron trigger, and will execute the workflow to generate the ticket at the same time each day. You can adjust the chosen time for execution in the workflow itself. Edit a cron trigger in the workflow to change the timing of when it will routinely run.
 
@@ -85,7 +85,7 @@ The Crate runs on a cron trigger, and will execute the workflow to generate the 
 5. Update the timing of the cron trigger as desired in the fields under **Trigger Parameters**. Note that when entering the time into the **Cron Schedule** field, the correct format is minutes followed by hour. For example, 18 3, not 3 18.
 6. Click **Submit**.
 
-### Organization variables associated with this Crate
+## Organization variables associated with this Crate
 
 {% hint style="info" %}
 For more on organization variables and how to use them, see our org variable documentation [here](../../configuration/organization-variables.md).&#x20;
@@ -97,26 +97,26 @@ If you haven't done so already, we recommended that you run the [Configure Organ
 
 #### Set variables when running Configure Organizational Variables Crate
 
-| Variable                           | Description               | Required |
-| ---------------------------------- | ------------------------- | -------- |
-| **default\_psa**                   | Selected default PSA      | Yes      |
-| **psa\_default\_ticket\_impact**   | Default PSA configuration | Yes      |
-| **psa\_default\_ticket\_priority** | Default PSA configuration | Yes      |
-| **psa\_default\_ticket\_source**   | Default PSA configuration | Yes      |
-| **psa\_default\_ticket\_status**   | Default PSA configuration | Yes      |
-| **psa\_default\_ticket\_urgency**  | Default PSA configuration | Yes      |
+| Variable                      | Description               | Required |
+| ----------------------------- | ------------------------- | -------- |
+| `default_psa`                 | Selected default PSA      | Yes      |
+| `psa_default_ticket_impact`   | Default PSA configuration | Yes      |
+| `psa_default_ticket_priority` | Default PSA configuration | Yes      |
+| `psa_default_ticket_source`   | Default PSA configuration | Yes      |
+| `psa_default_ticket_status`   | Default PSA configuration | Yes      |
+| `psa_default_ticket_urgency`  | Default PSA configuration | Yes      |
 
 #### Set variables if default\_PSA is set to email\_only&#x20;
 
-| Variable                   | Description                                             | Required                 |
-| -------------------------- | ------------------------------------------------------- | ------------------------ |
-| **no\_psa\_mail\_address** | Email address for subscription expiration notifications | Yes, if using email only |
+| Variable              | Description                                             | Required                 |
+| --------------------- | ------------------------------------------------------- | ------------------------ |
+| `no_psa_mail_address` | Email address for subscription expiration notifications | Yes, if using email only |
 
 #### Additional optional configurations
 
-| Variable                     | Description                                               | Required |
-| ---------------------------- | --------------------------------------------------------- | -------- |
-| **psa\_alert\_ticket\_type** | Custom ticket type for alerts (if different from default) | No       |
+| Variable                | Description                                              | Required |
+| ----------------------- | -------------------------------------------------------- | -------- |
+| `psa_alert_ticket_type` | Custom ticket type for alerts, if different from default | No       |
 
 {% hint style="info" %}
 Got an idea for a new Crate? Rewst is constantly adding new Crates to our Crate Marketplace. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/crates).
