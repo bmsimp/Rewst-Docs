@@ -15,6 +15,8 @@ This can be anything from new features, bug fixes, or QoL changes!
   * Pop-out chat experience: We’ve made adjustments to the RoboRewsty pop-out mode so it matches the functionality of the embedded chat experience.
 * **Workflows**
   * Made performance improvements on the workflow builder canvas. This is especially noticeable for scenarios where actions on the workflow canvas have many parameters with many options in dropdown fields.
+* **Integrations**
+  * Updated setup instructions for the Cloudmore integration
 
 </details>
 
@@ -34,7 +36,6 @@ This can be anything from new features, bug fixes, or QoL changes!
   * Fixed an issue where the **Send SMS** action could report success even when Twilio rejected the message—such as when sending from a US number to a UK recipient. The action now correctly reflects delivery failures, ensuring customers are accurately informed when an SMS cannot be sent.
   * Fixed an issue where the ITGlue **Get Location** action formatted the `include` parameters incorrectly by sending them as repeated fields instead of a comma-separated list. The action now sends the correct format, ensuring proper retrieval of related data.
   * Removed extra space when rendering links from a markdown template in to the Core - Sendmail
-  * Updated setup instructions for the Cloudmore integration
 
 </details>
 
