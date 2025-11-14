@@ -13,8 +13,6 @@ This can be anything from new features, bug fixes, or QoL changes!
   * Conversation history: Timestamps should now appear correctly in chat history window.
   * Streaming responses: RoboRewsty now streams responses as it thinks, so you don’t have to wait for the full reply to load.
   * Pop-out chat experience: We’ve made adjustments to the RoboRewsty pop-out mode so it matches the functionality of the embedded chat experience.
-* **Integrations**
-  * Implemented masking of secrets by default on integration setup pages
 * **Workflows**
   * Made performance improvements on the workflow builder canvas. This is especially noticeable for scenarios where actions on the workflow canvas have many parameters with many options in dropdown fields.
 
@@ -37,8 +35,6 @@ This can be anything from new features, bug fixes, or QoL changes!
   * Fixed an issue where the ITGlue **Get Location** action formatted the `include` parameters incorrectly by sending them as repeated fields instead of a comma-separated list. The action now sends the correct format, ensuring proper retrieval of related data.
   * Removed extra space when rendering links from a markdown template in to the Core - Sendmail
   * Updated setup instructions for the Cloudmore integration
-  * Fixed an issue where the Pax8 **Get Subscription** action could fail or return no data in certain environments.
-  * Fixed an issue in the Datto Autotask PSA **List Attachments on Document v2** action where refreshing the ID field options caused an error due to a type mismatch.
 
 </details>
 
