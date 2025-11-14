@@ -12,10 +12,10 @@ There are no new Crates this week.
 
 <summary><strong>Bug fixes and chores</strong></summary>
 
-* Document Bitlocker
+* [Document Bitlocker Information Crate](../../../documentation/crates/existing-crate-documentation/document-bitlocker-information-crate.md)
   * Updated action to infer online status; devices online if lastApplianceCheckinTime within 10 minutes
   * fixed `type` data alias jinja in create\_configuration\_type action
-* Google: User Onboarding
+* [Google: User Onboarding Crate](../../../documentation/crates/existing-crate-documentation/google-user-onboarding-crate.md)
   * Fixed malformed OR statement in GWS Create User, Organization Unit Path
 
 </details>
