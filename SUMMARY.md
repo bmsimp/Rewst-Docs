@@ -198,6 +198,7 @@
     * [Alert on Expiring App Reg Secrets Crate](documentation/crates/existing-crate-documentation/alert-on-expiring-app-reg-secrets-crate.md)
     * [Alert on Login From Non Native Country Crate](documentation/crates/existing-crate-documentation/alert-on-login-from-non-native-country-crate.md)
     * [Alert on Unused M365 Licenses Crate](documentation/crates/existing-crate-documentation/alert-on-unused-m365-licenses-crate.md)
+    * [Alert On Users Without MFA Enforced Crate](documentation/crates/existing-crate-documentation/alert-on-users-without-mfa-enforced-crate.md)
     * [Alert when Users' Mailboxes are Reaching Quota Crate](documentation/crates/existing-crate-documentation/alert-when-users-mailboxes-are-reaching-quota-crate.md)
     * [Amend Calendar Permission on User Crate](documentation/crates/existing-crate-documentation/amend-calendar-permission-on-user-crate.md)
     * [Amend Mailbox Permissions Crate](documentation/crates/existing-crate-documentation/amend-mailbox-permissions-crate.md)
