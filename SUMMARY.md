@@ -779,6 +779,7 @@
 * [Training updates](updates/cs-and-training-updates/README.md)
   * [2025 Training updates](updates/cs-and-training-updates/2025-training-updates/README.md)
     * [November 7, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/november-7-2025-training-update.md)
+    * [November 14, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/november-14-2025-training-update.md)
     * [October 31, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/october-31-2025-training-update.md)
     * [October 24, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/october-24-2025-training-update.md)
     * [October 17, 2025 - Training update](updates/cs-and-training-updates/2025-training-updates/october-17-2025-training-update.md)
