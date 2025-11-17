@@ -271,6 +271,7 @@
     * [PSA: Update Ticket With User Onboard Links Crate](documentation/crates/existing-crate-documentation/psa-update-ticket-with-user-onboard-links-crate.md)
     * [Relate ITG Contact with ITG Configuration Crate](documentation/crates/existing-crate-documentation/relate-itg-contact-with-itg-configuration-crate.md)
     * [Remove Malicious Email and Block Sender Crate](documentation/crates/existing-crate-documentation/remove-malicious-email-and-block-sender-crate.md)
+    * [Report Offline Servers to Teams Crate](documentation/crates/existing-crate-documentation/report-offline-servers-to-teams-crate.md)
     * [Report on Disabled M365 Users with Licenses Crate](documentation/crates/existing-crate-documentation/report-on-disabled-m365-users-with-licenses-crate.md)
     * [Reset Locked Accounts Crate](documentation/crates/existing-crate-documentation/reset-locked-accounts-crate.md)
     * [Reset Microsoft MFA Crate](documentation/crates/existing-crate-documentation/reset-microsoft-mfa-crate.md)
