@@ -4,9 +4,9 @@
 If you’re new to Crates, read through our introductory Crate documentation [here](https://docs.rewst.help/prebuilt-automations/crates). Find the Crate in our Crate Marketplace.
 {% endhint %}
 
-## What does the Alert On Users Without MFA Enforced Crate do? <a href="#what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do" id="what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do"></a>
+## What does the Alert on Users Without MFA Enforced Crate do? <a href="#what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do" id="what-does-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate-do"></a>
 
-Our Alert On Users Without MFA Enforced Crate gathers a list of users and checks whether the users have the MFA enforced through security defaults, per user MFA, or conditional access. If the workflow identifies users without the MFA enforced, a ticket will be created in the PSA for your team to address.
+Our Alert on Users Without MFA Enforced Crate gathers a list of users and checks whether the users have the MFA enforced through security defaults, per user MFA, or conditional access. If the workflow identifies users without the MFA enforced, a ticket will be created in the PSA for your team to address.
 
 ### How the Crate works <a href="#how-the-crate-works" id="how-the-crate-works"></a>
 
@@ -52,10 +52,10 @@ Your PSA must be successfully integrated with Rewst. PSAs that work with this Cr
 * [ServiceNow](../../configuration/integrations/integration-guides/servicenow-integration-setup.md)
 * [Freshdesk](../../configuration/integrations/integration-guides/freshdesk-integration-setup.md)
 
-## Unpack the Alert On Users Without MFA Enforced Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
+## Unpack the Alert on Users Without MFA Enforced Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
 
 1. Navigate to **Crates** > **Crate Marketplace** in the left side menu Rewst platform.
-2. Search for `Alert On Users Without MFA Enforced`.​\
+2. Search for `Alert on Users Without MFA Enforced`.​\
    &#x20; \
    &#x20;![](<../../../.gitbook/assets/image (265).png>)
 3. Click on the Crate tile to begin unpacking.
