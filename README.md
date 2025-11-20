@@ -1,12 +1,14 @@
 ---
 description: >-
-  Explore our guides and recordings to start automating in Rewst today. Click
-  through our recommended shortcuts below, or use the nav menu to the left,
-  organized to match the left side menu in Rewst.
+  Explore our guides and recordings to start automating in Rewst today. Whether
+  you're a new or experienced builder of integrations, this is your resource hub
+  for learning how to save time with Rewst.
 icon: hand-wave
 ---
 
 # Welcome to Rewst documentation
+
+
 
 <table data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Rewst Support</strong></td><td align="center">Contact and customer resources for help with using Rewst</td><td><a href="support-and-community/roc-support/">roc-support</a></td><td><a href=".gitbook/assets/rewst-support.png">rewst-support.png</a></td></tr><tr><td align="center"><strong>Rewst Open Mic</strong></td><td align="center">Recordings and invites to our recurring live community hangouts</td><td><a href="updates/roc-open-mics/">roc-open-mics</a></td><td><a href=".gitbook/assets/open-mic.png">open-mic.png</a></td></tr><tr><td align="center"><strong>Cluck University</strong></td><td align="center">Sign up for training in Cluck  University to learn how to use Rewst</td><td><a href="https://learn.rewst.io/">https://learn.rewst.io/</a></td><td><a href=".gitbook/assets/cluck-university.png">cluck-university.png</a></td></tr></tbody></table>
 
