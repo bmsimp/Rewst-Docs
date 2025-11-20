@@ -309,6 +309,7 @@
       * [Acronis integration](documentation/configuration/integrations/integration-guides/acronis-integration.md)
       * [Addigy integration](documentation/configuration/integrations/integration-guides/addigy-integration-setup.md)
       * [Anthropic integration](documentation/configuration/integrations/integration-guides/anthropic-integration.md)
+      * [ArrowSphere integration](documentation/configuration/integrations/integration-guides/arrowsphere-integration.md)
       * [Asana integration](documentation/configuration/integrations/integration-guides/asana-integration.md)
       * [Auvik integration](documentation/configuration/integrations/integration-guides/auvik-integration-setup.md)
       * [BambooHR integration](documentation/configuration/integrations/integration-guides/bamboohr-integration-setup.md)
