@@ -37,7 +37,7 @@ Once you create a workflow, you'll be taken to the [_workflow builder_](workflow
 
 ## Synced versus unsynced workflows
 
-Synced workflows unpacked from Crates can't be edited, and automatically update when Rewst makes changes. For more on synced workflows, including how to identify them, see our documentation on Crates and syntonization [here](../../crates/#synced-versus-unsynced-crates).&#x20;
+Synced workflows unpacked from Crates can't be edited, and automatically update when Rewst makes changes. For more on synced workflows, including how to identify them, see our documentation on Crates and syntonization [here](../../../prebuilt-automations/crates/#synced-versus-unsynced-crates).&#x20;
 
 ## View specific workflow results
 
