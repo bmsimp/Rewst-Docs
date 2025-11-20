@@ -34,8 +34,7 @@ Prior to unpacking and running this Crate, you should have one of the following 
    ![](<../../../.gitbook/assets/Screenshot 2025-03-17 at 1.28.30 PM.png>)
 5. Set the **Name** field to `default_PSA`, if Rewst does not automatically populate this into the field for you.
 6. Set the **Category** to general.
-7.  Set the **Value** field to the value that corresponds to your PSA, referenced from the table below.\
-
+7.  Set the **Value** field to the value that corresponds to your PSA, referenced from the table below.<br>
 
     | **PSA**         | **Value**    |
     | --------------- | ------------ |
@@ -55,8 +54,7 @@ Prior to unpacking and running this Crate, you should have one of the following 
 
 1. Navigate to **Automations > Forms**.
 2. Search for `[ROC] Rewst: Create Orgs from PSA Form`.
-3.  Click **⋮ > Usages**.\
-
+3.  Click **⋮ > Usages**.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2025-03-19 at 2.05.38 PM.png" alt=""><figcaption></figcaption></figure>
 4. Click the workflow named **\[ROC] Rewst: Create Orgs from PSA - Stage 1: Collect Organizations**.

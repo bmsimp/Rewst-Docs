@@ -22,8 +22,7 @@ Our Change a User’s Password Crate uses a form-driven submission to change a u
 3. Click on the Crate tile to begin unpacking.\
    \
    ![](<../../../.gitbook/assets/image (139).png>)
-4.  Ensure that you have the required org variables setup for the Crate. Ready org variables will have a checkmark next to them under the **Required Org Variables** section, as seen in the screenshot below. An org variable without a check mark [will still need to be set up](../../configuration/organization-variables.md) before proceeding with unpacking the Crate. When confirmed, click **Unpack Crate**.\
-
+4.  Ensure that you have the required org variables setup for the Crate. Ready org variables will have a checkmark next to them under the **Required Org Variables** section, as seen in the screenshot below. An org variable without a check mark [will still need to be set up](../../configuration/organization-variables.md) before proceeding with unpacking the Crate. When confirmed, click **Unpack Crate**.<br>
 
     <figure><img src="../../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 5. Click **Continue**.
@@ -37,8 +36,7 @@ Integration overrides will automatically be added during the Crate's unpacking p
 
 1. Navigate to **Automations > Workflows**.
 2. Search for `User: Change Password` .
-3.  Click into the workflow.\
-
+3.  Click into the workflow.<br>
 
     <figure><img src="../../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 4. Click ![](<../../../.gitbook/assets/image (204).png>) next to the trigger name to edit the trigger.

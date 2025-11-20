@@ -41,8 +41,7 @@ For more on authentication for App Builder using the login page, see our App Bui
 
 1. Navigate to **App Builder > Apps** in the left side menu of your Rewst platform.&#x20;
 2. Click on the app from the list to view your app details.
-3.  Click ⋮ next to the page you want to delete.\
-
+3.  Click ⋮ next to the page you want to delete.<br>
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 4.25.33 PM.png" alt=""><figcaption></figcaption></figure>
 4. Click **Delete**.

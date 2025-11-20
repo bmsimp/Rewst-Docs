@@ -98,8 +98,7 @@ For more on organizational variables, see our introductory documentation [here](
 
 1. Navigate to **Automations > Forms**.
 2. Search for `user offboarding` to find the form unpacked from the Crate.
-3.  Click the **⋮** next to the form.\
-
+3.  Click the **⋮** next to the form.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2025-03-12 at 3.35.42 PM.png" alt=""><figcaption></figcaption></figure>
 4. Click **Usages**, then **View direct URLs**.

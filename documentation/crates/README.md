@@ -44,8 +44,7 @@ Each Crate has its own Crate tile in Crate Marketplace. The number on the bottom
   * Crate category
   * Rewst Recommendation
   * Integration
-* Click <img src="../../.gitbook/assets/Screenshot 2025-04-22 at 11.03.34 AM.png" alt="" data-size="line"> to access a shortcut to Rewst's documentation site section for Crates.\
-
+* Click <img src="../../.gitbook/assets/Screenshot 2025-04-22 at 11.03.34 AM.png" alt="" data-size="line"> to access a shortcut to Rewst's documentation site section for Crates.<br>
 
 Click on the Crate tile for your desired Crate to open up its **Crate Details** page, which breaks down the purpose, features, and setup requirements of the Crate.  Note that there are two tabs to this page: **Overview**, and **What's Being Unpacked**.
 
@@ -66,7 +65,7 @@ In the right side menu, find the following information:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-09-12 at 3.11.55 PM.png" alt=""><figcaption></figcaption></figure>
 
-* If the Crate requires [organization variables](../../documentation/configuration/organization-variables.md#what-is-an-organization-variable), these required variables will be shown in a section at the bottom of the right side menu. Crates that don't require organization variables won't have this section.&#x20;
+* If the Crate requires [organization variables](../configuration/organization-variables.md#what-is-an-organization-variable), these required variables will be shown in a section at the bottom of the right side menu. Crates that don't require organization variables won't have this section.&#x20;
 
 {% hint style="warning" %}
 You have the option to unpack a Crate even if your required integrations or organization variables aren't set up. Rewst will ask you to check a box to acknowledge that the minimum requirements haven't been met, then let you click **Unpack Crate** without those requirements.&#x20;
@@ -147,7 +146,7 @@ Modifying a Crate allows you to:
 Unsyncing a top level workflow doesn't affect the subworkflows inside it. They remain synced unless you unsync them individually. However, if you unsync a subworkflow and leave the top level synced, future updates to the crate will overwrite your changes. To avoid this, also unsync the parent workflow.
 
 {% hint style="info" %}
-[Completion handlers](../../documentation/automations/workflows/completion-handlers-and-workflow-wrappers.md) are a great, useful way to keep Crates synced while expanding functionality.
+[Completion handlers](../automations/workflows/completion-handlers-and-workflow-wrappers.md) are a great, useful way to keep Crates synced while expanding functionality.
 {% endhint %}
 
 ## Request a Crate and vote for Crate ideas

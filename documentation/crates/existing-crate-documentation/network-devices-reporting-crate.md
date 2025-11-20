@@ -67,8 +67,7 @@ Note that the contents of the exported CSV will depend on the information presen
 To test this Crate, you'll need to adjust the cron trigger's schedule to a few minutes in the future, then adjust it back to your regular schedule after the test. Alternatively, you could wait until the regularly scheduled run occurs and check your result, which would not require you to update the cron trigger schedule.
 
 1. Navigate to **Automations > Workflows** in the left side menu of your Rewst platform.
-2.  Search for `[ROC] Auvik: Network Device Report`.\
-
+2.  Search for `[ROC] Auvik: Network Device Report`.<br>
 
     <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 3.  Click on the workflow to view it in the Workflow Builder.
