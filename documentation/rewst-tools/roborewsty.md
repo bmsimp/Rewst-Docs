@@ -24,7 +24,6 @@ Currently, you can ask it questions about the platform and get instant guidance 
 * Use RoboRewsty as your personal Rewst navigator. Ask him about about your workflows, variables and integrations, and get answers specific to your individual Rewst environment.
   * “What integrations are available in my org?”&#x20;
   * "List recent executions of workflow \[name]."
-* Have RoboRewsty analyze your workflow execution results, give an explanation of what happened during a run, and present root causes and next steps if you encountered failures.
 * Get tailored support and guidance while building in Rewst. Whether you’re working with Jinja, action parameters, or workflow design, ask RoboRewsty for best practices and guidance while you build.
 
 ## What can't RoboRewsty do or help with?
@@ -41,34 +40,6 @@ RoboRewsty can't:
 {% hint style="info" %}
 RoboRewsty can tell you how many tasks are in a workflow, but that number should not be used to predict task usage. The actual number of tasks executed in each workflow run may vary depending on workflow logic, conditions, skips, and subworkflows. For accurate task counts, check the Execution History for individual workflow runs and your [Dashboard.](../rewst-dashboard.md)
 {% endhint %}
-
-## Access RoboRewsty
-
-Find RoboRewsty in the top right of your Rewst navigation bar in Rewst. Click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 11.52.01 AM.png" alt="" data-size="line">to open **Chat with RoboRewsty**.&#x20;
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-16 at 11.58.53 AM.png" alt="" width="563"><figcaption></figcaption></figure>
-
-Type your question into the chat box and click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.00.33 PM.png" alt="" data-size="line"> to trigger the response.&#x20;
-
-The navigation bar at the tip of the Chat with RoboRewsty dialog holds three options:
-
-* <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.02.56 PM.png" alt="" data-size="line"> **New chat** starts a new chat with RoboRewsty
-* <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.03.37 PM.png" alt="" data-size="line"> Conversation history opens up a new dialog to display your total record of all RoboRewsty chats, with a **Search conversations** bar at the top of the list
-* <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.04.58 PM.png" alt="" data-size="line"> **Open in new window** moves your RoboRewsty chat from the right side menu dialog to a totally new, separate window.
-
-Depending on the nature of your question, it might take a moment for RoboRewsty to search all his available knowledge and return a response. You can tell that he''s still working by the animations on the screen.
-
-<figure><img src="../../.gitbook/assets/Roborewsty gif.gif" alt=""><figcaption><p>An example of RoboRewsty's search for answers, in progress</p></figcaption></figure>
-
-For workflows, click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.57.34 PM.png" alt="" data-size="line"> in the top Workflow Builder navigation bar to open RoboRewsty in the Workflow Builder. When the Chat with RoboRewsty dialog is open on the Workflow Builder, you can ask him questions directly about that workflow.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.58.14 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-After you receive your workflow insights, you can ask RoboRewsty to add that information to your workflow in a note.&#x20;
-
-For workflow results, click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.57.34 PM.png" alt="" data-size="line"> in the top right corner of the workflow execution's result summary. This will automatically begin RoboRewsty's execution analysis for you.
-
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
 ## How to ask better questions
 
@@ -145,7 +116,29 @@ This layered design ensures RoboRewsty can provide tailored, context-aware help 
 
 </details>
 
+## Access RoboRewsty
 
+Find RoboRewsty in the top right of your Rewst navigation bar in Rewst. Click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 11.52.01 AM.png" alt="" data-size="line">to open **Chat with RoboRewsty**.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-16 at 11.58.53 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Type your question into the chat box and click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.00.33 PM.png" alt="" data-size="line"> to trigger the response.&#x20;
+
+The navigation bar at the tip of the Chat with RoboRewsty dialog holds three options:
+
+* <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.02.56 PM.png" alt="" data-size="line"> **New chat** starts a new chat with RoboRewsty
+* <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.03.37 PM.png" alt="" data-size="line"> Conversation history opens up a new dialog to display your total record of all RoboRewsty chats, with a **Search conversations** bar at the top of the list
+* <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.04.58 PM.png" alt="" data-size="line"> **Open in new window** moves your RoboRewsty chat from the right side menu dialog to a totally new, separate window.
+
+Depending on the nature of your question, it might take a moment for RoboRewsty to search all his available knowledge and return a response. You can tell that he''s still working by the animations on the screen.
+
+<figure><img src="../../.gitbook/assets/Roborewsty gif.gif" alt=""><figcaption><p>An example of RoboRewsty's search for answers, in progress</p></figcaption></figure>
+
+For workflows, click <img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.57.34 PM.png" alt="" data-size="line"> in the top Workflow Builder navigation bar to open RoboRewsty in the Workflow Builder. When the Chat with RoboRewsty dialog is open on the Workflow Builder, you can ask him questions directly about that workflow.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-16 at 12.58.14 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+After you receive your workflow insights, you can ask RoboRewsty to add that information to your workflow in a note.&#x20;
 
 ## Submit your feedback
 
