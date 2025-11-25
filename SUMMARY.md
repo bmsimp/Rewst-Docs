@@ -297,6 +297,7 @@
     * [Windows Patch Deployer Crate](documentation/crates/existing-crate-documentation/windows-patch-deployer-crate.md)
     * [Workstation Offboarding Crate](documentation/crates/existing-crate-documentation/workstation-offboarding-crate.md)
     * [M365: Disable Inactive User Accounts Crate](documentation/crates/existing-crate-documentation/m365-disable-inactive-user-accounts-crate.md)
+    * [Alert on AV/EDR Coverage Gaps Crate](documentation/crates/existing-crate-documentation/alert-on-av-edr-coverage-gaps-crate.md)
 * [Configuration](documentation/configuration/README.md)
   * [Integrations](documentation/configuration/integrations/README.md)
     * [Top 5 integration types : Get started with integrations in Rewst](documentation/configuration/integrations/top-5-integration-types-get-started-with-integrations-in-rewst.md)
