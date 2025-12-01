@@ -58,7 +58,7 @@ Our Kaseya VSA X integration enables automation of remote monitoring and managem
 and the contents:
 
 ```powershell
-Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $wc = New-Object System.Net.WebClient
 $wc.Encoding = [System.Text.Encoding]::UTF8
 $commands = ($wc.DownloadString("$script_url"))
