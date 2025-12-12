@@ -27,6 +27,7 @@ Explore what new changes the Cluck University team made in the last week.
 * [Windows 11 Compatibility Checker Crate](https://docs.rewst.help/documentation/crates/existing-crate-documentation/windows-11-compatibility-checker-crate)
 * [Alert on Onboard/Offboard Execution Crate](https://docs.rewst.help/documentation/crates/existing-crate-documentation/alert-on-onboard-offboard-execution-crate)
 * [Updated documentation on how permissions work in App Builder](https://docs.rewst.help/documentation/app-builder/permissions)
+* [Updated documentation to reflect changes to our Use AI to Suggest Responses to New Tickets Crate, which previously only supported OpenAI and now supports Anthropic as well](../../../documentation/crates/existing-crate-documentation/use-ai-to-suggest-responses-to-new-tickets-crate.md)&#x20;
 
 </details>
 
