@@ -240,6 +240,7 @@
     * [Document User Details V2 Crate](documentation/crates/existing-crate-documentation/document-user-details-v2-crate.md)
     * [Dropsuite: Backup Monitoring Crate](documentation/crates/existing-crate-documentation/dropsuite-backup-monitoring-crate.md)
     * [Dropsuite: New Account Crate](documentation/crates/existing-crate-documentation/dropsuite-new-account-crate.md)
+    * [Duo Identity Verification Crate](documentation/crates/existing-crate-documentation/duo-identity-verification-crate.md)
     * [Enable / Disable Mailbox Forwarding Crate](documentation/crates/existing-crate-documentation/enable-disable-mailbox-forwarding-crate.md)
     * [Enterprise Application Creation Alert Crate](documentation/crates/existing-crate-documentation/enterprise-application-creation-alert-crate.md)
     * [Exchange CIS Audit Crate](documentation/crates/existing-crate-documentation/exchange-cis-audit-crate.md)
