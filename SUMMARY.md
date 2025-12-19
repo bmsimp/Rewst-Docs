@@ -292,6 +292,7 @@
     * [Rotate Account Passwords Crate](documentation/crates/existing-crate-documentation/rotate-account-passwords-crate.md)
     * [Run PowerShell Script on Selected Devices Crate](documentation/crates/existing-crate-documentation/run-powershell-script-on-selected-devices-crate.md)
     * [Subworkflow: Check a User's Group Memberships to Proceed in a Workflow Crate](documentation/crates/existing-crate-documentation/subworkflow-check-a-users-group-memberships-to-proceed-in-a-workflow-crate.md)
+    * [Subworkflow: Check Email Address Against Free Providers List Crate](documentation/crates/existing-crate-documentation/subworkflow-check-email-address-against-free-providers-list-crate.md)
     * [Sync AzureAD Account Information with ConnectWise PSA Contacts (V3) Crate](documentation/crates/existing-crate-documentation/sync-azuread-account-information-with-connectwise-psa-contacts-v3-crate.md)
     * [Sync LastLoggedInUser to PSA Config Item Crate](documentation/crates/existing-crate-documentation/sync-lastloggedinuser-to-psa-config-item-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
