@@ -367,6 +367,7 @@
       * [Liongard integration](documentation/configuration/integrations/integration-guides/liongard-integration-setup.md)
       * [Mailgun integration](documentation/configuration/integrations/integration-guides/mailgun-integration-setup.md)
       * [Microsoft Cloud Integration Bundle](documentation/configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/README.md)
+        * [Microsoft Cloud integration bundle troubleshooting guide](documentation/configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/microsoft-cloud-integration-bundle-troubleshooting-guide.md)
         * [Microsoft Cloud integration bundle actions and endpoints](documentation/configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/microsoft-cloud-integration-bundle-actions-and-endpoints.md)
         * [Microsoft owned app registration](documentation/configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/owned-app-registration.md)
         * [Microsoft Cloud permissions](documentation/configuration/integrations/integration-guides/microsoft-cloud-integration-bundle/microsoft-cloud-permissions.md)
