@@ -1,4 +1,4 @@
-# Cluck University Capped — 2025 Rewst Education Roundup
+# Cluck University Capped  🎓 — 2025 Rewst Education Roundup
 
 Buckle up for a **year of learning Rewst** recap, proudly presented by the Rewst Education team (_Clea, Eddie, and Lauren — you can find them in Rewst Discord at #cluck-u)._
 
@@ -116,7 +116,7 @@ Extra kudos to our office hours regulars who showed up to learn with Eddie: Tann
 
 #### See you in 2026!
 
-Thanks for joining us in Cluck University, and go rest up those bird-brains… there’ a lot more learning for you around the corner. See you in January!
+Thanks for joining us in Cluck University, and go rest up those bird-brains… there’s a lot more learning for you around the corner. See you in January!
 
 Love,
 
