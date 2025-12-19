@@ -248,6 +248,7 @@
     * [Export Intune Policies and Configurations Crate](documentation/crates/existing-crate-documentation/export-intune-policies-and-configurations-crate.md)
     * [Export MS365 Licenses to CSV Crate](documentation/crates/existing-crate-documentation/export-ms365-licenses-to-csv-crate.md)
     * [Export Org Vars to CSV for Import Crate](documentation/crates/existing-crate-documentation/export-org-vars-to-csv-for-import-crate.md)
+    * [Export PSA Ticket Overview to CSV Crate](documentation/crates/existing-crate-documentation/export-psa-ticket-overview-to-csv-crate.md)
     * [Find Inactive Computers in RMM Crate](documentation/crates/existing-crate-documentation/find-inactive-computers-in-rmm-crate.md)
     * [Huntress EDR: AD Account Lockdown Crate](documentation/crates/existing-crate-documentation/huntress-edr-ad-account-lockdown-crate.md)
     * [Google: User Offboarding Crate](documentation/crates/existing-crate-documentation/google-user-offboarding-crate.md)
