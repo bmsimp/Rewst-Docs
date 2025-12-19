@@ -302,6 +302,7 @@
     * [Uninstall Ad-Hoc Software Crate](documentation/crates/existing-crate-documentation/uninstall-ad-hoc-software-crate.md)
     * [Update Ticket With Form Link - Generic Crate](documentation/crates/existing-crate-documentation/update-ticket-with-form-link-generic-crate.md)
     * [Update User Attributes (On-Prem/Azure) V2 Crate](documentation/crates/existing-crate-documentation/update-user-attributes-on-prem-azure-v2-crate.md)
+    * [Upload File to PSA Ticket Crate](documentation/crates/existing-crate-documentation/upload-file-to-psa-ticket-crate.md)
     * [Use AI to Suggest Responses to New Tickets Crate](documentation/crates/existing-crate-documentation/use-ai-to-suggest-responses-to-new-tickets-crate.md)
     * [User Offboarding V2 Crate](documentation/crates/existing-crate-documentation/user-offboarding-v2.md)
     * [View Rewst integration Org Variables](documentation/crates/existing-crate-documentation/view-rewst-integration-org-variables.md)
