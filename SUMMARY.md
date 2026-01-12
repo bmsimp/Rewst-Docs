@@ -280,6 +280,7 @@
     * [On-Premises Active Directory Password Expiration Alerts Crate](documentation/crates/existing-crate-documentation/on-premises-active-directory-password-expiration-alerts-crate.md)
     * [OpenText Core Endpoint Protection: Create Ticket from File Detection Crate](documentation/crates/existing-crate-documentation/opentext-core-endpoint-protection-create-ticket-from-file-detection-crate.md)
     * [Organizational Setup Report Crate](documentation/crates/existing-crate-documentation/organizational-setup-report-crate.md)
+    * [Post Onboarding Email Campaign Crate](documentation/crates/existing-crate-documentation/post-onboarding-email-campaign-crate.md)
     * [Prompt to Combine Similar Tickets Crate](documentation/crates/existing-crate-documentation/prompt-to-combine-similar-tickets-crate.md)
     * [PSA: Update Ticket with User Offboard Links Crate](documentation/crates/existing-crate-documentation/psa-update-ticket-with-user-offboard-links-crate.md)
     * [PSA: Update Ticket With User Onboard Links Crate](documentation/crates/existing-crate-documentation/psa-update-ticket-with-user-onboard-links-crate.md)
