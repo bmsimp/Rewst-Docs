@@ -9,7 +9,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 <summary><strong>New features and items</strong></summary>
 
 * **Integrations**
-  * Connectwise Asio
+  * New integration - Connectwise Asio
   * Added Generic action for Twilio
   * Added new OpenText Secure Cloud actions to let you view and manage customer services and subscriptions directly in Rewst.
   * Added the Microsoft category back to integrations, making Microsoft-related integrations easier to find and organize.
