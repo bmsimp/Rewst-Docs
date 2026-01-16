@@ -6,6 +6,9 @@ Explore what new changes the Cluck University team made in the last week.
 
 <summary><strong>Cluck University updates and shoutouts</strong> </summary>
 
+* Want to get the most out of RoboRewsty? Take our RoboRewsty courses!
+  * [RoboRewsty prompting](https://learn.rewst.io/roborewsty-prompting)
+  * [3 ways to start using RoboRewsty](https://learn.rewst.io/3-ways-to-start-using-roborewsty)
 * Get certified! Visit the [Rewst Certifications page](https://learn.rewst.io/page/certificates) to explore trainings (self-paced and live), take the certification exams, and earn prestigious badges.
 * **Rewst Foundations shoutouts**: A big shoutout to Jacob, Louis, Michael, Patrick, David, Greg, Rob, Jacob, Nicholas, and Spencer for passing the Foundations Certification!&#x20;
 *   **Clean Automation shoutouts**: Congrats to Louis, Chris, Xavier, Rob, Mitchell, Jacob, Wes, and Nicholas for passing the Clean Automation Certification!
