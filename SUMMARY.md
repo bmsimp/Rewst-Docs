@@ -299,6 +299,7 @@
     * [Subworkflow: Check a User's Group Memberships to Proceed in a Workflow Crate](documentation/crates/existing-crate-documentation/subworkflow-check-a-users-group-memberships-to-proceed-in-a-workflow-crate.md)
     * [Subworkflow: Check Email Address Against Free Providers List Crate](documentation/crates/existing-crate-documentation/subworkflow-check-email-address-against-free-providers-list-crate.md)
     * [Sync AzureAD Account Information with ConnectWise PSA Contacts (V3) Crate](documentation/crates/existing-crate-documentation/sync-azuread-account-information-with-connectwise-psa-contacts-v3-crate.md)
+    * [Sync Duo User Counts with ConnectWise PSA Agreement Crate](documentation/crates/existing-crate-documentation/sync-duo-user-counts-with-connectwise-psa-agreement-crate.md)
     * [Sync LastLoggedInUser to PSA Config Item Crate](documentation/crates/existing-crate-documentation/sync-lastloggedinuser-to-psa-config-item-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
     * [Time Savings Report Crate](documentation/crates/existing-crate-documentation/time-savings-report-crate.md)
