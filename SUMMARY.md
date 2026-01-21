@@ -221,6 +221,7 @@
     * [Client Form Launcher Crate](documentation/crates/existing-crate-documentation/client-form-launcher-crate.md)
     * [Comprehensive Rewst Forms List Crate](documentation/crates/existing-crate-documentation/comprehensive-rewst-forms-list-crate.md)
     * [Compromised User Response Crate](documentation/crates/existing-crate-documentation/compromised-user-response-crate.md)
+    * [Configure ConnectWise PSA Agreement for Duo Sync Crate](documentation/crates/existing-crate-documentation/configure-connectwise-psa-agreement-for-duo-sync-crate.md)
     * [Configure New GDAP Relationship Crate](documentation/crates/existing-crate-documentation/configure-new-gdap-relationship-crate.md)
     * [Configure Organizational Variables Crate](documentation/crates/existing-crate-documentation/configure-organization-variables.md)
     * [Configure Out of Office on Mailbox Crate](documentation/crates/existing-crate-documentation/configure-out-of-office-on-mailbox-crate.md)
