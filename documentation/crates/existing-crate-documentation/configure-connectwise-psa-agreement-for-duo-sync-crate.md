@@ -8,7 +8,7 @@ If you’re new to Crates, read through our introductory Crate documentation [he
 
 Our Configure ConnectWise PSA Agreement for Duo Sync Crate provides a simple form-based interface for easy variable configuration. It prepares your system for the Duo-CWM User Sync Crate and ensures secure and accurate input of API keys and other sensitive data. You'll only need to perform the setup once and you're good to go for future syncs.&#x20;
 
-This Crate only deals with configuring variables and does not perform the actual sync operation. Use this as a preparatory step before running the Duo-ConnectWise PSA User Sync Crate.
+This Crate only deals with configuring variables and does not perform the actual sync operation. Use this as a preparatory step before running the Sync Duo User Counts with ConnectWise PSA Agreement Crate.
 
 ### How the Crate works <a href="#how-the-crate-works" id="how-the-crate-works"></a>
 
