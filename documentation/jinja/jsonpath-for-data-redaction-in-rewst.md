@@ -1170,7 +1170,7 @@ These examples show how to achieve the same result with **JSONPath** or **Rewstâ
 ["doc_1", "doc_2", "doc_3"]
 ```
 
-### **ðŸ”Ÿ All Tags - flattened**
+### **All tags - flattened**
 
 **JSONPath**
 
