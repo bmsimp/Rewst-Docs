@@ -304,6 +304,7 @@
     * [Sync LastLoggedInUser to PSA Config Item Crate](documentation/crates/existing-crate-documentation/sync-lastloggedinuser-to-psa-config-item-crate.md)
     * [Thread Automations Crate](documentation/crates/existing-crate-documentation/thread-automations-crate.md)
     * [Time Savings Report Crate](documentation/crates/existing-crate-documentation/time-savings-report-crate.md)
+    * [Traveling Employee CA Policy Crate](documentation/crates/existing-crate-documentation/traveling-employee-ca-policy-crate.md)
     * [Triage SentinelOne Tickets Crate](documentation/crates/existing-crate-documentation/triage-sentinelone-tickets-crate.md)
     * [Uninstall Ad-Hoc Software Crate](documentation/crates/existing-crate-documentation/uninstall-ad-hoc-software-crate.md)
     * [Update Ticket With Form Link - Generic Crate](documentation/crates/existing-crate-documentation/update-ticket-with-form-link-generic-crate.md)
