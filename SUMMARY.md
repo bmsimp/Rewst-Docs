@@ -819,6 +819,7 @@
     * [October 28, 2022 - Dev Update](updates/development-updates/2022-dev-updates/october-28th-2022.md)
 * [Training updates](updates/cs-and-training-updates/README.md)
   * [2026 Training updates](updates/cs-and-training-updates/2026-training-updates/README.md)
+    * [January 23, 2026 - Training update](updates/cs-and-training-updates/2026-training-updates/january-23-2026-training-update.md)
     * [January 16, 2026 - Training update](updates/cs-and-training-updates/2026-training-updates/january-16-2026-training-update.md)
   * [2025 Training updates](updates/cs-and-training-updates/2025-training-updates/README.md)
     * [Cluck University Capped  🎓 — 2025 Rewst Education Roundup](updates/cs-and-training-updates/2025-training-updates/cluck-university-capped-2025-rewst-education-roundup.md)
