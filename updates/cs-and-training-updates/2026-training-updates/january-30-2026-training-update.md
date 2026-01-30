@@ -13,7 +13,7 @@ Explore what new changes the Cluck University team made in the last week.
   * [Simplify Microsoft User Onboarding with a form and workflow wrapper](https://learn.rewst.io/simplify-microsoft-user-onboarding)
 * Get certified! Visit the [Rewst Certifications page](https://learn.rewst.io/page/certificates) to explore trainings (self-paced and live), take the certification exams, and earn prestigious badges.
 * **Rewst Foundations shoutouts**: A big shoutout to John, Nicholas, Freddy, Joel, Arturo, Victor, Ray, Paul, Thomas, Phil, Derek, Mike, Jonathon, and Zain for passing the Foundations Certification!&#x20;
-* **Clean Automation shoutouts**: Congrats toNicholas, T Bergmann, and Thomas for passing the Clean Automation Certification!
+* **Clean Automation shoutouts**: Congrats to Nicholas, T Bergmann, and Thomas for passing the Clean Automation Certification!
 
 </details>
 
