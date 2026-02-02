@@ -244,7 +244,9 @@ The Rewst - Crate Published Trigger kicks off the workflow when a Crate is publi
 * Syncing crate publication information to external documentation or communication systems
 * Automating post-publication tasks like announcements or version tracking
 
+The Crate will include the following in the workflow execution once triggered.
 
+`CTX.triggering_crate_data.crate_id`                 ID of the Crate `CTX.triggering_crate_data.workflow_id`             ID of the parent workflow in the Crate
 
 </details>
 
