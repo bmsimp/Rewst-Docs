@@ -69,7 +69,7 @@ Custom integrations can only be enabled by users with the Rewst Admin role.&#x20
 ### Choose the type of custom integration
 
 1. Navigate to **Configuration > Integrations** in the left side menu of your Rewst platform.
-2. Click +**Add New Integration**.&#x20;
+2. Click <img src="../../../../.gitbook/assets/Screenshot 2026-02-05 at 4.52.46 PM.png" alt="" data-size="line">.&#x20;
    1. Click **New Integration** to build your integration from the beginning.
    2. Alternatively, click **Add OpenAPI Integration** if you have an OpenAPI JSON file.
 
@@ -108,9 +108,8 @@ Examples of OpenAPI files for common custom integrations
 
 ### To build a new custom integration from the beginning
 
-1. Click <img src="../../../../.gitbook/assets/Screenshot 2026-02-05 at 4.52.46 PM.png" alt="" data-size="line"> **> New Integration**.
-2. Add a **Name** for your integration. Note that this name is what will show up as the accordion menu header for your integration's list of actions in the Workflow Builder. It shouldn't contain special characters.
-3. Upload an **Icon** via an SVG file. Other image file formats will not upload into Rewst. This icon will represent your custom integration across Rewst in the integration tile, actions menu, etc.&#x20;
+1. Add a **Name** for your integration. Note that this name is what will show up as the accordion menu header for your integration's list of actions in the Workflow Builder. It shouldn't contain special characters.
+2. Upload an **Icon** via an SVG file. Other image file formats will not upload into Rewst. This icon will represent your custom integration across Rewst in the integration tile, actions menu, etc.&#x20;
 
 <br>
 
