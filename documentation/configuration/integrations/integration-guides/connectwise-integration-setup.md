@@ -912,7 +912,7 @@ Different conditions serve different purposes. Mastering these conditions enable
 ## Troubleshoot API issues from ConnectWise logs
 
 {% hint style="info" %}
-It may be necessary to collect API logs from your Rewst platform to send to ConnectWise for troubleshooting, if you encounter issues. The below steps will generate a log for the specific time window you choose.
+It may be necessary to collect API logs from your ConnectWise PSA to send to ConnectWise for troubleshooting, if you encounter issues. The below steps will generate a log for the specific time window you choose.
 {% endhint %}
 
 1. Log in to ConnectWise PSA.
