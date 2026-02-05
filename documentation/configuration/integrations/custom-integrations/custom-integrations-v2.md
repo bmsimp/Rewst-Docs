@@ -108,14 +108,18 @@ Examples of OpenAPI files for common custom integrations
 
 ### To build a new custom integration from the beginning
 
-1. Specify your configuration details, then click **Next**.&#x20;
-2. Add a **Name** for your integration.
-3.  Upload an **Icon** via an SVG file. Other image file formats will not upload into Rewst.<br>
+1. Click <img src="../../../../.gitbook/assets/Screenshot 2026-02-05 at 4.52.46 PM.png" alt="" data-size="line"> **> New Integration**.
+2. Add a **Name** for your integration. Note that this name is what will show up as the accordion menu header for your integration's list of actions in the Workflow Builder. It shouldn't contain special characters.
+3. Upload an **Icon** via an SVG file. Other image file formats will not upload into Rewst. This icon will represent your custom integration across Rewst in the integration tile, actions menu, etc.&#x20;
 
-    <figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<br>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-02-05 at 4.55.36 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
 4. Add a **Description**.
-5. Add the **hostname** of the API without https:// at the beginning of your URL. For example, API.example.com.
-6. Choose an authentication method from the drop-down selector. Rewst supports:
+5. Click **Next**.
+6. Enter the **hostname** of the API without https:// at the beginning of your URL. For example, API.example.com.
+7. Choose an authentication method from the drop-down selector. Rewst supports:
    1. API Key - this is the most common and simplest method, which should chosen if:
       1. The API provides a single static key or token
       2. &#x20;Requests include a header like `Authorization` or `X-API-Key`
@@ -220,9 +224,9 @@ Examples of OpenAPI files for common custom integrations
        1. **After Param** - The query param the identifies the starting pointer/cursor of the returned page.
        2. **Pointer JSONPath** - The JSONPath to the pointer/cursor in the response.
 13. Click **Next**.&#x20;
-14. The **Edit Actions** screen is where you'll add in your actions for your integration.&#x20;
+14. The **Edit Actions** screen is where you'll add in your actions for your integration. When the integration is complete, you'll be able to access these actions in the [Workflow Builder](../../../automations/workflows/workflow-builder-how-to-set-up-a-workflow.md#drag-the-action) just like you would for any other integration, only they will show up in a separate accordion section titled with the name you gave your custom integration.
 
-    1. Click ![](<../../../../.gitbook/assets/Screenshot 2026-01-26 at 3.15.05 PM.png>) to add a default action. This will reveal new fields and menus to fill out for that action.
+    1. Click ![](<../../../../.gitbook/assets/Screenshot 2026-01-26 at 3.15.05 PM.png>) to add a default action. This will reveal new fields and menus to fill out for that action, and add the action to the left side list.
 
     ![Edit your actions, then click on Finalize](<../../../../.gitbook/assets/Screenshot 2026-01-26 at 3.17.54 PM.png>)
 
