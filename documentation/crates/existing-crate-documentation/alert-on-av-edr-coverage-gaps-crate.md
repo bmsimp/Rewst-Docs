@@ -42,7 +42,7 @@ This Crate only works with [SentinelOne](../../configuration/integrations/integr
 1. Navigate to **Crates** > **Crate Marketplace** in the left side menu Rewst platform.
 2. Search for `Alert on AV/EDR Coverage Gaps`.​\
    &#x20; \
-   &#x20;![](<../../../.gitbook/assets/image (312).png>)
+   &#x20;![](<../../../.gitbook/assets/image (344).png>)
 3. Click on the Crate tile to begin unpacking.
 4. Click **Unpack Crate**.
 5. Click **Continue**.
@@ -56,10 +56,10 @@ To test this Crate, you'll need to adjust the cron trigger's schedule to a few m
 1. Navigate to **Automations > Workflows** in the left side menu of your Rewst platform.
 2.  Search for `[REWST - CRATE] Alert AV/EDR Coverage Gaps`.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 3.  Click on the workflow to view it in the Workflow Builder.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 4. Adjust the cron trigger's schedule to five minutes from your current time. The workflow will run on its own. Check in your PSA's portal to ensure that the workflow is generating alerts and creating PSA tickets for uncovered devices as expected.
 
 ### Update the cron trigger schedule
@@ -71,7 +71,7 @@ The Crate runs on a cron trigger, and will execute the workflow to generate the 
 3. Click on the workflow to open it in the Workflow Builder.
 4.  Click <img src="../../../.gitbook/assets/image (205).png" alt="" data-size="line"> to open the edit trigger menu.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 5. Update the timing of the cron trigger as desired in the fields under **Trigger Parameters**. Note that when entering the time into the **Cron Schedule** field, the correct format is minutes followed by hour. For example, 18 3, not 3 18.
 6. Click **Submit**.
 

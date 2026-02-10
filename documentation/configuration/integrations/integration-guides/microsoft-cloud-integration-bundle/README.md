@@ -228,7 +228,7 @@ If you are part of the Microsoft Cloud Solution Provider (CSP) program and have 
 
 1. Unpack the [Rewst Microsoft GDAP Assistant Crate](../../../../crates/existing-crate-documentation/rewst-microsoft-gdap-assistant-crate.md). This will create the relationship and generate a link for your customer to accept the relationship. Once the customer manually accepts, you'll be given a second link to kick off another workflow that adds all groups to the relationship, and maps them to the relevant roles.\
    \
-   ![](<../../../../../.gitbook/assets/image (331).png>)<br>
+   ![](<../../../../../.gitbook/assets/image (328).png>)<br>
 2. Return to your Rewst platform. Navigate to **Configuration > Integrations > Microsoft Cloud Bundle**.
 3. Use the **organization mapping** menu that appears at the bottom of the screen to choose the customer organizations you wish to map the bundle to.&#x20;
 

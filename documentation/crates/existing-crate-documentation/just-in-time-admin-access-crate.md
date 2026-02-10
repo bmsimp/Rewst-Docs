@@ -46,7 +46,7 @@ This Crate is ideal for MSPs managing client environments securely and efficient
     *   Optionally, you may set the variable `preferred_domain_controller`, which will act as a fallback in the event that `default_rmm` is not configured. If the fallback is not set, and `default_rmm` is not configured, your workflow will fail. \
         <br>
 
-        <figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
 ## Unpack the **Just-in-Time Admin Access** Crate
 

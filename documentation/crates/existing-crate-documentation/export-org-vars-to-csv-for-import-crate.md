@@ -65,7 +65,7 @@ For more on how CSVs can be generated with Jinja, see our documentation [here](h
 
 This workflow is meant to run from your parent organization only. If you’re seeing workflow failures for child organizations, disable the trigger for child organizations.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Got an idea for a new Crate? Rewst is constantly adding new Crates to our Crate Marketplace. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/crates).

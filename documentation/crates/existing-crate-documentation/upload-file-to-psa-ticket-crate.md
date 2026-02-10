@@ -40,7 +40,7 @@ This Crate requires one or more of the following PSAs to be successfully integra
 
 
 
-    &#x20;![](<../../../.gitbook/assets/image (323).png>)
+    &#x20;![](<../../../.gitbook/assets/image (337).png>)
 3. Click on the Crate tile to begin unpacking.
 4. Click **Unpack Crate**.
 5. Click **Continue**.
@@ -53,7 +53,7 @@ This Crate requires one or more of the following PSAs to be successfully integra
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 3. Click on the workflow to view it in the Workflow Builder.&#x20;
 4. Click **Test** in the top right corner of the Workflow Builder Canvas.
 5. Fill in the following fields:

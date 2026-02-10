@@ -24,7 +24,7 @@ The ArrowSphere integration enables the automation of ArrowSphere, which is a di
 1. Navigate to **Configuration > Integrations** in the left side menu of your Rewst platform.
 2. Search for `ArrowSphere` in the integrations page.\
    \
-   ![](<../../../../.gitbook/assets/image (309).png>)
+   ![](<../../../../.gitbook/assets/image (341).png>)
 3. Click on the integration tile to launch the configuration setup page.
 4. Enter the **API Key** under the **Parameters** section:
 5. Click **Save Configuration**.
