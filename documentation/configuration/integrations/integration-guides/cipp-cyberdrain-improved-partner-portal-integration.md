@@ -29,7 +29,7 @@ Our CIPP (CyberDrain Improved Partner Portal) integration enables automation of 
 1. Navigate to **Configuration > Integrations** in the left side menu of your Rewst platform.
 2. Search for `CIPP` in the integrations page.\
    \
-   ![](<../../../../.gitbook/assets/image (340).png>)
+   ![](<../../../../.gitbook/assets/image (308).png>)
 3. Click on the integration tile to launch the configuration setup page.
 4. Enter the following details under the **Parameters** section:
    * **CIPP API URL** - The URL of your CIPP instance

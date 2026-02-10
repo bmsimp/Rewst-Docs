@@ -47,7 +47,7 @@ Your [PSA must be successfully integrated](../../configuration/integrations/top-
 2.  Search for `M365: Disable Inactive User Accounts`.
 
     \
-    ![](<../../../.gitbook/assets/image (343).png>)
+    ![](<../../../.gitbook/assets/image (311).png>)
 3. Click on the Crate tile to begin unpacking.
 4. Click **Unpack Crate**.
 5. Click **Continue**.

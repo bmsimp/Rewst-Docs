@@ -46,7 +46,7 @@ For more on how actions work in Rewst, check out our [introductory actions docum
 {% hint style="warning" %}
 HubSpot has optional scopes which aren't included in Rewst's standard integration. If you're using the generic HubSpot API Request action, certain endpoints may return an error where missing scopes and permissions are listed.
 
-![](<../../../../.gitbook/assets/image (339).png>)
+![](<../../../../.gitbook/assets/image (325).png>)
 
 To remedy this if using the action, create a custom app in HubSpot. Then, take the API credentials from that custom app and input them into the Rewst integration.
 

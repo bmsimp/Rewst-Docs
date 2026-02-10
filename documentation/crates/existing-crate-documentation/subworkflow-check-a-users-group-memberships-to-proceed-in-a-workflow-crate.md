@@ -59,7 +59,7 @@ jinja
 2.  Search for `Sub-workflow: Check a User's Group Memberships to Proceed in a Workflow`.
 
     \
-    ![](<../../../.gitbook/assets/image (314).png>)
+    ![](<../../../.gitbook/assets/image (320).png>)
 3. Click on the Crate tile to begin unpacking.
 4. Click **Unpack Crate**.
 5. Click **Continue**.
