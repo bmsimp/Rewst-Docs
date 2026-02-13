@@ -691,7 +691,7 @@ An issue arises with Firefox's Dynamic State Partitioning where the default `net
 
 Firefox users must set `network.cookie.cookieBehavior` to 4 for successful pod authentication.
 
-Consult the official Firefox documentation for more information: [https://developer.mozilla.org/en-US/docs/Web/Privacy/State\_Partitioning#disable\_dynamic\_state\_partitioning](https://developer.mozilla.org/en-US/docs/Web/Privacy/State_Partitioning#disable_dynamic_state_partitioning).\\
+Consult the official Firefox documentation for more information: [https://developer.mozilla.org/en-US/docs/Web/Privacy/State\_Partitioning#disable\_dynamic\_state\_partitioning](https://developer.mozilla.org/en-US/docs/Web/Privacy/State_Partitioning#disable_dynamic_state_partitioning).
 {% endhint %}
 
 You'll have a workflow called `[Rewst Master v3] Pods: Technician Toolbox` within your organization.
@@ -831,9 +831,9 @@ The ability to filter and query specific data is essential when working with Con
 
 Query strings are made up of three parts:
 
-1. Attribute - This can be the name of the attribute you’re looking to filter on (eg: `name`), or it can be the path to get to the attribute you’re looking to filter on (eg: `board/name`).
-2. Symbol - These define how you want to filter your incoming data. This can range from one-character symbols (eg: `=`), to entire words (eg: `contains`).
-3. Value - This is what you’re actually looking for. This can be a wide range of data types including Strings (eg: `"hello world"`) and Booleans (eg: `True`)
+1. Attribute - This can be the name of the attribute you’re looking to filter on, such as `name`, or it can be the path to get to the attribute you’re looking to filter on, such as `board/name`.
+2. Symbol - These define how you want to filter your incoming data. This can range from one-character symbols, for example  `=` , to entire words, such as `contains`.
+3. Value - This is what you’re actually looking for. This can be a wide range of data types including Strings such as `"hello world",` and Booleans, such as `True` .
 
 These three parts can be combine to pull any data you need.
 
@@ -864,19 +864,19 @@ _Query conditions_ are used to find any value that can contain only one value, s
 
 Learn how to apply query string parameters and conditions in real-world scenarios.
 
-#### **Example 1: List Companies**
+#### **Example 1: List companies**
 
 * **Action**: `List Companies`
 * **Query Condition**: `name="Test Rewst"`
 * **Explanation**: Easily locate companies by name.
 
-#### **Example 2: List Service Tickets**
+#### **Example 2: List service tickets**
 
 * **Action**: `List Service Tickets`
 * **Query Condition**: `board/name="Integration"`
 * **Explanation**: Organize tickets by board names for efficient processing.
 
-#### **Example 3: List Contacts with Specific Communication Items**
+#### **Example 3: List contacts with specific communication items**
 
 * **Action**: `List Contacts`
 * **Child Condition**: `communicationItems/value like "john@Outlook.com" AND communicationItems/communicationType="Email"`
@@ -894,13 +894,13 @@ Accessing data within nested objects requires a specific approach.
 
 Different conditions serve different purposes. Mastering these conditions enables you to build complex and tailored queries.
 
-* **Strings**: Match text patterns (`Summary = "string"`)
-* **Integers**: Locate numerical values (`Board/Id = 123`)
-* **Boolean**: Filter by true/false conditions (`ClosedFlag = True`)
-* **Datetimes**: Sort by date and time (`LastUpdated = [2016-08-20T18:04:26Z]`)
-* **Operators**: Define relational/logical conditions (`Summary Not Contains "Low Priority"`)
-* **Logic Operators**: Combine multiple conditions (`AND, OR`)
-* **Reference Conditions**: Access fields within referenced objects (`manufacturer/name`)
+* **Strings**: Match text patterns - `Summary = "string"`
+* **Integers**: Locate numerical values - `Board/Id = 123`
+* **Boolean**: Filter by true/false conditions - `ClosedFlag = True`
+* **Datetimes**: Sort by date and time - `LastUpdated = [2016-08-20T18:04:26Z]`
+* **Operators**: Define relational/logical conditions - `Summary Not Contains "Low Priority"`
+* **Logic Operators**: Combine multiple conditions - `AND, OR`
+* **Reference Conditions**: Access fields within referenced objects - `manufacturer/name`
 
 ## Troubleshoot API issues from ConnectWise logs
 
@@ -925,7 +925,7 @@ It may be necessary to collect API logs from your ConnectWise PSA to send to Con
 <figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 6. In the **Debug Mode** dialog:
-   1. Enter length of time (e.g. `5`) in the **Minutes** field. This will capture logs for the specified duration.
+   1. Enter length of time in the **Minutes** field. This will capture logs for the specified duration.
    2. Click **Ok**.
 
 <figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
