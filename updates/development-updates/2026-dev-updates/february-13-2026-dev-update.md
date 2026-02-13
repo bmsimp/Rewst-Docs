@@ -24,8 +24,6 @@ This can be anything from new features, bug fixes, or QoL changes!
   * Fixed an issue where action boolean dropdown selections in workflows reverted to False, ensuring selected values (including None) persist correctly.
 * **App Builder**
   * Fixed custom domain provisioning to properly handle Caddy API failures, ensuring errors are logged and retried instead of silently failing.
-* **Integrations**
-  *
 * **Forms**
   * Fixed an issue where fields removed from a Form Org Instance were incorrectly re-enabled after saving changes to the parent form.
   * Fixed number input fields so manually typed values correctly trigger Jinja-based form conditions without requiring arrow button interaction.
