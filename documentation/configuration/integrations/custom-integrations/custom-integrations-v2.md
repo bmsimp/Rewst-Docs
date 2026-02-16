@@ -22,7 +22,7 @@ This is a completely manual, built-from-scratch integration where you'll add and
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image (1) (5).png" alt="" width="184"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (5) (1).png" alt="" width="184"><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -34,7 +34,7 @@ This is the preferred method, if possible, and allows you to import all endpoint
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="182"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (9).png" alt="" width="182"><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
