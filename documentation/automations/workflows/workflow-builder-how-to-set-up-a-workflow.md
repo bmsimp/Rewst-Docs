@@ -171,10 +171,6 @@ Commonly used actions can be favorited to easily find and add actions to workflo
    1. Right-click on the workflow canvas.
    2. Add an action from the favorites section.
 
-### View action version history
-
-If your workflow fails execution after previous successful runs, one of the actions in your workflow might be due for an update. Learn more about how you can check Rewst's action version history in the action's changelog via our documentation on actions [here](../actions-in-rewst/#action-version-updates).&#x20;
-
 ### Clone and synchronize a workflow
 
 Custom-designed workflows can be cloned to create an exact copy without changing your original.&#x20;
