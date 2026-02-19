@@ -72,6 +72,22 @@ Note that the paginate request option in any generic action modifies how the req
 If your integration is missing a generic action and you'd like to see us develop one, add that feedback to our [Canny feedback collector.](https://rewst.canny.io/integrations)&#x20;
 {% endhint %}
 
+## Action version updates
+
+From time to time, Rewst will make updates to existing actions. These updates may require customers  who are using those actions in their workflows to make modifications or adjustments. View the changelog of an action's version history in the left side action list of the [Workflow Builder.](../workflows/workflow-builder-how-to-set-up-a-workflow.md) If the action in the action list has logged changes, an icon will appear to the right of its name in the list. Click on that icon to launch the log.
+
+<figure><img src="../../../.gitbook/assets/action gif.gif" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+A blue wrench icon <img src="../../../.gitbook/assets/Screenshot 2026-02-17 at 3.11.43 PM.png" alt="" data-size="line"> denotes a change that doesn't require manual adjustment to existing use of that action. A yellow hazard icon <img src="../../../.gitbook/assets/Screenshot 2026-02-17 at 3.11.50 PM.png" alt="" data-size="line">denotes that there has been a breaking change, and existing uses of that action in workflows will require an manual adjustment.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (86) (1).png" alt="" width="375"><figcaption><p>Click links in the action changelog to view additional <br>documentation or guides.</p></figcaption></figure>
+
+{% hint style="info" %}
+Note that this action version functionality won't appear for any actions related to your custom integrations.
+{% endhint %}
+
 ## Known actions issues and errors
 
 This collection of issues related to actions have been reported to Rewst by our customers. If you experience an issue with actions that is not in this list, contact us in your dedicated Discord support channel.&#x20;
