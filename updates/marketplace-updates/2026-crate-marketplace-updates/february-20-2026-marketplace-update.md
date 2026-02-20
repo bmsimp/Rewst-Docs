@@ -20,7 +20,7 @@ No new Crates were released this week.&#x20;
   * Added correct options generator for Exchange Server dropdown&#x20;
   * Added ticket-handling tasks and gating to avoid updates to non-existent tickets; creates/branches appropriately&#x20;
   * Added employee\_id support to form and workflows
-  * No change details provided&#x20;
+  * Product name for `CPC_E_4C_16GB_128GB` in Pax8 license lookup template corrected
   * Made device lookups case-insensitive&#x20;
   * Fixed creation/linking of new contacts to correct company in ConnectWise&#x20;
 * [Traveling Employee CA Policy](../../../documentation/crates/existing-crate-documentation/traveling-employee-ca-policy-crate.md)
