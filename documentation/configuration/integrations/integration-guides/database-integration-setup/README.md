@@ -42,8 +42,9 @@ Once you've set up the database and have the necessary credentials, follow the b
    10. **Custom Connection Timeout (seconds)** - Default database connection timeout is 5 seconds
    11. **Custom SSL Certificate** - Leave this blank if using AWS RDS or Azure SQL, which are supported by default. If your database needs a custom SSL, copy and paste the raw CA certificate here.
 6. Click **Save Configuration**.
+7. In your workflows, be sure to use [integration overrides](https://docs.rewst.help/documentation/automations/workflows/advanced-workflow-operations-menu#integration-overrides) to select which database configuration should be run.
 
-
+<figure><img src="../../../../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are using the database integration to cache information from options generators and speed up the flow of information between Rewst and your RMM, follow the [BYOD For Options Generators](byod-for-dattormm.md) document steps after initial integration setup.
