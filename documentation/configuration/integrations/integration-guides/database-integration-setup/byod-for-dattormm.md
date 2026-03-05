@@ -233,7 +233,7 @@ Following the database setup, you must attach the _\[Rewst Master v2] BYOD: Inse
    * \[REWST - OPT GEN] On-Prem: List All Groups
    * \[REWST - OPT GEN] Graph: List Mail Enabled Graph Users with ID and UPN
    * \[REWST - OPT GEN] On-Prem: List Users By Filter With SID And UPN/sam
-   * \[REWST - OPT GEN] On-Prem: List Users By Filter With SID And UPN/sam
-   * \[REWST - OPT GEN] On-Prem: List Users By Filter With SID And UPN/sam - (optional)
+   * \[REWST - OPT GEN] List On-Prem Exchange Email Domains
+   * \[REWST - OPT GEN] List On-Prem Exchange Databases - (optional)
    * \[REWST - TASK] List On Prem Exchange Shared Mailboxes - (optional)
-   * \[REWST - TASK] List On Prem Exchange Shared Mailboxes - (optional)
+   * \[REWST - OPT GEN] List On-Prem Exchange Servers - (optional)
