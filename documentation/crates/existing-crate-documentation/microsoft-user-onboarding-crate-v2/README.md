@@ -475,7 +475,7 @@ Once the Crate is unpacked, use the onboarding form to create new users.
 
 ### **Verify user creation and assignments**
 
-| **Verification step**                           | **Expected outcome**                                             |
+| Verification step                               | Expected outcome                                                 |
 | ----------------------------------------------- | ---------------------------------------------------------------- |
 | **Active Directory (On-Prem AD Only / Hybrid)** | User appears in **Active Directory Users & Computers (ADUC)**.   |
 | **Azure AD (Cloud / Hybrid)**                   | User is created in **Microsoft Entra ID (Azure AD)**.            |
@@ -487,11 +487,10 @@ If a user does not appear in AD or Azure AD, check the **workflow execution logs
 
 ### **Confirm ticket and documentation updates**
 
-| **Verification step**                 | **Expected outcome**                                                              |
-| ------------------------------------- | --------------------------------------------------------------------------------- |
-| **PSA Ticket Creation**               | A new ticket is created in **ConnectWise, Autotask, Halo PSA, ServiceNow, etc.**. |
-| **Ticket Updates**                    | The ticket logs **user details, group assignments, and licensing information**.   |
-| **External Documentation (Optional)** | User credentials are stored in **ITGlue, Hudu, or Passportal**, if enabled.       |
+| **PSA Ticket Creation**               | A new ticket is created in ConnectWise, Autotask, Halo PSA, ServiceNow, etc.. |
+| ------------------------------------- | ----------------------------------------------------------------------------- |
+| **Ticket Updates**                    | The ticket logs user details, group assignments, and licensing information.   |
+| **External Documentation (Optional)** | User credentials are stored in ITGlue, Hudu, or Passportal, if enabled.       |
 
 {% hint style="success" %}
 If the ticket was not created or updated, verify that [PSA integration is configured correctly](https://docs.rewst.help/documentation/integrations/psa).
@@ -880,7 +879,7 @@ The following templates define approval processes, ticket summaries, and structu
 ## Migration guide: Moving from a previous onboarding Crate
 
 {% hint style="warning" %}
-☝️If you’re using a previous version of the onboarding workflow, follow these migration steps below. If this is your first time using this Crate, this information isn't relevant to you.
+If you’re using a previous version of the onboarding workflow, follow these migration steps below. If this is your first time using this Crate, this information isn't relevant to you.
 {% endhint %}
 
 {% content-ref url="../../migrating-between-crate-versions.md" %}
