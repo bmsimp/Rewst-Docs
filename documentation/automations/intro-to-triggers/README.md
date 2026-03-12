@@ -8,6 +8,18 @@ A trigger is also used on any [form](https://docs.rewst.help/documentation/forms
 
 For more on how to see which triggers appear on a specific workflow, view our documentation [here](../workflows/#view-triggers-for-a-specific-workflow).
 
+## View all triggers
+
+Navigate to **Automations > Triggers** in the left side menu of Rewst to view the total triggers page, which contains a sortable list of all triggers in your Rewst instance, organized by tabs labeled with automation type. This includes triggers from your custom-built workflows and from unpacked Crates. Click on any of the column headers to sort the list by that criteria. Use the **Tags** drop-down selector to filter the list by specific tags.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
+
+Toggle any trigger to enabled or disabled in the **Status** column. Once toggled on, the slider will turn green, and a green checkmark will appear to the right to let you know that the enablement is complete.
+
+{% hint style="warning" %}
+We're currently working on a feature limitation that prevents the last activity display for Always Pass and Interval triggers. Instead of listing the last activity, the trigger will show that it has never been activated. For these particular trigger types, confirm the last time the trigger was activated directly in the trigger rather than in the triggers page.
+{% endhint %}
+
 ## Create a trigger
 
 Add a trigger to a workflow by clicking the **Add Trigger** button in the workflow builder, which will open up a new dialog with a form. \
