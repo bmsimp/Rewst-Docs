@@ -22,7 +22,7 @@ _Organization variables_, referred to as _org variables_ for short, serve as the
 
 ## **View all organization variables in Rewst**
 
-Organization variables can manually be added by navigating to **Configuration > Organization Variables** in the left side menu of your Rewst platform. In this page, view a total list of all org variables for your selected organization.
+Organization variables can manually be added by navigating to **Configuration > Organization Variables** in the left side menu of your Rewst platform. In this page, view a total list of all org variables for your selected organization. Note that org variables are visible only one level deep - you'll see them for a child org of a parent org, but not the child org of that child org, for example,&#x20;
 
 When unpacking Crates, you may be prompted to fill out forms within those Crates to set up your organization variables. Once the form is submitted, the variables will appear in this total list.
 
