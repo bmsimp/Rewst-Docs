@@ -31,15 +31,15 @@ The Crate workflow is triggered by a cron job based on the configured schedule.
 
 ## Crate prerequisites
 
-Your [PSA must be successfully integrated](../../configuration/integrations/top-5-integration-types-get-started-with-integrations-in-rewst.md#psa-integrations) with Rewst.
+Your [PSA must be successfully integrated](../../integrations/top-5-integration-types-get-started-with-integrations-in-rewst.md#psa-integrations) with Rewst.
 
 {% hint style="info" %}
-This Crate only works with [SentinelOne](../../configuration/integrations/integration-guides/sentinelone-integration-setup.md), [CrowdStrike](../../configuration/integrations/integration-guides/crowdstrike-integration-setup.md), and [OpenText Core Endpoint Protection](../../configuration/integrations/integration-guides/webroot-integration-setup.md) if integrated with the organization that uses the Crate.
+This Crate only works with [SentinelOne](../../integrations/integration-guides/sentinelone-integration-setup.md), [CrowdStrike](../../integrations/integration-guides/crowdstrike-integration-setup.md), and [OpenText Core Endpoint Protection](../../integrations/integration-guides/webroot-integration-setup.md) if integrated with the organization that uses the Crate.
 {% endhint %}
 
 ## Unpack the Alert on AV/EDR Coverage Gaps Crate <a href="#unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate" id="unpack-the-browse-rewst-form-triggers-within-a-form-and-attach-to-a-ticket-crate"></a>
 
-1. Navigate to **Crates** > **Crate Marketplace** in the left side menu Rewst platform.
+1. Navigate to **Marketplace** **> Crates** in the left side menu Rewst platform.
 2. Search for `Alert on AV/EDR Coverage Gaps`.​\
    &#x20; \
    &#x20;![](<../../../.gitbook/assets/image (312).png>)
