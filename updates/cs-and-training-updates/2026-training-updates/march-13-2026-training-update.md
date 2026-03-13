@@ -26,6 +26,8 @@ Explore what new changes the Cluck University team made in the last week.
 * [Guidance for how to use custom org variables to standardize client workflows](https://docs.rewst.help/documentation/configuration/organization-variables)
 * [Documentation to introduce our new Triggers page functionality](https://app.gitbook.com/o/mdGoyUomPKsvu1TSazxc/s/AQQ1EHVcEsGKBPVHmiav/documentation/automations/intro-to-triggers#view-all-triggers)
 * [Updated org variable guidance to reflect recent functionality additions to our Alert on AV/EDR Coverage Gaps Crate](https://docs.rewst.help/~/revisions/XPl7OpcVJrUAYPfsdid4/documentation/crates/existing-crate-documentation/alert-on-av-edr-coverage-gaps-crate)
+* [Clarified guidance on how to use redaction in the security tab of tasks](https://docs.rewst.help/documentation/automations/workflows/workflow-builder-how-to-set-up-a-workflow#configure-tasks)
+* [RoboRewsty workflow building documentation](https://docs.rewst.help/documentation/roborewsty)
 
 </details>
 
