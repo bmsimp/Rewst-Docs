@@ -16,7 +16,7 @@ To enable the  REST API Within your Huntress Account you may need to contact Hun
 
 ### Set up steps in Huntress
 
-1. Log in to your Huntress account
+1. Log in to your Huntress account.
 2. Click <img src="../../../.gitbook/assets/Screenshot 2026-05-18 at 11.26.10 AM.png" alt="" data-size="line"> **> API Credentials**.
 3. Click **+Add** under **User** **API Credentials**. This will open a new dialog.
 4. Ensure that the correct user is selected, then click **Create**.\
