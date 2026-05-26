@@ -1,11 +1,14 @@
 ---
+description: >-
+  Any Rewst documentation that receives important or significant updates in the
+  prior week will be added to this update feed.
 icon: pencil-mechanical
 ---
 
 # Documentation updates
 
 {% hint style="info" %}
-To subscribe to this feed, click **RSS** in the top right corner of the page.&#x20;
+To subscribe to this feed, click **RSS feed** in the top right corner of the page.&#x20;
 {% endhint %}
 
 {% updates format="numeric" %}
