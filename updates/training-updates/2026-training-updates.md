@@ -12,7 +12,7 @@ To subscribe to this feed, click **RSS feed** in the top right corner of the pag
 
 {% updates format="full" %}
 {% update date="2026-05-22" %}
-## May 22, 2026 - Training update
+## 🎓 May 22, 2026 - Training update
 
 Explore what new changes the Cluck University team made in the last week.
 
@@ -29,7 +29,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-05-15" %}
-## May 15, 2026 - Training update
+## 🎓 May 15, 2026 - Training update
 
 Explore what new changes the Cluck University team made in the last week.
 
@@ -48,7 +48,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-05-08" %}
-## May 8, 2026 - Training update
+## 🎓 May 8, 2026 - Training update
 
 Explore what new changes the Cluck University team made in the last week.
 
@@ -69,7 +69,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-05-01" %}
-## May 1, 2026 - Training update
+## 🎓 May 1, 2026 - Training update
 
 Explore what new changes the Cluck University team made in the last week.
 
@@ -92,7 +92,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-04-24" %}
-## April 24, 2026 - Training update
+## 🎓 April 24, 2026 - Training update
 
 * We refreshed two courses! They now reflect the new workflow builder canvas (and are generally improved overall).
   * [Hello world workflow](https://learn.rewst.io/hello-world-workflow)
@@ -109,7 +109,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-04-17" %}
-## April 17, 2026 - Training update
+## 🎓 April 17, 2026 - Training update
 
 * We’re updating our courses to reflect the new Workflow Builder interface and RoboRewsty capabilities. Expect to see new and improved content by end of April 2026.\
   If you run into anything confusing or out of date, email [CluckU@rewst.io](mailto:CluckU@rewst.io) and we’ll respond within 2 business days.
@@ -127,7 +127,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-04-10" %}
-## April 10, 2026 - Training update
+## 🎓 April 10, 2026 - Training update
 
 * The following courses are planned for deprecation:
   * [How to reference data with variables](https://learn.rewst.io/how-to-reference-data-with-variables)
@@ -146,7 +146,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-04-03" %}
-## April 3, 2026 - Training update
+## 🎓 April 3, 2026 - Training update
 
 * We've added a new prompting formula to [RoboRewsty workflow builder tips & tricks](https://learn.rewst.io/roborewsty-tips-tricks). Thanks Manthan for your contribution!
 * Get certificates for [Automation Fundamentals](https://learn.rewst.io/path/automation-fundamentals) and [Automation Builder Basics](https://learn.rewst.io/path/automation-builder-basics) by completing all courses in these 2 new learning paths.
@@ -161,7 +161,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-03-27" %}
-## March 27, 2026 - Training update
+## 🎓 March 27, 2026 - Training update
 
 * We've added a video demo to [RoboRewsty workflow builder tips & tricks](https://learn.rewst.io/roborewsty-tips-tricks)
 * Get certificates for [Automation Fundamentals](https://learn.rewst.io/path/automation-fundamentals) and [Automation Builder Basics](https://learn.rewst.io/path/automation-builder-basics) by completing all courses in these 2 new learning paths.
@@ -176,7 +176,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-03-20" %}
-## March 20, 2026 - Training update
+## 🎓 March 20, 2026 - Training update
 
 * New course alert! Check out [RoboRewsty workflow builder tips & tricks](https://learn.rewst.io/roborewsty-tips-tricks)
 * [Office hours](https://learn.rewst.io/cluck-university-office-hours) are now AI-themed! Get time with the legendary Eddie Chow to learn RoboRewsty and get your questions answered.
@@ -192,7 +192,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-03-13" %}
-## March 13, 2026 - Training update
+## 🎓 March 13, 2026 - Training update
 
 * Want to get the most out of building worklows with RoboRewsty? Take our [Roborewsty prompting course](https://learn.rewst.io/roborewsty-prompting) for tips and best practices -- guaranteed to get you good results faster.
 * Get certificates for [Automation Fundamentals](https://learn.rewst.io/path/automation-fundamentals) and [Automation Builder Basics](https://learn.rewst.io/path/automation-builder-basics) by completing all courses in these 2 new learning paths.
@@ -207,7 +207,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-03-06" %}
-## March 6, 2026 - Training update
+## 🎓 March 6, 2026 - Training update
 
 * Take our new [Getting started with custom integrations](https://learn.rewst.io/getting-started-with-custom-integrations) course!
 * Get certificates for [Automation Fundamentals](https://learn.rewst.io/path/automation-fundamentals) and [Automation Builder Basics](https://learn.rewst.io/path/automation-builder-basics) by completing all courses in these 2 new learning paths.
@@ -222,7 +222,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-02-20" %}
-## February 20, 2026 - Training update
+## 🎓 February 20, 2026 - Training update
 
 * Take our new [Getting started with custom integrations](https://learn.rewst.io/getting-started-with-custom-integrations) course!
 * Get certificates for [Automation Fundamentals](https://learn.rewst.io/path/automation-fundamentals) and [Automation Builder Basics](https://learn.rewst.io/path/automation-builder-basics) by completing all courses in these 2 new learning paths.
@@ -237,7 +237,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-02-13" %}
-## February 13, 2026 - Training update
+## 🎓 February 13, 2026 - Training update
 
 * We've updated [learning paths](https://learn.rewst.io/page/new-certificates) and certificates to provide a more scaffolded learning journey and validate automation project leadership.
 * The new [Automation Fundamentals path](https://learn.rewst.io/path/automation-fundamentals) includes an intro course, Process engineering, and the IMPACT Framework intro along with a "feedback" course that validates your certificate of completion. It's ideal for project managers, automation champions, and technical builders.
@@ -252,7 +252,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-02-06" %}
-## February 6, 2026 - Training update
+## 🎓 February 6, 2026 - Training update
 
 * The Rewst Foundations and Clean Automation certification exams now require completion of their respective courses before you can take the exam.
   * Get certified! Visit the [Rewst Certifications page](https://learn.rewst.io/page/advanced-builder-certificates) to explore trainings (self-paced and live), take the certification exams, and earn prestigious badges.
@@ -266,7 +266,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-01-30" %}
-## January 30, 2026 - Training update
+## 🎓 January 30, 2026 - Training update
 
 * We updated the Cluck University homepage to highlight new courses and show clearer course progression.
 * We have two new courses!
@@ -285,7 +285,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-01-23" %}
-## January 23, 2026 - Training update
+## 🎓 January 23, 2026 - Training update
 
 * We've revamped our [course catalog page](https://learn.rewst.io/page/course-catalog)! Check it out and let us know what you think!
 * Get certified! Visit the [Rewst Certifications page](https://learn.rewst.io/page/certificates) to explore trainings (self-paced and live), take the certification exams, and earn prestigious badges.
@@ -300,7 +300,7 @@ Explore what new changes the Cluck University team made in the last week.
 {% endupdate %}
 
 {% update date="2026-01-16" %}
-## January 16, 2026 - Training update
+## 🎓 January 16, 2026 - Training update
 
 
 
