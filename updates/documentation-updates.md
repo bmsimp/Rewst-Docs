@@ -1,16 +1,20 @@
 ---
-hidden: true
-noIndex: true
 icon: pencil-mechanical
 ---
 
 # Documentation updates
 
 {% hint style="info" %}
-To subscribe to this feed,&#x20;
+To subscribe to this feed, click **RSS** in the top right corner of the page.&#x20;
 {% endhint %}
 
 {% updates format="numeric" %}
+{% update date="2026-05-26" %}
+## Recently updated documentation
+
+[Updated setup instructions for our Huntress integration](https://docs.rewst.help/documentation/integrations/integration-guides/huntress-integration-setup)
+{% endupdate %}
+
 {% update date="2026-05-15" %}
 ## Recently updated documentation
 
