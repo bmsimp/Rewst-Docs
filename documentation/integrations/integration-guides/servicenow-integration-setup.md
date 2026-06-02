@@ -46,6 +46,19 @@ If your account has MFA enabled, the ServiceNow API will ignore this requirement
 5. Click **Save Configuration**.
 6. Rewst will do a quick validation of your input. Once completed, you'll see a new section beneath the configuration form for[ organization mapping](https://docs.rewst.help/documentation/integrations#what-is-organization-mapping). Complete your mapping as desired.
 
+### Additional ServiceNow steps
+
+Several of the ServiceNow endpoints require you to set up plugins for them to work for the Rewst integration.&#x20;
+
+1. Navigate to **All > System Definition > Plugins** in your ServiceNow instance.
+2. Search for the below listed plugins and install them.&#x20;
+   1. Customer Service plugin (com.sn\_customerservice) and csm\_ws\_integration role and is provided within the now namespace.
+   2. Order Management for Customer Service Management (app-csm-order-mgmt) and sn\_csm\_order\_mgmt role.
+   3. Order Management for Telecommunications (sn\_ind\_tmt\_orm) - Optional
+   4. Telecommunications Assurance Workflows
+   5. Customer Service (com.sn\_customerservice)
+   6. Customer Service Install Base Management (com.snc.install\_base)
+
 {% hint style="success" %}
 Got an idea for a new Integration? Rewst is constantly adding new integrations to our integrations page. Submit your idea or upvote existing ideas here in our [Canny feedback collector](https://rewst.canny.io/integrations).
 {% endhint %}
