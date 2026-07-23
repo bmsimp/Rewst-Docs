@@ -475,6 +475,7 @@
   * [Deploy Agent Smith with ImmyBot](documentation/agent-smith/deploying-agent-smith-with-immybot.md)
   * [Deploy Agent Smith with Microsoft Intune](documentation/agent-smith/deploy-agent-smith-with-microsoft-intune.md)
   * [Bulk onboarding with Agent Smith](documentation/agent-smith/bulk-onboarding-with-agent-smith.md)
+* [Rewst workflow Engine Next upgrade:  Beta guide](documentation/rewst-workflow-engine-next-upgrade-beta-guide.md)
 
 ## Security
 
