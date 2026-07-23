@@ -18,7 +18,7 @@ We’re upgrading the core engine that executes your workflows in Rewst. It's de
 
 Right now, this upgrade is in beta. The old and new workflow engines are running side-by-side with a per-workflow toggle that you control to determine which engine to use. This allows you full control and immediate rollback to the old engine at any time if you encounter any issues.  Both engines use the same database.
 
-### How much faster is Temporal?
+### How much faster is the Next Engine?
 
 This depends heavily on the workflow, but in testing we've seen everything from modest\
 gains to order-of-magnitude improvements. Real examples from beta runs:
