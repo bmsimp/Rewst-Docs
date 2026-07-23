@@ -20,6 +20,7 @@
     * [Data input and output: Input variables and context variables](documentation/automations/workflows/data-input-and-output-input-variables-and-context-variables.md)
     * [Troubleshoot workflow executions and results](documentation/automations/workflows/troubleshoot-workflow-executions-and-task-results.md)
     * [Option generator workflows](documentation/automations/workflows/option-generator-workflows.md)
+    * [Keyboard shortcuts for the Workflow Builder](documentation/automations/workflows/keyboard-shortcuts-for-the-workflow-builder.md)
     * [Boolean logic in Rewst workflows](documentation/automations/workflows/boolean-logic-in-rewst-workflows.md)
   * [Triggers](documentation/automations/intro-to-triggers/README.md)
     * [Trigger criteria](documentation/automations/intro-to-triggers/trigger-criteria.md)
