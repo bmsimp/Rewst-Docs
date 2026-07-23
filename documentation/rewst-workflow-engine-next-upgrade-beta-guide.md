@@ -12,7 +12,7 @@ Shhh, this page is a secret!
 For betas within the Rewst product, our related documentation is link access-only. This means that you won't be able to find it in search or ask RoboRewsty questions about the content of this page. For questions, reach out in your dedicated support Discord channel.
 {% endhint %}
 
-## What is the Temporal upgrade?
+## What is the Next Engine upgrade?
 
 We’re upgrading the core engine that executes your workflows in Rewst. It's designed to make workflows faster, more reliable, and better able to handle complex and long-running automation. For you, nothing about how you build or manage workflows changes. The same Crates, actions, triggers, and integrations all work identically.
 
