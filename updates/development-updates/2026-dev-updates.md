@@ -55,7 +55,7 @@ As of 2026, our Dev updates now include our Crate Marketplace updates in the sam
 
 * [Early Access](https://rewst.io/earlyaccess)
 * [Engine Improvements Beta](https://rewst.io/go/engine-next-beta-signup)
-* RoboRewsty per-conversation spend cap
+* RoboRewsty per-conversation usage limits
 
 </details>
 
