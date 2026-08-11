@@ -32,7 +32,7 @@ Prompt:
 "What does the Forms Portal prebuilt app do and how do I request it? What permissions model does it use to control which forms each user sees?"
 {% endhint %}
 
-## **4. Operational analytics & reporting dashboard**&#x20;
+## **4. Operational analytics and reporting dashboard**&#x20;
 
 Surface PSA data, device health metrics, and workflow execution trends in a clean, readable dashboard. Instead of exporting reports manually or relying on your PSA's limited reporting, you can build a live view that pulls directly from your Rewst workflows and integrations.
 
@@ -42,7 +42,7 @@ Prompt:
 "Help me design an App Builder page that displays a data table and charts pulling from a Rewst workflow output. What components should I use and how do I connect them to workflow data?"
 {% endhint %}
 
-## **5. Technician toolbox / internal ops dashboard**&#x20;
+## **5. Technician toolbox internal ops dashboard**&#x20;
 
 Build an internal-facing app for your own team, a single location where technicians can trigger common automations, check workflow statuses, manage triggers, or run bulk operations without needing to navigate the full Rewst platform.
 
@@ -62,7 +62,7 @@ Prompt:
 "Walk me through setting up custom branding in App Builder — logo, colors, typography, and a custom subdomain. What's the recommended approach for applying branding consistently across multiple apps?"
 {% endhint %}
 
-## **7. Ticket submission & status tracking**&#x20;
+## **7. Ticket submission and status tracking**&#x20;
 
 Build a lightweight ticketing intake app where end users can log requests and then track the status of their submitted tickets, all connected to your PSA via Rewst workflows. There's no need for a full-blown ITSM portal license.
 
@@ -72,7 +72,7 @@ Prompt:
 "Help me build an App Builder page where end users can submit a support ticket via a form and then view the status of their previously submitted tickets. What workflow and component setup do I need?"
 {% endhint %}
 
-## **8. Employee onboarding & offboarding self-service**&#x20;
+## **8. Employee onboarding and offboarding self-service**&#x20;
 
 HR or managers at a client site can trigger onboarding or offboarding workflows directly from a clean web interface, filling in the relevant details via a form. The App Builder front end handles the UX while Rewst handles all the back-end provisioning logic.
 
