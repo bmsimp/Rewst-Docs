@@ -19,7 +19,7 @@ Give your clients' end users 24/7 access to common automations — password rese
 {% hint style="info" %}
 Prompt:
 
-"What does the End User Portal prebuilt app include, and what crates do I need installed before requesting it? Walk me through the prerequisites."
+"What does the End User Portal prebuilt app include, and what Crates do I need installed before requesting it? Walk me through the prerequisites."
 {% endhint %}
 
 ## **3. Centralized forms hub**&#x20;
